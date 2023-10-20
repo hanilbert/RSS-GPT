@@ -51,3 +51,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://lopespm.com/atom.xml -> https://hanilbert.github.io/RSS-GPT/byte-tank.xml
 - https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327686782977, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://hanilbert.github.io/RSS-GPT/36kr.xml
 - https://1q43.blog/feed -> https://hanilbert.github.io/RSS-GPT/hx.xml
+- https://rsshub.app/youzhiyouxing/materials -> https://hanilbert.github.io/RSS-GPT/yzyx.xml
