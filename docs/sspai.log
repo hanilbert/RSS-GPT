@@ -5565,3 +5565,12 @@ Existing_entries: 133
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-20 10:33:15.966070
+------------------------------------------------------
+Started: 2023-10-20 12:35:31.893776
+Existing_entries: 133
+Fetching from https://rsshub.app/sspai/index
+Token length: 8774
+Summarized using GPT-3.5-turbo-16k
+Append: [本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
+append_entries: 1
+Finish: 2023-10-20 12:35:51.224526
