@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>iTunesIcon updated</title>
 <link>https://brett.trpstra.net/link/535/16405699/itunesicon-updated</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> iTunes, app icon, automating giveaways, ImageMagick, local app, search terms, platform, size, modifiers, script
 
-总结：<br><br>本文介绍了一个名为grabicon.rb的工具，它可以从iTunes中提取应用程序的图标，并自动化赠品活动。该工具使用ImageMagick来处理iOS图标，并且可以根据平台和大小来定义搜索条件。如果本地应用程序的图标文件无法找到，工具会转而在iTunes中搜索并返回第一个结果。此外，如果平台为Mac，工具可以从Assets.car文件中提取图标以获得更高的分辨率。工具具有多种选项和标志，可以根据需求来定义搜索条件和图标大小。文章最后给出了安装和使用该工具的说明。 <div>
+总结：<br /><br />本文介绍了一个名为grabicon.rb的工具，它可以从iTunes中提取应用程序的图标，并自动化赠品活动。该工具使用ImageMagick来处理iOS图标，并且可以根据平台和大小来定义搜索条件。如果本地应用程序的图标文件无法找到，工具会转而在iTunes中搜索并返回第一个结果。此外，如果平台为Mac，工具可以从Assets.car文件中提取图标以获得更高的分辨率。工具具有多种选项和标志，可以根据需求来定义搜索条件和图标大小。文章最后给出了安装和使用该工具的说明。 <div>
 <p>A long time ago I published a tool called <a href="https://brettterpstra.com/projects/itunesicon/">iTunesIcon</a> that would grab an app icon from iTunes. It worked well in its time, but has been mostly broken in recent years. It was designed mostly for writers who were reviewing apps and needed to get an app’s icon for artwork, but could be used by anyone with a need for such things.</p>
 
 <p>As part of automating the giveaways I’m running, I’ve had a need to start grabbing app icons again, so I’ve revived the project. This script requires installing ImageMagick for rounding the corners of iOS icons (<code class="language-plaintext highlighter-rouge">brew install imagemagick</code>).</p>
@@ -70,9 +71,7 @@ OPTIONS:
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16405699.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-10-22T15:27:00-05:00</pubDate>
-<pubDate>2023-10-22T15:27:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Automating the giveaways</title>
 <link>https://brett.trpstra.net/link/535/16394621/automating-the-giveaways</link>
