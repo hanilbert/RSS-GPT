@@ -5952,3 +5952,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
 append_entries: 1
 Finish: 2023-10-25 06:24:16.377328
+------------------------------------------------------
+Started: 2023-10-25 08:23:55.670211
+Existing_entries: 146
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-25 08:23:55.921203
