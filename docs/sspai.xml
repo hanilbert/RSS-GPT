@@ -4,6 +4,7 @@
 <title>少数派 -- 首页</title>
 <link>https://sspai.com</link>
 
+
 <item>
 <title>如何用 Make 自动化将即刻动态同步到 Notion</title>
 <link>https://sspai.com/post/83490</link>
@@ -15,9 +16,7 @@
 </code></pre><figure class="image ss-img-wrapper image_resized" style="width: 412px;"><img src="https://cdn.sspai.com/2023/10/11/article/8648a5d50e95b5a926c5fd087fac315b?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>&nbsp;</p><p>大概解释下这段的含义，已知即刻动态的链接有两种情况，原帖和转发帖。链接开头是固定不变的，结尾追加即刻动态的 ID，中间部分如果读到的 <code>type</code> 是 ORIGINAL_POST 则拼接 originalPost，不是则拼接 repost。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2023/10/11/article/cce4455f4360527067ef798004112f21?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>都配置好后点 OK 保存，然后运行自动化，如果目前为止操作无误，过一会你的 Notion 里应该就有数据了：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2023/10/11/article/19195cae97a312789944d754f7fb672b?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>要想数据每天更新怎么办？点左下角的 <strong>Every 15 minutes</strong>，设置每天指定时间运行，再打开定时开关即可：</p><figure class="image ss-img-wrapper image_resized" style="width: 318px;"><img src="https://cdn.sspai.com/2023/10/11/article/613bfa674f825a7987009c430dcd6fde?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper image_resized" style="width: 466px;"><img src="https://cdn.sspai.com/2023/10/11/article/dc6560ef3007d3e75a40b943f190a04c?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper image_resized" style="width: 364px;"><img src="https://cdn.sspai.com/2023/10/11/article/f549c49567cb642f8f6b887ad4eb0094?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>至此，就完成了这套自动化的搭建和启用。</p><p>使用过程中遇到了问题、或想了解更多自动化技巧？欢迎评论或私信交流。</p><p style="margin-left: 0px;">&gt; 关注 <a href="https://sspai.com/s/J71e">少数派公众号</a>，解锁全新阅读体验 📰</p><p style="margin-left: 0px;">&gt; 实用、好用的 <a href="https://sspai.com/mall">正版软件</a>，少数派为你呈现 🚀</p>
 ]]></content:encoded>
 <pubDate>Sun, 29 Oct 2023 07:00:00 GMT</pubDate>
-<pubDate>Sun, 29 Oct 2023 07:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>识图：在茫茫手机相册中精准定位想要照片</title>
 <link>https://sspai.com/post/83441</link>
