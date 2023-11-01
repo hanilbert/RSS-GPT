@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Web Excursions for November 01, 2023</title>
 <link>https://brett.trpstra.net/link/535/16420745/web-excursions-for-november-01-2023</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> teleprompter, iOS/Mac, web version, discount, Notes, console.table(), Backblaze, Alfred workflow, new projects, template file, killer app, development
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章主要介绍了几个与技术和软件开发相关的主题。首先，作者推荐了Teleprompter Premium应用程序，它在iOS/Mac平台上非常受欢迎，并且开发者将在网页版中推出相同的功能。虽然价格略高，但在11月3日之前可以获得终身50%的折扣优惠。接着，作者提到了一个名为Alfred workflow的实用工具，可以根据模板文件创建新项目。然后，作者对苹果的Notes应用程序进行了赞扬，称其为一款杀手级应用程序，这让人有些意外。最后，作者分享了对console.table()这个函数的认识，并推荐了Backblaze这个云备份服务。总的来说，这篇文章介绍了一些实用工具和应用程序，并分享了作者对它们的喜爱和认可。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -43,9 +44,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16420745.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-11-01T14:00:00-05:00</pubDate>
-<pubDate>2023-11-01T14:00:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Searchlink, not just for searching</title>
 <link>https://brett.trpstra.net/link/535/16420225/searchlink-not-just-for-searching</link>
