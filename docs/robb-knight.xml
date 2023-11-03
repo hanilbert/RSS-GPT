@@ -4,6 +4,51 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+<item>
+<title>App Defaults</title>
+<link>https://rknight.me/app-defaults/</link>
+<guid>https://rknight.me/app-defaults/</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Mail.app, iCloud, Reminders, Safari, 1Password
+
+总结:
+- 邮件客户端使用Mail.app，邮件服务器使用iCloud。
+- 使用Reminders来管理待办事项。
+- 使用Safari作为浏览器，开发和工作中使用Chrome。
+- 使用1Password来管理密码。
+- iCloud用于云文件存储。
+<br><br>总结: 文章介绍了作者在不同类别中使用的应用程序。他使用Mail.app作为邮件客户端，iCloud作为邮件服务器和云文件存储。他使用Reminders来管理待办事项，Safari和Chrome用于浏览器。此外，他还使用1Password来管理密码。 <div>
+<p>Inspired by <a href="https://listen.hemisphericviews.com/097">Hemispheric Views 097 - Duel of the Defaults!</a> and this <a href="https://gabz.blog/2023/11/03/my-defaults.html">post by Gabz</a> herein lies all the apps I use in the various categories as written by Andrew:</p>
+<ul>
+<li><strong>Mail Client</strong>: Mail.app</li>
+<li><strong>Mail Server</strong>: iCloud with custom domain</li>
+<li><strong>Notes</strong>: Notes.app, Obsidian</li>
+<li><strong>To-Do</strong>: Reminders</li>
+<li><strong>iPhone Photo Shooting</strong>: iOS Camera</li>
+<li><strong>Photo Management</strong>: Photos.app</li>
+<li><strong>Calendar</strong>: Fantastical</li>
+<li><strong>Cloud file storage</strong>: iCloud Drive</li>
+<li><strong>RSS</strong>: NetNewsWire</li>
+<li><strong>Contacts</strong>: Contacts.app</li>
+<li><strong>Browser</strong>: Safari, Chrome for development/work</li>
+<li><strong>Chat</strong>: iMessage, WhatsApp, Discord</li>
+<li><strong>Bookmarks</strong>: <a href="https://intersect.rknight.me">The Intersect</a></li>
+<li><strong>Read It Later</strong>: Omnivore</li>
+<li><strong>Word Processing</strong>: Sublime Text</li>
+<li><strong>Spreadsheets</strong>: Numbers</li>
+<li><strong>Presentations</strong>: Keynote</li>
+<li><strong>Shopping Lists</strong>: Reminders</li>
+<li><strong>Meal Planning</strong>: n/a</li>
+<li><strong>Budgeting &amp; Personal Finance</strong>: A spreadsheet</li>
+<li><strong>News</strong>: Mastodon, BBC News</li>
+<li><strong>Music</strong>: Apple Music</li>
+<li><strong>Podcasts</strong>: Overcast</li>
+<li><strong>Password Management</strong>: 1Password</li>
+</ul>
+]]></content:encoded>
+
+<pubDate>2023-11-03T17:31:10.949+00:00</pubDate>
+</item>
 
 <item>
 <title>St Jude 2023</title>
