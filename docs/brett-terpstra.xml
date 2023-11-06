@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>SearchLink gets Google Search back</title>
 <link>https://brett.trpstra.net/link/535/16429946/searchlink-gets-google-search-back</link>
 <guid>https://brett.trpstra.net/link/535/16429946/searchlink-gets-google-search-back</guid>
 <content:encoded><![CDATA[
 <div> Google, API key, searches, SearchLink, DuckDuckGo
-<br><br>
+<br /><br />
 总结: Google现在重新提供API key来进行搜索，每天限制100次搜索免费使用。用户可以在配置中添加自己的API key来使用Google进行搜索，如果用完每天的限制次数，系统将会自动切换到之前的DuckDuckGo配置。!g搜索会测试Google API key的存在，如果存在，则使用Google进行搜索。用户也可以使用!gg强制使用Google搜索。从隐私问题来看，这些搜索不包含任何跟踪数据，因此使用Google在这种方式下不会引起新的问题。对于创建插件的用户，SL.ddg()方法也会测试API key的存在，并且如果可用，则使用Google。使用最新版本的SearchLink后按照文中指示生成自己的API key即可使用。 <div>
 <p>So it turns out Google now offers <a href="https://developers.google.com/custom-search/v1/introduction">an API</a> (once again). It’s limited to 100 searches per day for the free version, so I don’t want to put my API key into the public distribution of SearchLink, but if you want to tap into Google’s power for your searches, you can now add your own API key to the config and get 100 searches per day for free. If you should, for whatever reason, run out of searches in a day, it should gracefully switch out to the previous DuckDuckGo configuration.</p>
 
@@ -29,9 +30,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16429946.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-11-05T16:27:00-06:00</pubDate>
-<pubDate>2023-11-05T16:27:00-06:00</pubDate>
 </item>
-
 <item>
 <title>The WordCounter giveaway winners!</title>
 <link>https://brett.trpstra.net/link/535/16428225/the-wordcounter-giveaway-winners</link>
