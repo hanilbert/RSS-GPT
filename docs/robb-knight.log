@@ -2445,3 +2445,12 @@ Existing_entries: 113
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-11-06 12:37:37.703705
+------------------------------------------------------
+Started: 2023-11-06 14:18:55.283635
+Existing_entries: 113
+Fetching from https://rknight.me/feed.xml
+Token length: 1825
+Summarized using GPT-3.5-turbo
+Append: [Please, Expose your RSS](https://rknight.me/please-expose-your-rss/)
+append_entries: 1
+Finish: 2023-11-06 14:19:03.314780
