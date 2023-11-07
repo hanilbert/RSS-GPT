@@ -6983,3 +6983,15 @@ Summarized using GPT-3.5-turbo-16k
 Append: [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
 append_entries: 1
 Finish: 2023-11-06 14:18:54.964354
+------------------------------------------------------
+Started: 2023-11-07 04:21:31.926673
+Existing_entries: 197
+Fetching from https://rsshub.app/sspai/index
+Token length: 2192
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)
+Token length: 4614
+Summarized using GPT-3.5-turbo-1106
+Append: [一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
+append_entries: 2
+Finish: 2023-11-07 04:21:37.254032
