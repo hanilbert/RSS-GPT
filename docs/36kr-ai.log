@@ -153,3 +153,16 @@ Existing_entries: 43
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-08 06:24:06.840834
+------------------------------------------------------
+Started: 2023-11-08 08:22:56.044294
+Existing_entries: 43
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3272
+Summarized using GPT-3.5-turbo-1106
+Append: [用过GPT-4 Turbo以后，我们再也回不去了](https://www.36kr.com/p/2509175880351750)
+Token length: 4326
+Summarized using GPT-3.5-turbo-1106
+Append: [别拿OpenAI当初创公司学了，它已经是一个垄断巨头](https://www.36kr.com/p/2509305730203910)
+Append: [这一次，马斯克只能追赶AI界的苹果](https://www.36kr.com/p/2509284787241218)
+append_entries: 3
+Finish: 2023-11-08 08:23:01.882481
