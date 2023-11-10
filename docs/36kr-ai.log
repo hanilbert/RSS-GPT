@@ -365,3 +365,19 @@ Existing_entries: 85
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-10 04:22:07.438036
+------------------------------------------------------
+Started: 2023-11-10 06:23:58.695393
+Existing_entries: 85
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1699
+Summarized using GPT-3.5-turbo-1106
+Append: [复盘深度学习革命](https://www.36kr.com/p/2511910966673666)
+Token length: 3924
+Summarized using GPT-3.5-turbo-1106
+Append: [对话凯文·凯利：谈AI颠覆世界还很早，现在是黑莓时刻](https://www.36kr.com/p/2511908168826888)
+Append: [ChatGPT之父投资，前苹果员工打造，这款产品想成为AI时代的iPhone](https://www.36kr.com/p/2511848682127365)
+Append: [抖音测试首个图文类AIGC工具Dreamina，或用于抖音内容创作](https://www.36kr.com/p/2511833539796870)
+Append: [脉络：OpenAI已发布的和未来会发布的](https://www.36kr.com/p/2511744917462918)
+Append: [换帅+大模型开源，昆仑万维和周亚辉成功“翻身”？](https://www.36kr.com/p/2511011506339840)
+append_entries: 6
+Finish: 2023-11-10 06:24:09.822077
