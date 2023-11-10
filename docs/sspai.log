@@ -7246,3 +7246,12 @@ Existing_entries: 214
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-10 02:25:59.874857
+------------------------------------------------------
+Started: 2023-11-10 04:21:39.160208
+Existing_entries: 214
+Fetching from https://rsshub.app/sspai/index
+Token length: 2383
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Valve 发布 OLED 款 Steam Deck 游戏主机](https://sspai.com/post/84312)
+append_entries: 1
+Finish: 2023-11-10 04:21:41.965802
