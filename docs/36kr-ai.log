@@ -410,3 +410,16 @@ Append: [AI投资已经凉了吗？](https://www.36kr.com/p/2512020153057281)
 Append: [Nature：AI检测器又活了？成功率高达98%，吊打OpenAI](https://www.36kr.com/p/2512203598975234)
 append_entries: 4
 Finish: 2023-11-10 10:20:06.098088
+------------------------------------------------------
+Started: 2023-11-10 12:35:17.420966
+Existing_entries: 100
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1978
+Summarized using GPT-3.5-turbo-1106
+Append: [这种与大模型关联甚微的攻击手段，为何令ChatGPT宕机不断？](https://www.36kr.com/p/2512398031638792)
+Token length: 4236
+Summarized using GPT-3.5-turbo-1106
+Append: [8个月过去了，中国大模型落地进展如何？](https://www.36kr.com/p/2511951037808649)
+Append: [颠覆iPhone？首款AI原生无屏幕手机发布，OpenAI参投，699美元起](https://www.36kr.com/p/2512289767706888)
+append_entries: 3
+Finish: 2023-11-10 12:35:26.577061
