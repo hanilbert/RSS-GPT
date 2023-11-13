@@ -676,3 +676,16 @@ Summarized using GPT-3.5-turbo-1106
 Append: [2023 年人工智能现状报告](https://www.36kr.com/p/2485347593279620)
 append_entries: 1
 Finish: 2023-11-13 08:34:14.010323
+------------------------------------------------------
+Started: 2023-11-13 10:21:11.395441
+Existing_entries: 128
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 12240
+Summarized using GPT-3.5-turbo-1106
+Append: [对话OpenAI科学家：每个人都在扎堆，要想办法与众不同](https://www.36kr.com/p/2516453938520196)
+Token length: 6842
+Summarized using GPT-3.5-turbo-1106
+Append: [AI“鹦鹉学舌”，是偏见吗？](https://www.36kr.com/p/2512527507984393)
+Append: [AI图片的崛起与风险：电商平台如何利用人工智能提升商品展示效果](https://www.36kr.com/p/2516418831388933)
+append_entries: 3
+Finish: 2023-11-13 10:21:21.378960
