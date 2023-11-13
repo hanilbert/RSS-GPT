@@ -7498,3 +7498,12 @@ Existing_entries: 222
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-13 06:24:28.703886
+------------------------------------------------------
+Started: 2023-11-13 08:23:50.531844
+Existing_entries: 222
+Fetching from https://rsshub.app/sspai/index
+Token length: 4522
+Summarized using GPT-3.5-turbo-1106
+Append: [GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人](https://sspai.com/post/84325)
+append_entries: 1
+Finish: 2023-11-13 08:23:53.661037

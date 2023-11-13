@@ -667,3 +667,12 @@ Append: [OpenAI救了Stable Diffusion，开源Dall·E3同款解码器，来自Il
 Append: [能跟“猫主子”聊天了，生成式AI带来的全面革命：最快5年内破译第一种动物语言](https://www.36kr.com/p/2515416973693191)
 append_entries: 5
 Finish: 2023-11-13 06:24:43.576695
+------------------------------------------------------
+Started: 2023-11-13 08:24:09.110290
+Existing_entries: 127
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4546
+Summarized using GPT-3.5-turbo-1106
+Append: [2023 年人工智能现状报告](https://www.36kr.com/p/2485347593279620)
+append_entries: 1
+Finish: 2023-11-13 08:34:14.010323
