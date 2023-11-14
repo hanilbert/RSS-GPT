@@ -764,3 +764,18 @@ Existing_entries: 144
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-14 04:21:52.155640
+------------------------------------------------------
+Started: 2023-11-14 06:24:39.002168
+Existing_entries: 144
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1905
+Summarized using GPT-3.5-turbo-1106
+Append: [终结扩散模型，IGN单步生成逼真图像，UC伯克利谷歌革新LLM，美剧成灵感来源](https://www.36kr.com/p/2517391324811268)
+Token length: 1884
+Summarized using GPT-3.5-turbo-1106
+Append: [后门准确率降至3%，主任务性能几乎不变，华工JHU提出全新“联邦学习后门攻击识别”解决方案](https://www.36kr.com/p/2516917799014662)
+Append: [用AI评估AI，上交大新款大模型部分任务超越GPT-4，模型数据都开源](https://www.36kr.com/p/2516913786638338)
+Append: [AI中的1岁和18岁](https://www.36kr.com/p/2517419201892358)
+Append: [让AI成为每个人的“法律顾问”，「InssentAI」为法律行业从业者提供AI模型 | 早期项目](https://www.36kr.com/p/2489555476404102)
+append_entries: 5
+Finish: 2023-11-14 06:24:55.068648
