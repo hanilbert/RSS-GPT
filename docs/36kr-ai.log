@@ -793,3 +793,15 @@ Append: [每三分钟诞生一个新GPT！GPT比价、AI算命……我们挑选
 Append: [继ChatGPT发布后，AI圈最重要的一周](https://www.36kr.com/p/2517578832912260)
 append_entries: 4
 Finish: 2023-11-14 08:24:49.878185
+------------------------------------------------------
+Started: 2023-11-14 10:21:06.038846
+Existing_entries: 153
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2758
+Summarized using GPT-3.5-turbo-1106
+Append: [AI Agent统一互联网？ 比尔·盖茨重磅发文：彻底改变人机交互、颠覆软件行业](https://www.36kr.com/p/2517929864827140)
+Token length: 1684
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI承认正开发GPT-5，终极目标是相当于人脑的超级AI](https://www.36kr.com/p/2517928025985025)
+append_entries: 2
+Finish: 2023-11-14 10:21:13.307594
