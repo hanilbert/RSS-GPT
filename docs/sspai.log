@@ -7612,3 +7612,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意](https://sspai.com/post/84408)
 append_entries: 2
 Finish: 2023-11-14 12:35:34.970869
+------------------------------------------------------
+Started: 2023-11-14 14:17:55.206600
+Existing_entries: 230
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-14 14:17:55.414583
