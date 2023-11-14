@@ -738,3 +738,17 @@ Existing_entries: 140
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-13 22:17:53.331029
+------------------------------------------------------
+Started: 2023-11-14 01:20:00.333273
+Existing_entries: 140
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2096
+Summarized using GPT-3.5-turbo-1106
+Append: [GPT-4 帮助员工绩效提升 40%](https://www.36kr.com/p/2516918945452296)
+Token length: 1201
+Summarized using GPT-3.5-turbo-1106
+Append: [GPT-4作弊被抓，吉娃娃or松饼打乱顺序就出错，LeCun：警惕在训练集上测试](https://www.36kr.com/p/2516912621096967)
+Append: [基于大模型做电商“内容工厂”，「极睿科技」获顺为领投B轮融资 | 36氪首发](https://www.36kr.com/p/2514166173913345)
+Append: [OpenAI也要做硬件，还说这玩意是AI时代的iPhone](https://www.36kr.com/p/2516649013481732)
+append_entries: 4
+Finish: 2023-11-14 01:20:07.570762
