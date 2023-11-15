@@ -906,3 +906,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [今年 WISE大会的“AIGC”含量有多高？超有料揭秘提前看](https://www.36kr.com/p/2519115928151817)
 append_entries: 1
 Finish: 2023-11-15 08:33:12.548135
+------------------------------------------------------
+Started: 2023-11-15 10:26:49.268960
+Existing_entries: 174
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1861
+Summarized using GPT-3.5-turbo-1106
+Append: [比Siri更懂iPhone，GPT-4V可“操作”手机完成任意指令，无需训练](https://www.36kr.com/p/2519305001723648)
+Token length: 879
+Summarized using GPT-3.5-turbo-1106
+Append: [突发，ChatGPT Plus流量爆炸暂停注册，恢复时间未定](https://www.36kr.com/p/2519303381231360)
+append_entries: 2
+Finish: 2023-11-15 10:31:41.801326
