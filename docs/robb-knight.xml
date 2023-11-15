@@ -4,13 +4,14 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+
 <item>
 <title>Using the Johnny Decimal System</title>
 <link>https://rknight.me/using-the-johnny-decimal-system/</link>
 <guid>https://rknight.me/using-the-johnny-decimal-system/</guid>
 <content:encoded><![CDATA[
 <div> Johnny Decimal, 文件整理, 笔记, JD系统, Obsidian
-<br><br>这篇文章介绍了作者对Johnny Decimal文件整理系统的学习和实践过程。作者先对系统的概念进行了解释，包括类别、区域和项的概念。在初次尝试整理文件时，作者遇到了一些困难，但通过参考JD工作手册和Johnny的建议，他逐渐改进了自己的文件结构，并使用Obsidian软件建立了索引。作者还分享了使用JD系统后的一些收获，比如能更快速地找到需要的文件。最后，作者总结认为，即使JD系统可能不适用于每个人，但其中的很多理念和方法都值得借鉴，对于作者本人而言，这个系统带来了很多实际效益。 <div>
+<br /><br />这篇文章介绍了作者对Johnny Decimal文件整理系统的学习和实践过程。作者先对系统的概念进行了解释，包括类别、区域和项的概念。在初次尝试整理文件时，作者遇到了一些困难，但通过参考JD工作手册和Johnny的建议，他逐渐改进了自己的文件结构，并使用Obsidian软件建立了索引。作者还分享了使用JD系统后的一些收获，比如能更快速地找到需要的文件。最后，作者总结认为，即使JD系统可能不适用于每个人，但其中的很多理念和方法都值得借鉴，对于作者本人而言，这个系统带来了很多实际效益。 <div>
 <p>In <a href="https://listen.hemisphericviews.com/025">episode 028 of Hemispheric Views</a> <a href="https://canion.blog">Andrew</a> mentioned the <a href="https://johnnydecimal.com">Johnny Decimal (JD) system</a> for organising files. I made a note of it as a thing to look into. Then, like a lot of things, I never went back to investigate. Then in <a href="https://listen.hemisphericviews.com/096">episode 096</a> they had Mr Johnny Decimal himself on to talk about the system. This was the kick I needed to properly check it out. I also spoke with <a href="https://mastodon.macstories.net/@johnvoorhees">John</a> about the JD system on the two most recent episodes of Ruminate if audio is more your thing.</p>
 <ul>
 <li><a href="https://ruminatepodcast.com/172/">172 - Big Knowledge Boys</a></li>
@@ -250,10 +251,8 @@
 <p>I think systems like this tend to either work for a person or don't work at all, there's no middle ground. That's not the case for the JD system. I believe even if it doesn't work as a whole for someone (like John) there are loads of good ideas in here that can be applied in a lot of different cases. It <em>has</em> worked very well for me and I've been able to find files I'm looking for so much quicker than I could before.</p>
 <p>Check out the <a href="https://johnnydecimal.com">Johnny Decimal website</a> to read more and if you like it, <a href="https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.02-the-decimal-workbook/">check out the workbook</a>.</p>
 ]]></content:encoded>
-
 <pubDate>2023-11-15T18:09:17.596+00:00</pubDate>
 </item>
-
 <item>
 <title>Please, Expose your RSS</title>
 <link>https://rknight.me/please-expose-your-rss/</link>
