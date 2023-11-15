@@ -855,3 +855,18 @@ Fetching from https://rsshub.app/36kr/motif/327686782977
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/36kr-ai
+------------------------------------------------------
+Started: 2023-11-15 01:21:29.267172
+Existing_entries: 163
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3312
+Summarized using GPT-3.5-turbo-1106
+Append: [算力赛道，爆发力越来越强了](https://www.36kr.com/p/2518115005698311)
+Token length: 1855
+Summarized using GPT-3.5-turbo-1106
+Append: [刚刚，70亿独角兽被“打假”](https://www.36kr.com/p/2518053953179649)
+Append: [打造全球智能消费决策社区，「阿尔特科技」希望提供“像闺蜜一样”有针对性的消费决策辅助 | 早期项目](https://www.36kr.com/p/2516798553755650)
+Append: [大模型幻觉率排行：GPT-4 3%最低，谷歌Palm竟然高达27.2%](https://www.36kr.com/p/2517945641897993)
+Append: [把大模型装进手机，总共分几步？](https://www.36kr.com/p/2518025521205510)
+append_entries: 5
+Finish: 2023-11-15 01:21:41.758991
