@@ -1084,3 +1084,15 @@ Existing_entries: 214
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-16 22:18:13.837186
+------------------------------------------------------
+Started: 2023-11-17 01:22:27.314415
+Existing_entries: 214
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1736
+Summarized using GPT-3.5-turbo-1106
+Append: [36氪首发｜智能工厂解决方案提供商「零可达科技」完成千万级天使轮融资，用友产投领投](https://www.36kr.com/p/2520663270401795)
+Token length: 1878
+Summarized using GPT-3.5-turbo-1106
+Append: [张量命名争议后续：大模型极限竞速下的疲态初显](https://www.36kr.com/p/2521168103368448)
+append_entries: 2
+Finish: 2023-11-17 01:22:40.847988
