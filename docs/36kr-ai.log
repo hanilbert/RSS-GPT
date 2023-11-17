@@ -1130,3 +1130,17 @@ Existing_entries: 220
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-17 08:23:28.380517
+------------------------------------------------------
+Started: 2023-11-17 10:20:29.594970
+Existing_entries: 220
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3073
+Summarized using GPT-3.5-turbo-1106
+Append: [​「AI神器​」落地，2亿家长不再惧怕​「数学作业​」](https://www.36kr.com/p/2522196133144073)
+Token length: 3905
+Summarized using GPT-3.5-turbo-1106
+Append: [一个失败的AI女友产品，以及我的教训：来自一位中国开发者的总结](https://www.36kr.com/p/2521991101097476)
+Append: [套壳的大模型，为何还活着？](https://www.36kr.com/p/2521888129769606)
+Append: [专访OpenAI CEO阿尔特曼：中国在AI领域会很出色](https://www.36kr.com/p/2521960192534274)
+append_entries: 4
+Finish: 2023-11-17 10:20:40.368769
