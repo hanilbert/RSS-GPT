@@ -1194,3 +1194,16 @@ Existing_entries: 228
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-18 01:21:04.886812
+------------------------------------------------------
+Started: 2023-11-18 02:28:26.548024
+Existing_entries: 228
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4864
+Summarized using GPT-3.5-turbo-1106
+Append: [AI是否能灭绝人类：让图灵三巨头决裂的百万问题](https://www.36kr.com/p/2522618733225729)
+Token length: 1475
+Summarized using GPT-3.5-turbo-1106
+Append: [突发，OpenAI创始人Sam Altman被董事会罢免，微软股价应声大跌](https://www.36kr.com/p/2523092548036356)
+Append: [离开 OpenAI，Sam Altman：很怀念，但请期待「大招」](https://www.36kr.com/p/2523061036721924)
+append_entries: 3
+Finish: 2023-11-18 02:28:32.664042
