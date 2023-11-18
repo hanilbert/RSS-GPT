@@ -877,3 +877,9 @@ Fetching from https://rsshub.app/paulgraham/articles
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/paul-graham
+------------------------------------------------------
+Started: 2023-11-18 22:17:04.451064
+Existing_entries: 30
+Fetching from https://rsshub.app/paulgraham/articles
+append_entries: 0
+Finish: 2023-11-18 22:17:05.135207
