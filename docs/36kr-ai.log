@@ -1237,3 +1237,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [今年最火CEO，被董事会踢走了](https://www.36kr.com/p/2523296715253254)
 append_entries: 1
 Finish: 2023-11-18 10:18:52.068861
+------------------------------------------------------
+Started: 2023-11-18 12:33:02.793699
+Existing_entries: 233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2023-11-18 12:33:02.916337
