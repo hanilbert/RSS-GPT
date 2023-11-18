@@ -7925,3 +7925,12 @@ Existing_entries: 244
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-18 06:22:53.104496
+------------------------------------------------------
+Started: 2023-11-18 08:21:39.426714
+Existing_entries: 244
+Fetching from https://rsshub.app/sspai/index
+Token length: 4682
+Summarized using GPT-3.5-turbo-1106
+Append: [来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)
+append_entries: 1
+Finish: 2023-11-18 08:21:43.294050
