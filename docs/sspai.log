@@ -8147,3 +8147,15 @@ Existing_entries: 250
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-21 02:33:41.374254
+------------------------------------------------------
+Started: 2023-11-21 04:23:02.058783
+Existing_entries: 250
+Fetching from https://rsshub.app/sspai/index
+Token length: 4003
+Summarized using GPT-3.5-turbo-1106
+Append: [城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
+Token length: 1268
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)
+append_entries: 2
+Finish: 2023-11-21 04:23:10.928007
