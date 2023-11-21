@@ -3525,3 +3525,12 @@ Existing_entries: 117
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-11-21 20:18:52.476800
+------------------------------------------------------
+Started: 2023-11-21 22:18:33.807464
+Existing_entries: 117
+Fetching from https://rknight.me/feed.xml
+Token length: 7560
+Summarized using GPT-3.5-turbo-1106
+Append: [Using SVG Sprites](https://rknight.me/using-svg-sprites/)
+append_entries: 1
+Finish: 2023-11-21 22:18:37.137909
