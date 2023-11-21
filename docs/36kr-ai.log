@@ -1511,3 +1511,15 @@ Existing_entries: 269
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-21 06:25:16.941734
+------------------------------------------------------
+Started: 2023-11-21 08:24:37.333422
+Existing_entries: 269
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4638
+Summarized using GPT-3.5-turbo-1106
+Append: [从阿尔特曼被炒说起：OpenAI 的身份危机与为争夺人工智能未来而战](https://www.36kr.com/p/2527688754947849)
+Token length: 4055
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI“政变”最新反转：微软搅局、伊利亚反水、奥特曼大概率回归](https://www.36kr.com/p/2527611503585032)
+append_entries: 2
+Finish: 2023-11-21 08:24:48.385566
