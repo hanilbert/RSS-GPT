@@ -1469,3 +1469,18 @@ Existing_entries: 259
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-20 22:19:03.211797
+------------------------------------------------------
+Started: 2023-11-21 01:24:54.910970
+Existing_entries: 259
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4101
+Summarized using GPT-3.5-turbo-1106
+Append: [Sam Altman 输掉 OpenAI 权力之争，微软是最大赢家](https://www.36kr.com/p/2526588358158089)
+Token length: 2260
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI“宫斗”终结？奥特曼投靠微软，马斯克也出来“帮腔”](https://www.36kr.com/p/2527251635611392)
+Append: [比尔·盖茨重磅发文：Bye-bye软件时代，5年内进入AI个人助理时代](https://www.36kr.com/p/2526683674648710)
+Append: [起底OpenAI「国王」Ilya：师从Hinton，为了他，马斯克与谷歌创始人彻底决裂](https://www.36kr.com/p/2526837525538309)
+Append: [OpenAI 505员工联名逼宫请奥特曼回归，Ilya痛悔赶走CEO，威胁董事会立即解散，否则集体跳槽微软](https://www.36kr.com/p/2526837299685127)
+append_entries: 5
+Finish: 2023-11-21 01:25:02.281074
