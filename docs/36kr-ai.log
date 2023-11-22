@@ -1640,3 +1640,15 @@ Append: [被动降价接近尾声，AI手机决定小米“拐点”](https://ww
 Append: [大模型PK：阿里云与百度的“全家桶”谁更胜一筹？](https://www.36kr.com/p/2528002584141957)
 append_entries: 6
 Finish: 2023-11-22 06:25:46.914081
+------------------------------------------------------
+Started: 2023-11-22 08:24:25.999803
+Existing_entries: 300
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2414
+Summarized using GPT-3.5-turbo-1106
+Append: [大结局：OpenAI宣布阿尔特曼复职CEO，董事会重组](https://www.36kr.com/p/2529109660722691)
+Token length: 2503
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI大戏终落幕！Sam Altman回归OpenAI担任CEO，组成新董事会](https://www.36kr.com/p/2529094188410374)
+append_entries: 2
+Finish: 2023-11-22 08:24:35.541980
