@@ -8231,3 +8231,12 @@ Existing_entries: 254
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-22 02:32:59.912885
+------------------------------------------------------
+Started: 2023-11-22 04:22:55.457049
+Existing_entries: 254
+Fetching from https://rsshub.app/sspai/index
+Token length: 2394
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
+append_entries: 1
+Finish: 2023-11-22 04:23:02.142204
