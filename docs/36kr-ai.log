@@ -1706,3 +1706,15 @@ Existing_entries: 308
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-22 22:17:19.866303
+------------------------------------------------------
+Started: 2023-11-23 01:21:49.995420
+Existing_entries: 308
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 5360
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI变局：四个唐僧与一个孙悟空](https://www.36kr.com/p/2530064859916041)
+Token length: 4094
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI永远警惕阿尔特曼](https://www.36kr.com/p/2529418638778504)
+append_entries: 2
+Finish: 2023-11-23 01:22:00.484625
