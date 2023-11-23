@@ -8315,3 +8315,12 @@ Existing_entries: 258
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-23 02:29:31.615888
+------------------------------------------------------
+Started: 2023-11-23 04:22:50.582663
+Existing_entries: 258
+Fetching from https://rsshub.app/sspai/index
+Token length: 1853
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
+append_entries: 1
+Finish: 2023-11-23 04:22:56.810497
