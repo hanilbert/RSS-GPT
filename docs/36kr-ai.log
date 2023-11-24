@@ -1815,3 +1815,16 @@ Existing_entries: 325
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-23 22:18:32.640289
+------------------------------------------------------
+Started: 2023-11-24 01:19:52.010709
+Existing_entries: 325
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 8470
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI事件大复盘：过程、起因和影响](https://www.36kr.com/p/2531447522649603)
+Token length: 1666
+Summarized using GPT-3.5-turbo-1106
+Append: [美团大模型进攻，战投一家AI机器人公司](https://www.36kr.com/p/2531409325778689)
+Append: [OpenAI政变内幕：从乔布斯夫人主持活动开始，在亿元豪宅密谋逼宫夺权](https://www.36kr.com/p/2531063876560384)
+append_entries: 3
+Finish: 2023-11-24 01:20:02.835529
