@@ -8220,3 +8220,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-11-24 08:23:08.019793
+------------------------------------------------------
+Started: 2023-11-24 10:21:12.229514
+Existing_entries: 155
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【开发者自荐】万能记录与统计工具「七格」](https://meta.appinn.net/t/topic/49636)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-11-24 10:21:15.755383
