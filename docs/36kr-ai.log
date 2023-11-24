@@ -1850,3 +1850,16 @@ Existing_entries: 334
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-24 04:22:26.417744
+------------------------------------------------------
+Started: 2023-11-24 06:29:31.663997
+Existing_entries: 334
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4163
+Summarized using GPT-3.5-turbo-1106
+Append: [互联网云厂商的「新烦恼」：如何在痛苦磨底中讲AI故事？](https://www.36kr.com/p/2531748923221762)
+Token length: 6208
+Summarized using GPT-3.5-turbo-1106
+Append: [金山办公挥不动AI的巨锤](https://www.36kr.com/p/2531741988300291)
+Append: [百度股价折戟马东敏减持，文心一言要自证商业价值](https://www.36kr.com/p/2531713083319816)
+append_entries: 3
+Finish: 2023-11-24 06:34:24.255158
