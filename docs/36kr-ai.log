@@ -1947,3 +1947,9 @@ Fetching from https://rsshub.app/36kr/motif/327686782977
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/36kr-ai
+------------------------------------------------------
+Started: 2023-11-25 02:25:21.792873
+Existing_entries: 350
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2023-11-25 02:25:21.951624
