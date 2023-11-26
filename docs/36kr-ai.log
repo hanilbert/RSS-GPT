@@ -2062,3 +2062,9 @@ Append: [Sam Altman 是这个时代的奥本海默吗？](https://www.36kr.com/p
 Append: [人均年薪100万，这个岗位火了](https://www.36kr.com/p/2534503812572933)
 append_entries: 4
 Finish: 2023-11-26 08:31:02.778705
+------------------------------------------------------
+Started: 2023-11-26 10:19:05.392848
+Existing_entries: 359
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2023-11-26 10:19:05.951689
