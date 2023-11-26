@@ -2048,3 +2048,17 @@ Existing_entries: 355
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-26 06:23:00.842399
+------------------------------------------------------
+Started: 2023-11-26 08:21:30.592976
+Existing_entries: 355
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3054
+Summarized using GPT-3.5-turbo-1106
+Append: [GPT成熟之路官方笔记](https://www.36kr.com/p/2534605952345864)
+Token length: 2126
+Summarized using GPT-3.5-turbo-1106
+Append: [李沐大模型公司细节曝光，项目GitHub空仓标星超500](https://www.36kr.com/p/2534606109550342)
+Append: [Sam Altman 是这个时代的奥本海默吗？](https://www.36kr.com/p/2534604127233536)
+Append: [人均年薪100万，这个岗位火了](https://www.36kr.com/p/2534503812572933)
+append_entries: 4
+Finish: 2023-11-26 08:31:02.778705
