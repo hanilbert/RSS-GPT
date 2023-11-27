@@ -2140,3 +2140,16 @@ Existing_entries: 365
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-27 06:25:15.332385
+------------------------------------------------------
+Started: 2023-11-27 08:26:02.356398
+Existing_entries: 365
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4515
+Summarized using GPT-3.5-turbo-1106
+Append: [我们会和AI组成家庭吗？韩松之问不只是“科幻”话题](https://www.36kr.com/p/2536072061363718)
+Token length: 924
+Summarized using GPT-3.5-turbo-1106
+Append: [夸克App推出自研千亿模型，主打教育和健康场景，幻觉率最低至5% | 最前线](https://www.36kr.com/p/2535420276909828)
+Append: [田渊栋给OpenAI神秘Q*项目泼冷水：合成数据不是AGI救星，能力仅限简单数学题](https://www.36kr.com/p/2536145564706563)
+append_entries: 3
+Finish: 2023-11-27 08:26:16.253053
