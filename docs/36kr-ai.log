@@ -2110,3 +2110,12 @@ Existing_entries: 359
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-27 01:22:08.710737
+------------------------------------------------------
+Started: 2023-11-27 02:30:22.886583
+Existing_entries: 359
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3652
+Summarized using GPT-3.5-turbo-1106
+Append: [AI的进展不是太快，而是太慢](https://www.36kr.com/p/2535747504398466)
+append_entries: 1
+Finish: 2023-11-27 02:30:31.086790
