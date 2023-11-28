@@ -3969,3 +3969,12 @@ Existing_entries: 119
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-11-27 22:17:05.382571
+------------------------------------------------------
+Started: 2023-11-28 01:22:46.524318
+Existing_entries: 119
+Fetching from https://rknight.me/feed.xml
+Token length: 2467
+Summarized using GPT-3.5-turbo-1106
+Append: [DoubleShift](https://rknight.me/doubleshift/)
+append_entries: 1
+Finish: 2023-11-28 01:23:39.591914

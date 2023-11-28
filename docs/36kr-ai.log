@@ -2204,3 +2204,15 @@ Existing_entries: 371
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-27 22:17:11.488841
+------------------------------------------------------
+Started: 2023-11-28 01:23:44.721755
+Existing_entries: 371
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 21557
+Summarized using GPT-4-1106-preview
+Append: [Geoffrey Hinton：当AI教父开始恐惧他的造物](https://www.36kr.com/p/2536564445292032)
+Token length: 4120
+Summarized using GPT-3.5-turbo-1106
+Append: [硅谷疯狂的一周，OpenAI 宫斗最大的赢家不是 Altman](https://www.36kr.com/p/2536552926717448)
+append_entries: 2
+Finish: 2023-11-28 01:24:13.187921
