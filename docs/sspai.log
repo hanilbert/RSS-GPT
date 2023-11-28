@@ -8738,3 +8738,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 append_entries: 1
 Finish: 2023-11-28 06:24:59.497867
+------------------------------------------------------
+Started: 2023-11-28 08:23:54.523605
+Existing_entries: 275
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-28 08:23:54.670818
