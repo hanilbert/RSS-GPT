@@ -2228,3 +2228,16 @@ Existing_entries: 373
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-28 04:22:58.543595
+------------------------------------------------------
+Started: 2023-11-28 06:25:08.518599
+Existing_entries: 373
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 1205
+Summarized using GPT-3.5-turbo-1106
+Append: [用数据支持决策，「Shulex」提供开箱即用的消费者洞察和服务解决方案 | 36氪首发](https://www.36kr.com/p/2537360432883463)
+Token length: 5813
+Summarized using GPT-3.5-turbo-1106
+Append: [Meta到底有多依赖AI？杨立昆：没有它，Facebook可能早没了](https://www.36kr.com/p/2537390350640648)
+Append: [ChatGPT「一周年」国内表象：觉醒、追赶、商用、宫斗、解散……](https://www.36kr.com/p/2537344685582084)
+append_entries: 3
+Finish: 2023-11-28 06:25:15.980687
