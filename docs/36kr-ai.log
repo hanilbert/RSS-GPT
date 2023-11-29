@@ -2315,3 +2315,16 @@ Fetching from https://rsshub.app/36kr/motif/327686782977
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/36kr-ai
+------------------------------------------------------
+Started: 2023-11-29 01:22:49.447512
+Existing_entries: 387
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3599
+Summarized using GPT-3.5-turbo-1106
+Append: [裁撤朝夕光年、成立Flow，字节的海外首个AI产品Cici多国爬榜中](https://www.36kr.com/p/2538528370222592)
+Token length: 3963
+Summarized using GPT-3.5-turbo-1106
+Append: [月薪两万，大厂疯抢AI数据标注员](https://www.36kr.com/p/2537988066942854)
+Append: [大模型跑分家家碾压GPT-4，评测榜单是时候升级了？](https://www.36kr.com/p/2538002825699205)
+append_entries: 3
+Finish: 2023-11-29 01:22:55.329635
