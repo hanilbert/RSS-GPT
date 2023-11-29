@@ -2334,3 +2334,16 @@ Existing_entries: 390
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-11-29 02:30:04.779820
+------------------------------------------------------
+Started: 2023-11-29 04:23:02.036368
+Existing_entries: 390
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2044
+Summarized using GPT-3.5-turbo-1106
+Append: [DeepMind最新研究：这个AI Agent，几分钟学会人类专家行为，登上Nature子刊](https://www.36kr.com/p/2538692058048000)
+Token length: 2541
+Summarized using GPT-3.5-turbo-1106
+Append: [月入近 8 万、4 个月涨 15 万粉，甚至曾被明星私下邀约的 Ins 网红……竟然不是“人”？](https://www.36kr.com/p/2538631947675140)
+Append: [一个提示，让Llama 2准确率飙至80.3%？Meta提出全新注意力机制S2A，大幅降低模型幻觉](https://www.36kr.com/p/2538090185844488)
+append_entries: 3
+Finish: 2023-11-29 04:23:14.258384
