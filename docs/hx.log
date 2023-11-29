@@ -2862,3 +2862,15 @@ Existing_entries: 14
 Fetching from https://1q43.blog/feed
 append_entries: 0
 Finish: 2023-11-29 06:25:05.715864
+------------------------------------------------------
+Started: 2023-11-29 08:25:03.272289
+Existing_entries: 14
+Fetching from https://1q43.blog/feed
+Token length: 4255
+Summarized using GPT-3.5-turbo-1106
+Append: [2023 年游记（4）：日本](https://1q43.blog/post/1897)
+Token length: 3952
+Summarized using GPT-3.5-turbo-1106
+Append: [仅仅十年的职场生涯](https://1q43.blog/post/1906)
+append_entries: 2
+Finish: 2023-11-29 08:25:17.688462
