@@ -8816,3 +8816,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：华为发布智界 S7 等多款新品、Apple 公布 2023 年热门播客等](https://sspai.com/post/84706)
 append_entries: 2
 Finish: 2023-11-29 04:22:52.035022
+------------------------------------------------------
+Started: 2023-11-29 06:24:46.099157
+Existing_entries: 279
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-29 06:24:46.569748
