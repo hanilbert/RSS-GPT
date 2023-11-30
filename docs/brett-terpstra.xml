@@ -4,12 +4,13 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>mdless gets all the colors</title>
 <link>https://brett.trpstra.net/link/535/16477495/mdless-gets-all-the-colors</link>
 <guid>https://brett.trpstra.net/link/535/16477495/mdless-gets-all-the-colors</guid>
 <content:encoded><![CDATA[
-<div> hex codes, theming, TaskPaper, changelog, mdless<br>
+<div> hex codes, theming, TaskPaper, changelog, mdless<br />
 2.1.6版本的.mdless增加了使用十六进制代码进行主题设置的功能。可以在运行.mdless时创建主题文件，并进行主题设置。其中，最大的变化是可以使用3或6位RGB代码来主题设置，而不仅仅局限于默认的ANSI颜色。在TaskPaper渲染方面也做了一些改进，现在可以使用--list和--section来进行项目和部分内容的列表显示。此外，还增加了--changes标志，用于显示更新日志。详细信息可以查看更新日志。 <div>
 <p>I just pushed v2.1.6 of <a href="https://brettterpstra.com/projects/mdless/" title="mdless, terminal markdown viewer">mdless</a>. Once all these 2.0 changes are confirmed to be stable, I’ll let this project go for a while, but right now there’s lots to improve on and I’m enjoying it as a way to blow off steam.</p>
 
@@ -32,9 +33,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16477495.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-11-30T10:47:00-06:00</pubDate>
-<pubDate>2023-11-30T10:47:00-06:00</pubDate>
 </item>
-
 <item>
 <title>SaneBox giveaway surprise!</title>
 <link>https://brett.trpstra.net/link/535/16477304/sanebox-giveaway-surprise</link>
