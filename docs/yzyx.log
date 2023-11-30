@@ -2992,3 +2992,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [用了这个工具，我才知道家里到底有多少钱 11月30日 家庭资产记账新鲜出炉，帮你轻松理清家庭财务状况🎉](https://youzhiyouxing.cn/materials/1573)
 append_entries: 1
 Finish: 2023-11-30 08:24:13.194632
+------------------------------------------------------
+Started: 2023-11-30 10:21:32.317109
+Existing_entries: 32
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2023-11-30 10:21:32.432411
