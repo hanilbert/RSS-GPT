@@ -8923,3 +8923,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [有没有可以自己部署、浏览器中使用的笔记软件或编辑器呢？](https://meta.appinn.net/t/topic/49867)
 append_entries: 1
 Finish: 2023-12-01 12:35:57.712076
+------------------------------------------------------
+Started: 2023-12-01 14:17:56.957651
+Existing_entries: 170
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-12-01 14:18:00.611191
