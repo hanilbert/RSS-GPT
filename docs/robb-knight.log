@@ -4191,3 +4191,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Crossover](https://rknight.me/crossover/)
 append_entries: 1
 Finish: 2023-11-30 22:18:15.331330
+------------------------------------------------------
+Started: 2023-12-01 01:34:33.228907
+Existing_entries: 121
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2023-12-01 01:34:35.087862
