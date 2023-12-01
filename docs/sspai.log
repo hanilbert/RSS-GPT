@@ -8969,3 +8969,12 @@ Existing_entries: 286
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-01 01:34:32.831645
+------------------------------------------------------
+Started: 2023-12-01 02:35:59.441137
+Existing_entries: 286
+Fetching from https://rsshub.app/sspai/index
+Token length: 2135
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Apple 公布年度应用榜单、魅族推出系列新品等](https://sspai.com/post/84759)
+append_entries: 1
+Finish: 2023-12-01 02:36:06.284379
