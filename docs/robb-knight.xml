@@ -4,13 +4,14 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+
 <item>
 <title>Advent of Code 2023: Day One</title>
 <link>https://rknight.me/advent-of-code-2023-day-one/</link>
 <guid>https://rknight.me/advent-of-code-2023-day-one/</guid>
 <content:encoded><![CDATA[
 <div> 编程、Advent of Code、PHP、regex、数字
-<br><br>总结:
+<br /><br />总结:
 文章介绍了作者在编程挑战活动Advent of Code中遇到的问题和解决方法。作者使用PHP编程语言，并面对了正则表达式的挑战。在第一部分中，他提取了字符串数组中的首尾数字并进行连接，得出了总和。在第二部分中，他面对了数字和单词混合的情况，通过调整正则表达式解决了问题。作者展示了解决问题的过程，并分享了解决方法。 <div>
 <p>Until <a href="https://zoeaubert.me">Zoe</a> mentioned it this morning, I didn't know what <a href="https://adventofcode.com">Advent of Code</a> was <sup class="footnote-ref"><a href="https://rknight.me/feed.xml#fn1" id="fnref1">[1]</a></sup>. Advent of Code is an &quot;<em>advent calendar of small programming puzzles</em>&quot;. So once I knew what it was, I figured I'd give it a go. I'm not sure if I'll make it all month but I'll certainly try. I'm doing it in PHP because it's what I know and it will annoy Zoe a little bit; you can see <a href="https://zoeaubert.me/blog/advent-of-code-2023-day-01/">her rust-based solution here</a>.</p>
 <h3>Part 1</h3>
@@ -34,10 +35,8 @@
 </ol>
 </section>
 ]]></content:encoded>
-
 <pubDate>2023-12-01T11:30:30.578+00:00</pubDate>
 </item>
-
 <item>
 <title>Crossover</title>
 <link>https://rknight.me/crossover/</link>
