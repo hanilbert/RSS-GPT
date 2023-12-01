@@ -8990,3 +8990,12 @@ Existing_entries: 287
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-01 06:25:20.362347
+------------------------------------------------------
+Started: 2023-12-01 08:24:11.488884
+Existing_entries: 287
+Fetching from https://rsshub.app/sspai/index
+Token length: 5953
+Summarized using GPT-3.5-turbo-1106
+Append: [诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)
+append_entries: 1
+Finish: 2023-12-01 08:24:21.675893
