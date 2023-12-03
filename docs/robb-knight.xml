@@ -4,13 +4,14 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+
 <item>
 <title>Advent of Code 2023: Day Three</title>
 <link>https://rknight.me/advent-of-code-2023-day-three/</link>
 <guid>https://rknight.me/advent-of-code-2023-day-three/</guid>
 <content:encoded><![CDATA[
-<div> 字符串解析，正则表达式，工程图，匹配数字，PREG_OFFSET_CAPTURE<br>
-<br>总结：<br>这篇文章介绍了作者在解析工程图中匹配数字的过程中遇到的问题和解决方法。作者首先使用了explode和str_replace函数处理输入数据，并尝试使用strpos函数查找数字的位置，但发现无法处理同一行中数字重复出现的情况。最后，作者使用了preg_match_all函数，并结合PREG_OFFSET_CAPTURE标志，成功解决了这个问题。总的来说，本文展示了作者在处理工程图数据时的思考过程和解决方法。 <div>
+<div> 字符串解析，正则表达式，工程图，匹配数字，PREG_OFFSET_CAPTURE<br />
+<br />总结：<br />这篇文章介绍了作者在解析工程图中匹配数字的过程中遇到的问题和解决方法。作者首先使用了explode和str_replace函数处理输入数据，并尝试使用strpos函数查找数字的位置，但发现无法处理同一行中数字重复出现的情况。最后，作者使用了preg_match_all函数，并结合PREG_OFFSET_CAPTURE标志，成功解决了这个问题。总的来说，本文展示了作者在处理工程图数据时的思考过程和解决方法。 <div>
 <p>More regex and string parsing today. Sounds like a party.<sup class="footnote-ref"><a href="https://rknight.me/feed.xml#fn1" id="fnref1">[1]</a></sup></p>
 <h3>Part One</h3>
 <p>Given an &quot;engine schematic&quot; like below, identify which numbers are part numbers. That is, they have a symbol (not a <code>.</code> though) either next to, above, or below them including diagonally.</p>
@@ -38,10 +39,8 @@
 </ol>
 </section>
 ]]></content:encoded>
-
 <pubDate>2023-12-03T11:50:39.013+00:00</pubDate>
 </item>
-
 <item>
 <title>Advent of Code 2023: Day Two</title>
 <link>https://rknight.me/advent-of-code-2023-day-two/</link>
