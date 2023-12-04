@@ -2900,3 +2900,16 @@ Summarized using GPT-3.5-turbo-1106
 Append: [AI基金、量子基金都来了，武汉光谷如何“出牌”？](https://www.36kr.com/p/2546316863858441)
 append_entries: 2
 Finish: 2023-12-04 12:36:33.898913
+------------------------------------------------------
+Started: 2023-12-04 14:19:06.150909
+Existing_entries: 484
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 4758
+Summarized using GPT-3.5-turbo-1106
+Append: [魔珐科技创始人兼CEO柴金祥：3D虚拟人原生产品，正在押注时代的“最大红利”| WISE2023商业之王大会](https://www.36kr.com/p/2546471289988870)
+Token length: 2802
+Summarized using GPT-3.5-turbo-1106
+Append: [视频AIGC“王者”Pika诞生，半年估值2亿美元](https://www.36kr.com/p/2546340429408001)
+Append: [微软仅凭「提示工程」让GPT-4成医学专家，超过一众高度微调模型，专业测试准确率首次超90%](https://www.36kr.com/p/2546330745267969)
+append_entries: 3
+Finish: 2023-12-04 14:19:17.665224
