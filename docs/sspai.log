@@ -9293,3 +9293,12 @@ Existing_entries: 298
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-05 01:23:10.189089
+------------------------------------------------------
+Started: 2023-12-05 02:31:49.171675
+Existing_entries: 298
+Fetching from https://rsshub.app/sspai/index
+Token length: 2467
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
+append_entries: 1
+Finish: 2023-12-05 02:31:52.861313
