@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>mdless with document transclusion</title>
 <link>https://brett.trpstra.net/link/535/16484987/mdless-with-document-transclusion</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> MultiMarkdown, File transclusion, Relative path, Transclude base, Handy
 
-总结:<br>
+总结:<br />
 最新版本的编码工具包含了MultiMarkdown，其中一个新功能是文件包含，可以通过相对路径插入其他文件内容到当前文件中。需要注意路径是相对于当前文件的。如果需要使用绝对路径，可以在元数据中添加transclude base参数。对于大多数用户来说，可能并不是特别有用，但对于一些用户来说会非常方便。 <div>
 <p>The latest version of <a href="https://brettterpstra.com/projects/mdless/" title="mdless">mdless</a>, my most recent coding obsession, now includes MultiMarkdown <a href="https://fletcher.github.io/MultiMarkdown-5/transclusion.html">document transclusion</a>.</p>
 
@@ -36,7 +37,6 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16484987.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-06T13:51:00-06:00</pubDate>
-<pubDate>2023-12-06T13:51:00-06:00</pubDate>
 </item>
 <item>
 <title>The SaneBox giveaway winners!</title>
@@ -44,7 +44,7 @@
 <guid>https://brett.trpstra.net/link/535/16484889/the-sanebox-giveaway-winners</guid>
 <content:encoded><![CDATA[
 <div> SaneBox, winners, subscription, discount, email service
-总结：<br><br>本文介绍了SaneBox抽奖活动的获奖名单，其中有Andreas Lauritzen、Dániel Krausz、Jamie Peloquin、Esteban Umerez和Greg Johnson五位幸运读者获得了一年免费订阅。未中奖读者也可以通过链接享受25美元的折扣，值得尝试。此外，文章提到了即将到来的活动，并呼吁大家关注。整体来说，是一篇宣传SaneBox邮箱服务的文章。 <div>
+总结：<br /><br />本文介绍了SaneBox抽奖活动的获奖名单，其中有Andreas Lauritzen、Dániel Krausz、Jamie Peloquin、Esteban Umerez和Greg Johnson五位幸运读者获得了一年免费订阅。未中奖读者也可以通过链接享受25美元的折扣，值得尝试。此外，文章提到了即将到来的活动，并呼吁大家关注。整体来说，是一篇宣传SaneBox邮箱服务的文章。 <div>
 <p>Well, the SaneBox drawing has happened I have winners to announce! The following readers have won a 1-year subscription to the handiest email service out there!</p>
 
 <ul>
@@ -66,9 +66,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16484889.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-05T12:11:00-06:00</pubDate>
-<pubDate>2023-12-05T12:11:00-06:00</pubDate>
 </item>
-
 <item>
 <title>Soulver giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16481839/soulver-giveaway</link>
