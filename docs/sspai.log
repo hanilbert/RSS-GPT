@@ -9407,3 +9407,15 @@ Existing_entries: 304
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-06 08:23:55.721601
+------------------------------------------------------
+Started: 2023-12-06 10:21:07.958680
+Existing_entries: 304
+Fetching from https://rsshub.app/sspai/index
+Token length: 12194
+Summarized using GPT-3.5-turbo-1106
+Append: [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
+Token length: 622
+Summarized using GPT-3.5-turbo-1106
+Append: [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
+append_entries: 2
+Finish: 2023-12-06 10:21:19.110944
