@@ -4,6 +4,7 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+
 <item>
 <title>Advent of Code 2023: Day Six</title>
 <link>https://rknight.me/advent-of-code-2023-day-six/</link>
@@ -12,7 +13,7 @@
 <div> 提取关键词:
 boat racing, input format, race time, distance, efficient
 
-总结:<br><br>
+总结:<br /><br />
 boat racing比赛中，通过输入格式确定赛道距离和比赛时间。通过数学计算和代码处理，找到了获胜的方法。在处理大比赛的时候，需要注意内存和效率问题，通过修改代码，使用while循环替代range函数，提高了执行效率。最后，通过简化计算逻辑，得到了正确的结果。 <div>
 <p>It's boat racing time. For each millisecond you hold the boat down, it's speed will increase by one millimeter per second. Just like the bus in Speed, the boat never slows down.</p>
 <h3>Part One</h3>
@@ -42,10 +43,8 @@ $distance = 940200;
 </ol>
 </section>
 ]]></content:encoded>
-
 <pubDate>2023-12-06T11:07:22.654+00:00</pubDate>
 </item>
-
 <item>
 <title>Advent of Code 2023: Day Five</title>
 <link>https://rknight.me/advent-of-code-2023-day-five/</link>
