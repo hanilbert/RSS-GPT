@@ -3044,3 +3044,15 @@ Existing_entries: 506
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-05 22:18:43.017191
+------------------------------------------------------
+Started: 2023-12-06 01:22:53.776252
+Existing_entries: 506
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2275
+Summarized using GPT-3.5-turbo-1106
+Append: [ChatGPT发布一周年，微软股价涨超50%](https://www.36kr.com/p/2547870344862083)
+Token length: 10111
+Summarized using GPT-3.5-turbo-1106
+Append: [马斯克多次失手，OpenAI 异军突起，硅谷 AI 之战十年前已经打响](https://www.36kr.com/p/2547689525696133)
+append_entries: 2
+Finish: 2023-12-06 01:23:01.660301
