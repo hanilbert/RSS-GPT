@@ -3062,3 +3062,16 @@ Existing_entries: 508
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-06 02:31:06.132552
+------------------------------------------------------
+Started: 2023-12-06 04:23:11.209071
+Existing_entries: 508
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3629
+Summarized using GPT-3.5-turbo-1106
+Append: [GPT-4 未通过图灵测试，GPT-3.5 还败给六十年前的老 AI 系统，最新研究出炉](https://www.36kr.com/p/2548527672694912)
+Token length: 5327
+Summarized using GPT-3.5-turbo-1106
+Append: [Coatue115页 最新报告：OpenAI不一定是赢家，AI黄金时代还没来](https://www.36kr.com/p/2547987966042245)
+Append: [一个月超3万个GPTs，深扒全球Top 50 GPTs，谁是民间GPT王者？](https://www.36kr.com/p/2548041566427527)
+append_entries: 3
+Finish: 2023-12-06 04:23:19.452494
