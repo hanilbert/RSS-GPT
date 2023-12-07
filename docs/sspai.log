@@ -9485,3 +9485,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
 append_entries: 1
 Finish: 2023-12-07 06:25:03.234415
+------------------------------------------------------
+Started: 2023-12-07 08:23:57.693951
+Existing_entries: 308
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-07 08:23:57.838008
