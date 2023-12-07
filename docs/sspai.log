@@ -9467,3 +9467,12 @@ Existing_entries: 306
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-07 02:31:00.121497
+------------------------------------------------------
+Started: 2023-12-07 04:23:21.067637
+Existing_entries: 306
+Fetching from https://rsshub.app/sspai/index
+Token length: 2485
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
+append_entries: 1
+Finish: 2023-12-07 04:23:27.858320
