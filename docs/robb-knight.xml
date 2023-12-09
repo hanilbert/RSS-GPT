@@ -4,13 +4,14 @@
 <title>Robb Knight</title>
 <link>https://rknight.me</link>
 
+
 <item>
 <title>Advent of Code 2023: Day Nine</title>
 <link>https://rknight.me/advent-of-code-2023-day-nine/</link>
 <guid>https://rknight.me/advent-of-code-2023-day-nine/</guid>
 <content:encoded><![CDATA[
-<div> 代码，循环，数组，计算，序列<br>
-解决了一个给定序列的计算问题，通过循环和数组的方式进行计算，先得到每一行的数字，然后根据规则进行计算得出最终结果。在第一部分中，根据不同行的和来判断循环的终止条件，并将所有行的数字进行相加得到最终结果。在第二部分中，计算得到了第一部分的结果后，再进行一次处理，得到了新的结果并相加到最终结果中。 这个过程很有挑战性，但通过编写合适的代码来解决问题。<br><br>总结: <br>这篇文章主要介绍了通过循环和数组计算给定序列的下一个数字和上一个数字的方法，通过不断迭代并应用规则，最终得到了正确的结果。文章中对于问题的细节以及解决方案进行了详细的说明和分析，让读者能够清晰地理解整个计算过程。 <div>
+<div> 代码，循环，数组，计算，序列<br />
+解决了一个给定序列的计算问题，通过循环和数组的方式进行计算，先得到每一行的数字，然后根据规则进行计算得出最终结果。在第一部分中，根据不同行的和来判断循环的终止条件，并将所有行的数字进行相加得到最终结果。在第二部分中，计算得到了第一部分的结果后，再进行一次处理，得到了新的结果并相加到最终结果中。 这个过程很有挑战性，但通过编写合适的代码来解决问题。<br /><br />总结: <br />这篇文章主要介绍了通过循环和数组计算给定序列的下一个数字和上一个数字的方法，通过不断迭代并应用规则，最终得到了正确的结果。文章中对于问题的细节以及解决方案进行了详细的说明和分析，让读者能够清晰地理解整个计算过程。 <div>
 <h3>Part One</h3>
 <p>Given this an input like this, find the next number in the sequence. See the <a href="https://adventofcode.com/2023/day/9">advent of code instructions</a> for more details, but we need to go from this:</p>
 <pre class="language-text"><code class="language-text">0 3 6 9 12 15</code></pre>
@@ -28,10 +29,8 @@
 <p>This was a nice one. Nothing too hard to understand from the instructions and totally doable without knowing a magic maths solution.</p>
 <p>My solution is <a href="https://github.com/rknightuk/adventofcode/tree/main/2023/">on GitHub</a>.</p>
 ]]></content:encoded>
-
 <pubDate>2023-12-09T13:10:04.340+00:00</pubDate>
 </item>
-
 <item>
 <title>Advent of Code 2023: Day Eight</title>
 <link>https://rknight.me/advent-of-code-2023-day-eight/</link>
