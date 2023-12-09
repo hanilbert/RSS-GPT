@@ -9647,3 +9647,12 @@ Existing_entries: 316
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-09 04:22:23.352077
+------------------------------------------------------
+Started: 2023-12-09 06:22:51.402638
+Existing_entries: 316
+Fetching from https://rsshub.app/sspai/index
+Token length: 5149
+Summarized using GPT-3.5-turbo-1106
+Append: [技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
+append_entries: 1
+Finish: 2023-12-09 06:22:54.977245
