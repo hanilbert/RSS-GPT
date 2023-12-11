@@ -3560,3 +3560,15 @@ Existing_entries: 586
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-11 01:23:17.117527
+------------------------------------------------------
+Started: 2023-12-11 02:31:31.410907
+Existing_entries: 586
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2289
+Summarized using GPT-3.5-turbo-1106
+Append: [败走移动端之后，微软还是忘不了它的大一统之梦](https://www.36kr.com/p/2554782743926912)
+Token length: 3470
+Summarized using GPT-3.5-turbo-1106
+Append: [大模型就是「造梦机」，Karpathy一语惊人：人类才是「幻觉问题」根本原因](https://www.36kr.com/p/2555494354344326)
+append_entries: 2
+Finish: 2023-12-11 02:31:43.474362
