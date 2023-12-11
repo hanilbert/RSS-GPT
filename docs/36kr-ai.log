@@ -3631,3 +3631,10 @@ Append: [OpenAI首席科学家做出悲剧性误判？因担心超级AI联合体
 Append: [微软试图掩盖对OpenAI巨大影响力，却被奥特曼逼宫闹剧毁了](https://www.36kr.com/p/2555996552812934)
 append_entries: 8
 Finish: 2023-12-11 10:22:29.844444
+------------------------------------------------------
+Started: 2023-12-11 12:37:43.105678
+Existing_entries: 611
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/36kr-ai
