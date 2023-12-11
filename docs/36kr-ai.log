@@ -3594,3 +3594,16 @@ Append: [马斯克版「ChatGPT」Grok 上线，比本人更毒舌，快被网�
 Append: [为什么说AI现在还不行](https://www.36kr.com/p/2555068938624898)
 append_entries: 12
 Finish: 2023-12-11 04:23:57.020168
+------------------------------------------------------
+Started: 2023-12-11 06:25:36.100053
+Existing_entries: 600
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 5004
+Summarized using GPT-3.5-turbo-1106
+Append: [大模型「混乱期」：谨慎如腾讯，激进如字节](https://www.36kr.com/p/2555801625319560)
+Token length: 3754
+Summarized using GPT-3.5-turbo-1106
+Append: [Gemini背后，谷歌真正可怕之处并不在模型本身](https://www.36kr.com/p/2555821282105481)
+Append: [从数据到生成式AI，是该重新思考风险的时候了](https://www.36kr.com/p/2555799068989577)
+append_entries: 3
+Finish: 2023-12-11 06:25:44.943813
