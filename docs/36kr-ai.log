@@ -3680,3 +3680,16 @@ Existing_entries: 619
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-11 22:18:54.986655
+------------------------------------------------------
+Started: 2023-12-12 01:23:08.387845
+Existing_entries: 619
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 16656
+Summarized using GPT-4-1106-preview
+Append: [年度盘点⑤：AI的下一波浪潮,一文读懂具身智能](https://www.36kr.com/p/2556220524829059)
+Token length: 4900
+Summarized using GPT-3.5-turbo-1106
+Append: [8x7B开源MoE击败Llama 2逼近GPT-4，欧版OpenAI震惊AI界，22人公司半年估值20亿](https://www.36kr.com/p/2556269145168006)
+Append: [1年吸金50亿元，大厂高管纷纷跳槽涌入，深扒要起飞的机器人赛道](https://www.36kr.com/p/2556369805056902)
+append_entries: 3
+Finish: 2023-12-12 01:23:27.532247
