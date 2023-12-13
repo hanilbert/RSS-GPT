@@ -3816,3 +3816,18 @@ Existing_entries: 643
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-13 02:31:14.324985
+------------------------------------------------------
+Started: 2023-12-13 04:23:17.118004
+Existing_entries: 643
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2587
+Summarized using GPT-3.5-turbo-1106
+Append: [理想汽车的故事进度，凭MindGPT来续写？](https://www.36kr.com/p/2558638578916486)
+Token length: 1799
+Summarized using GPT-3.5-turbo-1106
+Append: [国内开发者看谷歌Gemini：虽陷“造假”争议，但它找到了超越OpenAI之路](https://www.36kr.com/p/2558615381089415)
+Append: [谷歌的自研芯片帝国](https://www.36kr.com/p/2558544002866310)
+Append: [手机能跑，微软小模型击败Llama 2，96块A100 GPU训练14天，参数规模仅27亿](https://www.36kr.com/p/2558530806684804)
+Append: [AI算力芯片，AMD终于站起来了](https://www.36kr.com/p/2558518082740358)
+append_entries: 5
+Finish: 2023-12-13 04:23:32.259418
