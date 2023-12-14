@@ -10046,3 +10046,12 @@ Existing_entries: 333
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-14 01:21:21.161382
+------------------------------------------------------
+Started: 2023-12-14 02:29:50.275928
+Existing_entries: 333
+Fetching from https://rsshub.app/sspai/index
+Token length: 2420
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
+append_entries: 1
+Finish: 2023-12-14 02:29:59.237023
