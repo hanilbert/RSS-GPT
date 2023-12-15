@@ -10163,3 +10163,12 @@ Existing_entries: 340
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-15 08:24:05.870770
+------------------------------------------------------
+Started: 2023-12-15 10:20:57.631869
+Existing_entries: 340
+Fetching from https://rsshub.app/sspai/index
+Token length: 4567
+Summarized using GPT-3.5-turbo-1106
+Append: [高效追踪学术前沿动态](https://sspai.com/post/84478)
+append_entries: 1
+Finish: 2023-12-15 10:21:08.169163
