@@ -4044,3 +4044,15 @@ Existing_entries: 683
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-15 02:31:55.093922
+------------------------------------------------------
+Started: 2023-12-15 04:23:25.205046
+Existing_entries: 683
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 2136
+Summarized using GPT-3.5-turbo-1106
+Append: [成立仅半年估值20亿，欧洲AI独角兽成OpenAI最大劲敌？](https://www.36kr.com/p/2560678251520129)
+Token length: 4797
+Summarized using GPT-3.5-turbo-1106
+Append: [用MoE技术和开源模型建立差异化，Mistral AI获4.15亿美元融资](https://www.36kr.com/p/2560476377504897)
+append_entries: 2
+Finish: 2023-12-15 04:23:39.759456
