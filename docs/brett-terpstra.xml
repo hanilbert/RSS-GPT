@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Kaleidoscope giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16500870/kaleidoscope-giveaway</link>
 <guid>https://brett.trpstra.net/link/535/16500870/kaleidoscope-giveaway</guid>
 <content:encoded><![CDATA[
 <div> giveaway, subscription, Kaleidoscope, diffing, macOS
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了Kaleidoscope软件的赠送活动，价值96美元的一年订阅。该软件是macOS平台上最强大的文件比较和合并应用程序，可以用于文本、图像甚至文件夹的对比。活动的截止日期是12月22日中午12点。需要提供名字姓氏才能参与抽奖。文章最后提到了BrettTerpstra.com的支持者可以在网站上查看更多相关信息。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -60,9 +61,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16500870.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-18T08:00:00-06:00</pubDate>
-<pubDate>2023-12-18T08:00:00-06:00</pubDate>
 </item>
-
 <item>
 <title>Ruby Regexp::scan with MatchData</title>
 <link>https://brett.trpstra.net/link/535/16498512/ruby-regexp-scan-with-matchdata</link>
