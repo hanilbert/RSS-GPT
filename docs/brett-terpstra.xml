@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>macOS keybinding tricks: The kill ring</title>
 <link>https://brett.trpstra.net/link/535/16501154/macos-keybinding-tricks-the-kill-ring</link>
 <guid>https://brett.trpstra.net/link/535/16501154/macos-keybinding-tricks-the-kill-ring</guid>
 <content:encoded><![CDATA[
 <div> macOS, keybindings, Emacs, clipboard manager, DefaultKeyBinding.dict 
-<br><br>总结: 
+<br /><br />总结: 
 这篇文章介绍了如何利用DefaultKeyBinding.dict文件来自定义macOS的文本编辑器中的键绑定，以及如何使用Emacs风格的快捷键来操作文本。作者还介绍了如何创建一个“kill ring”并编辑键绑定，以实现在文本编辑器中粘贴剪切文本的功能。这篇文章还介绍了如何将剪贴板管理器与kill命令结合使用，并提供了详细的步骤和命令。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -95,9 +96,7 @@ this is line 4</code></pre></div></div>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16501154.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-18T13:57:00-06:00</pubDate>
-<pubDate>2023-12-18T13:57:00-06:00</pubDate>
 </item>
-
 <item>
 <title>Kaleidoscope giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16500870/kaleidoscope-giveaway</link>
