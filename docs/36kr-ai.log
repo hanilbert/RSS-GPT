@@ -4468,3 +4468,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [ChatGPT的2023：开创人工智能的新纪元](https://www.36kr.com/p/2567145501843593)
 append_entries: 2
 Finish: 2023-12-19 08:23:53.282585
+------------------------------------------------------
+Started: 2023-12-19 10:20:28.056195
+Existing_entries: 741
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI时代，中国家电的旧梦与新憧](https://www.36kr.com/p/2567422910342536)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [预见MaaS2024：小模型是大模型的缰绳](https://www.36kr.com/p/2567385382183045)
+Append: [专家评OpenAI新安全框架：在安全集成方面仍落后于 Anthropic](https://www.36kr.com/p/2567386026368905)
+Append: [Gemini自曝文心一言牵出重大难题，全球陷入高质量数据荒？2024年或将枯竭](https://www.36kr.com/p/2567229643761031)
+append_entries: 4
+Finish: 2023-12-19 10:20:28.641394
