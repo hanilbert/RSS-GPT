@@ -4482,3 +4482,21 @@ Append: [专家评OpenAI新安全框架：在安全集成方面仍落后于 Anth
 Append: [Gemini自曝文心一言牵出重大难题，全球陷入高质量数据荒？2024年或将枯竭](https://www.36kr.com/p/2567229643761031)
 append_entries: 4
 Finish: 2023-12-19 10:20:28.641394
+------------------------------------------------------
+Started: 2023-12-19 12:35:17.104470
+Existing_entries: 745
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用大模型一站式解决企业服务难题，「安安创新」完成1500万天使轮融资｜36氪首发](https://www.36kr.com/p/2567607543719299)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [未来将至，人形机器人产业乘大模型东风进入发展“快车道”](https://www.36kr.com/p/2567524941734022)
+Append: [OpenAI官宣全新安全团队：模型危险分四级，董事会有权决定是否发布](https://www.36kr.com/p/2567545595962759)
+Append: [编码碾压ChatGPT，UIUC清华联手发布7B参数Magicoder，代码数据权重全开源](https://www.36kr.com/p/2567543262635648)
+Append: [“人形机器人第一股”来了，机构直呼：明年或迎商业化元年](https://www.36kr.com/p/2567539632612736)
+Append: [医院为何对前沿AI不感冒？](https://www.36kr.com/p/2567517017745026)
+Append: [在中国一夜爆红、一个半月后注销国内主体，明星创业公司HeyGen真有出路吗？](https://www.36kr.com/p/2567512965047685)
+Append: [万人试用AI新应用：真人视频转动漫、像素风，从未如此丝滑](https://www.36kr.com/p/2567477606213252)
+append_entries: 8
+Finish: 2023-12-19 12:35:17.889750
