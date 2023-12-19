@@ -5589,3 +5589,12 @@ Existing_entries: 133
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-19 20:16:30.658179
+------------------------------------------------------
+Started: 2023-12-19 22:15:46.414961
+Existing_entries: 133
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Eleventy Post Graph Plugin](https://rknight.me/eleventy-post-graph-plugin/)
+append_entries: 1
+Finish: 2023-12-19 22:15:48.341880

@@ -13391,3 +13391,14 @@ Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https:/
 Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
 append_entries: 0
 Finish: 2023-12-19 20:16:20.149173
+------------------------------------------------------
+Started: 2023-12-19 22:15:38.872749
+Existing_entries: 92
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [macOS keybinding tricks: the repeat count binding](https://brett.trpstra.net/link/535/16502539/macos-keybinding-tricks-the-repeat-count-binding)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+append_entries: 1
+Finish: 2023-12-19 22:15:39.756033
