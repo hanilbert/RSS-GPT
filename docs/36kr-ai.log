@@ -4456,3 +4456,15 @@ Existing_entries: 739
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-19 06:24:44.103335
+------------------------------------------------------
+Started: 2023-12-19 08:23:41.769508
+Existing_entries: 739
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3595
+Summarized using GPT-3.5-turbo-1106
+Append: [异军突起的小模型，有多大想象空间？](https://www.36kr.com/p/2567179311849607)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT的2023：开创人工智能的新纪元](https://www.36kr.com/p/2567145501843593)
+append_entries: 2
+Finish: 2023-12-19 08:23:53.282585
