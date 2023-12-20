@@ -4530,3 +4530,15 @@ Existing_entries: 753
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-19 22:15:55.063343
+------------------------------------------------------
+Started: 2023-12-20 01:07:33.411245
+Existing_entries: 753
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大厂百万年薪抢人，大模型三大竞争力：赚钱、人才、数据](https://www.36kr.com/p/2567648573924998)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI发布新安全框架，董事会有权否决CEO发布新模型](https://www.36kr.com/p/2568243767469705)
+append_entries: 2
+Finish: 2023-12-20 01:07:34.468817
