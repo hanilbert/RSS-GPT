@@ -4554,3 +4554,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [可支持千亿大模型训练，摩尔线程推出全国产GPU千卡智算中心｜最前线](https://www.36kr.com/p/2567519337260423)
 append_entries: 2
 Finish: 2023-12-20 02:16:30.240070
+------------------------------------------------------
+Started: 2023-12-20 04:19:20.679422
+Existing_entries: 757
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [百亿估值背后，起底智谱AI](https://www.36kr.com/p/2567518770257794)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023开年热词「大模型」「出海」，现在怎么样了？](https://www.36kr.com/p/2568464639223431)
+append_entries: 2
+Finish: 2023-12-20 04:19:21.674029
