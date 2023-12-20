@@ -10563,3 +10563,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
 append_entries: 1
 Finish: 2023-12-20 06:19:57.091515
+------------------------------------------------------
+Started: 2023-12-20 08:18:54.588022
+Existing_entries: 356
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [放轻松 | 用放松，重夺生活的掌控感](https://sspai.com/post/85159)
+append_entries: 1
+Finish: 2023-12-20 08:18:54.981697

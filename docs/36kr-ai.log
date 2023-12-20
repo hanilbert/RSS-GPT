@@ -4572,3 +4572,12 @@ Existing_entries: 759
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-20 06:20:07.882305
+------------------------------------------------------
+Started: 2023-12-20 08:19:04.161842
+Existing_entries: 759
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [研究发现：人工智能工具会损害你的心理健康](https://www.36kr.com/p/2438620625064576)
+append_entries: 1
+Finish: 2023-12-20 08:19:04.737236

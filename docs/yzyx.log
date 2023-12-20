@@ -4453,3 +4453,12 @@ Existing_entries: 41
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2023-12-20 06:20:10.418422
+------------------------------------------------------
+Started: 2023-12-20 08:19:07.299532
+Existing_entries: 41
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [170 你是怎么理解「稳健」的呢？ 12月20日 和你聊聊稳钱账户，清晰了解它的风险收益特征](https://youzhiyouxing.cn/materials/1585)
+append_entries: 1
+Finish: 2023-12-20 08:19:07.706450
