@@ -4597,3 +4597,24 @@ Append: [谷歌10秒视频生成模型破世界记录，LLM终结扩散模型，
 Append: [人工智能行业那个有趣的灵魂走了](https://www.36kr.com/p/2568650065290631)
 append_entries: 6
 Finish: 2023-12-20 10:17:09.122445
+------------------------------------------------------
+Started: 2023-12-20 12:29:20.853730
+Existing_entries: 766
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌：Gemini解不了“小鬼”缠身，明年日子不容易](https://www.36kr.com/p/2569035098171010)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [为什么人工智能无法拯救世界](https://www.36kr.com/p/2402873711780232)
+Append: [聚焦汽车软件中间件平台，弋途科技完成云启资本领投数千万元融资｜36氪首发](https://www.36kr.com/p/2569010658059648)
+Append: [“1 美元卖给我一台新车？”AI 聊天机器人遭 PUA 后回答：成交](https://www.36kr.com/p/2569001828656515)
+Append: [全面合作：传媒业巨头与OpenAI寻求共赢](https://www.36kr.com/p/2569000489657731)
+Append: [Nature子刊发布：丹麦AI模型可精准预测人类死亡率](https://www.36kr.com/p/2568977701299841)
+Append: [分身术来了，苹果发表 AI 新技术，30 分钟打造你的「数字分身」](https://www.36kr.com/p/2568963429311872)
+Append: [被OpenAI“封号”，字节跳动在打什么算盘？](https://www.36kr.com/p/2568916881383305)
+Append: [AI爆发冰火两重天，多牛牵手唐季礼是逆流而上还是顺势而为？](https://www.36kr.com/p/2568901114355588)
+Append: [AI读心术震撼登顶会，模型翻译脑电波，人类思想被投屏](https://www.36kr.com/p/2568910504551809)
+Append: [「2024年最重要AI图」疯狂热转，开源AI模型正在超越专有模型，LeCun大赞](https://www.36kr.com/p/2568908129117570)
+append_entries: 11
+Finish: 2023-12-20 12:29:21.871411
