@@ -4542,3 +4542,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [OpenAI发布新安全框架，董事会有权否决CEO发布新模型](https://www.36kr.com/p/2568243767469705)
 append_entries: 2
 Finish: 2023-12-20 01:07:34.468817
+------------------------------------------------------
+Started: 2023-12-20 02:16:29.386440
+Existing_entries: 755
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型赚钱4大流派，谁能赢？](https://www.36kr.com/p/2568391704469634)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [可支持千亿大模型训练，摩尔线程推出全国产GPU千卡智算中心｜最前线](https://www.36kr.com/p/2567519337260423)
+append_entries: 2
+Finish: 2023-12-20 02:16:30.240070
