@@ -4672,3 +4672,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [人工智能引领学校革命，但管理者、教师和家长仍需更多AI素养](https://www.36kr.com/p/2569133103718533)
 append_entries: 2
 Finish: 2023-12-21 02:29:30.786167
+------------------------------------------------------
+Started: 2023-12-21 04:22:46.481845
+Existing_entries: 781
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [三大新搜索革命：抖音、微信、小红书](https://www.36kr.com/p/2569932370027913)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [前商汤通用模型负责人打造3D大模型「Tripo」，3D生成迈入「秒级」时代 | 早期项目](https://www.36kr.com/p/2569840342853257)
+Append: [英特尔、AMD等集体卷AI PC，能从英伟达手中抢下蛋糕吗？](https://www.36kr.com/p/2569894551479680)
+Append: [ChatGPT爆火之后，人类福祉与商业利益，AI向左还是向右？](https://www.36kr.com/p/2569885386909064)
+append_entries: 4
+Finish: 2023-12-21 04:22:47.495414

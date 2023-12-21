@@ -10629,3 +10629,12 @@ Existing_entries: 358
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-21 02:29:18.243562
+------------------------------------------------------
+Started: 2023-12-21 04:22:32.207553
+Existing_entries: 358
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)
+append_entries: 1
+Finish: 2023-12-21 04:22:32.692766
