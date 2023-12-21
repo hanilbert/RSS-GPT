@@ -4660,3 +4660,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Nature重磅：AI复现诺奖研究，只需几分钟，一次即可成功](https://www.36kr.com/p/2569339157439876)
 append_entries: 2
 Finish: 2023-12-21 01:21:01.070905
+------------------------------------------------------
+Started: 2023-12-21 02:29:29.613226
+Existing_entries: 779
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [together.ai让AI模型训练快9倍，获NVIDIA参投1.025亿美元A轮融资](https://www.36kr.com/p/2569015338672257)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人工智能引领学校革命，但管理者、教师和家长仍需更多AI素养](https://www.36kr.com/p/2569133103718533)
+append_entries: 2
+Finish: 2023-12-21 02:29:30.786167
