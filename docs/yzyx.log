@@ -4531,3 +4531,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [171 久等了，长钱账户调仓了 12月21日 上证50来了，长钱账户关注的指数品种全收集达成](https://youzhiyouxing.cn/materials/1587)
 append_entries: 1
 Finish: 2023-12-21 06:24:40.616483
+------------------------------------------------------
+Started: 2023-12-21 08:23:30.980224
+Existing_entries: 43
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2023-12-21 08:23:31.436061

@@ -4458,3 +4458,12 @@ Existing_entries: 18
 Fetching from https://1q43.blog/feed
 append_entries: 0
 Finish: 2023-12-21 06:24:39.594535
+------------------------------------------------------
+Started: 2023-12-21 08:23:29.147009
+Existing_entries: 18
+Fetching from https://1q43.blog/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年游记（6）：乌鲁木齐、喀什、莎车县](https://1q43.blog/post/2141)
+append_entries: 1
+Finish: 2023-12-21 08:23:30.712210
