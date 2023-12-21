@@ -10638,3 +10638,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)
 append_entries: 1
 Finish: 2023-12-21 04:22:32.692766
+------------------------------------------------------
+Started: 2023-12-21 06:24:26.699651
+Existing_entries: 359
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [当我调酒时，我在想些什么](https://sspai.com/post/84505)
+append_entries: 1
+Finish: 2023-12-21 06:24:27.087216

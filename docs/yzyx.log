@@ -4522,3 +4522,12 @@ Existing_entries: 42
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2023-12-21 04:22:49.635538
+------------------------------------------------------
+Started: 2023-12-21 06:24:39.853091
+Existing_entries: 42
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [171 久等了，长钱账户调仓了 12月21日 上证50来了，长钱账户关注的指数品种全收集达成](https://youzhiyouxing.cn/materials/1587)
+append_entries: 1
+Finish: 2023-12-21 06:24:40.616483
