@@ -4710,3 +4710,20 @@ Append: [让大模型“外挂硬盘”，百川智能发布新API系列，企�
 Append: [百度云升级模型服务，百度版GPTs即日开放 | 最前线](https://www.36kr.com/p/2568802641094025)
 append_entries: 5
 Finish: 2023-12-21 08:23:28.681461
+------------------------------------------------------
+Started: 2023-12-21 10:20:27.525630
+Existing_entries: 791
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta翻译大模型可模仿语气语速，AI再也不“莫得感情”了](https://www.36kr.com/p/2570297583986051)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [LLM推理飙升25倍，苹果超高效内存优化将大模型塞进iPhone，2秒视频生成逼真3D化身](https://www.36kr.com/p/2570289102775685)
+Append: [GPT-4搞科研登Nature，布洛芬配方轻松拿捏，诺奖得主提出的复杂反应也能完成](https://www.36kr.com/p/2570291999188356)
+Append: [“Transformer挑战者”Mamba，用Macbook也能跑了，GitHub半天斩获500+星](https://www.36kr.com/p/2570294598247810)
+Append: [谷歌发布新大语言模型：零样本生成10秒视频达SOTA，网友：压力给到Runway/Pika](https://www.36kr.com/p/2570263077561732)
+Append: [Gemini Pro还不如GPT-3.5，CMU深入对比研究：保证公平透明可重复](https://www.36kr.com/p/2570258516403592)
+Append: [关于生成式 AI 的六个悬而未决的问题及预测](https://www.36kr.com/p/2570200082669445)
+append_entries: 7
+Finish: 2023-12-21 10:20:28.343689

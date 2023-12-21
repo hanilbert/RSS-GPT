@@ -10653,3 +10653,15 @@ Existing_entries: 360
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-21 08:23:14.528445
+------------------------------------------------------
+Started: 2023-12-21 10:20:17.476015
+Existing_entries: 360
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
+append_entries: 2
+Finish: 2023-12-21 10:20:18.332974
