@@ -4549,3 +4549,12 @@ Existing_entries: 43
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2023-12-21 12:35:24.167833
+------------------------------------------------------
+Started: 2023-12-21 14:17:43.451406
+Existing_entries: 43
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [风险溢价知多少？｜投资50图阶段小考 12月21日 👉 点击参加](https://youzhiyouxing.cn/materials/1586)
+append_entries: 1
+Finish: 2023-12-21 14:17:43.751651

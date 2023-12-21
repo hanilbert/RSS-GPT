@@ -13554,3 +13554,14 @@ Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https:/
 Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
 append_entries: 0
 Finish: 2023-12-21 12:35:02.769450
+------------------------------------------------------
+Started: 2023-12-21 14:17:24.161816
+Existing_entries: 93
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [HoudahSpot: Powerful file search -- skip filing, start finding [Sponsor]](https://brett.trpstra.net/link/535/16504780/houdahspot-powerful-file-search-skip-filing-start-finding-sponsor)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+append_entries: 1
+Finish: 2023-12-21 14:17:25.183073
