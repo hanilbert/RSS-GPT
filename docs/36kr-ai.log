@@ -4727,3 +4727,15 @@ Append: [Gemini Pro还不如GPT-3.5，CMU深入对比研究：保证公平透明
 Append: [关于生成式 AI 的六个悬而未决的问题及预测](https://www.36kr.com/p/2570200082669445)
 append_entries: 7
 Finish: 2023-12-21 10:20:28.343689
+------------------------------------------------------
+Started: 2023-12-21 12:35:20.288686
+Existing_entries: 798
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [​大模型上何时出现杀手级应用？](https://www.36kr.com/p/2570397393954433)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [成立仅半年，Mistral估值暴涨七倍，开源重塑AI战局](https://www.36kr.com/p/2570329027995011)
+append_entries: 2
+Finish: 2023-12-21 12:35:21.094899
