@@ -4648,3 +4648,15 @@ Existing_entries: 777
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-20 22:18:12.379788
+------------------------------------------------------
+Started: 2023-12-21 01:21:00.188295
+Existing_entries: 777
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌大模型，把李彦宏当成了创始人](https://www.36kr.com/p/2569090877826692)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nature重磅：AI复现诺奖研究，只需几分钟，一次即可成功](https://www.36kr.com/p/2569339157439876)
+append_entries: 2
+Finish: 2023-12-21 01:21:01.070905
