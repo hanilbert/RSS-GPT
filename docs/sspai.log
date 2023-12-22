@@ -10740,3 +10740,12 @@ Existing_entries: 365
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-22 08:22:42.944367
+------------------------------------------------------
+Started: 2023-12-22 10:20:26.924990
+Existing_entries: 365
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [把图文生成漂亮的分享卡片，哪个软件强？](https://sspai.com/post/85218)
+append_entries: 1
+Finish: 2023-12-22 10:20:27.335920
