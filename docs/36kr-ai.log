@@ -4819,3 +4819,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [阿里能借助AI电商反杀拼多多吗？](https://www.36kr.com/p/2571375722325380)
 append_entries: 2
 Finish: 2023-12-22 06:24:38.846021
+------------------------------------------------------
+Started: 2023-12-22 08:22:51.683007
+Existing_entries: 810
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Midjourney V6神图炸出，生图效果碾压DALL·E3，逼真画面光影细节登峰造极](https://www.36kr.com/p/2571491551176071)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google发布Imagen 2，解决经典六指人问题，AI文生图卷起来了](https://www.36kr.com/p/2571538050754176)
+Append: [让电话机器人告别死板对话，容联云推出容犀Copilot，陪聊挽客技能满点｜最前线](https://www.36kr.com/p/2570432442738057)
+Append: [谷歌VideoPoet大模型上线，生成长达10秒视频，还可自动配音 | 最前线](https://www.36kr.com/p/2571407149672069)
+append_entries: 4
+Finish: 2023-12-22 08:22:52.329187
