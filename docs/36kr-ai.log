@@ -4807,3 +4807,15 @@ Append: [抢光刻机、截客户，三大芯片巨头缠斗2nm丨知料](https:
 Append: [AI带来“幻觉”，是创意还是误导？](https://www.36kr.com/p/2570627091473796)
 append_entries: 3
 Finish: 2023-12-22 04:22:59.104548
+------------------------------------------------------
+Started: 2023-12-22 06:24:37.804894
+Existing_entries: 808
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CES 2024超前瞻：AI站上C位，消费电子迎接复苏](https://www.36kr.com/p/2571373620879235)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [阿里能借助AI电商反杀拼多多吗？](https://www.36kr.com/p/2571375722325380)
+append_entries: 2
+Finish: 2023-12-22 06:24:38.846021
