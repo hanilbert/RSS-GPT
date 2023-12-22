@@ -4782,3 +4782,15 @@ Append: [AI iPhone前奏？苹果发表论文，解决“在手机内存上运�
 Append: [谷歌Gemini技术报告出炉，作者多达900余人](https://www.36kr.com/p/2571090002192003)
 append_entries: 3
 Finish: 2023-12-22 01:20:03.291408
+------------------------------------------------------
+Started: 2023-12-22 02:28:41.705837
+Existing_entries: 803
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [比尔·盖茨年度公开信谈 AI](https://www.36kr.com/p/2570212044152706)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [极飞和大疆再打价格战，农业无人机市场讲不出新鲜事｜硬氪分析](https://www.36kr.com/p/2570718742046082)
+append_entries: 2
+Finish: 2023-12-22 02:28:42.544029

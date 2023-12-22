@@ -10710,3 +10710,12 @@ Existing_entries: 363
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-22 01:19:53.907302
+------------------------------------------------------
+Started: 2023-12-22 02:28:31.602961
+Existing_entries: 363
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
+append_entries: 1
+Finish: 2023-12-22 02:28:31.940890
