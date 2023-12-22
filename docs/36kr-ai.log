@@ -4847,3 +4847,20 @@ Append: [Radical Ventures 合伙人 Rob Toews：2024 年的 10 项人工智能�
 Append: [可生成无限长视频，谷歌最新视频生成模型 VideoPoet 究竟有多强](https://www.36kr.com/p/2571512466038658)
 append_entries: 4
 Finish: 2023-12-22 10:20:41.293797
+------------------------------------------------------
+Started: 2023-12-22 12:34:20.790056
+Existing_entries: 818
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OTA扎堆投资AI旅行规划平台](https://www.36kr.com/p/2571854725703301)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [港中文128页全面测评报告：谷歌Gemini扳回一局，多模态能力和GPT-4V不分伯仲](https://www.36kr.com/p/2571748968064392)
+Append: [硅谷AI圈爆火热文：Jasper和VC成AIGC热潮最大输家，退潮后方知谁在裸泳](https://www.36kr.com/p/2571760208160129)
+Append: [23年生成式AI全球投资超360亿，开发者预测2024年LLM应用进入大爆发](https://www.36kr.com/p/2571758438000259)
+Append: [直追GPT-3.5，“欧洲版OpenAI”推出新模型，成立6个月估值20亿美元 | 最前线](https://www.36kr.com/p/2571580075189635)
+Append: [Runway开发通用世界模型，想让AI更好地模拟世界](https://www.36kr.com/p/2571588641088902)
+Append: [Midjourney能生成文字了，V6版5大升级惊艳网友](https://www.36kr.com/p/2571744453289604)
+append_entries: 7
+Finish: 2023-12-22 12:34:21.550533

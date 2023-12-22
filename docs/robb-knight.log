@@ -5781,3 +5781,12 @@ Existing_entries: 135
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-22 10:20:29.496020
+------------------------------------------------------
+Started: 2023-12-22 12:34:09.833715
+Existing_entries: 135
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Just 2024 Things](https://rknight.me/just-2024-things/)
+append_entries: 1
+Finish: 2023-12-22 12:34:11.810731

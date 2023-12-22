@@ -10749,3 +10749,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [把图文生成漂亮的分享卡片，哪个软件强？](https://sspai.com/post/85218)
 append_entries: 1
 Finish: 2023-12-22 10:20:27.335920
+------------------------------------------------------
+Started: 2023-12-22 12:34:08.478100
+Existing_entries: 366
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [少数派会员年度周边，邀请你一起来创作](https://sspai.com/post/85259)
+append_entries: 2
+Finish: 2023-12-22 12:34:09.264286
