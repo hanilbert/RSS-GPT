@@ -4627,3 +4627,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [E120 你比想象中更加富有！2024 最值得解锁的财富技能：制作一张家庭报表 12月22日 🎧 新年财务规划特别节目，第二期！很开心地向你介绍，一个给了我们很多惊...](https://youzhiyouxing.cn/materials/1588)
 append_entries: 1
 Finish: 2023-12-22 12:34:24.805119
+------------------------------------------------------
+Started: 2023-12-22 14:17:40.242485
+Existing_entries: 45
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2023-12-22 14:17:40.370147
