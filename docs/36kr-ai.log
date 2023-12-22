@@ -4769,3 +4769,16 @@ Existing_entries: 800
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-21 22:17:28.650584
+------------------------------------------------------
+Started: 2023-12-22 01:20:02.756947
+Existing_entries: 800
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美光、英伟达大涨，AI引爆后，芯片行业寒冬已过？](https://www.36kr.com/p/2570515769909379)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI iPhone前奏？苹果发表论文，解决“在手机内存上运行大模型”](https://www.36kr.com/p/2571082226623878)
+Append: [谷歌Gemini技术报告出炉，作者多达900余人](https://www.36kr.com/p/2571090002192003)
+append_entries: 3
+Finish: 2023-12-22 01:20:03.291408
