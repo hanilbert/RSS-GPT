@@ -4794,3 +4794,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [极飞和大疆再打价格战，农业无人机市场讲不出新鲜事｜硬氪分析](https://www.36kr.com/p/2570718742046082)
 append_entries: 2
 Finish: 2023-12-22 02:28:42.544029
+------------------------------------------------------
+Started: 2023-12-22 04:22:58.318750
+Existing_entries: 805
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Midjourney V6超强升级，细节拉满更懂人话，分辨率提升2倍，网友惊呼太牛 | 最前线](https://www.36kr.com/p/2571375874893447)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [抢光刻机、截客户，三大芯片巨头缠斗2nm丨知料](https://www.36kr.com/p/2568662079612296)
+Append: [AI带来“幻觉”，是创意还是误导？](https://www.36kr.com/p/2570627091473796)
+append_entries: 3
+Finish: 2023-12-22 04:22:59.104548
