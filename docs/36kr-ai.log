@@ -4933,3 +4933,12 @@ Existing_entries: 826
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-23 10:19:02.949305
+------------------------------------------------------
+Started: 2023-12-23 12:32:08.378789
+Existing_entries: 826
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [时至今日，为什么人们依然对AI不够信任？](https://www.36kr.com/p/2572578811831686)
+append_entries: 1
+Finish: 2023-12-23 12:32:08.766790
