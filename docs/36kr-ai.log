@@ -4894,3 +4894,12 @@ Existing_entries: 825
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-22 22:17:49.233002
+------------------------------------------------------
+Started: 2023-12-23 01:17:51.015430
+Existing_entries: 825
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2分钟定制Agent，「澜码科技」发布企业级AI Agent平台AskXBOT | 最前线](https://www.36kr.com/p/2570224293930373)
+append_entries: 1
+Finish: 2023-12-23 01:17:51.432657
