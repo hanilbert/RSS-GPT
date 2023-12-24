@@ -5011,3 +5011,12 @@ Existing_entries: 828
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-24 10:19:01.607520
+------------------------------------------------------
+Started: 2023-12-24 12:32:41.096524
+Existing_entries: 828
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在电脑的CPU上比拼“AI算力”，现阶段其实并不实际](https://www.36kr.com/p/2573442207556992)
+append_entries: 1
+Finish: 2023-12-24 12:32:42.268215
