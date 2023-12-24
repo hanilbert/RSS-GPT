@@ -4978,3 +4978,12 @@ Existing_entries: 827
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-24 01:25:40.488367
+------------------------------------------------------
+Started: 2023-12-24 02:30:27.722745
+Existing_entries: 827
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [WATTMAN瓦特曼获数亿元B系列融资，深耕传统重工业的人工智能化｜硬氪首发](https://www.36kr.com/p/2574085077280133)
+append_entries: 1
+Finish: 2023-12-24 02:30:28.200475
