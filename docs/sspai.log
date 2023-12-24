@@ -10890,3 +10890,12 @@ Existing_entries: 369
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-24 06:22:52.931542
+------------------------------------------------------
+Started: 2023-12-24 08:21:36.885339
+Existing_entries: 369
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)
+append_entries: 1
+Finish: 2023-12-24 08:21:37.298709
