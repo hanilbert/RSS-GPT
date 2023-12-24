@@ -4987,3 +4987,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [WATTMAN瓦特曼获数亿元B系列融资，深耕传统重工业的人工智能化｜硬氪首发](https://www.36kr.com/p/2574085077280133)
 append_entries: 1
 Finish: 2023-12-24 02:30:28.200475
+------------------------------------------------------
+Started: 2023-12-24 04:21:49.569567
+Existing_entries: 828
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2023-12-24 04:21:50.195180
