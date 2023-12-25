@@ -5218,3 +5218,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [New York City Guide](http://lopespm.github.io/notes/2023/12/25/nyc.html)
 append_entries: 1
 Finish: 2023-12-25 04:23:03.386736
+------------------------------------------------------
+Started: 2023-12-25 06:24:53.964545
+Existing_entries: 23
+Fetching from https://lopespm.com/atom.xml
+append_entries: 0
+Finish: 2023-12-25 06:24:54.217229

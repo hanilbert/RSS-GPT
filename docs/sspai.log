@@ -10956,3 +10956,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报](https://sspai.com/post/85316)
 append_entries: 1
 Finish: 2023-12-25 04:22:55.470562
+------------------------------------------------------
+Started: 2023-12-25 06:24:49.466289
+Existing_entries: 371
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
+append_entries: 1
+Finish: 2023-12-25 06:24:49.895294

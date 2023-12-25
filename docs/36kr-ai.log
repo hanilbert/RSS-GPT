@@ -5075,3 +5075,17 @@ Append: [36氪首发｜打造办公AI Agents，「AutoAgents」完成数千万�
 Append: [生成式 AI 并不是软件开发“神药”，开发者需警惕这三大幻觉](https://www.36kr.com/p/2574128959170180)
 append_entries: 6
 Finish: 2023-12-25 04:23:11.308887
+------------------------------------------------------
+Started: 2023-12-25 06:25:02.912105
+Existing_entries: 836
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [清华特奖焦剑涛大模型创业：突破GPT-4工具使用能力，搞开源种子轮融资七千万](https://www.36kr.com/p/2575584261383559)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [史上最快3D数字人生成器：半小时完成训练，渲染仅需16毫秒，苹果出品](https://www.36kr.com/p/2575583737030276)
+Append: [谷歌创始人亲自给Gemini写代码，很核心那种](https://www.36kr.com/p/2575584326149509)
+Append: [大模型被偷家，腾讯港中文新研究修正认知：CNN搞多模态不弱于Transfromer](https://www.36kr.com/p/2575584351954562)
+append_entries: 4
+Finish: 2023-12-25 06:25:03.889853
