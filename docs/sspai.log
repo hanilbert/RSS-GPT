@@ -10989,3 +10989,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/85340)
 append_entries: 1
 Finish: 2023-12-25 12:34:22.497651
+------------------------------------------------------
+Started: 2023-12-25 14:16:52.567443
+Existing_entries: 374
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-25 14:16:52.769973

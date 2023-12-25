@@ -5242,3 +5242,12 @@ Existing_entries: 23
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2023-12-25 12:34:26.525164
+------------------------------------------------------
+Started: 2023-12-25 14:16:56.029382
+Existing_entries: 23
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Job Safety in the AI Era](http://lopespm.github.io/notes/2023/12/25/job_safety_in_ai_era.html)
+append_entries: 1
+Finish: 2023-12-25 14:16:56.572535
