@@ -5133,3 +5133,15 @@ Existing_entries: 850
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-25 14:17:03.465336
+------------------------------------------------------
+Started: 2023-12-25 16:24:44.180043
+Existing_entries: 850
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [折射OpenAI新一年技术路线图，透视Sam Altman的12个愿望清单](https://www.36kr.com/p/2576104928568967)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从山姆·奥特曼的圣诞愿望清单，看清2024年大模型发展方向](https://www.36kr.com/p/2576071410984580)
+append_entries: 2
+Finish: 2023-12-25 16:24:44.754742

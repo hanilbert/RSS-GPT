@@ -5251,3 +5251,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Job Safety in the AI Era](http://lopespm.github.io/notes/2023/12/25/job_safety_in_ai_era.html)
 append_entries: 1
 Finish: 2023-12-25 14:16:56.572535
+------------------------------------------------------
+Started: 2023-12-25 16:24:13.916785
+Existing_entries: 24
+Fetching from https://lopespm.com/atom.xml
+append_entries: 0
+Finish: 2023-12-25 16:24:14.277801
