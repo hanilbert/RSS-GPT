@@ -5089,3 +5089,16 @@ Append: [谷歌创始人亲自给Gemini写代码，很核心那种](https://www.
 Append: [大模型被偷家，腾讯港中文新研究修正认知：CNN搞多模态不弱于Transfromer](https://www.36kr.com/p/2575584351954562)
 append_entries: 4
 Finish: 2023-12-25 06:25:03.889853
+------------------------------------------------------
+Started: 2023-12-25 08:23:31.307357
+Existing_entries: 840
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI占星师：生成式人工智能迎来了数字通灵的下一个阶段](https://www.36kr.com/p/2517727091396870)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从OpenAI 主旨演讲看人工智能应用的未来](https://www.36kr.com/p/2515995315720199)
+Append: [路演预告｜人工智能专场路演第五期，欢迎报名](https://www.36kr.com/p/2575787233535623)
+append_entries: 3
+Finish: 2023-12-25 08:23:32.056060
