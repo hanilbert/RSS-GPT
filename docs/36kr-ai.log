@@ -5102,3 +5102,19 @@ Append: [从OpenAI 主旨演讲看人工智能应用的未来](https://www.36kr.
 Append: [路演预告｜人工智能专场路演第五期，欢迎报名](https://www.36kr.com/p/2575787233535623)
 append_entries: 3
 Finish: 2023-12-25 08:23:32.056060
+------------------------------------------------------
+Started: 2023-12-25 10:20:20.540061
+Existing_entries: 843
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [专访Meta CTO：AI已是XR杀手应用，LLM开源社区竞争没有输家](https://www.36kr.com/p/2575929271772551)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开源才是大模型的未来？](https://www.36kr.com/p/2575799928497538)
+Append: [AMD+英伟达，居然生出了一个怪物](https://www.36kr.com/p/2575827507552132)
+Append: [视频一键动漫化AI工具火了，武打戏各种招式丝滑转换，免费在线可玩](https://www.36kr.com/p/2575929440708226)
+Append: [不要一味鼓吹让开发者用AI来写代码了](https://www.36kr.com/p/2575872327919238)
+Append: [AI板块炒作逻辑转向商用落地，百融云创充满想象](https://www.36kr.com/p/2575583581988226)
+append_entries: 6
+Finish: 2023-12-25 10:20:21.552143
