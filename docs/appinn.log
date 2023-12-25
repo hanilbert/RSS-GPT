@@ -11248,3 +11248,11 @@ Append: [有些网页的元素不响应触摸点击事件，有没有不借助�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2023-12-25 10:20:08.702882
+------------------------------------------------------
+Started: 2023-12-25 12:34:15.588205
+Existing_entries: 207
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-12-25 12:34:19.669402

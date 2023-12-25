@@ -5118,3 +5118,12 @@ Append: [不要一味鼓吹让开发者用AI来写代码了](https://www.36kr.co
 Append: [AI板块炒作逻辑转向商用落地，百融云创充满想象](https://www.36kr.com/p/2575583581988226)
 append_entries: 6
 Finish: 2023-12-25 10:20:21.552143
+------------------------------------------------------
+Started: 2023-12-25 12:34:33.421709
+Existing_entries: 849
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不是OpenAI也不是Google，这家估值20亿美元的小公司成了AI社区的最爱](https://www.36kr.com/p/2576013191865731)
+append_entries: 1
+Finish: 2023-12-25 12:34:33.985688
