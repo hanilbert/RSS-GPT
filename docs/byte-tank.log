@@ -5209,3 +5209,12 @@ Existing_entries: 22
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2023-12-25 01:22:03.352370
+------------------------------------------------------
+Started: 2023-12-25 04:23:02.838289
+Existing_entries: 22
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New York City Guide](http://lopespm.github.io/notes/2023/12/25/nyc.html)
+append_entries: 1
+Finish: 2023-12-25 04:23:03.386736

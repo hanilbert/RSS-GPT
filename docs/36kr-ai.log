@@ -5059,3 +5059,19 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [谷歌DeepMind联手复仇，Jeff Dean、Hassabis万字长文总结2023绝地反击](https://www.36kr.com/p/2572909851158150)
 append_entries: 1
 Finish: 2023-12-25 01:22:12.765598
+------------------------------------------------------
+Started: 2023-12-25 04:23:10.670210
+Existing_entries: 830
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李飞飞DeepMind全新“代码链”碾压CoT，大模型用Python代码推理，性能暴涨12%](https://www.36kr.com/p/2575509614749060)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达官方盘点2023年10大研究，“神经朗琪罗”秒变逼真大卫，用AI生成3D虚拟世界](https://www.36kr.com/p/2575509398693510)
+Append: [CMU权威对比Gemini，GPT-3和Mistral8×7B，GPT-3.5依旧拿捏Gemini，开源模型差距依然不小](https://www.36kr.com/p/2575509304305029)
+Append: [全栈式创新——云计算平台如何加速企业部署生成式AI](https://www.36kr.com/p/2575415753205125)
+Append: [36氪首发｜打造办公AI Agents，「AutoAgents」完成数千万元天使轮融资](https://www.36kr.com/p/2573982177814152)
+Append: [生成式 AI 并不是软件开发“神药”，开发者需警惕这三大幻觉](https://www.36kr.com/p/2574128959170180)
+append_entries: 6
+Finish: 2023-12-25 04:23:11.308887
