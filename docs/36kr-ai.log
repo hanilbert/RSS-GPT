@@ -5240,3 +5240,16 @@ Append: [6 小时学会玩迷宫，AI 机器人不仅打破人类记录，顺便
 Append: [Adobe 收购 Figma 失败意味着什么？](https://www.36kr.com/p/2577309399557513)
 append_entries: 3
 Finish: 2023-12-26 12:33:47.035822
+------------------------------------------------------
+Started: 2023-12-26 14:17:05.243293
+Existing_entries: 867
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英特尔定基调，联想、戴尔跟进布局，PC行业将驶向AI时代](https://www.36kr.com/p/2577419304902792)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [审视AI Agent：追捧、落地，和2024年的To B破局点](https://www.36kr.com/p/2577415992516485)
+Append: [Meta首席AI科学家杨立昆大胆预测：机器的智力最终会超越人类](https://www.36kr.com/p/2577375901836681)
+append_entries: 3
+Finish: 2023-12-26 14:17:06.069167
