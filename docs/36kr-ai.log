@@ -5191,3 +5191,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [2024年的生成式AI，到底该投什么？](https://www.36kr.com/p/2576980559667332)
 append_entries: 1
 Finish: 2023-12-26 04:22:53.602071
+------------------------------------------------------
+Started: 2023-12-26 06:24:12.290410
+Existing_entries: 856
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sam Altman的AB面：曾三次被公司“劝退”，硅谷之王如何练成](https://www.36kr.com/p/2576142076355968)
+append_entries: 1
+Finish: 2023-12-26 06:24:13.155295
