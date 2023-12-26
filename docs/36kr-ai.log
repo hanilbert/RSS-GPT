@@ -5200,3 +5200,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Sam Altman的AB面：曾三次被公司“劝退”，硅谷之王如何练成](https://www.36kr.com/p/2576142076355968)
 append_entries: 1
 Finish: 2023-12-26 06:24:13.155295
+------------------------------------------------------
+Started: 2023-12-26 08:22:58.874366
+Existing_entries: 857
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [智源张宏江对话谷歌卢一峰：什么才是大模型「皇冠上的明珠」？](https://www.36kr.com/p/2577087106279040)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [假扮卧底，骗AI泄露代码拯救人类？ 斯坦福小哥用GPT-4开发游戏惊呆网友](https://www.36kr.com/p/2577231648073350)
+Append: [AI主播剑指新闻播报版TikTok，「下一代媒体人」如何应对AI时代拷问](https://www.36kr.com/p/2576096922379913)
+append_entries: 3
+Finish: 2023-12-26 08:22:59.444468
