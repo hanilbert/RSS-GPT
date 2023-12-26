@@ -5227,3 +5227,16 @@ Append: [AI如何改变通信？一文了解5G与AI融合的必要性、融合�
 Append: [OpenAI微软被诉侵权，大模型时代下的版权问题该如何处理？](https://www.36kr.com/p/2577233329053825)
 append_entries: 4
 Finish: 2023-12-26 10:20:05.819460
+------------------------------------------------------
+Started: 2023-12-26 12:33:45.891265
+Existing_entries: 864
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023十大AI盘点：无所不能的大模型，正在建立未来新秩序](https://www.36kr.com/p/2577497114189700)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [6 小时学会玩迷宫，AI 机器人不仅打破人类记录，顺便把作弊也学了？](https://www.36kr.com/p/2577332384949634)
+Append: [Adobe 收购 Figma 失败意味着什么？](https://www.36kr.com/p/2577309399557513)
+append_entries: 3
+Finish: 2023-12-26 12:33:47.035822

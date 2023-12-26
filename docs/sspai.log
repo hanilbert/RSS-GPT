@@ -11070,3 +11070,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
 append_entries: 2
 Finish: 2023-12-26 10:19:55.689246
+------------------------------------------------------
+Started: 2023-12-26 12:33:35.528481
+Existing_entries: 379
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/post/85368)
+append_entries: 1
+Finish: 2023-12-26 12:33:35.978405
