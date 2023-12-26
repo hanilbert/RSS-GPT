@@ -5213,3 +5213,17 @@ Append: [假扮卧底，骗AI泄露代码拯救人类？ 斯坦福小哥用GPT-4
 Append: [AI主播剑指新闻播报版TikTok，「下一代媒体人」如何应对AI时代拷问](https://www.36kr.com/p/2576096922379913)
 append_entries: 3
 Finish: 2023-12-26 08:22:59.444468
+------------------------------------------------------
+Started: 2023-12-26 10:20:05.273726
+Existing_entries: 860
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [聚焦大模型轻量化和本地化部署，众数信科完成数千万Pre-A轮融资｜36氪首发](https://www.36kr.com/p/2577140159391107)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pika1.0全面开放测试，打响AI视频圣诞大战，网友脑洞大开一手体验](https://www.36kr.com/p/2577231848334980)
+Append: [AI如何改变通信？一文了解5G与AI融合的必要性、融合方式及应用场景](https://www.36kr.com/p/2576106726893187)
+Append: [OpenAI微软被诉侵权，大模型时代下的版权问题该如何处理？](https://www.36kr.com/p/2577233329053825)
+append_entries: 4
+Finish: 2023-12-26 10:20:05.819460

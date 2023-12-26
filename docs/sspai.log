@@ -11058,3 +11058,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
 append_entries: 1
 Finish: 2023-12-26 08:22:44.456574
+------------------------------------------------------
+Started: 2023-12-26 10:19:55.030187
+Existing_entries: 377
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
+append_entries: 2
+Finish: 2023-12-26 10:19:55.689246
