@@ -5317,3 +5317,15 @@ Existing_entries: 876
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-27 08:22:39.470441
+------------------------------------------------------
+Started: 2023-12-27 10:20:27.214194
+Existing_entries: 876
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克的xAI采用OpenAI类似公司结构，对股东回报不是第一关注项](https://www.36kr.com/p/2578752767337865)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [「运气使然」英伟达，压得英特尔喘不过气](https://www.36kr.com/p/2578714377724040)
+append_entries: 2
+Finish: 2023-12-27 10:20:27.942092
