@@ -5329,3 +5329,19 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [「运气使然」英伟达，压得英特尔喘不过气](https://www.36kr.com/p/2578714377724040)
 append_entries: 2
 Finish: 2023-12-27 10:20:27.942092
+------------------------------------------------------
+Started: 2023-12-27 12:33:54.410791
+Existing_entries: 878
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达暗讽英伟达运气好，GPU如何押中AI？](https://www.36kr.com/p/2578864418088581)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球最强「开源版Gemini」诞生，全能多模态模型Emu2登热榜，多项任务刷新SOTA](https://www.36kr.com/p/2578848237266562)
+Append: [80岁Postgres创始人、数据库领域“祖师爷”想颠覆数据库设计：不推翻下当前技术，不足以谈人生](https://www.36kr.com/p/2578848005154433)
+Append: [奥特曼新举惹怒开发者，ChatGPT插件被打入冷宫，暗示作者转向GPTs](https://www.36kr.com/p/2578847841511049)
+Append: [GPT-4 API曝出重大漏洞，15个样本微调，一句prompt秒生恶意代码供出私人信息](https://www.36kr.com/p/2578848285599362)
+Append: [微软「ChatGPT全家桶」上线安卓，GPT-4不登录免费玩，还内置GPT-4V、Turbo和第三方插件](https://www.36kr.com/p/2578847795078530)
+append_entries: 6
+Finish: 2023-12-27 12:33:55.009027
