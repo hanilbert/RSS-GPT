@@ -4963,3 +4963,12 @@ Existing_entries: 45
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2023-12-27 06:24:29.248793
+------------------------------------------------------
+Started: 2023-12-27 08:22:41.804757
+Existing_entries: 45
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [172 行路难，2023 年我们一起走过 12月27日 风雨共济长相伴，互助互勉同路人](https://youzhiyouxing.cn/materials/1589)
+append_entries: 1
+Finish: 2023-12-27 08:22:42.150488
