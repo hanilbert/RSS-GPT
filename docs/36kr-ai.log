@@ -5289,3 +5289,19 @@ Existing_entries: 870
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-27 02:27:23.842497
+------------------------------------------------------
+Started: 2023-12-27 04:22:29.514980
+Existing_entries: 870
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达或一举跃居半导体营收首位](https://www.36kr.com/p/2578440244782726)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023十大AI盘点：大模型正在建立新秩序](https://www.36kr.com/p/2578360125547904)
+Append: [AI大模型“国标”首批测试结果公布，人工智能成市场新焦点](https://www.36kr.com/p/2578281058854273)
+Append: [超越GPT4的捷径，被国产大模型找到了](https://www.36kr.com/p/2577792552838530)
+Append: [不用加大内存，iPhone也能运行端侧大模型了](https://www.36kr.com/p/2577609240700544)
+Append: [ChatGPT之外，美国大模型搞到什么程度了？](https://www.36kr.com/p/2577567830189698)
+append_entries: 6
+Finish: 2023-12-27 04:22:30.693425
