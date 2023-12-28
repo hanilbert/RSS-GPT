@@ -5425,3 +5425,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [OpenAI开发者大会：新一轮机器人革命终于要来了吗?](https://www.36kr.com/p/2516780338041094)
 append_entries: 1
 Finish: 2023-12-28 08:23:24.262118
+------------------------------------------------------
+Started: 2023-12-28 10:20:22.306608
+Existing_entries: 894
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [纽约时报送OpenAI、微软上被告：GPT-4输出结果与其作品有大量重复](https://www.36kr.com/p/2580109706618501)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不爽OpenAI的马斯克，决定亲自教Altman做AI公司](https://www.36kr.com/p/2579985593016456)
+append_entries: 2
+Finish: 2023-12-28 10:20:23.495692
