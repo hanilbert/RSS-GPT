@@ -5375,3 +5375,18 @@ Existing_entries: 884
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-27 22:17:54.562850
+------------------------------------------------------
+Started: 2023-12-28 01:19:15.433182
+Existing_entries: 884
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [氪金·行业观察｜大模型+知识库+Agent，为什么360先走出了大模型商业化？](https://www.36kr.com/p/2578884652934529)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [抖音对AIGC亮明牌，AI虚拟人带货或将面临最大危机...](https://www.36kr.com/p/2579077481488512)
+Append: [回顾2023：教育科技八大变革探路未来](https://www.36kr.com/p/2578998560122245)
+Append: [特斯拉机器人暴起伤人，突然袭击工程师](https://www.36kr.com/p/2579658153747841)
+Append: [拥抱AI的打工人](https://www.36kr.com/p/2577672949343616)
+append_entries: 5
+Finish: 2023-12-28 01:19:17.208133
