@@ -5396,3 +5396,17 @@ Existing_entries: 889
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-28 02:27:18.534759
+------------------------------------------------------
+Started: 2023-12-28 04:22:36.835354
+Existing_entries: 889
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [安卓版GPT-4免费平替上架，语音生图多模态全能白嫖，网友：别声张](https://www.36kr.com/p/2579868656264576)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一秒100张实时生成二次元老婆照，高吞吐低延迟低功耗](https://www.36kr.com/p/2579871801075334)
+Append: [不是大模型用不起，而是小模型更有性价比](https://www.36kr.com/p/2579771765663363)
+Append: [迈向2024，我们如何思考AI创业投资](https://www.36kr.com/p/2579733806556805)
+append_entries: 4
+Finish: 2023-12-28 04:22:37.680735
