@@ -5437,3 +5437,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [不爽OpenAI的马斯克，决定亲自教Altman做AI公司](https://www.36kr.com/p/2579985593016456)
 append_entries: 2
 Finish: 2023-12-28 10:20:23.495692
+------------------------------------------------------
+Started: 2023-12-28 12:34:22.391633
+Existing_entries: 896
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年工作场所的关键趋势：AI、元宇宙和聊天机器人](https://www.36kr.com/p/2580279988854663)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [上线三年市占率近80%， MasterGo （莫高设计）为何能从协同设计产品的竞争中突围？](https://www.36kr.com/p/2580240785647233)
+append_entries: 2
+Finish: 2023-12-28 12:34:23.126354
