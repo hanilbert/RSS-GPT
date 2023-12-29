@@ -6396,3 +6396,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [The Web is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 append_entries: 1
 Finish: 2023-12-29 01:10:34.500898
+------------------------------------------------------
+Started: 2023-12-29 02:25:03.462521
+Existing_entries: 274
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2023-12-29 02:25:05.159401
