@@ -11313,3 +11313,12 @@ Existing_entries: 390
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-29 08:22:20.798870
+------------------------------------------------------
+Started: 2023-12-29 10:20:47.122569
+Existing_entries: 390
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
+append_entries: 1
+Finish: 2023-12-29 10:20:47.662445
