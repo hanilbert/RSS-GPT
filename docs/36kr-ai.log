@@ -5518,3 +5518,17 @@ Append: [微软OpenAI决裂/Stability AI倒闭，新架构终结Transformer？�
 Append: [思谋科技总裁谢佶隽：变革前夕，500强产业老兵牵手初创独角兽｜36氪专访](https://www.36kr.com/p/2581133408085634)
 append_entries: 5
 Finish: 2023-12-29 06:24:49.468013
+------------------------------------------------------
+Started: 2023-12-29 08:22:32.645051
+Existing_entries: 905
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度话题：大模型落地的十大难题](https://www.36kr.com/p/2581412895317889)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [史上最大AI版权案深度分析，OpenAI必败，还是纽约时报胜率为0？](https://www.36kr.com/p/2581398264735112)
+Append: [史上首次，人形机器人敲响上市锣，优必选苦熬11年闯关成功](https://www.36kr.com/p/2581398042928521)
+Append: [2023年不着调科技盘点：今年的笑点都是AI给的](https://www.36kr.com/p/2581319163585928)
+append_entries: 4
+Finish: 2023-12-29 08:22:33.468257
