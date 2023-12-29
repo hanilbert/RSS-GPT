@@ -6448,3 +6448,9 @@ Append: [Another Project I Forgot About](https://rknight.me/blog/another-project
 Append: [Welcome to the Knight Club](https://rknight.me/blog/welcome-to-the-knight-club/)
 append_entries: 2
 Finish: 2023-12-29 16:25:21.258183
+------------------------------------------------------
+Started: 2023-12-29 18:22:29.456582
+Existing_entries: 276
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2023-12-29 18:22:31.741730
