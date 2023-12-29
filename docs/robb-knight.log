@@ -6387,3 +6387,12 @@ Existing_entries: 273
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-28 22:17:40.750815
+------------------------------------------------------
+Started: 2023-12-29 01:10:32.472916
+Existing_entries: 273
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Web is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
+append_entries: 1
+Finish: 2023-12-29 01:10:34.500898

@@ -5479,3 +5479,15 @@ Existing_entries: 898
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-28 22:17:50.961376
+------------------------------------------------------
+Started: 2023-12-29 01:10:47.534063
+Existing_entries: 898
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大厂加码海外AI布局：字节推出Coze，百度上线Meiya](https://www.36kr.com/p/2581074716616072)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI微软被起诉，《纽约时报》指控AI侵权，要求销毁侵权模型和训练数据](https://www.36kr.com/p/2580560490325380)
+append_entries: 2
+Finish: 2023-12-29 01:10:48.271887
