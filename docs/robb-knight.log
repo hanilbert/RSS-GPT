@@ -6438,3 +6438,13 @@ Existing_entries: 274
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-29 14:17:35.247344
+------------------------------------------------------
+Started: 2023-12-29 16:25:19.315595
+Existing_entries: 274
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Another Project I Forgot About](https://rknight.me/blog/another-project-i-forgot-about/)
+Append: [Welcome to the Knight Club](https://rknight.me/blog/welcome-to-the-knight-club/)
+append_entries: 2
+Finish: 2023-12-29 16:25:21.258183
