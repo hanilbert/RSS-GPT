@@ -11295,3 +11295,15 @@ Existing_entries: 388
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-29 04:22:09.585669
+------------------------------------------------------
+Started: 2023-12-29 06:24:38.007015
+Existing_entries: 388
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
+append_entries: 2
+Finish: 2023-12-29 06:24:38.706239

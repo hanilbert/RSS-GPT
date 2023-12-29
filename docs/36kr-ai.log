@@ -5503,3 +5503,18 @@ Existing_entries: 900
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-29 04:22:19.564635
+------------------------------------------------------
+Started: 2023-12-29 06:24:48.875915
+Existing_entries: 900
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“千行万业”，“千门万户”都是AI](https://www.36kr.com/p/2581171727507337)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [你的照片在哪儿拍的，AI一下子就能看出来](https://www.36kr.com/p/2580959442806403)
+Append: [智能体模拟二战和战国时代，用LLM模拟推演战争，会改变历史吗？](https://www.36kr.com/p/2581108362864264)
+Append: [微软OpenAI决裂/Stability AI倒闭，新架构终结Transformer？福布斯2024年AI十大终极预测](https://www.36kr.com/p/2581108035544710)
+Append: [思谋科技总裁谢佶隽：变革前夕，500强产业老兵牵手初创独角兽｜36氪专访](https://www.36kr.com/p/2581133408085634)
+append_entries: 5
+Finish: 2023-12-29 06:24:49.468013
