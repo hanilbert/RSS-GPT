@@ -11391,3 +11391,12 @@ Existing_entries: 392
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-30 08:21:32.715882
+------------------------------------------------------
+Started: 2023-12-30 10:18:39.484040
+Existing_entries: 392
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [放轻松 | 累了就休息，放松一下没关系](https://sspai.com/post/85288)
+append_entries: 1
+Finish: 2023-12-30 10:18:39.961056
