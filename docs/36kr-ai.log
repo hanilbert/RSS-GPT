@@ -5597,3 +5597,15 @@ Existing_entries: 916
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-30 02:26:54.944462
+------------------------------------------------------
+Started: 2023-12-30 04:22:38.409540
+Existing_entries: 916
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPU架构横扫风口，英伟达成为半导体行业的“幸运儿”](https://www.36kr.com/p/2582554730636937)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [实测Pika1.0，砸了3.9亿元，真实效果不及宣传｜产品观察](https://www.36kr.com/p/2581571099501953)
+append_entries: 2
+Finish: 2023-12-30 04:22:39.642241
