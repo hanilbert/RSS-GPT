@@ -4,12 +4,12 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>http://lopespm.github.io/</link>
 
+
 <item>
 <title>Make the meme transcend its host</title>
 <link>http://lopespm.github.io/notes/2023/12/31/meme-transcending-host.html</link>
 <guid>http://lopespm.github.io/notes/2023/12/31/meme-transcending-host.html</guid>
 <content:encoded><![CDATA[
-
 <p>There is an ephemeral nature to everything. That includes me, you and this blog. This blog is currently <a href="https://github.com/lopespm/lopespm.github.com">hosted in GitHub</a>, and nothing guarantees that after I’m long gone, or even before, GitHub might cease to exist. How to account for that?</p>
 
 <p>One way to keep these writings alive, would be to assign a third person with the task of keeping this establishment online. What happens when that person is gone though? It’s turtles all the way down.</p>
@@ -81,10 +81,8 @@
   </ol>
 </div>
 ]]></content:encoded>
-
 <pubDate>2023-12-31T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Job Safety in the AI Era</title>
 <link>http://lopespm.github.io/notes/2023/12/25/job_safety_in_ai_era.html</link>
