@@ -6538,3 +6538,13 @@ Existing_entries: 276
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-30 22:17:07.862141
+------------------------------------------------------
+Started: 2023-12-31 01:26:16.717197
+Existing_entries: 276
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Roast Potato Recipe](https://rknight.me/blog/roast-potato-recipe/)
+Append: [Letters with Kev Quirk](https://rknight.me/blog/letters-with-kev-quirk/)
+append_entries: 2
+Finish: 2023-12-31 01:26:18.900300
