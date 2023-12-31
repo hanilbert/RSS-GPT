@@ -5702,3 +5702,12 @@ Existing_entries: 919
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2023-12-31 10:19:05.676793
+------------------------------------------------------
+Started: 2023-12-31 12:33:22.021168
+Existing_entries: 919
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周硅谷发生了什么？｜OpenAI遭纽约时报起诉；安卓版Copilot上线；英伟达推中国定制新显卡](https://www.36kr.com/p/2584377889253001)
+append_entries: 1
+Finish: 2023-12-31 12:33:22.825159
