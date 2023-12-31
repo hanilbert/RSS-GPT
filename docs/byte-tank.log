@@ -5677,3 +5677,12 @@ Existing_entries: 24
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2023-12-31 12:33:12.938656
+------------------------------------------------------
+Started: 2023-12-31 14:16:13.281434
+Existing_entries: 24
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Make the meme transcend its host](http://lopespm.github.io/notes/2023/12/31/meme-transcending-host.html)
+append_entries: 1
+Finish: 2023-12-31 14:16:13.826710
