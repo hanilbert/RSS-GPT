@@ -11469,3 +11469,15 @@ Existing_entries: 394
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-31 08:21:50.175931
+------------------------------------------------------
+Started: 2023-12-31 10:18:47.266554
+Existing_entries: 394
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
+append_entries: 2
+Finish: 2023-12-31 10:18:48.011719
