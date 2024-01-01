@@ -5768,3 +5768,12 @@ Existing_entries: 921
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-01 06:25:48.023357
+------------------------------------------------------
+Started: 2024-01-01 08:24:09.902614
+Existing_entries: 921
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-5不会真正突破，24年AGI不会实现，全网AI大佬24年最全预测](https://www.36kr.com/p/2585693745784200)
+append_entries: 1
+Finish: 2024-01-01 08:24:10.864600
