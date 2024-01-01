@@ -5783,3 +5783,12 @@ Existing_entries: 922
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-01 10:21:02.545325
+------------------------------------------------------
+Started: 2024-01-01 12:34:50.581152
+Existing_entries: 922
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年最重要的趋势，可能影响你的工作](https://www.36kr.com/p/2585382868362629)
+append_entries: 1
+Finish: 2024-01-01 12:34:51.231843
