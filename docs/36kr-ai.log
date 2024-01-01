@@ -5753,3 +5753,12 @@ Existing_entries: 920
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-01 02:36:03.846590
+------------------------------------------------------
+Started: 2024-01-01 04:23:27.027719
+Existing_entries: 920
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [口述全球大模型这一年](https://www.36kr.com/p/2584625392657795)
+append_entries: 1
+Finish: 2024-01-01 04:23:27.989047
