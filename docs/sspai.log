@@ -11643,3 +11643,12 @@ Existing_entries: 400
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-02 12:34:52.667240
+------------------------------------------------------
+Started: 2024-01-02 14:17:41.835870
+Existing_entries: 400
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)
+append_entries: 1
+Finish: 2024-01-02 14:17:42.312219
