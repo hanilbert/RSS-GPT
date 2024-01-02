@@ -5870,3 +5870,19 @@ Append: [2024年，AI“魔盒”还能开出什么？](https://www.36kr.com/p/2
 Append: [60年首次，AI发现首批新抗生素，MIT重磅研究登Nature，人类有望对抗超级细菌](https://www.36kr.com/p/2582769238025863)
 append_entries: 5
 Finish: 2024-01-02 08:23:38.725706
+------------------------------------------------------
+Started: 2024-01-02 10:20:34.818203
+Existing_entries: 931
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [特斯拉机器人终于袭击人的背后](https://www.36kr.com/p/2587148352872578)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谁是大模型世界的第一个赢家？](https://www.36kr.com/p/2587245123609989)
+Append: [年度最热AI应用TOP 50，除了ChatGPT还有这么多宝藏](https://www.36kr.com/p/2587215171921284)
+Append: [文生视频下一站，Meta已经开始视频生视频了](https://www.36kr.com/p/2587194924934789)
+Append: [AI基金年终盘点：一文看懂2024年AI趋势](https://www.36kr.com/p/2587130727196032)
+Append: [隐退三年，身价4800亿元的Google创始人出面，亲自给Gemini写代码，还经常加班到凌晨一点](https://www.36kr.com/p/2587206405563778)
+append_entries: 6
+Finish: 2024-01-02 10:20:35.574574

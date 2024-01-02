@@ -11628,3 +11628,12 @@ Existing_entries: 399
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-02 08:23:24.588013
+------------------------------------------------------
+Started: 2024-01-02 10:20:22.875398
+Existing_entries: 399
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)
+append_entries: 1
+Finish: 2024-01-02 10:20:23.430637
