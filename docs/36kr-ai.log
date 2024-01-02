@@ -5886,3 +5886,15 @@ Append: [AI基金年终盘点：一文看懂2024年AI趋势](https://www.36kr.co
 Append: [隐退三年，身价4800亿元的Google创始人出面，亲自给Gemini写代码，还经常加班到凌晨一点](https://www.36kr.com/p/2587206405563778)
 append_entries: 6
 Finish: 2024-01-02 10:20:35.574574
+------------------------------------------------------
+Started: 2024-01-02 12:35:04.563811
+Existing_entries: 937
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Reddit 再战上市：热梗、散户、迷因如何顺应AI潮流](https://www.36kr.com/p/2587372101150340)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI员工说提示词没用，这话没错、但也不全对](https://www.36kr.com/p/2587372432942471)
+append_entries: 2
+Finish: 2024-01-02 12:35:19.238910
