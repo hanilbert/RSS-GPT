@@ -5972,3 +5972,12 @@ Append: [大模型时代“得数据者得天下”，但数据侵权如何界�
 Append: [GPT-4变笨，回答新问题性能太差，想保持水准只能不断训练新模型](https://www.36kr.com/p/2588298021616262)
 append_entries: 7
 Finish: 2024-01-03 04:22:50.320040
+------------------------------------------------------
+Started: 2024-01-03 06:24:35.275421
+Existing_entries: 953
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“GPT-4变傻”不只是OpenAI的苦恼，所有大模型与人类交往越久就会越蠢？](https://www.36kr.com/p/2588381648845700)
+append_entries: 1
+Finish: 2024-01-03 06:24:35.837912

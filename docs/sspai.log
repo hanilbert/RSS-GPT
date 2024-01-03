@@ -11700,3 +11700,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [提示词工程的问题视角](https://sspai.com/post/85484)
 append_entries: 1
 Finish: 2024-01-03 04:22:37.928113
+------------------------------------------------------
+Started: 2024-01-03 06:24:23.030301
+Existing_entries: 403
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-03 06:24:23.449368
