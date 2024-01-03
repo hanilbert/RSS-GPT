@@ -11724,3 +11724,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
 append_entries: 1
 Finish: 2024-01-03 10:20:31.877640
+------------------------------------------------------
+Started: 2024-01-03 12:35:15.368950
+Existing_entries: 405
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [十五道冬日暖锅，助你度过此刻严寒](https://sspai.com/post/85173)
+append_entries: 1
+Finish: 2024-01-03 12:35:15.843959
