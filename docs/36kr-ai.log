@@ -5928,3 +5928,16 @@ Existing_entries: 939
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-02 22:18:07.240381
+------------------------------------------------------
+Started: 2024-01-03 01:21:18.196492
+Existing_entries: 939
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从文生图到文生视频，AI行业卷疯了](https://www.36kr.com/p/2587477392860800)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“文心、通义和混元”们的2023：道阻且长，仍向远方](https://www.36kr.com/p/2587471431542408)
+Append: [AI创业公司扎堆义乌“淘金”](https://www.36kr.com/p/2587462457173377)
+append_entries: 3
+Finish: 2024-01-03 01:21:18.997500
