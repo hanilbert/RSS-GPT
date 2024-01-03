@@ -5981,3 +5981,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [“GPT-4变傻”不只是OpenAI的苦恼，所有大模型与人类交往越久就会越蠢？](https://www.36kr.com/p/2588381648845700)
 append_entries: 1
 Finish: 2024-01-03 06:24:35.837912
+------------------------------------------------------
+Started: 2024-01-03 08:23:21.119556
+Existing_entries: 954
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI，打工人年底冲刺KPI的救命稻草](https://www.36kr.com/p/2588521123117704)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [盘点2023年七大AI探索](https://www.36kr.com/p/2588522487619456)
+append_entries: 2
+Finish: 2024-01-03 08:23:21.763043
