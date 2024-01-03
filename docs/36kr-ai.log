@@ -5941,3 +5941,17 @@ Append: [“文心、通义和混元”们的2023：道阻且长，仍向远方]
 Append: [AI创业公司扎堆义乌“淘金”](https://www.36kr.com/p/2587462457173377)
 append_entries: 3
 Finish: 2024-01-03 01:21:18.997500
+------------------------------------------------------
+Started: 2024-01-03 02:28:58.655118
+Existing_entries: 942
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [原钉钉副总裁创业杀入AI Agent赛道，获亿元融资 | 36氪独家](https://www.36kr.com/p/2588269475707522)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-4抽象推理PK人类差距巨大，多模态远不如纯文本，AGI火花难以独立燃烧](https://www.36kr.com/p/2588129662139014)
+Append: [OpenAI年收入破16亿美元，AI元年英伟达暴涨239%+2024年AI大事件预测](https://www.36kr.com/p/2588138428627589)
+Append: [ChatGPT文明模拟器再上线，一键穿越回火山爆发当天的庞贝古城](https://www.36kr.com/p/2588141169932932)
+append_entries: 4
+Finish: 2024-01-03 02:28:59.316105
