@@ -5993,3 +5993,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [盘点2023年七大AI探索](https://www.36kr.com/p/2588522487619456)
 append_entries: 2
 Finish: 2024-01-03 08:23:21.763043
+------------------------------------------------------
+Started: 2024-01-03 10:20:43.120730
+Existing_entries: 956
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型套壳祛魅：质疑套壳，理解套壳](https://www.36kr.com/p/2588582145735302)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年度AI应用大赏：AI新浪潮不只属于大公司](https://www.36kr.com/p/2588663607074693)
+Append: [谷歌大模型一出闹剧，揭开中文数据荒](https://www.36kr.com/p/2588587833752195)
+Append: [多模态大模型即将涌现，仿真人还远吗？](https://www.36kr.com/p/2588588005014148)
+Append: [AI识别出地震先兆信号？机器学习发现数据神秘关联，人类有望预测地震](https://www.36kr.com/p/2588549238160264)
+append_entries: 5
+Finish: 2024-01-03 10:20:43.908523
