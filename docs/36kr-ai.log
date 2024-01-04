@@ -6111,3 +6111,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [福布斯Top50，仅1年估值高达50亿，这家AI法律公司令人震惊......](https://www.36kr.com/p/2587619125813124)
 append_entries: 2
 Finish: 2024-01-04 10:21:12.976637
+------------------------------------------------------
+Started: 2024-01-04 12:34:48.158071
+Existing_entries: 972
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [收入增长10倍的Harvey融资8000万美元，为什么法律AI的商业化走得这么快？](https://www.36kr.com/p/2590158411865985)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [钉钉个人版上线，推AI写真作画、法律助手等多款AI工具，支持打造专属Agent](https://www.36kr.com/p/2590109603724160)
+append_entries: 2
+Finish: 2024-01-04 12:34:50.024795
