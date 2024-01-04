@@ -6074,3 +6074,15 @@ Existing_entries: 965
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-04 04:22:55.101670
+------------------------------------------------------
+Started: 2024-01-04 06:25:09.464313
+Existing_entries: 965
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [9秒被骗245万，AI诈骗正在爆发](https://www.36kr.com/p/2589563382987657)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta 新模型：如果我每14秒生成一个高清视频，好莱坞的各位要如何应对](https://www.36kr.com/p/2589707384634247)
+append_entries: 2
+Finish: 2024-01-04 06:25:10.168452
