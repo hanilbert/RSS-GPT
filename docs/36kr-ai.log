@@ -6056,3 +6056,15 @@ Existing_entries: 963
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-04 01:21:38.587126
+------------------------------------------------------
+Started: 2024-01-04 02:30:04.005477
+Existing_entries: 963
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [过去一年，ChatGPT吃了多少官司？](https://www.36kr.com/p/2589617975180165)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [周鸿祎放话All in AI，“360智脑”用数据打脸“老周”](https://www.36kr.com/p/2588940541786759)
+append_entries: 2
+Finish: 2024-01-04 02:30:04.603558
