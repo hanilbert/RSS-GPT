@@ -6086,3 +6086,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Meta 新模型：如果我每14秒生成一个高清视频，好莱坞的各位要如何应对](https://www.36kr.com/p/2589707384634247)
 append_entries: 2
 Finish: 2024-01-04 06:25:10.168452
+------------------------------------------------------
+Started: 2024-01-04 08:23:27.979877
+Existing_entries: 967
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [斯坦福炒虾机器人爆火全网，华人团队成本22万元，能做满汉全席还会洗碗](https://www.36kr.com/p/2589969603738244)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [硅谷精英信奉的「AI 神教」，到底要干什么？](https://www.36kr.com/p/2589948592306818)
+Append: [引领人工智能时代，世界需要新的图灵测试](https://www.36kr.com/p/2547901754743169)
+append_entries: 3
+Finish: 2024-01-04 08:23:28.633682
