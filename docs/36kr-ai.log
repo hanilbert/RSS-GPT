@@ -6123,3 +6123,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [钉钉个人版上线，推AI写真作画、法律助手等多款AI工具，支持打造专属Agent](https://www.36kr.com/p/2590109603724160)
 append_entries: 2
 Finish: 2024-01-04 12:34:50.024795
+------------------------------------------------------
+Started: 2024-01-04 14:18:05.222352
+Existing_entries: 974
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年冲出23家新晋AIGC独角兽：最高估值千亿，6家来自中国](https://www.36kr.com/p/2590260961934216)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [抢人、抢数据，AI原生应用“难产”困局](https://www.36kr.com/p/2590233786022789)
+append_entries: 2
+Finish: 2024-01-04 14:18:05.904900
