@@ -6099,3 +6099,15 @@ Append: [硅谷精英信奉的「AI 神教」，到底要干什么？](https://w
 Append: [引领人工智能时代，世界需要新的图灵测试](https://www.36kr.com/p/2547901754743169)
 append_entries: 3
 Finish: 2024-01-04 08:23:28.633682
+------------------------------------------------------
+Started: 2024-01-04 10:21:12.088091
+Existing_entries: 970
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国AIGC广告营销产业全景报告：五大变革四大影响，生成式AI让只为「一个人」打造广告成为可能](https://www.36kr.com/p/2589977989823369)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [福布斯Top50，仅1年估值高达50亿，这家AI法律公司令人震惊......](https://www.36kr.com/p/2587619125813124)
+append_entries: 2
+Finish: 2024-01-04 10:21:12.976637
