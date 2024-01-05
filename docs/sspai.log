@@ -11862,3 +11862,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
 append_entries: 1
 Finish: 2024-01-05 02:30:33.374325
+------------------------------------------------------
+Started: 2024-01-05 04:23:10.112189
+Existing_entries: 411
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)
+append_entries: 1
+Finish: 2024-01-05 04:23:10.790419
