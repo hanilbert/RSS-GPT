@@ -6239,3 +6239,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [科技“春晚”披上AI外衣，AI PC或成为CES 2024主旋律](https://www.36kr.com/p/2591562776649604)
 append_entries: 2
 Finish: 2024-01-05 12:35:14.683518
+------------------------------------------------------
+Started: 2024-01-05 14:18:06.183710
+Existing_entries: 990
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果大模型，不藏了](https://www.36kr.com/p/2591635772743559)
+append_entries: 1
+Finish: 2024-01-05 14:18:06.798893
