@@ -6171,3 +6171,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [大模型竞速2024：服务、应用、MaaS](https://www.36kr.com/p/2590359106894727)
 append_entries: 2
 Finish: 2024-01-05 01:22:03.998529
+------------------------------------------------------
+Started: 2024-01-05 02:30:44.070484
+Existing_entries: 978
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开发速率飙升20倍，GPT Pilot明星项目登Github热榜，从0开始构建AI](https://www.36kr.com/p/2591018295344003)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI视频何时才能跑出一个“Midjourney”?](https://www.36kr.com/p/2590984793897862)
+append_entries: 2
+Finish: 2024-01-05 02:30:44.638044

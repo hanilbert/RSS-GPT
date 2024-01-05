@@ -11853,3 +11853,12 @@ Existing_entries: 410
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-05 01:21:48.554597
+------------------------------------------------------
+Started: 2024-01-05 02:30:32.959192
+Existing_entries: 410
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
+append_entries: 1
+Finish: 2024-01-05 02:30:33.374325
