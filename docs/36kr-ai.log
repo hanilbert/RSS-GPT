@@ -6227,3 +6227,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI 裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://www.36kr.com/p/2591464499722884)
 append_entries: 1
 Finish: 2024-01-05 10:20:51.548784
+------------------------------------------------------
+Started: 2024-01-05 12:35:14.036089
+Existing_entries: 988
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-5开源？那只是奥特曼的“烟幕弹”](https://www.36kr.com/p/2591615869958791)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [科技“春晚”披上AI外衣，AI PC或成为CES 2024主旋律](https://www.36kr.com/p/2591562776649604)
+append_entries: 2
+Finish: 2024-01-05 12:35:14.683518
