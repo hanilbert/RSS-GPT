@@ -11883,3 +11883,12 @@ Existing_entries: 412
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-05 08:23:33.477049
+------------------------------------------------------
+Started: 2024-01-05 10:20:39.339158
+Existing_entries: 412
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
+append_entries: 1
+Finish: 2024-01-05 10:20:39.772706

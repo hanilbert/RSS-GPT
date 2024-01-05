@@ -6218,3 +6218,12 @@ Append: [GPT Store下周赶场，OpenAI应用大爆发箭在弦上，最全GPT B
 Append: [谷歌家务机器人单挑斯坦福炒虾机器人，端茶倒水逗猫，连甩三连弹开打](https://www.36kr.com/p/2591281208769159)
 append_entries: 3
 Finish: 2024-01-05 08:23:48.548314
+------------------------------------------------------
+Started: 2024-01-05 10:20:51.092201
+Existing_entries: 987
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI 裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://www.36kr.com/p/2591464499722884)
+append_entries: 1
+Finish: 2024-01-05 10:20:51.548784
