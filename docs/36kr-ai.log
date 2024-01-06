@@ -6302,3 +6302,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [单日下跌25%，Mobileye撑不起自动驾驶了吗？](https://www.36kr.com/p/2591760052140932)
 append_entries: 2
 Finish: 2024-01-06 06:23:22.844767
+------------------------------------------------------
+Started: 2024-01-06 08:22:21.253226
+Existing_entries: 993
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI画中国退休老太太微博大火：「傻鹅之王」和快乐小狗挑战GPT-4想象力极限](https://www.36kr.com/p/2592716554353542)
+append_entries: 1
+Finish: 2024-01-06 08:22:22.118843
