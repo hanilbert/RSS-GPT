@@ -6479,3 +6479,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI元年，人工智能引领万象更新](https://www.36kr.com/p/2595334918561671)
 append_entries: 2
 Finish: 2024-01-08 08:25:15.850663
+------------------------------------------------------
+Started: 2024-01-08 10:21:46.177410
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI赛道，融资退潮](https://www.36kr.com/p/2595784669805185)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年，To B资本航船走向哪了？](https://www.36kr.com/p/2595758644083337)
+Append: [大模型无限流式输入推理飙升46%，国产开源加速「全家桶」，打破多轮对话长度限制](https://www.36kr.com/p/2595782901906055)
+Append: [谷歌DeepMind最新研究：对抗性攻击对人类也有效，人类和AI都会把花瓶认成猫](https://www.36kr.com/p/2595770382432904)
+append_entries: 4
+Finish: 2024-01-08 10:21:50.301486
