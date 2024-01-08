@@ -6502,3 +6502,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [游戏版 ChatGPT，要用 AI 实现 NPC 自由](https://www.36kr.com/p/2595833982811012)
 append_entries: 1
 Finish: 2024-01-08 12:36:36.530384
+------------------------------------------------------
+Started: 2024-01-08 14:18:53.275553
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [张一鸣被骂“魔王”，AI 与人类如何“价值对齐”引关注](https://www.36kr.com/p/2595905783528324)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不拿OpenAI股份的CEO，靠这27家创企钓大鱼，还投资马斯克公司](https://www.36kr.com/p/2595894060120706)
+Append: [小模型当打之年？2024年AI预言“一网打尽”](https://www.36kr.com/p/2595865211035524)
+append_entries: 3
+Finish: 2024-01-08 14:18:53.950698
