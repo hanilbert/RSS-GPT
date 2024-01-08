@@ -6467,3 +6467,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [网易有道CEO周枫：今年将是AI超级应用元年，用户愿意为AI付费](https://www.36kr.com/p/2591002825226881)
 append_entries: 1
 Finish: 2024-01-08 06:25:40.073305
+------------------------------------------------------
+Started: 2024-01-08 08:25:14.979295
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [下一代AI半导体竞争激烈，新兴企业追赶英伟达](https://www.36kr.com/p/2595443663731586)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI元年，人工智能引领万象更新](https://www.36kr.com/p/2595334918561671)
+append_entries: 2
+Finish: 2024-01-08 08:25:15.850663
