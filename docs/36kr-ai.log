@@ -6458,3 +6458,12 @@ Append: [OpenAI 们的未来，可能得靠《哈利·波特》来「拯救」](
 Append: [AI的星星之火必将燎原](https://www.36kr.com/p/2595151048482944)
 append_entries: 6
 Finish: 2024-01-08 04:24:34.400524
+------------------------------------------------------
+Started: 2024-01-08 06:25:39.618117
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [网易有道CEO周枫：今年将是AI超级应用元年，用户愿意为AI付费](https://www.36kr.com/p/2591002825226881)
+append_entries: 1
+Finish: 2024-01-08 06:25:40.073305
