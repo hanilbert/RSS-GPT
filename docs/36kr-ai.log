@@ -6422,3 +6422,17 @@ Existing_entries: 995
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-07 22:18:18.527885
+------------------------------------------------------
+Started: 2024-01-08 01:24:01.506067
+Existing_entries: 995
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大翻车，斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://www.36kr.com/p/2595119116909449)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI测出你几岁死亡？Transformer「算命」登Nature子刊，成功预测意外死亡](https://www.36kr.com/p/2595115703646857)
+Append: [2024 CSRankings全球计算机科学排名发布，AI领域中国高校霸榜，清华排名第一](https://www.36kr.com/p/2594147206150787)
+Append: [AI会让人类失去人性么？](https://www.36kr.com/p/2551863780415875)
+append_entries: 4
+Finish: 2024-01-08 01:24:02.278189
