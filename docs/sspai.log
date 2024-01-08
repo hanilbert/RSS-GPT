@@ -12123,3 +12123,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [辅酶 Q10 对人体健康极其重要，但「补一补」或许没那么必要？](https://sspai.com/post/85322)
 append_entries: 1
 Finish: 2024-01-08 10:21:35.534281
+------------------------------------------------------
+Started: 2024-01-08 12:36:16.885350
+Existing_entries: 420
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85663)
+append_entries: 1
+Finish: 2024-01-08 12:36:17.275446

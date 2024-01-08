@@ -6493,3 +6493,12 @@ Append: [大模型无限流式输入推理飙升46%，国产开源加速「全�
 Append: [谷歌DeepMind最新研究：对抗性攻击对人类也有效，人类和AI都会把花瓶认成猫](https://www.36kr.com/p/2595770382432904)
 append_entries: 4
 Finish: 2024-01-08 10:21:50.301486
+------------------------------------------------------
+Started: 2024-01-08 12:36:36.174454
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [游戏版 ChatGPT，要用 AI 实现 NPC 自由](https://www.36kr.com/p/2595833982811012)
+append_entries: 1
+Finish: 2024-01-08 12:36:36.530384
