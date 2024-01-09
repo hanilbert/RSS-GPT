@@ -12183,3 +12183,12 @@ Existing_entries: 422
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-09 04:23:16.487475
+------------------------------------------------------
+Started: 2024-01-09 06:24:44.665177
+Existing_entries: 422
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [自建 UniFi 内网监控面板，家庭网络动态尽在掌握](https://sspai.com/post/85481)
+append_entries: 1
+Finish: 2024-01-09 06:24:45.268358
