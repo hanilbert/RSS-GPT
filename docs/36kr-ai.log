@@ -6604,3 +6604,12 @@ Append: [生成式AI：手机厂商高端梦最后的希望](https://www.36kr.co
 Append: [生成式AI这一年：从群雄乱战到生态确立，世界已被改变](https://www.36kr.com/p/2597034729808007)
 append_entries: 6
 Finish: 2024-01-09 12:36:56.988633
+------------------------------------------------------
+Started: 2024-01-09 14:18:51.148469
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI要向出版商付费，终究还是没有免费的午餐](https://www.36kr.com/p/2597315561011843)
+append_entries: 1
+Finish: 2024-01-09 14:18:51.681737
