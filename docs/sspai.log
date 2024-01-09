@@ -12162,3 +12162,12 @@ Existing_entries: 421
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-08 22:17:31.109971
+------------------------------------------------------
+Started: 2024-01-09 01:23:07.672611
+Existing_entries: 421
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等](https://sspai.com/post/85670)
+append_entries: 1
+Finish: 2024-01-09 01:23:08.213263
