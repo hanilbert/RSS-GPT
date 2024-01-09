@@ -6569,3 +6569,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [在Web3里「养」AI男友，链游《HIM》能攻略女玩家吗？](https://www.36kr.com/p/2596768071613315)
 append_entries: 2
 Finish: 2024-01-09 06:25:00.741796
+------------------------------------------------------
+Started: 2024-01-09 08:24:16.379898
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NVIDIA狂飙AI ，市值暴涨，PC性能提升60倍，40系SUPER显卡发布，4899元碾压上代旗舰](https://www.36kr.com/p/2596929921890945)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [连续5年营收下滑，三六零能否凭借大模型重回千亿市值？](https://www.36kr.com/p/2596817880932488)
+Append: [教7岁小孩搞懂ChatGPT](https://www.36kr.com/p/2596804134330501)
+append_entries: 3
+Finish: 2024-01-09 08:24:17.061824
