@@ -6588,3 +6588,19 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-09 10:21:26.866794
+------------------------------------------------------
+Started: 2024-01-09 12:36:56.237122
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI大模型，让手机真正开始“智能”](https://www.36kr.com/p/2597301970484105)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [手机厂商狂卷大模型，机构称AI手机3年内将占比40%](https://www.36kr.com/p/2597287359740804)
+Append: [GPT-5前瞻，艾伦人工智能研究所发布最强多模态模型，预测GPT-5新能力](https://www.36kr.com/p/2597209300056709)
+Append: [「钱景无限」的Agent，究竟是谁的机会？](https://www.36kr.com/p/2597140138991747)
+Append: [生成式AI：手机厂商高端梦最后的希望](https://www.36kr.com/p/2597040269720448)
+Append: [生成式AI这一年：从群雄乱战到生态确立，世界已被改变](https://www.36kr.com/p/2597034729808007)
+append_entries: 6
+Finish: 2024-01-09 12:36:56.988633
