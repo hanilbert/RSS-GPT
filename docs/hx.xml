@@ -4,6 +4,155 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+<item>
+<title>博客一周年的一些记录</title>
+<link>https://1q43.blog/post/1895</link>
+<guid>https://1q43.blog/post/1895</guid>
+<content:encoded><![CDATA[
+
+<p>2022 年 12 月 10 日，这个博客上线了。</p>
+
+
+
+<p>本来到 2023 年 12 月的时候，我应该写个小节，但刚好赶上年末工作最忙的时候而且当时 2023 年的游记没有写完，所以就一直拖到了现在才写。</p>
+
+
+
+<h2 class="wp-block-heading">写作回顾</h2>
+
+
+
+<p>在过去一年里，我在这个博客上一共发布了 31 篇文章和 6.7 万字。其中字数的统计是由 Jetpack 提供的，似乎并不是很准确。</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-4833" height="280" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/01/image-698432-02lZp1pM.png?resize=1024%2C280&#038;ssl=1" width="1024" /></figure>
+
+
+
+<p>在更新频度上，基本做到了两周一更，除了折腾明日故乡的 8 月，每个月都有一篇文章更新。</p>
+
+
+
+<p>这些稿件，累计获得了约 10 万的 PageViews 和 1000 个左右的订阅数。关于这方面，我并不是很在意，因为如果我真的在意我的内容是否被更多人看到，那我根本就不应该在这个时代写博客，应该继续去自媒体平台作妖。</p>
+
+
+
+<p>但对于想要订阅博客的人，我在今年年中增加了 Telegram 的订阅方式。因为我发现，相比起 X 和 RSS 阅读器，Telegram 已经成为墙外简中用户获取信息的首要渠道。今年，我也曾<a href="https://m.okjike.com/originalPosts/64d5e2f61e74dff79262ccb1?s=eyJ1IjoiNTk1NjAxZmFmZGM5ZTEwMDEyM2NjNzBjIn0%3D">提到</a>过：目前墙外的简中用户群，已经大到了即便你的内容与政治、色情完全无关，也可以拥有与墙内相同的浏览量。</p>
+
+
+
+<p>2023 年我没有发布年度稿件，一方面是今年的社会本身处于一种剧烈变动的时期，另一方面是我自己也在酝酿一些人生规划上的变动（详见《<a href="https://1q43.blog/post/1906">仅仅十年的职场生涯</a>》）。</p>
+
+
+
+<p>2023 年流量最好的五篇文章是：</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content"><a href="https://1q43.blog/post/766">垄断的困境</a></blockquote>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content"><a href="https://1q43.blog/post/1906">仅仅十年的职场生涯</a></blockquote>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content"><a href="https://1q43.blog/post/1353">20 年老过敏性鼻炎患者的最全备忘录</a></blockquote>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content"><a href="https://1q43.blog/post/1028">对比 ChatGPT，人的优势是偏见、狭隘与认知缺陷</a></blockquote>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content"><a href="https://1q43.blog/post/539">2023 消费如果真的不行，也别全赖经济原因</a></blockquote>
+</div></figure>
+
+
+
+<p>怎么说呢，毫无规律可言。</p>
+
+
+
+<h2 class="wp-block-heading">技术回顾</h2>
+
+
+
+<p>这个博客上线之处，我就制作了目前这个高仿微信公众号的文章页面，并将它复制给了@<a href="https://pakyum.blog/">PakuyM</a> 和 @<a href="https://mvread.blog" rel="noreferrer noopener" target="_blank">汐笺</a>。在一年间，这个模版进行了几次小的更新，增加了夜间模式、文章结尾的赞赏以及首页的文章置顶功能。</p>
+
+
+
+<p>2023 年没能完成的一件事是建立一个 Self-host 的微博，因为我不想单独建立一个系统，想融合进 WordPress 里。在 2024 年 1 月，我购买了 Pix 主题，并通过 Multiple Themes 插件将它的片刻功能融合到了现有的博客里，算是一个勉强看用的 <a href="https://1q43.blog/active-feed">Self-host 微博</a>。但目前还有很多问题，比如没有分页器，没有日期筛选，没有搜索（实际是与 Jetpack 搜索不兼容），预计在 2024 年第一季度解决这些问题。</p>
+
+
+
+<p>年中开始，放弃了 Google Analytics，<a href="https://1q43.blog/post/1179">启用了 Microsoft Clarity</a>。GA 虽然强大，但如果自己不会配置比较麻烦，但 Clarity 提供的一些默认的统计维度非常适合博客使用，我也在文章里有写到。</p>
+
+
+
+<p>年末的时候，在<a href="https://1q43.blog/follow-me">订阅</a>页面新增了一个<a href="https://blog.lyc.sh/wp-post-heatmap/">文章热力图插件</a>。</p>
+
+
+
+<p>2023 年未能实现的另一个功能，是对 RSS 订阅用户的统计。通过 RSS 获取内容是博客的主要阅读方式，但 RSS 订户往往非常分布式。使用在线 RSS 阅读平台（比如 Inoreader），是最好统计的。直接去平台上查看自己的 Feed 有多少订户就可以了。但是仍有很多读者使用本地 RSS 阅读器直接订阅博客，这个部分目前没有任何现成的方案可以统计。</p>
+
+
+
+<p>一种可能的方案，是在 WordPress 的 Feed 中加入 0 像素图片，通过图片被调用次数来推算有多少 RSS 订阅数，但这个方法还有待验证。</p>
+
+
+
+<p>今年年内，博客遭遇了两次比较长（2 小时）左右的宕机，这两次宕机都是服务商故障，与我的博客本身没有任何关系，在宕机期间我也不能做任何抢修，只能等着服务商解决。但我也并不是太在意，毕竟我的博客流量小，更新频度低。如果不是监控提醒，我根本注意不到博客宕机，我的读者就更不会在意这 4 小时看不了了。</p>
+
+
+
+<p>我在最初底层服务商选型时，选择了上古虚拟主机提供商 Dreamhost（我上小学时它就在做这行了）最便宜的一款套餐，一次付了 3 年，目前这个博客每个月的运行成本只有 20 元人民币左右。Dreamhost 都没嫌我穷，我有什么资格嫌弃它不稳定呢。</p>
+
+
+
+<h2 class="wp-block-heading">言之无物的价值</h2>
+
+
+
+<p>2023 年的更新频度还是略低，自我总结下来，就是还没有适应言之无物的输出。</p>
+
+
+
+<p>所谓言之无物，就是不追求任何信息增量，不为读者服务，甚至不为自己的思考服务，以一种记录的模式将当下记录下来。或者用白话来说，就是小学生作文。</p>
+
+
+
+<p>言之无物的价值会在多年以后显现，你不需要在当下将答案和事情讲明白，只需要将那时的事件、感官和感受等经验性的东西记录下来，</p>
+
+
+
+<p>我在<a href="https://1q43.blog/post/329">建立博客之初的目标之一</a>，就是降低写作门槛从而提高言之无物的输出。因为，与微信公众号和头条相比，独立博客最大的优势是它的版面是无限的。</p>
+
+
+
+<p>想要适应这种写作节奏是有困难的，和我同期被我撺掇后建立博客的两位朋友中 PakuyM 的最后更新停止在了 2023 年 4 月，汐笺倒是仍在更新，但主要是在更新暴论，让我们看看他能坚持多久。</p>
+
+
+
+<p>无法坚持无价值输出的原因之一，可能是我自己勉强算个 influencer，这意味着即刻与微博消化了我大部分即时的创作冲动——也就是我突然想到了什么可能只能写几百字或一千字左右的“灵感”，直接发即刻和微博就不需要发博客了。</p>
+
+
+
+<p>这也是我决定不管方案是否完美，先把 Self-host 微博搞上的原因。因为我建博客的目的，主要是为了将我的公开输出整理到一个地方。既然无价值的博客暂时还是写不出来，那就先把无价值的短文搬到博客来，也算是一种曲线救国吧。</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 03:38:15 +0000</pubDate>
+<pubDate>Wed, 10 Jan 2024 03:38:15 +0000</pubDate>
+</item>
 
 <item>
 <title>2023年游记（6）：乌鲁木齐、喀什、莎车县</title>
