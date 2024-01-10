@@ -6716,3 +6716,16 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-10 14:18:46.102795
+------------------------------------------------------
+Started: 2024-01-10 16:25:42.269637
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [钉钉发布全新7.5版本，上线人人可用AI助理，还可在线敲木鱼 | 最前线](https://www.36kr.com/p/2598597708217224)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [主流品牌为何纷纷押注AIPC？](https://www.36kr.com/p/2598724521655168)
+Append: [新玩家加码 能否打破文旅格局？](https://www.36kr.com/p/2598725934414464)
+append_entries: 3
+Finish: 2024-01-10 16:25:43.023868
