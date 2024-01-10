@@ -6698,3 +6698,15 @@ Append: [环球AI现状：世界并不总是平的](https://www.36kr.com/p/25984
 Append: [裁掉上千人、再为“幸存者”配聊天机器人 ，这家大厂的新型“降本”玩砸了](https://www.36kr.com/p/2598387261258376)
 append_entries: 7
 Finish: 2024-01-10 10:21:12.349287
+------------------------------------------------------
+Started: 2024-01-10 12:36:32.640247
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI风口下的创业者，人力缩减一半，靠AI开了几十家店](https://www.36kr.com/p/2598689187560073)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年，大厂们又开始卷社交了](https://www.36kr.com/p/2598673638465416)
+append_entries: 2
+Finish: 2024-01-10 12:36:33.476889
