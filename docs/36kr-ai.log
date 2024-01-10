@@ -6637,3 +6637,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-09 22:18:42.052625
+------------------------------------------------------
+Started: 2024-01-10 01:23:49.812165
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [专注电商及营销场景，AIGC智能设计平台「Nolibox」获数千万元A轮融资 | 36氪首发](https://www.36kr.com/p/2596250121419401)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [900亿AI巨头官宣分拆上市](https://www.36kr.com/p/2597965205666435)
+Append: [OpenAI开撕纽约时报：故意引导ChatGPT得出抄袭结论](https://www.36kr.com/p/2597941436414600)
+Append: [OpenAI开年王炸，GPT商店本周上线，谁的AI第一桶金？](https://www.36kr.com/p/2597547812052867)
+append_entries: 4
+Finish: 2024-01-10 01:23:50.349174
