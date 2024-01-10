@@ -6666,3 +6666,12 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-10 04:23:30.205285
+------------------------------------------------------
+Started: 2024-01-10 06:25:18.117705
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [撕掉虚拟人「营业脸」，DreamTalk开源释机会](https://www.36kr.com/p/2598249163242114)
+append_entries: 1
+Finish: 2024-01-10 06:25:18.798267
