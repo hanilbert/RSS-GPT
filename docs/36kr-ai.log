@@ -6821,3 +6821,19 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-11 12:36:34.988519
+------------------------------------------------------
+Started: 2024-01-11 14:19:01.296009
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达市值超9万亿，生成式AI浪潮助力势不可挡？](https://www.36kr.com/p/2599834615684997)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI最先砸了程序员饭碗？90%码农认为找工作变难，大学生也要调整职业规划](https://www.36kr.com/p/2600146263603843)
+Append: [GPT应用商店正式上线：好用但生态非常混乱，还有人刷榜](https://www.36kr.com/p/2600171228592776)
+Append: [HBM“狂飙”，算力突围](https://www.36kr.com/p/2600071244446342)
+Append: [招聘效率提升200%，融资千万美元的Moonhub如何用AI挖掘“隐藏人才”？](https://www.36kr.com/p/2599895784333441)
+Append: [带你云逛CES2024，AI赋予了硬件什么新花样](https://www.36kr.com/p/2599903998107524)
+append_entries: 6
+Finish: 2024-01-11 14:19:02.190906
