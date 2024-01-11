@@ -6760,3 +6760,20 @@ Append: [在AI这件事上，Steam认怂了](https://www.36kr.com/p/259889089834
 Append: [GPT store上线，我们帮大家测试了官方推荐的六款，代写论文确实好用](https://www.36kr.com/p/2599417996229248)
 append_entries: 3
 Finish: 2024-01-11 01:23:24.076296
+------------------------------------------------------
+Started: 2024-01-11 02:32:17.913443
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [12家AI芯片创企，盯上大模型生意](https://www.36kr.com/p/2599588878793600)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT应用商店终上线，全网GPTs超300万，和OpenAI分钱时代来了](https://www.36kr.com/p/2599563423529604)
+Append: [Ai Pin之后又来一款AI掌机，售价1400一天卖万台，网友吐槽：我为什么不直接用手机？](https://www.36kr.com/p/2599559847918211)
+Append: [国产手机大模型第一战：购买基座大模型，拼硬件和生态](https://www.36kr.com/p/2599466359863945)
+Append: [Google兵法，如何反杀微软和OpenAI？](https://www.36kr.com/p/2598776195342469)
+Append: [2024乍到，会成为小模型的当打之年吗？](https://www.36kr.com/p/2598936183726215)
+Append: [PerplexityAI获英伟达、贝索斯参投7360万美元融资，AI时代的搜索能颠覆谷歌么？](https://www.36kr.com/p/2598681020283521)
+append_entries: 7
+Finish: 2024-01-11 02:32:18.747114
