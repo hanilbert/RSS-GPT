@@ -6747,3 +6747,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-10 22:18:36.329008
+------------------------------------------------------
+Started: 2024-01-11 01:23:23.552365
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年收入同比增长50%，思必驰完成新一轮首期2亿元融资 | 36氪首发](https://www.36kr.com/p/2597084637821572)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在AI这件事上，Steam认怂了](https://www.36kr.com/p/2598890898340483)
+Append: [GPT store上线，我们帮大家测试了官方推荐的六款，代写论文确实好用](https://www.36kr.com/p/2599417996229248)
+append_entries: 3
+Finish: 2024-01-11 01:23:24.076296
