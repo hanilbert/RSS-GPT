@@ -6861,3 +6861,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-11 22:18:47.318361
+------------------------------------------------------
+Started: 2024-01-12 01:23:50.033758
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [PC DIY狂卷CES 2024：AI带来第二春？](https://www.36kr.com/p/2600141342613379)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人类输给了AI，这一次，事关蛋白质改造](https://www.36kr.com/p/2600430212446852)
+Append: [GPT Store 的未来可能不是 App Store](https://www.36kr.com/p/2600274938739592)
+append_entries: 3
+Finish: 2024-01-12 01:23:51.296638
