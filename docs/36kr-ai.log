@@ -6900,3 +6900,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [2023年狂赚16亿美元后，OpenAI还会继续火下去吗？](https://www.36kr.com/p/2601054598609796)
 append_entries: 2
 Finish: 2024-01-12 04:24:06.529102
+------------------------------------------------------
+Started: 2024-01-12 06:25:38.435095
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-01-12 06:25:38.782120
