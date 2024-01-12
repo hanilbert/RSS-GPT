@@ -12426,3 +12426,12 @@ Existing_entries: 433
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-12 02:32:37.813179
+------------------------------------------------------
+Started: 2024-01-12 04:23:50.940559
+Existing_entries: 433
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
+append_entries: 1
+Finish: 2024-01-12 04:23:51.339218

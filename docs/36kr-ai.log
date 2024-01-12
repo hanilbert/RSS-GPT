@@ -6888,3 +6888,15 @@ Append: [A16Z独家投资，3D技术公司「Luma AI」完成4300万美元B轮�
 Append: [OpenAI想打造生态，GPTer只想把用户骗到自己的网站去](https://www.36kr.com/p/2600953070402180)
 append_entries: 4
 Finish: 2024-01-12 02:32:51.453403
+------------------------------------------------------
+Started: 2024-01-12 04:24:05.684791
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [两月超300万GPTs，深扒全球Top 100 GPTs，有哪些财富密码？](https://www.36kr.com/p/2601099967117956)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023年狂赚16亿美元后，OpenAI还会继续火下去吗？](https://www.36kr.com/p/2601054598609796)
+append_entries: 2
+Finish: 2024-01-12 04:24:06.529102
