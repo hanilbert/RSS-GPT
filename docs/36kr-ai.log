@@ -7005,3 +7005,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [36氪专访｜数字艺术张海涛：关注机器人艺术时代中的伦理道德](https://www.36kr.com/p/2601421020248711)
 append_entries: 1
 Finish: 2024-01-13 08:22:59.101489
+------------------------------------------------------
+Started: 2024-01-13 10:20:04.774453
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CES落幕，我们记录了聚光灯外的18个瞬间](https://www.36kr.com/p/2602814085298823)
+append_entries: 1
+Finish: 2024-01-13 10:20:05.184624
