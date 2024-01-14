@@ -12603,3 +12603,12 @@ Existing_entries: 438
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-14 08:22:04.332793
+------------------------------------------------------
+Started: 2024-01-14 10:19:34.021155
+Existing_entries: 438
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)
+append_entries: 1
+Finish: 2024-01-14 10:19:34.476890
