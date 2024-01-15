@@ -7171,3 +7171,12 @@ Append: [AI看图猜位置，准确率超90%，斯坦福最新PIGEON模型：40%
 Append: [马云的新预言：吴泳铭借“AI电商”翻盘？](https://www.36kr.com/p/2605312520829572)
 append_entries: 6
 Finish: 2024-01-15 06:26:19.781690
+------------------------------------------------------
+Started: 2024-01-15 08:25:35.149697
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [阿里云弹性计算新升级：CPU上跑推理，模型起建成本降低50%｜最前线](https://www.36kr.com/p/2605400806455937)
+append_entries: 1
+Finish: 2024-01-15 08:25:35.543767
