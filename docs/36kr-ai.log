@@ -7137,3 +7137,15 @@ Append: [当AI变成“守法公民”，为何用户反而不爱它了](https:/
 Append: [市值之王易主，微软超越苹果，意味着什么？](https://www.36kr.com/p/2604576768277380)
 append_entries: 5
 Finish: 2024-01-15 01:25:53.634914
+------------------------------------------------------
+Started: 2024-01-15 02:35:33.136506
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“AI PC”的希望或许不在新款处理器，而在于老电脑](https://www.36kr.com/p/2602876334996360)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI机器人席卷CES，OpenAI暗自解除ChatGPT军事应用限制，天网来了？](https://www.36kr.com/p/2602634891246210)
+append_entries: 2
+Finish: 2024-01-15 02:35:34.505676
