@@ -7180,3 +7180,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [阿里云弹性计算新升级：CPU上跑推理，模型起建成本降低50%｜最前线](https://www.36kr.com/p/2605400806455937)
 append_entries: 1
 Finish: 2024-01-15 08:25:35.543767
+------------------------------------------------------
+Started: 2024-01-15 10:22:41.452260
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型伪装「潜伏特工」学会欺骗，OpenAI劲敌重磅研究震惊马斯克](https://www.36kr.com/p/2605440683015046)
+append_entries: 1
+Finish: 2024-01-15 10:22:41.851891
