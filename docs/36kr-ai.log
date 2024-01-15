@@ -7122,3 +7122,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-14 22:18:14.959790
+------------------------------------------------------
+Started: 2024-01-15 01:25:52.515916
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [手机大模型能否撑起“全村的希望”？](https://www.36kr.com/p/2603911849681024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“没个AI大模型，都不好意思开手机发布会了”](https://www.36kr.com/p/2603867800484745)
+Append: [人气爆火美女网红竟是AI？视频照片几乎无破绽，亿万富豪都想和她约会](https://www.36kr.com/p/2604004782160773)
+Append: [当AI变成“守法公民”，为何用户反而不爱它了](https://www.36kr.com/p/2604347787164551)
+Append: [市值之王易主，微软超越苹果，意味着什么？](https://www.36kr.com/p/2604576768277380)
+append_entries: 5
+Finish: 2024-01-15 01:25:53.634914
