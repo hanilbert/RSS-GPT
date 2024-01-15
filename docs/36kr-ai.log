@@ -7155,3 +7155,19 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-15 04:24:09.243440
+------------------------------------------------------
+Started: 2024-01-15 06:26:18.938330
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI触发内部赛马，百度重返电商战局](https://www.36kr.com/p/2605357040352128)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT Store上线即乱：山寨、刷量、违禁内容层出](https://www.36kr.com/p/2605281722874496)
+Append: [精确指出特定事件发生时间，字节&复旦大学多模态大模型解读视频太香了](https://www.36kr.com/p/2605281918974595)
+Append: [谷歌AI通过图灵测试，大模型医生来了？GPT-4竟诊断出难倒17个医生的怪病](https://www.36kr.com/p/2605303496948610)
+Append: [AI看图猜位置，准确率超90%，斯坦福最新PIGEON模型：40%预测误差不到25公里](https://www.36kr.com/p/2605303512840832)
+Append: [马云的新预言：吴泳铭借“AI电商”翻盘？](https://www.36kr.com/p/2605312520829572)
+append_entries: 6
+Finish: 2024-01-15 06:26:19.781690
