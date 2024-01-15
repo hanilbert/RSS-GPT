@@ -7201,3 +7201,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI在操作系统里复制自己，这一天还是来了](https://www.36kr.com/p/2605632096238213)
 append_entries: 2
 Finish: 2024-01-15 12:36:48.259915
+------------------------------------------------------
+Started: 2024-01-15 14:18:59.614626
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI伴侣“占领”GPT商店，但这可能并不是件坏事](https://www.36kr.com/p/2605783581719173)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [N卡AI视频功能上新，老黄或是在下一盘大棋](https://www.36kr.com/p/2605783437507462)
+Append: [21%程序员感觉到失业危机、AI岗成HR招聘难题，调查了13000名开发者后揭晓2024年技术招聘现状](https://www.36kr.com/p/2605769925016200)
+Append: [2024CES新发现，终端侧生成式AI开始大行其道](https://www.36kr.com/p/2605770606033799)
+append_entries: 4
+Finish: 2024-01-15 14:19:00.983797
