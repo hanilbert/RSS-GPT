@@ -7189,3 +7189,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [大模型伪装「潜伏特工」学会欺骗，OpenAI劲敌重磅研究震惊马斯克](https://www.36kr.com/p/2605440683015046)
 append_entries: 1
 Finish: 2024-01-15 10:22:41.851891
+------------------------------------------------------
+Started: 2024-01-15 12:36:47.070062
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [当人工智能有了意识，然后呢？](https://www.36kr.com/p/2605672188787330)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI在操作系统里复制自己，这一天还是来了](https://www.36kr.com/p/2605632096238213)
+append_entries: 2
+Finish: 2024-01-15 12:36:48.259915
