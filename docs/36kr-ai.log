@@ -7251,3 +7251,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI让硅谷裁员潮新年继续，谷歌、亚马逊、Instagram卷入](https://www.36kr.com/p/2605916548053638)
 append_entries: 2
 Finish: 2024-01-16 01:23:29.056675
+------------------------------------------------------
+Started: 2024-01-16 02:32:12.531133
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用AI大模型破局，e签宝、上上签、法大大急寻“长胜密码”](https://www.36kr.com/p/2605916725000836)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI的颠覆性威胁，投行如何应对？](https://www.36kr.com/p/2606558159682435)
+Append: [AI独角兽二度递表港交所](https://www.36kr.com/p/2606566970538628)
+append_entries: 3
+Finish: 2024-01-16 02:32:14.174569
