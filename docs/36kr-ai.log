@@ -7264,3 +7264,17 @@ Append: [AI的颠覆性威胁，投行如何应对？](https://www.36kr.com/p/26
 Append: [AI独角兽二度递表港交所](https://www.36kr.com/p/2606566970538628)
 append_entries: 3
 Finish: 2024-01-16 02:32:14.174569
+------------------------------------------------------
+Started: 2024-01-16 04:23:23.156652
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [1000亿，开年全球最大并购诞生了](https://www.36kr.com/p/2606784287226760)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024，AI芯片的三场关键战事](https://www.36kr.com/p/2606776307834760)
+Append: [沃尔玛也玩起了AI：在CES上展示无人机等新零售技术](https://www.36kr.com/p/2606666223443844)
+Append: [数百家初创公司，没撑过AI爆发式增长的2023年](https://www.36kr.com/p/2605840124853128)
+append_entries: 4
+Finish: 2024-01-16 04:23:24.001786
