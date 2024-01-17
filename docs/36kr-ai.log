@@ -7387,3 +7387,22 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-17 08:24:56.113292
+------------------------------------------------------
+Started: 2024-01-17 10:21:47.080706
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI行业研报：全球银行业大模型技术标准即将来临？](https://www.36kr.com/p/2608418943836034)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI PC热再现CES2024，行业求解落地路线](https://www.36kr.com/p/2608472719029765)
+Append: [《纽约时报》诉OpenAI侵权搞错了对象：人工智能是机会，不是威胁](https://www.36kr.com/p/2608418924918018)
+Append: [OpenAI像素级抄袭好莱坞IP，反手开撕《纽约时报》，LeCun舌战网友疑似站队支持](https://www.36kr.com/p/2608483000382978)
+Append: [Stability AI开年首个大模型：专写代码，支持18种编程语言，上下文100K，苹果笔记本离线就能跑](https://www.36kr.com/p/2608482418144768)
+Append: [用大模型帮程序员找Bug，中科院剖析102篇论文总结出这些方案](https://www.36kr.com/p/2608482264937735)
+Append: [巨头入局，阴霾渐散，6家智能驾驶公司推荐 | 红利公司盘点](https://www.36kr.com/p/2608491404703232)
+Append: [ICLR接收结果出炉，有人提出异议：论文稍微超过9页，就被拒了？？](https://www.36kr.com/p/2608482070410760)
+Append: [拒绝裁员风险，5家稳定挣钱的机器人公司盘点｜职升机头等舱计划](https://www.36kr.com/p/2608466184631555)
+append_entries: 9
+Finish: 2024-01-17 10:21:47.943833
