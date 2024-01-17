@@ -7345,3 +7345,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-16 22:18:52.948834
+------------------------------------------------------
+Started: 2024-01-17 01:24:01.423984
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [这个苹果年度 AI 应用，为什么活不过一年？](https://www.36kr.com/p/2607370754422024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软Copilot Pro来了：个人用户也能在Word里用GPT-4，20美元/月](https://www.36kr.com/p/2607553047229955)
+append_entries: 2
+Finish: 2024-01-17 01:24:02.034845
