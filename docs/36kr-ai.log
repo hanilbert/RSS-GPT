@@ -7363,3 +7363,15 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-17 02:32:45.303071
+------------------------------------------------------
+Started: 2024-01-17 04:24:09.543253
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [风口上也没飞起来的猪](https://www.36kr.com/p/2607275521407877)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [站在AGI拐点，重新想象老年生活](https://www.36kr.com/p/2607333588941703)
+append_entries: 2
+Finish: 2024-01-17 04:24:10.392779
