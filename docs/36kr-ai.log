@@ -7456,3 +7456,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-17 22:19:04.300679
+------------------------------------------------------
+Started: 2024-01-18 01:22:58.776957
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Stability AI发布全新代码模型Stable Code 3B，媲美70亿Code Llama，没GPU也能跑](https://www.36kr.com/p/2608895379420425)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nature重磅：做高中生奥数题，AI接近人类金牌选手了](https://www.36kr.com/p/2608930995729922)
+Append: [AI电商，暗流涌动](https://www.36kr.com/p/2608672174568962)
+append_entries: 3
+Finish: 2024-01-18 01:22:59.541014
