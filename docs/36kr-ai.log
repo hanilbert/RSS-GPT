@@ -7500,3 +7500,17 @@ Append: [奥数能力金牌级：DeepMind几何推理模型登上Nature，代码
 Append: [AI的未来需要能源突破？OpenAI创始人力挺核聚变](https://www.36kr.com/p/2609554713769220)
 append_entries: 3
 Finish: 2024-01-18 06:25:30.242785
+------------------------------------------------------
+Started: 2024-01-18 08:23:51.915008
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [论学手艺，波士顿动力机器人可不是他们的对手](https://www.36kr.com/p/2609746375865609)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI抢攻人类奥赛金牌，DeepMind数学模型做对25道IMO几何题，GPT-4惨败得0分](https://www.36kr.com/p/2609649192285701)
+Append: [三星能用AI手机赢回苹果吗？](https://www.36kr.com/p/2609789192254720)
+Append: [人工智能正在抢走翻译的“饭碗”](https://www.36kr.com/p/2609789167613440)
+append_entries: 4
+Finish: 2024-01-18 08:23:52.451495
