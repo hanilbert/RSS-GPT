@@ -7523,3 +7523,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [谷歌数学AI登Nature：IMO金牌几何水平，定理证明超越1978年吴文俊法](https://www.36kr.com/p/2609889784395269)
 append_entries: 1
 Finish: 2024-01-18 10:22:13.214394
+------------------------------------------------------
+Started: 2024-01-18 12:36:12.602502
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-01-18 12:36:12.780041
