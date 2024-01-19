@@ -7625,3 +7625,17 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-19 10:21:48.244195
+------------------------------------------------------
+Started: 2024-01-19 12:36:26.481482
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta AI意外成功，助小扎爬出元宇宙大坑，却被曝对FAIR毫不知情](https://www.36kr.com/p/2611290693917060)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [小扎All in 开源AGI：正训练Llama 3，年底将有35万块H100](https://www.36kr.com/p/2611290245453956)
+Append: [煮咖啡只是热身，人形机器人要去宝马工厂上班了](https://www.36kr.com/p/2611278320408705)
+Append: [出海北美，中国厂商撕掉低价标签 | 焦点分析](https://www.36kr.com/p/2611227880691848)
+append_entries: 4
+Finish: 2024-01-19 12:36:27.216670
