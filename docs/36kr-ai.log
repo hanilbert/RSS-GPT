@@ -7587,3 +7587,17 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-19 02:33:33.125470
+------------------------------------------------------
+Started: 2024-01-19 04:23:52.361377
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI成三星S24最大亮点，能否逆袭iPhone在此一举？](https://www.36kr.com/p/2610176634183555)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [扎克伯格宣战AGI：Llama 3训练中，今年要囤35万块H100，砸近百亿美元](https://www.36kr.com/p/2610975657073029)
+Append: [三星大模型慢半拍](https://www.36kr.com/p/2610878207139972)
+Append: [ConvNet与Transformer谁更强？Meta评测4个领先视觉模型，LeCun转赞](https://www.36kr.com/p/2610322413688966)
+append_entries: 4
+Finish: 2024-01-19 04:23:53.274315
