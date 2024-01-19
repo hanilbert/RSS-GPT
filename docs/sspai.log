@@ -12981,3 +12981,15 @@ Existing_entries: 440
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-19 12:36:13.251349
+------------------------------------------------------
+Started: 2024-01-19 14:18:26.212693
+Existing_entries: 440
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)
+append_entries: 2
+Finish: 2024-01-19 14:18:26.947129

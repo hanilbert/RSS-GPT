@@ -7639,3 +7639,12 @@ Append: [煮咖啡只是热身，人形机器人要去宝马工厂上班了](htt
 Append: [出海北美，中国厂商撕掉低价标签 | 焦点分析](https://www.36kr.com/p/2611227880691848)
 append_entries: 4
 Finish: 2024-01-19 12:36:27.216670
+------------------------------------------------------
+Started: 2024-01-19 14:18:39.325886
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI搜索Perplexity来了，谷歌搜索真正有了对手](https://www.36kr.com/p/2611471927302532)
+append_entries: 1
+Finish: 2024-01-19 14:18:39.975753
