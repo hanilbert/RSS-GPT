@@ -7566,3 +7566,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-18 22:18:59.561333
+------------------------------------------------------
+Started: 2024-01-19 01:24:09.112330
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [三行代码无损加速40%，尤洋团队AI训练加速器入选ICLR Oral论文](https://www.36kr.com/p/2610323233888387)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马毅LeCun谢赛宁曝出多模态LLM重大缺陷，开创性研究显著增强视觉理解能力](https://www.36kr.com/p/2610321219426433)
+Append: [我的大模型创业这一年：追过风口，跌过跟头](https://www.36kr.com/p/2610259787456641)
+Append: [美科技公司大裁员背后：押注AI引发新一轮组织变革](https://www.36kr.com/p/2610230129858695)
+Append: [GPT-5不叫GPT-5？OpenAI CEO曝出AGI即将来临，重点押注核聚变](https://www.36kr.com/p/2610320414841224)
+append_entries: 5
+Finish: 2024-01-19 01:24:09.968821
