@@ -13686,3 +13686,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-01-19 14:18:23.648288
+------------------------------------------------------
+Started: 2024-01-19 16:25:14.464514
+Existing_entries: 237
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [[使用讨论][沉浸式翻译插件]哪个翻译引擎最好用？(英译中 日译中)](https://meta.appinn.net/t/topic/51833)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-01-19 16:25:17.725397
