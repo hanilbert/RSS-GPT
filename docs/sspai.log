@@ -13122,3 +13122,12 @@ Existing_entries: 443
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-21 08:22:43.511185
+------------------------------------------------------
+Started: 2024-01-21 10:20:10.746474
+Existing_entries: 443
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)
+append_entries: 1
+Finish: 2024-01-21 10:20:11.255406
