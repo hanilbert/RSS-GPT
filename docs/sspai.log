@@ -13203,3 +13203,12 @@ Existing_entries: 446
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-22 08:25:44.759489
+------------------------------------------------------
+Started: 2024-01-22 10:21:56.782738
+Existing_entries: 446
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [功能追踪 03：年度重磅产品上线，Notion Calendar 终于来了，它怎么用，好用吗？](https://sspai.com/post/85941)
+append_entries: 1
+Finish: 2024-01-22 10:21:57.216196

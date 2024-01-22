@@ -7869,3 +7869,19 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-22 08:25:57.777347
+------------------------------------------------------
+Started: 2024-01-22 10:22:09.582933
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-5被5万张H100卡脖子，Altman急筹数十亿美元，欲取代英伟达建起AI芯片帝国](https://www.36kr.com/p/2615336857376896)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [亚马逊再次动刀，Review机制发生大变革](https://www.36kr.com/p/2615322386225545)
+Append: [OpenAI联合创始人Andrej Karpathy：以自动驾驶为例，谈谈AGI](https://www.36kr.com/p/2615295900916104)
+Append: [纽约时报掐架OpenAI：为什么这场对决将影响人类的命运？](https://www.36kr.com/p/2615263649668993)
+Append: [周鸿祎傅盛：相逢大模型，一笑泯恩仇](https://www.36kr.com/p/2615269428076423)
+Append: [傅盛周鸿祎同台泯恩仇，发布单卡可部署的百亿模型 | 最前线](https://www.36kr.com/p/2615258299554176)
+append_entries: 6
+Finish: 2024-01-22 10:22:10.170483
