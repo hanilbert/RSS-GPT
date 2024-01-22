@@ -7885,3 +7885,19 @@ Append: [周鸿祎傅盛：相逢大模型，一笑泯恩仇](https://www.36kr.c
 Append: [傅盛周鸿祎同台泯恩仇，发布单卡可部署的百亿模型 | 最前线](https://www.36kr.com/p/2615258299554176)
 append_entries: 6
 Finish: 2024-01-22 10:22:10.170483
+------------------------------------------------------
+Started: 2024-01-22 12:38:03.326139
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [都是AI惹的祸？硅谷大厂新一轮裁员已超7万人](https://www.36kr.com/p/2615645084096644)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-5，奥特曼最新剧透](https://www.36kr.com/p/2615647207118979)
+Append: [微博官方推出的回复机器人，骂起人来比谁都狠](https://www.36kr.com/p/2615619972946306)
+Append: [月薪4万的“关键”新兴岗位：研究如何向AI发出专业提问](https://www.36kr.com/p/2615606977862016)
+Append: [谷歌2024新年目标曝光：一边做地表最强AI，一边裁更多员工](https://www.36kr.com/p/2615337073498244)
+Append: [我们用3000多道测试题，帮你找到了最聪明的大模型](https://www.36kr.com/p/2615384072460674)
+append_entries: 6
+Finish: 2024-01-22 12:38:03.913138
