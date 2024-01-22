@@ -13188,3 +13188,12 @@ Existing_entries: 445
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-22 04:24:16.106547
+------------------------------------------------------
+Started: 2024-01-22 06:26:24.072862
+Existing_entries: 445
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结](https://sspai.com/post/85883)
+append_entries: 1
+Finish: 2024-01-22 06:26:24.453627

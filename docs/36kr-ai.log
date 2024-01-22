@@ -7850,3 +7850,16 @@ Append: [Stability AI杀回来了：视频生成新Demo效果惊人，网友：�
 Append: [月入过万只需用ChatGPT建个网站？AI创业博主在线教学](https://www.36kr.com/p/2615074607814792)
 append_entries: 6
 Finish: 2024-01-22 04:24:35.069022
+------------------------------------------------------
+Started: 2024-01-22 06:26:42.241883
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI存在信任问题，区块链能提供帮助吗？](https://www.36kr.com/p/2611558232874880)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Llama 2打败GPT-4，Meta让大模型自我奖励自迭代，再证合成数据是LLM终局](https://www.36kr.com/p/2615077768435842)
+Append: [世界首款电驱机器人练“空翻”，单挑波士顿动力Atlas，还会煮咖啡拉花](https://www.36kr.com/p/2615077850323330)
+append_entries: 3
+Finish: 2024-01-22 06:26:42.982507
