@@ -7901,3 +7901,16 @@ Append: [谷歌2024新年目标曝光：一边做地表最强AI，一边裁更�
 Append: [我们用3000多道测试题，帮你找到了最聪明的大模型](https://www.36kr.com/p/2615384072460674)
 append_entries: 6
 Finish: 2024-01-22 12:38:03.913138
+------------------------------------------------------
+Started: 2024-01-22 14:19:40.747387
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI手机或促进市场复苏，并有望成为差异化的关键](https://www.36kr.com/p/2615709948451206)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [软色情、假官方、刷单横行，GPT Store“开门黑”](https://www.36kr.com/p/2615681326242182)
+Append: [GPT4儿童玩具99美元带回家](https://www.36kr.com/p/2615609320970368)
+append_entries: 3
+Finish: 2024-01-22 14:19:41.685760
