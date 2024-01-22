@@ -7914,3 +7914,12 @@ Append: [软色情、假官方、刷单横行，GPT Store“开门黑”](https:
 Append: [GPT4儿童玩具99美元带回家](https://www.36kr.com/p/2615609320970368)
 append_entries: 3
 Finish: 2024-01-22 14:19:41.685760
+------------------------------------------------------
+Started: 2024-01-22 16:24:50.033251
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人形机器人真要落地了，“赛博保姆”开年震圈，创企融资订单拿到手软](https://www.36kr.com/p/2615717124053381)
+append_entries: 1
+Finish: 2024-01-22 16:24:50.392268
