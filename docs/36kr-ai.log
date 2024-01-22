@@ -7834,3 +7834,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-22 02:36:37.285467
+------------------------------------------------------
+Started: 2024-01-22 04:24:34.161498
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型自我奖励：Meta让Llama2自己给自己微调，性能超越了GPT-4](https://www.36kr.com/p/2612408585951367)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“大白”走进现实，生成式AI机器人重新定义陪伴](https://www.36kr.com/p/2612471100479876)
+Append: [小米华为Vivo理想一起发了篇论文，想要给AI Agent定个规矩](https://www.36kr.com/p/2615091799758979)
+Append: [GPT-4V惨败，CV大神谢赛宁新作：V*重磅“视觉搜索”算法让LLM理解力逼近人类](https://www.36kr.com/p/2615077475948936)
+Append: [Stability AI杀回来了：视频生成新Demo效果惊人，网友：一致性超群](https://www.36kr.com/p/2615075494680967)
+Append: [月入过万只需用ChatGPT建个网站？AI创业博主在线教学](https://www.36kr.com/p/2615074607814792)
+append_entries: 6
+Finish: 2024-01-22 04:24:35.069022
