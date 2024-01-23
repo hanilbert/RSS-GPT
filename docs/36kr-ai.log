@@ -7986,3 +7986,19 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI PC未免有些太过乐观了](https://www.36kr.com/p/2616636486623360)
 append_entries: 1
 Finish: 2024-01-23 08:25:02.772136
+------------------------------------------------------
+Started: 2024-01-23 10:21:27.679986
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [靠AIGC翻身？美图净利暴涨约2倍](https://www.36kr.com/p/2616987231836551)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI 消灭软件工程师？](https://www.36kr.com/p/2616872395610245)
+Append: [GPT-4击败华尔街？最新研究：选股回报超40%](https://www.36kr.com/p/2616827729090691)
+Append: [交互式AI百舸争流，声通科技要再次破题实现IPO？](https://www.36kr.com/p/2616838188654471)
+Append: [特斯拉FSD V12在美推送，AI算法黑箱端到端控制，摒弃人类规则程序](https://www.36kr.com/p/2616792675719300)
+Append: [「哄哄模拟器」24小时爆火，70万网友在线哄赛博女友，10亿token一天烧完](https://www.36kr.com/p/2616770651347073)
+append_entries: 6
+Finish: 2024-01-23 10:21:33.505294
