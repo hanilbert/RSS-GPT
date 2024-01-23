@@ -8002,3 +8002,18 @@ Append: [特斯拉FSD V12在美推送，AI算法黑箱端到端控制，摒弃�
 Append: [「哄哄模拟器」24小时爆火，70万网友在线哄赛博女友，10亿token一天烧完](https://www.36kr.com/p/2616770651347073)
 append_entries: 6
 Finish: 2024-01-23 10:21:33.505294
+------------------------------------------------------
+Started: 2024-01-23 12:37:18.497943
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [剧透GPT-5，物色芯片厂，2024年的Sam Altman已经火力全开，只因不敢停下来](https://www.36kr.com/p/2617115086608519)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [特斯拉AI司机正式上线，红绿灯消防车全识别，雨夜还能正常跑](https://www.36kr.com/p/2617137101625729)
+Append: [智谱AI狂对标OpenAI，有勇气没实力？](https://www.36kr.com/p/2617059028556160)
+Append: [先赢不是赢，英伟达和ChatGPT还能垄断AI多久？](https://www.36kr.com/p/2617009772681604)
+Append: [跨年AI应用指南：有人获30万美元年薪新工作，GPTs可能彻底改变人类社会](https://www.36kr.com/p/2617007455606916)
+append_entries: 5
+Finish: 2024-01-23 12:37:19.467569
