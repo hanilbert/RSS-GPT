@@ -7947,3 +7947,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-23 01:25:05.947626
+------------------------------------------------------
+Started: 2024-01-23 02:34:06.494790
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球首次，国产纯电驱机器人打破波士顿动力空翻“专利”](https://www.36kr.com/p/2615928388884613)
+append_entries: 1
+Finish: 2024-01-23 02:34:06.897477
