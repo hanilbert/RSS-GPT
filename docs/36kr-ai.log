@@ -7956,3 +7956,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [全球首次，国产纯电驱机器人打破波士顿动力空翻“专利”](https://www.36kr.com/p/2615928388884613)
 append_entries: 1
 Finish: 2024-01-23 02:34:06.897477
+------------------------------------------------------
+Started: 2024-01-23 04:23:46.376750
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型，还是救不了困境中的AI企业](https://www.36kr.com/p/2616678301196169)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [和特斯拉竞速、能站立、会开门...... 明星四足轮腿机器人要商业化了](https://www.36kr.com/p/2616607014852744)
+Append: [闷声造出75万大军，亚马逊员工要被机器人杀光了](https://www.36kr.com/p/2616603259984006)
+Append: [AI狂飙，谁是中国独角兽背后的「超级买家」？](https://www.36kr.com/p/2616599506902912)
+Append: [硅谷AI人才抢夺战：OpenAI开最高100万刀年包，谷歌撒大额股票激励](https://www.36kr.com/p/2616654973655430)
+append_entries: 5
+Finish: 2024-01-23 04:23:47.314710
