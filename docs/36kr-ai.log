@@ -8050,3 +8050,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-23 22:18:56.280987
+------------------------------------------------------
+Started: 2024-01-24 01:24:49.756802
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [消灭“幻觉”，谷歌全新ASPIRE方法让LLM给自己打分，效果碾压10x体量模型](https://www.36kr.com/p/2617393090402689)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [LLM会写代码≠推理+规划，AAAI主席揭秘：代码数据质量太高](https://www.36kr.com/p/2617392877213833)
+Append: [清华博士李一舟，AI搞钱第一人](https://www.36kr.com/p/2617190834116741)
+Append: [1分钟复刻明星语音，这家AI创企开年跻身独角兽](https://www.36kr.com/p/2617395218930051)
+Append: [字节推出最新偷懒大法，AI绘画连prompt都不用学了](https://www.36kr.com/p/2617347270334599)
+append_entries: 5
+Finish: 2024-01-24 01:24:51.169098
