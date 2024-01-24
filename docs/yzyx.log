@@ -7297,3 +7297,25 @@ Fetching from https://rsshub.app/youzhiyouxing/materials
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/yzyx
+------------------------------------------------------
+Started: 2024-01-24 08:40:41.294595
+Existing_entries: 46
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [176 中小盘股下跌，全市场温度明显下降 1月24日 雪花飘飘北风啸啸，一剪寒梅傲立雪中。冬天我们在一起](https://youzhiyouxing.cn/materials/1607)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [复利的神奇魔法在哪里？ 1月18日 单利产品 =单利收益？复利产品=复利收益？](https://youzhiyouxing.cn/materials/1605)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [175 按照投资逻辑，长钱账户主动出击 1月17日 考虑时间和空间，发车调仓就今天](https://youzhiyouxing.cn/materials/1604)
+Append: [E124 对话《繁花》股票顾问应健中：还原 90 年代上海股市、那些与机遇共舞的人们，以及我亲历的野蛮生长的时代 1月15日 🎧 本周提前更新！跟随股市资深参与者...](https://youzhiyouxing.cn/materials/1603)
+Append: [E123 对话聂辉华：财商、情商、智商再高，笑到最后都靠「熬商」 1月12日 🎧 人大教授做客小酒馆，邀你一同用经济学视角，重新审视我们习以为常的现象](https://youzhiyouxing.cn/materials/1600)
+Append: [174 庖丁解牛，一览稳钱账户底层资产 1月10日 黑板报专栏加入稳钱账户月报内容，今天是第 1 期更新，欢迎收看](https://youzhiyouxing.cn/materials/1599)
+Append: [海外投资，该怎样看待汇率风险 1月8日 海外投资 Blog 更新：货币对冲/非对冲份额，哪个更合适？](https://youzhiyouxing.cn/materials/1597)
+Append: [173 风格轮动，2024 孰强孰弱？ 1月3日 保持淡定，长钱账户不做预测、分散配置](https://youzhiyouxing.cn/materials/1595)
+Append: [E122 酒后吐真言！这期 2023 年投资总结，总有一条今年的你能用上 1月1日 新年好 ☀️ 愿你从这期节目中汲取到欢乐和灵感，坚定地开启前方未知的旅程。](https://youzhiyouxing.cn/materials/1593)
+Append: [E121 花样亏钱交流会 2.0：在座各位笑得很大声啊，不会忘了投资是为了赚钱吧｜姜诚x杨天楠x陈鹏x孟岩 2023年12月29日 年底重磅更新！ 🎧 姜诚、杨天楠、陈鹏博...](https://youzhiyouxing.cn/materials/1592)
+append_entries: 10
+Finish: 2024-01-24 08:40:42.202145
