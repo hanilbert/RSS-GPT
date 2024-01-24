@@ -8077,3 +8077,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [百度发公告捍卫大模型承诺，瑞银重申其买入评级](https://www.36kr.com/p/2617792096950409)
 append_entries: 2
 Finish: 2024-01-24 02:33:38.564035
+------------------------------------------------------
+Started: 2024-01-24 04:24:19.554594
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI 持续向社会输送人才，19 名前成员已成立自己的初创公司](https://www.36kr.com/p/2618014372847490)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CEO锦囊｜AI如何助力企业实现降本增效？](https://www.36kr.com/p/2615610865146241)
+append_entries: 2
+Finish: 2024-01-24 04:24:20.511491
