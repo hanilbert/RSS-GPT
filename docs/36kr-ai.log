@@ -8126,3 +8126,20 @@ Append: [烧钱的大模型，难救猎豹移动](https://www.36kr.com/p/2618401
 Append: [AI技术重塑短视频市场的八大趋势](https://www.36kr.com/p/2618342318332032)
 append_entries: 3
 Finish: 2024-01-24 12:37:27.084459
+------------------------------------------------------
+Started: 2024-01-24 14:19:22.196526
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI PC，联想Ready for PC | 焦点分析](https://www.36kr.com/p/2618310690494601)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年AI演变的三个趋势，让科幻电影不再遥远](https://www.36kr.com/p/2618514443032710)
+Append: [AI 对齐是未来十年最重要的科学和社会技术工程](https://www.36kr.com/p/2618500547156358)
+Append: [不想谈恋爱的年轻人，迷上了AI伴侣](https://www.36kr.com/p/2618497318558086)
+Append: [AI女友陪聊月入20+万元，社交账号光发“假图”吸粉2万](https://www.36kr.com/p/2618489751591304)
+Append: [爆火《幻兽帕鲁》被指用AI缝合宝可梦，开发者自曝传奇经历：是人类的奇迹](https://www.36kr.com/p/2618485946308996)
+Append: [美团为什么到现在还没发大模型？](https://www.36kr.com/p/2618475584429956)
+append_entries: 7
+Finish: 2024-01-24 14:19:22.923696
