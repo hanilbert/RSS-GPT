@@ -8113,3 +8113,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [英伟达Jim Fan最新TED演讲上线：AI下一个前沿是「基础智能体」](https://www.36kr.com/p/2618154075822471)
 append_entries: 2
 Finish: 2024-01-24 10:21:54.124381
+------------------------------------------------------
+Started: 2024-01-24 12:37:26.457059
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [麻省理工新研究：从经济性角度考虑，AI替代人工目前还不具吸引力](https://www.36kr.com/p/2618409816711048)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [烧钱的大模型，难救猎豹移动](https://www.36kr.com/p/2618401509267588)
+Append: [AI技术重塑短视频市场的八大趋势](https://www.36kr.com/p/2618342318332032)
+append_entries: 3
+Finish: 2024-01-24 12:37:27.084459

@@ -13383,3 +13383,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
 append_entries: 1
 Finish: 2024-01-24 10:21:39.388726
+------------------------------------------------------
+Started: 2024-01-24 12:37:13.374992
+Existing_entries: 456
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Macintosh：40 年之前的故事](https://sspai.com/post/73310)
+append_entries: 1
+Finish: 2024-01-24 12:37:13.951065
