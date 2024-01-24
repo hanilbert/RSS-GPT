@@ -8065,3 +8065,15 @@ Append: [1分钟复刻明星语音，这家AI创企开年跻身独角兽](https:
 Append: [字节推出最新偷懒大法，AI绘画连prompt都不用学了](https://www.36kr.com/p/2617347270334599)
 append_entries: 5
 Finish: 2024-01-24 01:24:51.169098
+------------------------------------------------------
+Started: 2024-01-24 02:33:37.548485
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“哄女友挑战”上线即爆火，两天烧掉10亿token，AI已通关](https://www.36kr.com/p/2617393647392896)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [百度发公告捍卫大模型承诺，瑞银重申其买入评级](https://www.36kr.com/p/2617792096950409)
+append_entries: 2
+Finish: 2024-01-24 02:33:38.564035
