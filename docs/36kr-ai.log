@@ -8198,3 +8198,18 @@ Append: [人工智能走出科幻片，AI音乐立法走到哪一步了？](http
 Append: [AI到底给手机增加了哪些新东西？](https://www.36kr.com/p/2618628844181636)
 append_entries: 5
 Finish: 2024-01-25 02:34:14.374855
+------------------------------------------------------
+Started: 2024-01-25 04:24:26.017768
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Altman地位又危了？OpenAI董事会邀请竞争对手加入，还挖角谷歌Gemini高管](https://www.36kr.com/p/2619485851326856)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [拳打Gen-2脚踢Pika，谷歌爆肝7个月祭出AI视频大模型，首提时空架构，时长史诗级延长](https://www.36kr.com/p/2619485278967939)
+Append: [MIT新研究：打工人不用担心被AI淘汰，成本巨贵，视觉工作只有23%可替代](https://www.36kr.com/p/2619485053671816)
+Append: [年赚3亿，利润暴涨2倍，这家公司靠AI翻身](https://www.36kr.com/p/2618648266610817)
+Append: [比肩Midjourney，“平平无奇”的图片网站修成AI出海流量王者？](https://www.36kr.com/p/2618707818125445)
+append_entries: 5
+Finish: 2024-01-25 04:24:27.575061
