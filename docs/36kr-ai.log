@@ -8213,3 +8213,12 @@ Append: [年赚3亿，利润暴涨2倍，这家公司靠AI翻身](https://www.36
 Append: [比肩Midjourney，“平平无奇”的图片网站修成AI出海流量王者？](https://www.36kr.com/p/2618707818125445)
 append_entries: 5
 Finish: 2024-01-25 04:24:27.575061
+------------------------------------------------------
+Started: 2024-01-25 06:25:42.290864
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta、OpenAI为何扎堆AI芯片？揭秘大模型背后的算力战争](https://www.36kr.com/p/2619465784106885)
+append_entries: 1
+Finish: 2024-01-25 06:25:42.955200
