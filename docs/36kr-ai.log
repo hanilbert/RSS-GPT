@@ -8183,3 +8183,18 @@ Append: [扩散模型更懂复杂提示词，Pika北大斯坦福开源新框架�
 Append: [摆脱OpenAI依赖，微软组建王牌AI团队专攻“小模型”，为大模型降本增效](https://www.36kr.com/p/2618788440005000)
 append_entries: 6
 Finish: 2024-01-25 01:25:03.817447
+------------------------------------------------------
+Started: 2024-01-25 02:34:13.764128
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [寒假神兽回家，AI学习机能替你看娃吗？](https://www.36kr.com/p/2619338642528641)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [生成式AI如何改变医疗保健业？](https://www.36kr.com/p/2619300465236353)
+Append: [AI手机涌现，手机与大模型厂商双赢](https://www.36kr.com/p/2618565595830400)
+Append: [人工智能走出科幻片，AI音乐立法走到哪一步了？](https://www.36kr.com/p/2618606826887296)
+Append: [AI到底给手机增加了哪些新东西？](https://www.36kr.com/p/2618628844181636)
+append_entries: 5
+Finish: 2024-01-25 02:34:14.374855
