@@ -8350,3 +8350,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [GPT-4「变懒」bug被修复，价格暴降80%，OpenAI连更5款新模型，性能狂飙](https://www.36kr.com/p/2621222066034820)
 append_entries: 2
 Finish: 2024-01-26 12:33:01.121751
+------------------------------------------------------
+Started: 2024-01-26 14:17:20.491473
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [又有14国产AI大模型备案获批，更多垂直厂商入局 | 最前线](https://www.36kr.com/p/2621227318139272)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [摆脱Transformer依赖？这家AI初创公司推出国内首个非Attention机制大模型](https://www.36kr.com/p/2621378607552649)
+Append: [顶流Mamba竟遭ICLR拒稿，学者集体破防变🤡，LeCun都看不下去了](https://www.36kr.com/p/2621311869704322)
+append_entries: 3
+Finish: 2024-01-26 14:17:21.020617
