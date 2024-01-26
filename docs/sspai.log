@@ -13528,3 +13528,12 @@ Existing_entries: 463
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-26 04:23:08.807532
+------------------------------------------------------
+Started: 2024-01-26 06:23:37.594525
+Existing_entries: 463
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)
+append_entries: 1
+Finish: 2024-01-26 06:23:38.352704
