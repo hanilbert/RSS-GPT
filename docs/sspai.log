@@ -13513,3 +13513,12 @@ Existing_entries: 462
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-26 01:18:36.970871
+------------------------------------------------------
+Started: 2024-01-26 02:25:06.228480
+Existing_entries: 462
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
+append_entries: 1
+Finish: 2024-01-26 02:25:06.801020
