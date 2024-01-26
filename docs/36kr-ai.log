@@ -8304,3 +8304,16 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-26 02:25:18.028507
+------------------------------------------------------
+Started: 2024-01-26 04:23:20.326877
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [百度和新浪推出的回帖机器人，被网友骂成了“弱智AI”](https://www.36kr.com/p/2620791778023811)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI连甩5款新模型，价格暴降，功力大涨，还修复了GPT-4变懒问题](https://www.36kr.com/p/2620817644034182)
+Append: [OpenAI向左，Meta往右](https://www.36kr.com/p/2620732995426697)
+append_entries: 3
+Finish: 2024-01-26 04:23:20.921369
