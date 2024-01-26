@@ -8338,3 +8338,15 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-26 10:20:07.805601
+------------------------------------------------------
+Started: 2024-01-26 12:33:00.640789
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人工智能生成物可版权争议的新发展](https://www.36kr.com/p/2621217305106567)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-4「变懒」bug被修复，价格暴降80%，OpenAI连更5款新模型，性能狂飙](https://www.36kr.com/p/2621222066034820)
+append_entries: 2
+Finish: 2024-01-26 12:33:01.121751
