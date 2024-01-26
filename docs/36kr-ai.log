@@ -8283,3 +8283,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-25 22:16:49.668942
+------------------------------------------------------
+Started: 2024-01-26 01:18:53.522744
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI时代，如何重新定义生命？](https://www.36kr.com/p/2620092731169159)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [三星首款AI手机来了，Galaxy S24系列5499元起售丨最前线](https://www.36kr.com/p/2620255220980102)
+Append: [免调优长视频生成，可支持512帧，任何扩散模型都能用](https://www.36kr.com/p/2620193673812354)
+Append: [从GPT-5到AI芯片厂，山姆·奥特曼在下一盘多大的棋？](https://www.36kr.com/p/2620062978793345)
+Append: [微软改名部再出手，Bing和AI突然就没关系了](https://www.36kr.com/p/2619929032759689)
+append_entries: 5
+Finish: 2024-01-26 01:18:54.570002
