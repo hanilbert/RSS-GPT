@@ -8399,3 +8399,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-27 02:21:18.885114
+------------------------------------------------------
+Started: 2024-01-27 04:19:59.243651
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Agent如何拼落地？十大领域30款产品盘点，这些赛道最热](https://www.36kr.com/p/2622318296029568)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI 打造“魔法博物馆”，五分钟完成一件“3D展品”](https://www.36kr.com/p/2622300692846977)
+Append: [大模型“四小龙”，能否跨越深渊？](https://www.36kr.com/p/2619940445575555)
+Append: [游戏黑马《幻兽帕鲁》爆火，AI+游戏有怎样的可能性？](https://www.36kr.com/p/2621532214419591)
+append_entries: 4
+Finish: 2024-01-27 04:20:00.116852
