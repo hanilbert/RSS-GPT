@@ -4,12 +4,12 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>http://lopespm.github.io/</link>
 
+
 <item>
 <title>Project Planning Framework</title>
 <link>http://lopespm.github.io/notes/2024/01/27/project_planning_framework.html</link>
 <guid>http://lopespm.github.io/notes/2024/01/27/project_planning_framework.html</guid>
 <content:encoded><![CDATA[
-
 <p>Different goals require different roadmapping and planning techniques.</p>
 
 <p>In this post, a simple framework is proposed to classify a goal using three axes, in order to inform the approach taken towards reaching the goal. The three axes are:</p>
@@ -126,10 +126,8 @@
 
 <p>The framework above is quite simple and could potentially be used for several other different use cases. It might also be missing some essential parameters that are missing for your specific goal. If you do find such, I would be happy to know. Regardless, hope the above can be useful on your next roadmapping cycle</p>
 ]]></content:encoded>
-
 <pubDate>2024-01-27T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Make the meme transcend its host</title>
 <link>http://lopespm.github.io/notes/2023/12/31/meme-transcending-host.html</link>
