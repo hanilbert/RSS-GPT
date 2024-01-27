@@ -8413,3 +8413,12 @@ Append: [大模型“四小龙”，能否跨越深渊？](https://www.36kr.com/
 Append: [游戏黑马《幻兽帕鲁》爆火，AI+游戏有怎样的可能性？](https://www.36kr.com/p/2621532214419591)
 append_entries: 4
 Finish: 2024-01-27 04:20:00.116852
+------------------------------------------------------
+Started: 2024-01-27 06:20:56.942075
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT惊艳更新，一个@让三百万GPTs为你打工](https://www.36kr.com/p/2622402136922246)
+append_entries: 1
+Finish: 2024-01-27 06:20:57.950068
