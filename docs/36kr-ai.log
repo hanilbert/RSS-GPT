@@ -8605,3 +8605,17 @@ Append: [国内AI绘画哪家强？十大免费工具横评，BAT参战，但不
 Append: [GPT-4准确率最高飙升64%，斯坦福OpenAI重磅研究：全新Meta-Prompting方法让LLM当老板](https://www.36kr.com/p/2625230773361031)
 append_entries: 6
 Finish: 2024-01-29 10:20:11.917466
+------------------------------------------------------
+Started: 2024-01-29 12:33:06.595623
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [那个因AI而自杀的人类，他在恐惧什么？](https://www.36kr.com/p/2625573181954441)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一款来自硅谷的AI硬件，说要消灭所有APP](https://www.36kr.com/p/2625558019710855)
+Append: [爆火的哄哄模拟器，无法拒绝的赛博女友](https://www.36kr.com/p/2625550230739076)
+Append: [大模型学会写万字长文，AI企业「波形智能」完成千万元Pre-A轮融资 | 36氪首发](https://www.36kr.com/p/2625346420889987)
+append_entries: 4
+Finish: 2024-01-29 12:33:07.308098
