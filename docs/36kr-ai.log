@@ -8542,3 +8542,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-28 22:17:14.826173
+------------------------------------------------------
+Started: 2024-01-29 01:17:39.532771
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT创作小说获顶级文学奖，33岁女作家用AI写《东京共鸣塔》，评委无一人辨认](https://www.36kr.com/p/2624831886563463)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周硅谷发生了什么？｜OpenAI推出5项更新；微软组建新的AI团队；Googe发布文生视频模型Lumiere](https://www.36kr.com/p/2624076351019398)
+Append: [36氪首发 | 「奥创光年」半年内再获1500万美元A+轮融资，加速AI全链路营销产品迭代升级](https://www.36kr.com/p/2623685038921859)
+Append: [谷歌再雪前耻，新Bard逆袭GPT-4冲上LLM排行榜第二，Jeff Dean高呼我们回来了](https://www.36kr.com/p/2623844205549700)
+append_entries: 4
+Finish: 2024-01-29 01:17:40.364898
