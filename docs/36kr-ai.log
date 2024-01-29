@@ -8583,3 +8583,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [不知疲倦自主工作，一周完成博士数月研究，“AI化学家”登上Science](https://www.36kr.com/p/2625011506010505)
 append_entries: 2
 Finish: 2024-01-29 06:23:20.231108
+------------------------------------------------------
+Started: 2024-01-29 08:22:29.690938
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-01-29 08:22:29.966303
