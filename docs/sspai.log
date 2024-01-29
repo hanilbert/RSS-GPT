@@ -13762,3 +13762,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
 append_entries: 1
 Finish: 2024-01-29 04:20:59.362029
+------------------------------------------------------
+Started: 2024-01-29 06:23:07.048931
+Existing_entries: 469
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
+append_entries: 1
+Finish: 2024-01-29 06:23:07.524209
