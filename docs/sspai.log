@@ -13873,3 +13873,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了](https://sspai.com/post/85975)
 append_entries: 1
 Finish: 2024-01-30 10:20:34.733424
+------------------------------------------------------
+Started: 2024-01-30 12:32:05.779910
+Existing_entries: 476
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 030 | 年度作者、能量小食和新玩意](https://sspai.com/post/86185)
+append_entries: 1
+Finish: 2024-01-30 12:32:06.165594

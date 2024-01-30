@@ -8698,3 +8698,21 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-30 10:20:47.203986
+------------------------------------------------------
+Started: 2024-01-30 12:32:18.619959
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [科大讯飞，抱紧华为的大腿](https://www.36kr.com/p/2627072090733704)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [游戏开发中应用AI，Square Enix给出破局之道](https://www.36kr.com/p/2627041462189186)
+Append: [科大讯飞大模型新升级：20秒制作PPT，拟人语音能力超越ChatGPT｜最前线](https://www.36kr.com/p/2626939756085504)
+Append: [前盛大联创谭群钊：AI和Web3会颠覆游戏行业格局，未来两年是全球游戏的黄金时代｜36氪专访](https://www.36kr.com/p/2626705997365513)
+Append: [数字化采购的2023：促增长、扩品类、搞AI](https://www.36kr.com/p/2626955370266881)
+Append: [厂商“白送”生成式AI，大模型手机算力谜题待解](https://www.36kr.com/p/2626921517010433)
+Append: [年终盘点之AI大模型：2023大事记](https://www.36kr.com/p/2626897088151816)
+Append: [如何用大模型提升学习效率？来自1100小时的深度使用体验](https://www.36kr.com/p/2626844261813510)
+append_entries: 8
+Finish: 2024-01-30 12:32:27.803461
