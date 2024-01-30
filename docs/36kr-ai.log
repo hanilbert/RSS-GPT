@@ -8664,3 +8664,16 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-30 02:22:43.291294
+------------------------------------------------------
+Started: 2024-01-30 04:20:48.952085
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI宫斗参与者融了5.3亿，立刻给开发者分钱一起对抗GPT Store](https://www.36kr.com/p/2626491591901440)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI时代的创业：Bye-bye独角兽，Hello小犀牛](https://www.36kr.com/p/2625604974928009)
+Append: [美监管者嗅到微软投资OpenAI的垄断味道，还有亚马逊谷歌](https://www.36kr.com/p/2622916651884680)
+append_entries: 3
+Finish: 2024-01-30 04:20:49.919411
