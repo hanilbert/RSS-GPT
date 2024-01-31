@@ -8785,3 +8785,17 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-01-31 06:23:16.908111
+------------------------------------------------------
+Started: 2024-01-31 08:21:44.967099
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI CEO奥特曼秘访韩国，或为自己的半导体工厂筹集资金](https://www.36kr.com/p/2628231161576577)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI社交，不是大厂的「回春丹」](https://www.36kr.com/p/2628229664689670)
+Append: [Neuralink完成首例人类脑机接口植入，还有千人正在排队｜最前线](https://www.36kr.com/p/2628002176613506)
+Append: [基于大模型的Arc Search：颠覆百度的AI搜索来了？](https://www.36kr.com/p/2627982507773184)
+append_entries: 4
+Finish: 2024-01-31 08:21:45.707213
