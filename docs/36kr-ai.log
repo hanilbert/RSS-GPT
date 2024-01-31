@@ -8817,3 +8817,17 @@ Append: [生成式大模型的远水，解不了智能手机厂商的近渴](htt
 Append: [Hadoop 已死，AI 吞噬世界](https://www.36kr.com/p/2628267402969348)
 append_entries: 8
 Finish: 2024-01-31 10:19:42.405726
+------------------------------------------------------
+Started: 2024-01-31 12:33:00.491159
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [仅有42%的人信任真人播报员，换做AI报道新闻结果又会如何？](https://www.36kr.com/p/2628476227779716)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [创新不足的手机行业，AI来救场？](https://www.36kr.com/p/2628452597350661)
+Append: [月活6亿的大厂，上线一款“弱智”AI](https://www.36kr.com/p/2628377502699017)
+Append: [大模型这把火，先把AI服务器“烧”沸腾了](https://www.36kr.com/p/2628295770164486)
+append_entries: 4
+Finish: 2024-01-31 12:33:01.397654
