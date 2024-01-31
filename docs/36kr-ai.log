@@ -8799,3 +8799,21 @@ Append: [Neuralink完成首例人类脑机接口植入，还有千人正在排�
 Append: [基于大模型的Arc Search：颠覆百度的AI搜索来了？](https://www.36kr.com/p/2627982507773184)
 append_entries: 4
 Finish: 2024-01-31 08:21:45.707213
+------------------------------------------------------
+Started: 2024-01-31 10:19:41.600127
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mistral-Medium意外泄露？冲上榜单的这个神秘模型让AI社区讨论爆了](https://www.36kr.com/p/2628363343331587)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年的机器人，下一个ChatGPT](https://www.36kr.com/p/2628363837456646)
+Append: [二次元版Midjourney重磅升级V6，动漫风人物超逼真生成，网友上手效果令人疯狂](https://www.36kr.com/p/2628320016366721)
+Append: [微软OpenAI计划1亿美元投向人形机器人，网友纷纷喊话马斯克](https://www.36kr.com/p/2628319742737543)
+Append: [OpenAI加速造芯：奥特曼赴韩与三星SK谈合作，此前已会见英特尔、台积电｜最前线](https://www.36kr.com/p/2628322262367366)
+Append: [亚马逊部署超过750，000+ 台机器人，工业创新基金投资生成式AI](https://www.36kr.com/p/2628278168239240)
+Append: [生成式大模型的远水，解不了智能手机厂商的近渴](https://www.36kr.com/p/2628208671247876)
+Append: [Hadoop 已死，AI 吞噬世界](https://www.36kr.com/p/2628267402969348)
+append_entries: 8
+Finish: 2024-01-31 10:19:42.405726
