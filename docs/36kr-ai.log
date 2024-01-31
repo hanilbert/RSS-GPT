@@ -8770,3 +8770,12 @@ Append: [GPT Store可能是一个“硅基人才市场”](https://www.36kr.com/
 Append: [史上最强iOS要来了，但AI手机大战苹果已落伍？](https://www.36kr.com/p/2627157470809609)
 append_entries: 5
 Finish: 2024-01-31 02:23:25.136202
+------------------------------------------------------
+Started: 2024-01-31 04:21:44.411421
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大语言模型评测是怎么被玩儿烂的？我们跟知情人聊了一个下午](https://www.36kr.com/p/2627919899966594)
+append_entries: 1
+Finish: 2024-01-31 04:21:44.825943
