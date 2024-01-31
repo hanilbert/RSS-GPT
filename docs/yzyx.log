@@ -7814,3 +7814,12 @@ Existing_entries: 57
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-01-31 04:21:47.159662
+------------------------------------------------------
+Started: 2024-01-31 06:23:18.789867
+Existing_entries: 57
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [177 何以解忧？需要投资纪律和体系 1月31日 市场走势很难预料，情绪管理必须到位。滴滴，长钱账户调仓啦！](https://youzhiyouxing.cn/materials/1609)
+append_entries: 1
+Finish: 2024-01-31 06:23:19.271147
