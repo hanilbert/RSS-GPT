@@ -8755,3 +8755,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Code Llama 70B霸榜3连发，练习5个月击败GPT-4，小扎LeCun亲自官宣上新](https://www.36kr.com/p/2627703350804737)
 append_entries: 1
 Finish: 2024-01-31 01:18:00.829591
+------------------------------------------------------
+Started: 2024-01-31 02:23:24.491703
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李彦宏替马化腾试错？](https://www.36kr.com/p/2627111179062793)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [预见2024：大模型成长进入关键期，探究AI背后的算力战争](https://www.36kr.com/p/2627072221151489)
+Append: [iOS18号称历史级重大更新，打开一看：就这国产手机早有的AI辅助？](https://www.36kr.com/p/2627710305533059)
+Append: [GPT Store可能是一个“硅基人才市场”](https://www.36kr.com/p/2627745627176066)
+Append: [史上最强iOS要来了，但AI手机大战苹果已落伍？](https://www.36kr.com/p/2627157470809609)
+append_entries: 5
+Finish: 2024-01-31 02:23:25.136202
