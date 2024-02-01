@@ -8867,3 +8867,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-01 01:21:28.702320
+------------------------------------------------------
+Started: 2024-02-01 02:27:05.348122
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024年，这8个大趋势，将会深刻影响我们的工作](https://www.36kr.com/p/2629210155286790)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [轮到微软来证明配得上全球市值第一了](https://www.36kr.com/p/2628557293945089)
+Append: [云巨头年度成绩单PK：AI助微软日赚17亿，谷歌市值一夜蒸发8000亿](https://www.36kr.com/p/2628593774625027)
+Append: [每月1.6亿流量还在涨，人类社交行为正在被AI改变？](https://www.36kr.com/p/2628617298149640)
+append_entries: 4
+Finish: 2024-02-01 02:27:06.081171
