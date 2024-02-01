@@ -14035,3 +14035,15 @@ Existing_entries: 484
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-01 08:22:04.651063
+------------------------------------------------------
+Started: 2024-02-01 10:20:09.675722
+Existing_entries: 484
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我为什么退坑原神——从二游说起的游戏观察](https://sspai.com/post/85830)
+append_entries: 2
+Finish: 2024-02-01 10:20:10.463841
