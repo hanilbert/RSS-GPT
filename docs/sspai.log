@@ -14011,3 +14011,12 @@ Existing_entries: 482
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-01 02:26:53.060263
+------------------------------------------------------
+Started: 2024-02-01 04:22:36.034215
+Existing_entries: 482
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
+append_entries: 1
+Finish: 2024-02-01 04:22:36.445456
