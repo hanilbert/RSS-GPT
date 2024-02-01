@@ -14020,3 +14020,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
 append_entries: 1
 Finish: 2024-02-01 04:22:36.445456
+------------------------------------------------------
+Started: 2024-02-01 06:24:02.391675
+Existing_entries: 483
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
+append_entries: 1
+Finish: 2024-02-01 06:24:02.955956
