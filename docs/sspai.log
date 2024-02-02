@@ -14098,3 +14098,12 @@ Existing_entries: 487
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-02 02:22:58.119599
+------------------------------------------------------
+Started: 2024-02-02 04:21:57.552822
+Existing_entries: 487
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
+append_entries: 1
+Finish: 2024-02-02 04:21:58.040706

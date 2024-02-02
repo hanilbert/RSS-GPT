@@ -8983,3 +8983,15 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-02 02:23:11.168148
+------------------------------------------------------
+Started: 2024-02-02 04:22:10.655791
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [今天，2岁婴儿登上Science，成为AI的语言启蒙师](https://www.36kr.com/p/2630591979831559)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被AI夺走工作的人，决定反抗AI｜深氪lite](https://www.36kr.com/p/2630713792545029)
+append_entries: 2
+Finish: 2024-02-02 04:22:11.188041
