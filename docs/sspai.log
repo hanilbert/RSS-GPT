@@ -14131,3 +14131,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)
 append_entries: 1
 Finish: 2024-02-02 10:19:33.020300
+------------------------------------------------------
+Started: 2024-02-02 12:32:05.791000
+Existing_entries: 490
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
+append_entries: 1
+Finish: 2024-02-02 12:32:06.180943

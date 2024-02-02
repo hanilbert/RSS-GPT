@@ -9032,3 +9032,16 @@ Append: [大模型的“百模”竞争进入淘汰赛，是时候打扫战场�
 Append: [机器人公司欠薪背后：商海无情，想象力有价](https://www.36kr.com/p/2631086254129413)
 append_entries: 9
 Finish: 2024-02-02 10:19:46.128108
+------------------------------------------------------
+Started: 2024-02-02 12:32:20.946826
+Existing_entries: 1009
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用 ChatGPT 在技术面试中作弊，容易被发现吗？前谷歌软件工程师做了一项实验](https://www.36kr.com/p/2631287273094281)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [算力，AI时代最确定的赛道](https://www.36kr.com/p/2631263919897732)
+Append: [微软Q4净利润增长33%，但投资人不买单，市值蒸发800多亿｜焦点分析](https://www.36kr.com/p/2631214747729027)
+append_entries: 3
+Finish: 2024-02-02 12:32:21.659052
