@@ -9084,3 +9084,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [面壁智能发布2B模型：适配主流手机，推理成本仅为GPT-4的1/360 | 最前线](https://www.36kr.com/p/2629567079201926)
 append_entries: 1
 Finish: 2024-02-03 01:15:42.194232
+------------------------------------------------------
+Started: 2024-02-03 02:20:35.449299
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-02-03 02:20:35.626958
