@@ -9203,3 +9203,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [两度被OpenAI相中的华裔CEO，干出全球最高年收入AI创企](https://www.36kr.com/p/2633850045791366)
 append_entries: 1
 Finish: 2024-02-04 08:21:10.760882
+------------------------------------------------------
+Started: 2024-02-04 10:18:44.352622
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大的要来了：谷歌Bard被曝将更名为Gemini，Ultra 1.0更强但收费、安卓App也会来](https://www.36kr.com/p/2633897495789832)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开源AI拯救Meta一夜飙升1960亿刀，39岁小扎爬出元宇宙深坑，年分红7个亿，靠Llama赢麻了](https://www.36kr.com/p/2633766556155016)
+Append: [“哄哄模拟器”爆火，赛博女友正在路上？](https://www.36kr.com/p/2633813479293184)
+Append: [抱抱脸正面挑战OpenAI，推出开源版GPT商店，完全免费、支持六大开源模型当底座](https://www.36kr.com/p/2633854919213321)
+append_entries: 4
+Finish: 2024-02-04 10:18:45.210526
