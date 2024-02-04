@@ -9182,3 +9182,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-04 04:20:23.323489
+------------------------------------------------------
+Started: 2024-02-04 06:21:37.335291
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [字节“扣子”加入AI战场，2024大模型能搞到钱吗？](https://www.36kr.com/p/2633596084145669)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [多少年轻人，被赛博美女逼成了AI侦探](https://www.36kr.com/p/2633599710706819)
+append_entries: 2
+Finish: 2024-02-04 06:21:38.035149
