@@ -9156,3 +9156,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-03 22:18:18.383792
+------------------------------------------------------
+Started: 2024-02-04 01:22:26.535310
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [史上首个100%开源大模型重磅登场，破纪录公开代码/权重/数据集/训练全过程，AMD都能训](https://www.36kr.com/p/2632336993616134)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [陶哲轩看了都直呼内行，谷歌等用LLM自动证明定理拿顶会杰出论文，上下文越全证得越好](https://www.36kr.com/p/2632885935948039)
+Append: [匿名论文提出奇招，增强大模型长文本能力居然还能这么做](https://www.36kr.com/p/2632885260960002)
+Append: [UCLA华人提出全新自我对弈机制，LLM自己训自己，效果碾压GPT-4专家指导](https://www.36kr.com/p/2632885145549960)
+append_entries: 4
+Finish: 2024-02-04 01:22:27.229299
