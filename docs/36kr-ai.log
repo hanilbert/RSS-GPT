@@ -9217,3 +9217,17 @@ Append: [“哄哄模拟器”爆火，赛博女友正在路上？](https://www.
 Append: [抱抱脸正面挑战OpenAI，推出开源版GPT商店，完全免费、支持六大开源模型当底座](https://www.36kr.com/p/2633854919213321)
 append_entries: 4
 Finish: 2024-02-04 10:18:45.210526
+------------------------------------------------------
+Started: 2024-02-04 12:30:36.109714
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一夜涨出一个阿里，Meta靠AI逆天改命了？](https://www.36kr.com/p/2634110476795017)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一年时间过去后，AI究竟影响了谁的工作](https://www.36kr.com/p/2634098385943682)
+Append: [打造AI跨境招聘平台，Brix获2000万元天使轮融资｜36氪首发](https://www.36kr.com/p/2633931630361736)
+Append: [一张“哑火”的AI禁令](https://www.36kr.com/p/2634031414066312)
+append_entries: 4
+Finish: 2024-02-04 12:30:38.503349
