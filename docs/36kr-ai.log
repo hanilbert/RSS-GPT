@@ -9331,3 +9331,15 @@ Append: [AI NPC：实现通用人工智能的必由之路？](https://www.36kr.c
 Append: [最近超火的AI 浏览器 Arc，是“下一个互联网”还是只是另一个Chrome？](https://www.36kr.com/p/2635424998883587)
 append_entries: 3
 Finish: 2024-02-05 12:33:22.782860
+------------------------------------------------------
+Started: 2024-02-05 14:17:37.864176
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [电商新周期，AI有望破局吗？](https://www.36kr.com/p/2635561525853313)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [第一家IPO的“AI独角兽”，三月见？](https://www.36kr.com/p/2635515933524230)
+append_entries: 2
+Finish: 2024-02-05 14:17:38.561758
