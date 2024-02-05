@@ -9318,3 +9318,16 @@ Append: [香港最大AI诈骗案：Deepfake换脸「英国CFO」，直接骗走�
 Append: [美国博士小哥打败女友的AI男友，7页论文让LLM降智，训出「负分男友」成功挽回](https://www.36kr.com/p/2635183540273408)
 append_entries: 3
 Finish: 2024-02-05 10:21:58.768637
+------------------------------------------------------
+Started: 2024-02-05 12:33:21.762159
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [亚马逊上线AI购物助手，可消费者会听AI的指挥吗](https://www.36kr.com/p/2635472582508806)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI NPC：实现通用人工智能的必由之路？](https://www.36kr.com/p/2635429623794952)
+Append: [最近超火的AI 浏览器 Arc，是“下一个互联网”还是只是另一个Chrome？](https://www.36kr.com/p/2635424998883587)
+append_entries: 3
+Finish: 2024-02-05 12:33:22.782860
