@@ -8198,3 +8198,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [成分基金限购，海外长钱如何调整？ 2月5日 海外投资 Blog 更新：和你聊聊 QDII 基金限购和跨境 ETF 溢价](https://youzhiyouxing.cn/materials/1612)
 append_entries: 1
 Finish: 2024-02-05 08:23:05.165859
+------------------------------------------------------
+Started: 2024-02-05 10:22:00.575743
+Existing_entries: 61
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-02-05 10:22:00.932125

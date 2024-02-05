@@ -9305,3 +9305,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-05 08:22:57.274398
+------------------------------------------------------
+Started: 2024-02-05 10:21:58.205883
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [iPhone动嘴10秒P图，UCSB苹果全华人团队发布多模态MGIE，官宣开源人人可玩](https://www.36kr.com/p/2635259752578181)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [香港最大AI诈骗案：Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://www.36kr.com/p/2635183729508613)
+Append: [美国博士小哥打败女友的AI男友，7页论文让LLM降智，训出「负分男友」成功挽回](https://www.36kr.com/p/2635183540273408)
+append_entries: 3
+Finish: 2024-02-05 10:21:58.768637
