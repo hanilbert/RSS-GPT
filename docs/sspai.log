@@ -14347,3 +14347,15 @@ Existing_entries: 494
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-05 06:23:10.481974
+------------------------------------------------------
+Started: 2024-02-05 08:22:37.782793
+Existing_entries: 494
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
+append_entries: 2
+Finish: 2024-02-05 08:22:39.091161

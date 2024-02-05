@@ -8189,3 +8189,12 @@ Existing_entries: 60
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-05 06:23:44.029074
+------------------------------------------------------
+Started: 2024-02-05 08:23:01.088896
+Existing_entries: 60
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [成分基金限购，海外长钱如何调整？ 2月5日 海外投资 Blog 更新：和你聊聊 QDII 基金限购和跨境 ETF 溢价](https://youzhiyouxing.cn/materials/1612)
+append_entries: 1
+Finish: 2024-02-05 08:23:05.165859
