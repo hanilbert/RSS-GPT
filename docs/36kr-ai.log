@@ -9279,3 +9279,17 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-05 02:29:38.619543
+------------------------------------------------------
+Started: 2024-02-05 04:23:17.516154
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“女巴菲特”惊人预测人形机器人将于2030年进入家庭，通用AI出现，赞中国开源力量](https://www.36kr.com/p/2635073145585922)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周硅谷发生了什么？｜苹果Vision Pro正式开售；Neuralink完成人类脑机接口植入；字节Coze国内版上线；](https://www.36kr.com/p/2634119274937474)
+Append: [人工智能的未来，藏在年轻人的AI女友里](https://www.36kr.com/p/2634994369985667)
+Append: [​阻止我们春运回家的恶劣天气，AI可以预测吗？](https://www.36kr.com/p/2634883404659844)
+append_entries: 4
+Finish: 2024-02-05 04:23:18.517953
