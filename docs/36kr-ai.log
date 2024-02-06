@@ -9422,3 +9422,15 @@ Append: [AI读心术再升级，一副眼镜直接控制波士顿机器狗，脑
 Append: [GPT-4/Gemini大翻车，做旅行攻略成功率≈0%，复旦OSU等华人团队：Agent不会复杂任务规划](https://www.36kr.com/p/2636590028962946)
 append_entries: 5
 Finish: 2024-02-06 10:20:16.636572
+------------------------------------------------------
+Started: 2024-02-06 12:33:28.806341
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Midjourney硬件项目曝光，苹果Vision Pro工程师任主管，曾在马斯克脑机接口公司工作](https://www.36kr.com/p/2636903867875585)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克点赞SpaceX天才实习生：课余用AI破解上古卷轴，获Nature头版关注](https://www.36kr.com/p/2636872198519941)
+append_entries: 2
+Finish: 2024-02-06 12:33:30.572750
