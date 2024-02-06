@@ -9367,3 +9367,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-05 22:19:19.286719
+------------------------------------------------------
+Started: 2024-02-06 01:17:11.402046
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [机器拯救人类心灵？AI聊天机器人登上Nature子刊，让更多人享受心理健康服务](https://www.36kr.com/p/2635816323121413)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [拒绝生成新年加班场景？谷歌AI说这是“不安全”和“有风险”的](https://www.36kr.com/p/2636179168607361)
+Append: [AI 时代，普通人如何借势？](https://www.36kr.com/p/2635570295372928)
+append_entries: 3
+Finish: 2024-02-06 01:17:11.993207
