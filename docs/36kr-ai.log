@@ -9398,3 +9398,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-06 06:23:20.094036
+------------------------------------------------------
+Started: 2024-02-06 08:22:46.240132
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果Vision Pro发售四天，我们整理了一份用户体验丨产品观察](https://www.36kr.com/p/2632669982473353)
+append_entries: 1
+Finish: 2024-02-06 08:22:46.879715

@@ -14437,3 +14437,12 @@ Existing_entries: 500
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-06 06:22:51.572513
+------------------------------------------------------
+Started: 2024-02-06 08:22:33.622382
+Existing_entries: 500
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
+append_entries: 1
+Finish: 2024-02-06 08:22:34.224789
