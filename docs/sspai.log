@@ -14446,3 +14446,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
 append_entries: 1
 Finish: 2024-02-06 08:22:34.224789
+------------------------------------------------------
+Started: 2024-02-06 10:20:02.837279
+Existing_entries: 501
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
+append_entries: 1
+Finish: 2024-02-06 10:20:03.467259
