@@ -9511,3 +9511,19 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-07 10:20:16.746342
+------------------------------------------------------
+Started: 2024-02-07 12:32:32.195525
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [又一款图像AI应用爆火，团队仅两人，单月吸引40万用户｜产品观察](https://www.36kr.com/p/2638330903248005)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2023 北美独角兽观察：渡渡鸟、矿泉水、AI 涌现](https://www.36kr.com/p/2638323385893123)
+Append: [国产AI，逃过一劫](https://www.36kr.com/p/2638191413755008)
+Append: [连马斯克都去中东融资了？](https://www.36kr.com/p/2638187530288263)
+Append: [字节终于放大招了](https://www.36kr.com/p/2638173075471495)
+Append: [硅谷巨头财报出炉，人工智能是条新的华尔街](https://www.36kr.com/p/2638168985861250)
+append_entries: 6
+Finish: 2024-02-07 12:32:32.829578
