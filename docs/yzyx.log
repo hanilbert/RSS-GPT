@@ -8339,3 +8339,12 @@ Existing_entries: 62
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-07 06:22:57.021467
+------------------------------------------------------
+Started: 2024-02-07 08:21:57.843643
+Existing_entries: 62
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [179 稳钱账户经受住了一月的考验 2月7日 月报送达，大跌中尽力控制波动幅度。你对稳钱账户的体验满意吗？](https://youzhiyouxing.cn/materials/1614)
+append_entries: 1
+Finish: 2024-02-07 08:21:58.190632

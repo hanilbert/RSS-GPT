@@ -9491,3 +9491,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-07 06:22:54.798992
+------------------------------------------------------
+Started: 2024-02-07 08:21:53.686781
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI到底懂不懂人类？无印良品AI薯条，在口味创新迈出一小步](https://www.36kr.com/p/2638115020782722)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [文生音频新贵融资5亿，半年估值涨10倍，2年跑出一个AI独角兽](https://www.36kr.com/p/2638097755111680)
+Append: [谷歌官宣TensorFlow-GNN 1.0发布：动态和交互采样，大规模构建图神经网络](https://www.36kr.com/p/2638111303057671)
+Append: [超百万人已和AI亲戚过招！"决战拜年之巅"爆火，对话类游戏迎小高峰 | 产品观察](https://www.36kr.com/p/2638090286121219)
+append_entries: 4
+Finish: 2024-02-07 08:21:54.316571

@@ -14524,3 +14524,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
 append_entries: 1
 Finish: 2024-02-07 06:22:33.691962
+------------------------------------------------------
+Started: 2024-02-07 08:21:28.010538
+Existing_entries: 505
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)
+append_entries: 2
+Finish: 2024-02-07 08:21:29.030362
