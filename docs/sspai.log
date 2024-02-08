@@ -14614,3 +14614,12 @@ Existing_entries: 511
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-08 06:23:51.281714
+------------------------------------------------------
+Started: 2024-02-08 08:21:42.763331
+Existing_entries: 511
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [龙跃智能，有龙则灵：新的一年骁龙如何用 AI 开启「芯」篇章](https://sspai.com/post/86395)
+append_entries: 1
+Finish: 2024-02-08 08:21:43.256797
