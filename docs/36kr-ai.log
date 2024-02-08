@@ -9596,3 +9596,12 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-08 08:22:01.584244
+------------------------------------------------------
+Started: 2024-02-08 10:19:19.242854
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果Vision Pro的5个关键问题，我们问了专业开发者](https://www.36kr.com/p/2639419105819784)
+append_entries: 1
+Finish: 2024-02-08 10:19:19.743042
