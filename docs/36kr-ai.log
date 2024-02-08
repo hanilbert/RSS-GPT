@@ -9572,3 +9572,12 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-08 02:23:01.987530
+------------------------------------------------------
+Started: 2024-02-08 04:22:27.858744
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [速卖通增长60%，成阿里财报最大亮点](https://www.36kr.com/p/2638648506842248)
+append_entries: 1
+Finish: 2024-02-08 04:22:28.292571

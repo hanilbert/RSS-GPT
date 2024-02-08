@@ -14596,3 +14596,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)
 append_entries: 1
 Finish: 2024-02-08 02:22:46.501706
+------------------------------------------------------
+Started: 2024-02-08 04:22:14.516852
+Existing_entries: 509
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验](https://sspai.com/post/86384)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
+append_entries: 2
+Finish: 2024-02-08 04:22:15.278861
