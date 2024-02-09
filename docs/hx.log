@@ -8157,3 +8157,10 @@ Fetching from https://1q43.blog/feed
 Feed error: <unknown>:99:12: not well-formed (invalid token)
 append_entries: 0
 Finish: 2024-02-09 18:22:17.072219
+------------------------------------------------------
+Started: 2024-02-09 20:18:29.596883
+Existing_entries: 21
+Fetching from https://1q43.blog/feed
+Feed error: <unknown>:99:12: not well-formed (invalid token)
+append_entries: 0
+Finish: 2024-02-09 20:18:32.359473
