@@ -9662,3 +9662,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Bard 出局、Gemini 独立+收费，谷歌在 AI 大战中找到了感觉](https://www.36kr.com/p/2639999982582912)
 append_entries: 1
 Finish: 2024-02-09 04:21:12.691352
+------------------------------------------------------
+Started: 2024-02-09 06:23:02.337647
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google也推出了“AI付费套餐”，和ChatGPT比哪个值？](https://www.36kr.com/p/2639885359579396)
+append_entries: 1
+Finish: 2024-02-09 06:23:02.753024
