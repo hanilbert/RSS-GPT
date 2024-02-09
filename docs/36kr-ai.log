@@ -9653,3 +9653,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-09 02:22:34.359246
+------------------------------------------------------
+Started: 2024-02-09 04:21:12.247105
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bard 出局、Gemini 独立+收费，谷歌在 AI 大战中找到了感觉](https://www.36kr.com/p/2639999982582912)
+append_entries: 1
+Finish: 2024-02-09 04:21:12.691352
