@@ -9809,3 +9809,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-11 02:25:20.351255
+------------------------------------------------------
+Started: 2024-02-11 04:21:47.868690
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [芯片行业，需要怎样的工程师？](https://www.36kr.com/p/2643480606753030)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [奥特曼7万亿美元芯片帝国野心曝光，OpenAI日产1000亿单词欲接管世界](https://www.36kr.com/p/2642220176899206)
+append_entries: 2
+Finish: 2024-02-11 04:21:48.806550
