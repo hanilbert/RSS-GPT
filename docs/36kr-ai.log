@@ -9986,3 +9986,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-13 10:19:33.424173
+------------------------------------------------------
+Started: 2024-02-13 12:32:34.022138
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [轻松盗走 2500 万美元，我们该如何防范人工智能造假危机？](https://www.36kr.com/p/2645135013067913)
+append_entries: 1
+Finish: 2024-02-13 12:32:34.507821
