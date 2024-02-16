@@ -9008,3 +9008,12 @@ Existing_entries: 63
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-16 12:32:28.506491
+------------------------------------------------------
+Started: 2024-02-16 14:17:39.530784
+Existing_entries: 63
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E128 对话经济学者朱宁：买没买过「永远涨」的资产，这些关于泡沫的真问题都值得你听 2月16日 🐲 欢迎在返工路上收听龙年的第一期节目，以更广阔的格局理解，...](https://youzhiyouxing.cn/materials/1615)
+append_entries: 1
+Finish: 2024-02-16 14:17:40.760401
