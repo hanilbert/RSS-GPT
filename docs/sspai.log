@@ -15244,3 +15244,12 @@ Existing_entries: 527
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-16 08:22:28.037413
+------------------------------------------------------
+Started: 2024-02-16 10:20:03.571318
+Existing_entries: 527
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新年新开始：从为什么到写什么，带你重新认识日记](https://sspai.com/post/86356)
+append_entries: 1
+Finish: 2024-02-16 10:20:03.953946
