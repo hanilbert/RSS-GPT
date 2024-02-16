@@ -18660,3 +18660,13 @@ Fetching from https://brett.trpstra.net/brettterpstra
 Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
 append_entries: 0
 Finish: 2024-02-16 18:22:24.854039
+------------------------------------------------------
+Started: 2024-02-16 20:18:08.359186
+Existing_entries: 125
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The FastScripts giveaway winner!](https://brett.trpstra.net/link/535/16580138/the-fastscripts-giveaway-winner)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+append_entries: 1
+Finish: 2024-02-16 20:18:09.652655
