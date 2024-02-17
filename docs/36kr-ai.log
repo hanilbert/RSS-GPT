@@ -10268,3 +10268,15 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-17 02:21:51.890805
+------------------------------------------------------
+Started: 2024-02-17 04:24:01.304502
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [瑞士信息与通信科技公司Neural Concept研发几何深度学习算法，加速人工智能在工业产品设计中的应用 | 瑞士创新100强](https://www.36kr.com/p/2632131011071494)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一锤降维，解密OpenAI超级视频模型Sora技术报告，虚拟世界涌现了](https://www.36kr.com/p/2651890691244297)
+append_entries: 2
+Finish: 2024-02-17 04:24:01.861929
