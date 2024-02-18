@@ -10391,3 +10391,20 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-18 08:21:50.850180
+------------------------------------------------------
+Started: 2024-02-18 10:19:20.971511
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [第一拨靠Sora赚钱的人已经出现了](https://www.36kr.com/p/2653826184756357)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024 AI 展望：OpenAI再打响指，我们还能期盼什么？](https://www.36kr.com/p/2638393139182728)
+Append: [网络效应靠不住，AI时代的增长还能靠什么？](https://www.36kr.com/p/2653507692400135)
+Append: [“AI女友”正变成“浪漫杀手”，有人在与聊天机器人交往6周后自杀](https://www.36kr.com/p/2653655854940422)
+Append: [OpenAI Sora核心技术，被曝缝合自DeepMind和谢赛宁论文？机器模拟人类世界迈出第一步](https://www.36kr.com/p/2653572689656960)
+Append: [LeCun怒斥Sora不能理解物理世界，Meta首发AI视频「世界模型」V-JEPA](https://www.36kr.com/p/2653572375970050)
+Append: [假期要闻汇总：OpenAI再放颠覆级产品，AI行业春节动作频繁](https://www.36kr.com/p/2653651108577540)
+append_entries: 7
+Finish: 2024-02-18 10:19:21.744414
