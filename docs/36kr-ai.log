@@ -10366,3 +10366,16 @@ Append: [人工智能龙年持续“王炸”：不只Sora，三大AI模型同�
 Append: [超过7万亿美元，奥特曼、孙正义都要重塑AI半导体行业格局，英伟达用大模型反击？](https://www.36kr.com/p/2652310202060295)
 append_entries: 8
 Finish: 2024-02-18 02:24:21.413588
+------------------------------------------------------
+Started: 2024-02-18 04:20:55.850453
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora刷屏，哪些A股上市公司或将受益？](https://www.36kr.com/p/2653389966790152)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不再更新传统手机，魅族宣布All in AI丨最前线](https://www.36kr.com/p/2653370524482695)
+Append: [Sora“拯救”元宇宙，世界模型的潜力才刚释放](https://www.36kr.com/p/2653409139789314)
+append_entries: 3
+Finish: 2024-02-18 04:20:56.560266
