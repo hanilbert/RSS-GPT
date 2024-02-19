@@ -10467,3 +10467,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-19 01:18:22.662450
+------------------------------------------------------
+Started: 2024-02-19 02:24:27.839925
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora面世后，这家视频生成公司跌超7%](https://www.36kr.com/p/2654622573706369)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [亚马逊谷歌IBM微软等巨头刚刚承诺一同对抗人工智能选举干扰](https://www.36kr.com/p/2654057871035654)
+Append: [Sora刷屏三天：挖来谷歌的人才，用着谷歌的技术，抢走谷歌的热搜](https://www.36kr.com/p/2654568152366217)
+Append: [这两家手机厂商同时宣布押注 AI，却选了截然相反的方向](https://www.36kr.com/p/2654010820082820)
+Append: [AI网红，已经在小红书上种草保健品了](https://www.36kr.com/p/2653987996187777)
+Append: [关于 Sora，我有十个小白问题](https://www.36kr.com/p/2653996278938752)
+append_entries: 6
+Finish: 2024-02-19 02:24:28.687262
