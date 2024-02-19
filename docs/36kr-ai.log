@@ -10541,3 +10541,19 @@ Append: [AI配音版Sora视频刷屏，绝美逼真音效打破「无声电影�
 Append: [我从事AI事业这一年 | 复工特别策划](https://www.36kr.com/p/2655081940438530)
 append_entries: 10
 Finish: 2024-02-19 10:20:23.635960
+------------------------------------------------------
+Started: 2024-02-19 12:33:51.284070
+Existing_entries: 1010
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI首席科学家Ilya离开OpenAI了吗？](https://www.36kr.com/p/2655375112700163)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora“轰炸”影视圈，普通人的风口来了](https://www.36kr.com/p/2655194727825671)
+Append: [Sora 为何未在中国出现？交大天才少年谢赛宁反问「我们准备好了吗」](https://www.36kr.com/p/2655235760406789)
+Append: [踢开AGI大门，Sora会让世界成为“太虚幻境”吗？](https://www.36kr.com/p/2655128849141252)
+Append: [Sora爆火，马斯克急了，“特斯拉才拥有最好的视频生成技术”](https://www.36kr.com/p/2655123882261634)
+Append: [Sora“碾压”一众模型，Pika等创业公司再无活路？](https://www.36kr.com/p/2655088918642950)
+append_entries: 6
+Finish: 2024-02-19 12:33:52.094321
