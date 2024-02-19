@@ -10483,3 +10483,17 @@ Append: [AI网红，已经在小红书上种草保健品了](https://www.36kr.co
 Append: [关于 Sora，我有十个小白问题](https://www.36kr.com/p/2653996278938752)
 append_entries: 6
 Finish: 2024-02-19 02:24:28.687262
+------------------------------------------------------
+Started: 2024-02-19 04:22:05.720994
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [通往AGI的第二条路](https://www.36kr.com/p/2654752073371140)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI正在革传统搜索的命，但也带来一个大问题](https://www.36kr.com/p/2654740442874119)
+Append: [OPPO魅族小鹏吉利集体梭哈，2024年成“AI硬件元年”？](https://www.36kr.com/p/2654106591088132)
+Append: [Sora爆火，一次典型的OpenAI式胜利](https://www.36kr.com/p/2654636128943233)
+append_entries: 4
+Finish: 2024-02-19 04:22:06.403010
