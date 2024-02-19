@@ -15493,3 +15493,12 @@ Existing_entries: 534
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-19 12:33:39.359711
+------------------------------------------------------
+Started: 2024-02-19 14:18:02.853328
+Existing_entries: 534
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/86521)
+append_entries: 1
+Finish: 2024-02-19 14:18:03.270558
