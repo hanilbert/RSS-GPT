@@ -10658,3 +10658,24 @@ Append: [Sora后观察：AI大模型产业落地的八个锚点](https://www.36k
 Append: [Sora时代：长视频走进“迷雾剧场”？](https://www.36kr.com/p/2656427374870790)
 append_entries: 6
 Finish: 2024-02-20 10:19:29.331984
+------------------------------------------------------
+Started: 2024-02-20 12:33:15.364000
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora炸裂出道，让世界币暴涨192%，只因背后都有奥特曼](https://www.36kr.com/p/2656797671555336)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI正在革搜索的命，但也带来一个大问题](https://www.36kr.com/p/2656797140828417)
+Append: [扒开68家Sora概念股真面目](https://www.36kr.com/p/2656761260359936)
+Append: [OpenAI的Sora注定死路一条，Yann LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://www.36kr.com/p/2656775498989828)
+Append: [谁是中国版Sora？](https://www.36kr.com/p/2656722987175175)
+Append: [几小时前，OpenAI 爆款工具 Sora 被取消了静音模式](https://www.36kr.com/p/2656369096196360)
+Append: [更乱了，已经有真人视频冒充Sora了，威尔·史密斯吃意大利面玩梗](https://www.36kr.com/p/2656366138278149)
+Append: [GPT-4 更强的标志，原来藏在了 logo 里](https://www.36kr.com/p/2656668951395460)
+Append: [浅析生成式人工智能输入和输出涉及著作权问题——国内首例AIGC著作权纠纷判例与国外案例对比](https://www.36kr.com/p/2656602927071496)
+Append: [在Sora引爆视频生成时，Meta开始用Agent自动剪视频了，华人作者主导](https://www.36kr.com/p/2656586146069640)
+Append: [谁为Sora上了头？](https://www.36kr.com/p/2656539785055488)
+append_entries: 11
+Finish: 2024-02-20 12:33:16.204503

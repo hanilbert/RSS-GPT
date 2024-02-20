@@ -15568,3 +15568,12 @@ Existing_entries: 537
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-20 10:19:14.761253
+------------------------------------------------------
+Started: 2024-02-20 12:32:59.520340
+Existing_entries: 537
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 032 | 写小说利器、被盗版以及春节照片后的故事](https://sspai.com/post/86538)
+append_entries: 1
+Finish: 2024-02-20 12:33:00.021826
