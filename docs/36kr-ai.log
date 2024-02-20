@@ -10587,3 +10587,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-19 22:18:08.280883
+------------------------------------------------------
+Started: 2024-02-20 01:15:57.145482
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [零基础速学插画，怎么就成了大型智商税？](https://www.36kr.com/p/2654841179639301)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI创业冰火两重天：Sora降世资本狂欢，数家创企倒闭关门](https://www.36kr.com/p/2655431693910281)
+Append: [存储，战火重燃](https://www.36kr.com/p/2655472352165001)
+Append: [Sora还没来，概念已席卷A股](https://www.36kr.com/p/2655983084780677)
+append_entries: 4
+Finish: 2024-02-20 01:15:58.226860
