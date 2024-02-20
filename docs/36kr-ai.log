@@ -10607,3 +10607,17 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-20 02:22:09.736785
+------------------------------------------------------
+Started: 2024-02-20 04:23:07.149052
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora引爆：寒武纪大涨16%，大模型能否助力扭亏为盈？](https://www.36kr.com/p/2655448232643847)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI女友，很黄很暴利](https://www.36kr.com/p/2656137579805825)
+Append: [Sora给中国AI带来的真实变化](https://www.36kr.com/p/2655463426359559)
+Append: [你说过的话，他忘了，但是 Sora 和 ChatGPT 都记得](https://www.36kr.com/p/2656017094065280)
+append_entries: 4
+Finish: 2024-02-20 04:23:08.112286
