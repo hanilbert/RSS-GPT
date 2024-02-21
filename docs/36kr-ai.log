@@ -10744,3 +10744,17 @@ Append: [换脸乌克兰美女在中国赚钱，AI已经开始跨国犯罪了](h
 Append: [小鹏吉利比亚迪梭哈AI汽车，特斯拉才是全场最靓的仔？](https://www.36kr.com/p/2656906530963716)
 append_entries: 4
 Finish: 2024-02-21 04:21:46.130941
+------------------------------------------------------
+Started: 2024-02-21 06:23:23.101857
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora新视频只发了TikTok：OpenAI 4天涨粉10万](https://www.36kr.com/p/2657851737276677)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora为何出自OpenAI？一线员工作息时间线揭秘：我们疯狂地卷](https://www.36kr.com/p/2657737128279171)
+Append: [世界模拟器才是AGI终局，12态势预测，首席专家万字长文专业解读Sora里程碑](https://www.36kr.com/p/2657731306176771)
+Append: [段永平看向未来十年](https://www.36kr.com/p/2657728034339976)
+append_entries: 4
+Finish: 2024-02-21 06:23:24.037076
