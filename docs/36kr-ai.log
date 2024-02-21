@@ -10730,3 +10730,17 @@ Append: [暴涨8倍后，AI大牛股突然崩了](https://www.36kr.com/p/2656814
 Append: [有没有嫌弃GPT内容生成太慢的？总算有公司在解决这问题了](https://www.36kr.com/p/2657402780187785)
 append_entries: 5
 Finish: 2024-02-21 02:22:46.937237
+------------------------------------------------------
+Started: 2024-02-21 04:21:45.209429
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [每秒500token的“网红”芯片Groq让人惊叹，但人们开始担心它的可用性](https://www.36kr.com/p/2657700444454021)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌DeepMind CEO哈萨比斯：Scale只能带你走这么远](https://www.36kr.com/p/2656803466181762)
+Append: [换脸乌克兰美女在中国赚钱，AI已经开始跨国犯罪了](https://www.36kr.com/p/2656797933567112)
+Append: [小鹏吉利比亚迪梭哈AI汽车，特斯拉才是全场最靓的仔？](https://www.36kr.com/p/2656906530963716)
+append_entries: 4
+Finish: 2024-02-21 04:21:46.130941
