@@ -10777,3 +10777,25 @@ Append: [“已经有三个人跟我说要做中国版Sora”](https://www.36kr.
 Append: [抖音、优酷的“Sora”在哪里？](https://www.36kr.com/p/2657765405768840)
 append_entries: 3
 Finish: 2024-02-21 10:20:40.173016
+------------------------------------------------------
+Started: 2024-02-21 12:33:15.561546
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [没开玩笑，搜索引擎可能要被AI聊天机器人取代了](https://www.36kr.com/p/2658173964074115)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora能否成为自动驾驶「强心剂」？](https://www.36kr.com/p/2658159307866369)
+Append: [Agent狂飙300天](https://www.36kr.com/p/2658065259282691)
+Append: [周四晚6点，和哄哄模拟器开发者聊聊，AI陪伴会是一门好生意吗？｜New Things](https://www.36kr.com/p/2658120349548800)
+Append: [Hadoop 已死，AI 吞噬世界？](https://www.36kr.com/p/2658112366328961)
+Append: [Sora引爆AI淘金，年轻人开始用AGI赚钱](https://www.36kr.com/p/2658063296298114)
+Append: [丁晓东： 人工智能作品的著作权主体到底是谁？](https://www.36kr.com/p/2658059761733120)
+Append: [在OpenAI引领的多模态时代，专注语音的ElevenLabs如何生存？](https://www.36kr.com/p/2658054057376902)
+Append: [Gemini 1.5实测：我看Sora一眼假；还有更多惊艳功能](https://www.36kr.com/p/2658037090073728)
+Append: [突发：Sora占领TikTok，涨粉10万，商家倍感焦虑，巨头一夜未眠](https://www.36kr.com/p/2658037106163968)
+Append: [清华艺术生，怎就成了“中国AI新教父”？](https://www.36kr.com/p/2658059154833664)
+Append: [Sora来袭，面对AI大跃进，人类应该感到害怕吗？](https://www.36kr.com/p/2657990879837312)
+append_entries: 12
+Finish: 2024-02-21 12:33:16.621643
