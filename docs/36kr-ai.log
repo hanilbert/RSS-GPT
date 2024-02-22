@@ -10908,3 +10908,17 @@ Append: [AI搜索大变局](https://www.36kr.com/p/2659277357056265)
 Append: [AI美女，组团在抖音卖货](https://www.36kr.com/p/2659185966169219)
 append_entries: 4
 Finish: 2024-02-22 10:19:13.416402
+------------------------------------------------------
+Started: 2024-02-22 12:32:32.110041
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [智能机器人公司宇树科技完成10亿元B2轮融资，美团、金石、源码参投｜36氪首发](https://www.36kr.com/p/2659466413964419)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google炸场，最强轻量级、开放模型Gemma发布，个人PC就能用，内部员工：强是强，但名字取得让我混乱](https://www.36kr.com/p/2659425446313094)
+Append: [原来是谷歌Open了AI？](https://www.36kr.com/p/2659422564301953)
+Append: [谷歌大模型迟到的开源战略](https://www.36kr.com/p/2659389417226502)
+append_entries: 4
+Finish: 2024-02-22 12:32:32.735370
