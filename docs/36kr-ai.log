@@ -10842,3 +10842,20 @@ Append: [谷歌VideoPoet负责人蒋路跳槽TikTok，对标Sora，AI视频模�
 Append: [全球最强开源大模型一夜易主，谷歌Gemma 7B碾压Llama 2 13B，今夜重燃开源之战](https://www.36kr.com/p/2658553107594372)
 append_entries: 3
 Finish: 2024-02-22 01:16:35.384805
+------------------------------------------------------
+Started: 2024-02-22 02:22:52.895913
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌再放核弹，开源最强大模型Gemini技术，碾压Llama 2，一月三大招硬刚OpenAI](https://www.36kr.com/p/2658586582778119)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI芯片黑马一夜爆红：成本推算争议不断，前员工现员工互撕](https://www.36kr.com/p/2658860939492481)
+Append: [Sora火了，抖音们慌了？](https://www.36kr.com/p/2658959379808513)
+Append: [Sora送上“泼天富贵”，AI基础设施：这次轮到我了](https://www.36kr.com/p/2657723602844809)
+Append: [AI圈割韭菜乱象频出：卖199元AI课赚了上千万](https://www.36kr.com/p/2658110449089664)
+Append: [一年豪掷百亿，英伟达狂投这个赛道](https://www.36kr.com/p/2658936970263682)
+Append: [开源大模型王座易主，谷歌Gemma杀入场，笔记本可跑，可商用](https://www.36kr.com/p/2658474671438982)
+append_entries: 7
+Finish: 2024-02-22 02:22:53.943712
