@@ -10859,3 +10859,19 @@ Append: [一年豪掷百亿，英伟达狂投这个赛道](https://www.36kr.com/
 Append: [开源大模型王座易主，谷歌Gemma杀入场，笔记本可跑，可商用](https://www.36kr.com/p/2658474671438982)
 append_entries: 7
 Finish: 2024-02-22 02:22:53.943712
+------------------------------------------------------
+Started: 2024-02-22 04:20:38.906916
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开源王者归来！谷歌上新开源模型Gemma，领跑Llama-2，手机PC可跑](https://www.36kr.com/p/2659132206235904)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [All in AI后，AI手机成了2024年的关键词？](https://www.36kr.com/p/2659060970503296)
+Append: [AIGC爆火，第一家要倒下的大模型企业出现了？](https://www.36kr.com/p/2659054822690306)
+Append: [张一鸣，阿尔特曼的最佳盟友](https://www.36kr.com/p/2659032437931138)
+Append: [烧掉5500多亿的Meta，为何没让股东窒息](https://www.36kr.com/p/2658788647603464)
+Append: [前几天被Sora抢了热搜的谷歌，又突然发了个“最强开源小模型”](https://www.36kr.com/p/2658986343055620)
+append_entries: 6
+Finish: 2024-02-22 04:20:39.843340
