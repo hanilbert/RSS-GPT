@@ -9428,3 +9428,12 @@ Existing_entries: 65
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-22 06:23:45.194944
+------------------------------------------------------
+Started: 2024-02-22 08:23:05.373171
+Existing_entries: 65
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [与回本的距离 2月22日 一位好朋友买的基金亏了不少，问我应该怎么办](https://youzhiyouxing.cn/materials/1620)
+append_entries: 1
+Finish: 2024-02-22 08:23:06.287133

@@ -15721,3 +15721,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [「#」号的补充历史：比想象的要复杂得多](https://sspai.com/post/86471)
 append_entries: 1
 Finish: 2024-02-22 06:23:22.638428
+------------------------------------------------------
+Started: 2024-02-22 08:22:50.764032
+Existing_entries: 544
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)
+append_entries: 1
+Finish: 2024-02-22 08:22:51.476788
