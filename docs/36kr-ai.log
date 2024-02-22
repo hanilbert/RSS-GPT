@@ -10894,3 +10894,17 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-22 08:23:03.431653
+------------------------------------------------------
+Started: 2024-02-22 10:19:12.795432
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [网易的AI ，让玩家爱恨交加](https://www.36kr.com/p/2659306653142274)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李一舟火了，普通人能靠AI月入过万吗？](https://www.36kr.com/p/2659284593429763)
+Append: [AI搜索大变局](https://www.36kr.com/p/2659277357056265)
+Append: [AI美女，组团在抖音卖货](https://www.36kr.com/p/2659185966169219)
+append_entries: 4
+Finish: 2024-02-22 10:19:13.416402
