@@ -10875,3 +10875,16 @@ Append: [烧掉5500多亿的Meta，为何没让股东窒息](https://www.36kr.co
 Append: [前几天被Sora抢了热搜的谷歌，又突然发了个“最强开源小模型”](https://www.36kr.com/p/2658986343055620)
 append_entries: 6
 Finish: 2024-02-22 04:20:39.843340
+------------------------------------------------------
+Started: 2024-02-22 06:23:41.586586
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达业绩再创纪录，黄教主称AI“临界点”已到](https://www.36kr.com/p/2659162099040519)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [知名AI创企被曝停工停产6个月？已获D轮融资，最新回应来了](https://www.36kr.com/p/2659154129915142)
+Append: [亚马逊的AI大刀挥向了自己，搜索框流量即将大变](https://www.36kr.com/p/2659150872412416)
+append_entries: 3
+Finish: 2024-02-22 06:23:42.366547
