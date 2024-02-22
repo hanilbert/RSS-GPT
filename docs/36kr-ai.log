@@ -10829,3 +10829,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-21 22:17:33.689554
+------------------------------------------------------
+Started: 2024-02-22 01:16:34.606076
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI芯片被Sora彻底引爆，孙正义募集千亿美元，剑指英伟达](https://www.36kr.com/p/2658216270708999)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌VideoPoet负责人蒋路跳槽TikTok，对标Sora，AI视频模型大战在即](https://www.36kr.com/p/2658813026663556)
+Append: [全球最强开源大模型一夜易主，谷歌Gemma 7B碾压Llama 2 13B，今夜重燃开源之战](https://www.36kr.com/p/2658553107594372)
+append_entries: 3
+Finish: 2024-02-22 01:16:35.384805
