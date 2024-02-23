@@ -15814,3 +15814,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552)
 append_entries: 1
 Finish: 2024-02-23 08:22:46.843611
+------------------------------------------------------
+Started: 2024-02-23 10:20:27.588470
+Existing_entries: 549
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623)
+append_entries: 1
+Finish: 2024-02-23 10:20:28.127886

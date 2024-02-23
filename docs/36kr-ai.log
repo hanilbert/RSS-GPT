@@ -11031,3 +11031,19 @@ Append: [Sora降世，短视频真的会更好吗？](https://www.36kr.com/p/266
 Append: [2024开年，手机厂商革了自己的命](https://www.36kr.com/p/2660470966002438)
 append_entries: 12
 Finish: 2024-02-23 08:23:01.082894
+------------------------------------------------------
+Started: 2024-02-23 10:20:42.111431
+Existing_entries: 1012
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI和谷歌，AI对线中的飞驰人生](https://www.36kr.com/p/2660898993824512)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [华为再度超越iPad，但AI才是平板电脑的未来？](https://www.36kr.com/p/2660850038279681)
+Append: [国产大模型，不会开启“烧钱游戏”](https://www.36kr.com/p/2660849925498633)
+Append: [Stable Diffusion 3 惊艳亮相，还与 Sora 是同架构，生成图像真假难辨](https://www.36kr.com/p/2660830285260553)
+Append: [反垄断观察：美国数字巨头与AI公司合作要接受欧盟反垄断监管？](https://www.36kr.com/p/2660803473083656)
+Append: [“困在”服务器里的浪潮信息，还能搭上AI风口吗？](https://www.36kr.com/p/2660793740741896)
+append_entries: 6
+Finish: 2024-02-23 10:20:42.835157
