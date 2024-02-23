@@ -15781,3 +15781,12 @@ Existing_entries: 546
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-23 01:15:48.614978
+------------------------------------------------------
+Started: 2024-02-23 02:23:17.597620
+Existing_entries: 546
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
+append_entries: 1
+Finish: 2024-02-23 02:23:18.249946
