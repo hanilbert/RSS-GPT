@@ -9536,3 +9536,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [E128 很难，但没上班难！这间 10 平方的植物店，我还要再开 100 年（附职场人到老板的思维转换心得 2月23日 🎧想开家小店却总被劝退？这家开在胡同里的植物店...](https://youzhiyouxing.cn/materials/1621)
 append_entries: 1
 Finish: 2024-02-23 16:22:19.940350
+------------------------------------------------------
+Started: 2024-02-23 18:23:20.659197
+Existing_entries: 67
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-02-23 18:23:20.768827
