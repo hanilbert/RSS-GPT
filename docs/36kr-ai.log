@@ -10988,3 +10988,18 @@ Existing_entries: 1006
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-23 02:23:30.635814
+------------------------------------------------------
+Started: 2024-02-23 04:20:42.465369
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI元年，被C端用户们“证伪”了的AI产品（上）](https://www.36kr.com/p/2659759484282632)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达值14万亿吗？](https://www.36kr.com/p/2660387511019264)
+Append: [2024的初创公司，不蹭AI就融不到资？](https://www.36kr.com/p/2660412040947462)
+Append: [AI上国内团队好像被甩开了？差钱？差人？](https://www.36kr.com/p/2659677795094023)
+Append: [OPPO、魅族，背道而驰](https://www.36kr.com/p/2659660097831173)
+append_entries: 5
+Finish: 2024-02-23 04:20:43.267766
