@@ -11009,3 +11009,25 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-23 06:23:45.336843
+------------------------------------------------------
+Started: 2024-02-23 08:23:00.292008
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI 最早的投资机构 Khosla Ventures 谈 AI 投资："我绝对不想成为恐龙”](https://www.36kr.com/p/2660768258007811)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李一舟被爆侵权：名下每月 399 元的付费网站，搬运 AI 创作社区近百模型](https://www.36kr.com/p/2660645105427201)
+Append: [Sora刷屏一周，9大平台的年轻人怎么看？](https://www.36kr.com/p/2660587435517699)
+Append: [百度移动生态调整：文库业务升级为BU，“老将”回归负责搜索 | Long China 50独家](https://www.36kr.com/p/2656927339561222)
+Append: [ChatGPT 价格里掩盖的算力分布秘密](https://www.36kr.com/p/2660579176866568)
+Append: [Sora到底有多炸裂，四款视频大模型5大场景测评，从ChatGPT到Sora，OpenAI为何能连续打造出“王炸级神器”](https://www.36kr.com/p/2660570084402949)
+Append: [基于AI的数据架构：业务在前，协作在后](https://www.36kr.com/p/2660565320541953)
+Append: [Stable Diffusion 3深夜横空出世，模型与Sora同架构，也能「理解」物理世界](https://www.36kr.com/p/2660546367743745)
+Append: [Stable Diffusion 3震撼发布，采用Sora同源技术，文字终于不乱码了](https://www.36kr.com/p/2660511549448967)
+Append: [想要“弯道超车”英伟达的12家独角兽](https://www.36kr.com/p/2660506072310528)
+Append: [Sora降世，短视频真的会更好吗？](https://www.36kr.com/p/2660502878988041)
+Append: [2024开年，手机厂商革了自己的命](https://www.36kr.com/p/2660470966002438)
+append_entries: 12
+Finish: 2024-02-23 08:23:01.082894
