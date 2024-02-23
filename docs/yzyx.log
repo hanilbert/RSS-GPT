@@ -9527,3 +9527,12 @@ Existing_entries: 66
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-23 14:17:10.147660
+------------------------------------------------------
+Started: 2024-02-23 16:22:19.621650
+Existing_entries: 66
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E128 很难，但没上班难！这间 10 平方的植物店，我还要再开 100 年（附职场人到老板的思维转换心得 2月23日 🎧想开家小店却总被劝退？这家开在胡同里的植物店...](https://youzhiyouxing.cn/materials/1621)
+append_entries: 1
+Finish: 2024-02-23 16:22:19.940350
