@@ -11047,3 +11047,17 @@ Append: [反垄断观察：美国数字巨头与AI公司合作要接受欧盟反
 Append: [“困在”服务器里的浪潮信息，还能搭上AI风口吗？](https://www.36kr.com/p/2660793740741896)
 append_entries: 6
 Finish: 2024-02-23 10:20:42.835157
+------------------------------------------------------
+Started: 2024-02-23 12:32:22.172485
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [重新理解AI变革](https://www.36kr.com/p/2660905260092934)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora问世第7天：谷歌猛烈回击，技术冰山下还有这5个关键问题](https://www.36kr.com/p/2660952828716807)
+Append: [机器人做手术，38亿美元市场谁在分羹？](https://www.36kr.com/p/2660946160591623)
+Append: [文生视频时代已到，百度、讯飞、字节谁能率先做出“国产Sora”？](https://www.36kr.com/p/2660909636183808)
+append_entries: 4
+Finish: 2024-02-23 12:32:23.063993
