@@ -10966,3 +10966,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-22 22:17:34.377046
+------------------------------------------------------
+Started: 2024-02-23 01:16:00.583804
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“字节版Sora”海外公测，这回不是狼来了](https://www.36kr.com/p/2660308204578560)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora不靠蛮力，大厂忙拆盲盒](https://www.36kr.com/p/2659742565442311)
+Append: [中国手机厂商，开启2024年「AI落地」大战丨焦点分析](https://www.36kr.com/p/2659236417995015)
+Append: [Stable Diffusion 3来了，100%理解提示词，不仅能生成文字，还涌现出物理能力了？](https://www.36kr.com/p/2660288624699140)
+Append: [AI之王的盛世隐忧](https://www.36kr.com/p/2659796659757829)
+Append: [6000万美元，“美国贴吧”Reddit把用户卖了个好价钱](https://www.36kr.com/p/2659824673908489)
+append_entries: 6
+Finish: 2024-02-23 01:16:04.829864
