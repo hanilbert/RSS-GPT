@@ -11135,3 +11135,12 @@ Append: [掉队大模型浪潮，明星AI公司竹间智能宣布部分停工 | 
 Append: [谁在复制李一舟？](https://www.36kr.com/p/2661806534370053)
 append_entries: 4
 Finish: 2024-02-24 08:20:08.620191
+------------------------------------------------------
+Started: 2024-02-24 10:20:37.796003
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024，手机厂商围坐AI新牌桌！](https://www.36kr.com/p/2661925958831620)
+append_entries: 1
+Finish: 2024-02-24 10:20:38.512824
