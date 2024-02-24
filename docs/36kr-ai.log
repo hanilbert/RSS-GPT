@@ -11121,3 +11121,17 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-24 06:21:25.199047
+------------------------------------------------------
+Started: 2024-02-24 08:20:07.596512
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人类伪装 Sora，怎么成了流量密码](https://www.36kr.com/p/2662054271936265)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌Gemini离谱翻车，马斯克被大黑特黑](https://www.36kr.com/p/2662064184419072)
+Append: [掉队大模型浪潮，明星AI公司竹间智能宣布部分停工 | 焦点分析](https://www.36kr.com/p/2658348660489352)
+Append: [谁在复制李一舟？](https://www.36kr.com/p/2661806534370053)
+append_entries: 4
+Finish: 2024-02-24 08:20:08.620191
