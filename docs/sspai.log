@@ -15967,3 +15967,12 @@ Existing_entries: 552
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-25 08:20:11.169605
+------------------------------------------------------
+Started: 2024-02-25 10:17:53.901971
+Existing_entries: 552
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)
+append_entries: 1
+Finish: 2024-02-25 10:17:54.607584
