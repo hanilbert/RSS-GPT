@@ -11198,3 +11198,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-25 02:24:51.215204
+------------------------------------------------------
+Started: 2024-02-25 04:23:01.531875
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达成立最壕AI实验室：Jim Fan领衔，专攻具身智能](https://www.36kr.com/p/2662064392840961)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [可控核聚变新里程碑！AI成功预测等离子体撕裂登Nature，清洁能源「圣杯」更近一步](https://www.36kr.com/p/2662026267550469)
+append_entries: 2
+Finish: 2024-02-25 04:23:02.638358
