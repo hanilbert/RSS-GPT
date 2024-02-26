@@ -11334,3 +11334,24 @@ Existing_entries: 1006
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-26 12:32:57.609316
+------------------------------------------------------
+Started: 2024-02-26 14:18:47.880923
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI会是手机行业的下一个赛点吗？](https://www.36kr.com/p/2665271096140549)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [网友曝光 OpenAI 秘密项目 Feather：简化 AI 应用开发](https://www.36kr.com/p/2665235569944325)
+Append: [300多家中国厂商引爆MWC，AI继续火热，5G-A迎来商用元年](https://www.36kr.com/p/2665215190978055)
+Append: [国内公司有望做出Sora吗？这支清华系大模型团队给出了希望](https://www.36kr.com/p/2665206713803523)
+Append: [“视频生成器”表皮之下，Sora究竟意味着什么？](https://www.36kr.com/p/2665200323977987)
+Append: [Sora 目前唯一体验方式，原来藏在了官网里](https://www.36kr.com/p/2665200296601345)
+Append: [刚刚，谷歌发布基础世界模型：11B参数，能生成可交互虚拟世界](https://www.36kr.com/p/2665207020053251)
+Append: [Sora对汽车行业的颠覆，从炒掉美工开始？](https://www.36kr.com/p/2665192796578560)
+Append: [AI大模型落地学习机，千亿市场战火重燃？](https://www.36kr.com/p/2665187134334724)
+Append: [AIGC合规观察：生成式人工智能服务提供平台的刑事风险及合规建议](https://www.36kr.com/p/2665152534138120)
+Append: [Sora“炸场” 中美AI差距有多大？](https://www.36kr.com/p/2665105691207427)
+append_entries: 11
+Finish: 2024-02-26 14:18:48.711470
