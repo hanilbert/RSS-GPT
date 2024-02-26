@@ -11285,3 +11285,12 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-26 02:26:39.266567
+------------------------------------------------------
+Started: 2024-02-26 04:22:49.290440
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人类沦为工具人，斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://www.36kr.com/p/2661134186325765)
+append_entries: 1
+Finish: 2024-02-26 04:22:49.703770
