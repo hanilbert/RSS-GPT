@@ -11294,3 +11294,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [人类沦为工具人，斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://www.36kr.com/p/2661134186325765)
 append_entries: 1
 Finish: 2024-02-26 04:22:49.703770
+------------------------------------------------------
+Started: 2024-02-26 06:24:47.705994
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora冲击还没来，但电影人已经开始焦虑了](https://www.36kr.com/p/2664794783605511)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [与微软合作，这家独角兽让GPT对中国企业开放了](https://www.36kr.com/p/2664780054171138)
+append_entries: 2
+Finish: 2024-02-26 06:24:50.527177
