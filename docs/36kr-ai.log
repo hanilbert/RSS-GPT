@@ -11267,3 +11267,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-25 22:17:49.794597
+------------------------------------------------------
+Started: 2024-02-26 01:18:44.932436
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [超级人工智能的派对开始了：黄仁勋、奥特曼与马斯克现GOAT之争](https://www.36kr.com/p/2663296978281225)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [市值相当于十个阿里，英伟达的掘金布局还没有停止丨焦点分析](https://www.36kr.com/p/2662211065488133)
+append_entries: 2
+Finish: 2024-02-26 01:18:45.619270
