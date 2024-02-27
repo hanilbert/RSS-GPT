@@ -11435,3 +11435,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Sora无法替代人类，亚马逊工程师断言：实际工作冲突不可能靠AI解决](https://www.36kr.com/p/2666238105233154)
 append_entries: 2
 Finish: 2024-02-27 08:21:48.811370
+------------------------------------------------------
+Started: 2024-02-27 10:20:58.461347
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“谷歌版Sora”被嘲画质好糊，但在世界模拟器上又前进了一步](https://www.36kr.com/p/2666578794144512)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软钦点OpenAI备胎：GPT-4级大模型上线即挤爆，成本仅2200万美元](https://www.36kr.com/p/2666578899542787)
+Append: [AIGC音乐的局限性究竟是什么？](https://www.36kr.com/p/2666478651564804)
+Append: [苹果Vision Pro与Sora联袂，AI浪潮助推XR硬件走向何方？](https://www.36kr.com/p/2666512534375938)
+Append: [微软不再独宠OpenAI，押注成立10个月、发布GPT-4最强竞品的法国AI独角兽Mistral AI](https://www.36kr.com/p/2666516840391433)
+Append: [OpenAI 被微软 “绿” 了，法国 “小鲜肉” Mistral 上位](https://www.36kr.com/p/2666516481828608)
+Append: [Sora爆火，AGI概念股们为何还未超越ChatGPT？](https://www.36kr.com/p/2666404786883840)
+Append: [讲个鬼故事：这台机器人终于“强”成了我要的模样](https://www.36kr.com/p/2666415704613633)
+Append: [2024 年的软件架构趋势：AI 加速，鸿沟拉大，架构师如何应对？](https://www.36kr.com/p/2666334935525129)
+Append: [Sora将颠覆教育科技行业？创业者们说：如枪终结了弓箭的时代](https://www.36kr.com/p/2666373095629576)
+Append: [欧洲最火AI独角兽发布旗舰大模型，性能直逼GPT-4，微软宣布合作投资](https://www.36kr.com/p/2666277873395464)
+append_entries: 11
+Finish: 2024-02-27 10:20:59.015066
