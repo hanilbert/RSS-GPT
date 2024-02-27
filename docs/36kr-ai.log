@@ -11456,3 +11456,19 @@ Append: [Sora将颠覆教育科技行业？创业者们说：如枪终结了弓�
 Append: [欧洲最火AI独角兽发布旗舰大模型，性能直逼GPT-4，微软宣布合作投资](https://www.36kr.com/p/2666277873395464)
 append_entries: 11
 Finish: 2024-02-27 10:20:59.015066
+------------------------------------------------------
+Started: 2024-02-27 12:31:51.234576
+Existing_entries: 1011
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora模型争议背后，什么是杨力昆的世界模型](https://www.36kr.com/p/2666674676360962)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球首个，机器比人更懂你，可穿戴情感识别系统登上Nature子刊](https://www.36kr.com/p/2666625154148098)
+Append: [AI+物联网+Web3,3大科技力量催生万物经济2030](https://www.36kr.com/p/2666546735080193)
+Append: [逼近GPT-4的新模型发布，「欧洲版OpenAI 」联手微软，却被质疑违背初心](https://www.36kr.com/p/2666607574198023)
+Append: [估值20亿美元的Figure AI再创融资奇迹，科技巨头纷纷偏爱的机器人公司是何方神圣？](https://www.36kr.com/p/2666578999977736)
+Append: [能拍电影的AI，在体育行业发展到什么程度了？](https://www.36kr.com/p/2666548469665027)
+append_entries: 6
+Finish: 2024-02-27 12:31:51.921342
