@@ -11423,3 +11423,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [下一个OpenAI来了？Mistral超大杯模型直逼GPT-4，93年创始人6人公司被微软认领](https://www.36kr.com/p/2666222617174784)
 append_entries: 1
 Finish: 2024-02-27 06:22:55.100469
+------------------------------------------------------
+Started: 2024-02-27 08:21:48.226132
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [研究发现：人工智能准备好成为你的心理咨询师了吗？](https://www.36kr.com/p/2626939630567687)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora无法替代人类，亚马逊工程师断言：实际工作冲突不可能靠AI解决](https://www.36kr.com/p/2666238105233154)
+append_entries: 2
+Finish: 2024-02-27 08:21:48.811370
