@@ -11401,3 +11401,16 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-27 02:22:11.881651
+------------------------------------------------------
+Started: 2024-02-27 04:21:28.130471
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [首席分析师揭秘爆火Groq，每小时要烧168美元，10倍H100拥有成本，老黄笑而不语](https://www.36kr.com/p/2666128838452999)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新一轮AI浪潮下，被侮辱与被损害的人](https://www.36kr.com/p/2666004114449155)
+Append: [大打AI牌之后，联想已过“万重山”？](https://www.36kr.com/p/2665448532747015)
+append_entries: 3
+Finish: 2024-02-27 04:21:28.880328
