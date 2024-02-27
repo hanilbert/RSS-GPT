@@ -11414,3 +11414,12 @@ Append: [新一轮AI浪潮下，被侮辱与被损害的人](https://www.36kr.co
 Append: [大打AI牌之后，联想已过“万重山”？](https://www.36kr.com/p/2665448532747015)
 append_entries: 3
 Finish: 2024-02-27 04:21:28.880328
+------------------------------------------------------
+Started: 2024-02-27 06:22:54.705813
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [下一个OpenAI来了？Mistral超大杯模型直逼GPT-4，93年创始人6人公司被微软认领](https://www.36kr.com/p/2666222617174784)
+append_entries: 1
+Finish: 2024-02-27 06:22:55.100469
