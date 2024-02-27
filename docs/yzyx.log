@@ -9818,3 +9818,12 @@ Existing_entries: 67
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-27 14:16:57.467091
+------------------------------------------------------
+Started: 2024-02-27 16:23:50.009176
+Existing_entries: 67
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E33 与自由的距离 2月27日 🎧 欢迎收听龙年的第一期《无人知晓》♾️](https://youzhiyouxing.cn/materials/1624)
+append_entries: 1
+Finish: 2024-02-27 16:23:50.363988
