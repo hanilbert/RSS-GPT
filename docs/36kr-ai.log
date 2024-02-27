@@ -11382,3 +11382,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-26 22:18:51.767646
+------------------------------------------------------
+Started: 2024-02-27 01:16:07.252675
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024 年制造业如何使用生成式人工智能](https://www.36kr.com/p/2665502272474626)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI写真取代海马体？还真有可能，但赚钱就别想了](https://www.36kr.com/p/2665421423011584)
+Append: [大模型追不上了？不妨尝试把主战场放在垂直模型](https://www.36kr.com/p/2665373209414914)
+append_entries: 3
+Finish: 2024-02-27 01:16:08.659305
