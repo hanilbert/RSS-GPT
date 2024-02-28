@@ -11560,3 +11560,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [微软押注“欧洲版OpenAI”，Mistral新模型直追GPT-4，这次不开源了](https://www.36kr.com/p/2667918631315207)
 append_entries: 2
 Finish: 2024-02-28 10:21:31.140622
+------------------------------------------------------
+Started: 2024-02-28 12:32:18.798594
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果"弃车从AI"：十年迷途知返，犹未晚矣丨焦点分析](https://www.36kr.com/p/2667642902602496)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [做不了游戏的Sora，怎么就让游戏人焦虑了？](https://www.36kr.com/p/2668114797602561)
+Append: [AI硬件，距离iPhone时刻仅一步之遥？](https://www.36kr.com/p/2668086904103685)
+Append: [Nature子刊：5天完成6个月工作，无需人类干预，AI化学家加速催化研究](https://www.36kr.com/p/2668056819655426)
+Append: [三星AI手机在韩销售破100万部，它在中国会有多大胜算？](https://www.36kr.com/p/2668092998723329)
+Append: [首批现场体验 AI Pin 的人：为什么我不换台手机呢？](https://www.36kr.com/p/2668004725515009)
+Append: [大模型一年后，6家科技巨头的博弈和取舍](https://www.36kr.com/p/2667996162908935)
+Append: [死磕大模型落地，腾讯字节阿里瞄准AI办公助理](https://www.36kr.com/p/2667975955959304)
+Append: [Sora“杀死”苹果汽车](https://www.36kr.com/p/2667972397261572)
+Append: [Sora颠覆游戏开发？中国游戏厂商AI竞赛开启](https://www.36kr.com/p/2667965313475336)
+Append: [与人类贴身热舞，人形机器人进阶到街头耍宝，6华人组团出品](https://www.36kr.com/p/2668000761177863)
+append_entries: 11
+Finish: 2024-02-28 12:32:19.659899
