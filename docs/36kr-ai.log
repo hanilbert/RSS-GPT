@@ -11581,3 +11581,12 @@ Append: [Sora颠覆游戏开发？中国游戏厂商AI竞赛开启](https://www.
 Append: [与人类贴身热舞，人形机器人进阶到街头耍宝，6华人组团出品](https://www.36kr.com/p/2668000761177863)
 append_entries: 11
 Finish: 2024-02-28 12:32:19.659899
+------------------------------------------------------
+Started: 2024-02-28 14:16:35.121967
+Existing_entries: 1011
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [深度：苹果造车永远不晚，错过AI必死无疑](https://www.36kr.com/p/2668110860429060)
+append_entries: 1
+Finish: 2024-02-28 14:16:36.568897
