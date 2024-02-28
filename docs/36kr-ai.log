@@ -11526,3 +11526,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [炸裂更新，这个最像人类的机器人又进化了，还能模仿马斯克](https://www.36kr.com/p/2667550129791750)
 append_entries: 2
 Finish: 2024-02-28 04:22:24.157103
+------------------------------------------------------
+Started: 2024-02-28 06:23:15.153152
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [外媒抢先实测Sora，视频大翻车惨不忍睹？不懂物理/动物变形/速度巨慢，但初创公司已经创死一片](https://www.36kr.com/p/2667615068890888)
+append_entries: 1
+Finish: 2024-02-28 06:23:15.847031
