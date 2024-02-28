@@ -11548,3 +11548,15 @@ Append: [微软折腾一年没搞定，OpenAI 能用 AI 搜索挑战谷歌吗？
 Append: [Sora阴影之下，焦虑的中国AI](https://www.36kr.com/p/2667650737186566)
 append_entries: 3
 Finish: 2024-02-28 08:23:17.965280
+------------------------------------------------------
+Started: 2024-02-28 10:21:30.226833
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [寻找下一个爆款应用，硅谷投资人的AI使用指南](https://www.36kr.com/p/2667907106622722)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软押注“欧洲版OpenAI”，Mistral新模型直追GPT-4，这次不开源了](https://www.36kr.com/p/2667918631315207)
+append_entries: 2
+Finish: 2024-02-28 10:21:31.140622

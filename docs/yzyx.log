@@ -9878,3 +9878,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [181 市场反弹，长钱账户新钱买入配置比例有变化 2月28日 根据市场情况，进行仓位的动态调整。长钱账户好好地对待你投入的每一笔钱](https://youzhiyouxing.cn/materials/1626)
 append_entries: 1
 Finish: 2024-02-28 08:23:21.818387
+------------------------------------------------------
+Started: 2024-02-28 10:21:34.183823
+Existing_entries: 69
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-02-28 10:21:34.298972
