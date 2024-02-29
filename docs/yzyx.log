@@ -9962,3 +9962,15 @@ Existing_entries: 69
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-02-29 12:33:05.745257
+------------------------------------------------------
+Started: 2024-02-29 14:20:34.488064
+Existing_entries: 69
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A股的长期收益 2月29日 中国大类资产投资 2023 年报独家首发](https://youzhiyouxing.cn/materials/1627)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国大类资产投资 2023 年报 2月29日 独家发布，有知有行首次系统展示中国资本市场的历史风险与收益。🎉](https://youzhiyouxing.cn/materials/1625)
+append_entries: 2
+Finish: 2024-02-29 14:20:35.210232
