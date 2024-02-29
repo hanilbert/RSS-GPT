@@ -16285,3 +16285,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
 append_entries: 1
 Finish: 2024-02-29 04:21:02.941342
+------------------------------------------------------
+Started: 2024-02-29 06:23:27.355372
+Existing_entries: 566
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [如果我语言学习只能做一件事…及其他碎碎念](https://sspai.com/post/85611)
+append_entries: 1
+Finish: 2024-02-29 06:23:27.791304

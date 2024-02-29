@@ -11645,3 +11645,12 @@ Append: [解决人才招聘难的问题，“社交媒体+AI”的路子不妨�
 Append: [聚焦AI落地交通安全，「弘目信息」获软银华鑫天使轮融资｜36氪首发](https://www.36kr.com/p/2667691842904839)
 append_entries: 6
 Finish: 2024-02-29 04:21:19.844514
+------------------------------------------------------
+Started: 2024-02-29 06:23:40.438465
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国物流机器人在日本“上岗”](https://www.36kr.com/p/2669031759228424)
+append_entries: 1
+Finish: 2024-02-29 06:23:42.381298
