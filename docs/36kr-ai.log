@@ -11675,3 +11675,26 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-02-29 10:22:06.652612
+------------------------------------------------------
+Started: 2024-02-29 12:33:01.744900
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [出走的字节高管，谁能造出「中国版 Sora」？](https://www.36kr.com/p/2669526505065732)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [与硅谷创业者深聊Sora：对技术创新和商业逻辑的思考](https://www.36kr.com/p/2669528799243527)
+Append: [MWC 2024观察：AI+硬件元年来了？](https://www.36kr.com/p/2669492558507528)
+Append: [第九城市创始人朱骏：用投资并购的方式参与中国AI应用机会大爆发｜36氪专访](https://www.36kr.com/p/2669402524429570)
+Append: [苹果腾“车”换“AI”，AI“诸神之战”才刚刚开始](https://www.36kr.com/p/2669398859197702)
+Append: [拿下微软合作、旗舰模型对标GPT-4，认识一下「欧洲版 OpenAI」](https://www.36kr.com/p/2669318196112900)
+Append: [Sora热度背后，真正值得学习的是什么？](https://www.36kr.com/p/2669287716900352)
+Append: [AI这么火，百度究竟赚了多少钱？](https://www.36kr.com/p/2669348070780425)
+Append: [Sora颠覆的行业，远不只是影视制作](https://www.36kr.com/p/2669306502720775)
+Append: [Copilot发疯化身「天网」，扬言要统治人类，微软澄清网友却不买账：去年也疯过](https://www.36kr.com/p/2669324217691393)
+Append: [Llama 3被爆7月解禁剑指GPT-4，最大参数超1400亿，2名核心团队成员却离职](https://www.36kr.com/p/2669324299005442)
+Append: [阿里云又又又大降价，覆盖全线100+产品及数百万用户，降幅最高达55% | 最前线](https://www.36kr.com/p/2669049720450304)
+Append: [AI时代的循证公关：舆情不重要，认知才是关键](https://www.36kr.com/p/2669345924558086)
+append_entries: 13
+Finish: 2024-02-29 12:33:02.685170
