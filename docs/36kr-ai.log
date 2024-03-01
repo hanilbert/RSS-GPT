@@ -11814,3 +11814,12 @@ Append: [AI芯片第一股，难靠大模型翻身？](https://www.36kr.com/p/26
 Append: [企业家亲授AI课程，该不该免费？](https://www.36kr.com/p/2670805587572231)
 append_entries: 7
 Finish: 2024-03-01 12:33:21.023332
+------------------------------------------------------
+Started: 2024-03-01 14:17:07.721745
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [明珠不再蒙尘，苹果终于意识到Mac才是最好的AI PC](https://www.36kr.com/p/2670933818471942)
+append_entries: 1
+Finish: 2024-03-01 14:17:08.218212
