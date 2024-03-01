@@ -16396,3 +16396,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776)
 append_entries: 1
 Finish: 2024-03-01 10:19:34.358623
+------------------------------------------------------
+Started: 2024-03-01 12:33:01.264616
+Existing_entries: 573
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816)
+append_entries: 1
+Finish: 2024-03-01 12:33:01.789530

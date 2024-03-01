@@ -11797,3 +11797,20 @@ Append: [Sora外部测试翻车了，3个视频都有Bug](https://www.36kr.com/p
 Append: [周鸿祎首堂 AI 课引争议，疑似专业性错误太多](https://www.36kr.com/p/2670492446362886)
 append_entries: 10
 Finish: 2024-03-01 10:19:52.140051
+------------------------------------------------------
+Started: 2024-03-01 12:33:20.072372
+Existing_entries: 1010
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克起诉奥特曼：怒斥OpenAI违背初衷，追求AGI并非为造福人类，要求恢复开源](https://www.36kr.com/p/2670923215222276)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果汽车「杀手」，拯救国产手机](https://www.36kr.com/p/2670891262965507)
+Append: [大模型周报——Sora综述：背景、技术、局限性和机遇](https://www.36kr.com/p/2670883183408900)
+Append: [突然起诉：马斯克怒告OpenAI，不准再用AI“捞钱”](https://www.36kr.com/p/2670873566694914)
+Append: [人工智能80年发展历程，可以为英伟达提供的5个教训](https://www.36kr.com/p/2670802600588807)
+Append: [AI芯片第一股，难靠大模型翻身？](https://www.36kr.com/p/2670758834484745)
+Append: [企业家亲授AI课程，该不该免费？](https://www.36kr.com/p/2670805587572231)
+append_entries: 7
+Finish: 2024-03-01 12:33:21.023332

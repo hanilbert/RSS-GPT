@@ -10034,3 +10034,12 @@ Existing_entries: 71
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-01 10:19:55.101010
+------------------------------------------------------
+Started: 2024-03-01 12:33:24.176507
+Existing_entries: 71
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E129 我，长期投资 A 股，真的能赚钱吗？这里有一份有效期 30 年以上的答卷 3月1日 昨晚发布的《中国大类资产投资 2023 年报》你看了吗？来听发起人和主要负责人...](https://youzhiyouxing.cn/materials/1628)
+append_entries: 1
+Finish: 2024-03-01 12:33:24.550805
