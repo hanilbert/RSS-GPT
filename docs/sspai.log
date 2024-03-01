@@ -16372,3 +16372,12 @@ Existing_entries: 571
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-01 04:22:21.720407
+------------------------------------------------------
+Started: 2024-03-01 06:23:46.858743
+Existing_entries: 571
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [以「工作」为分类标准，探讨「知识管理」的新思路。](https://sspai.com/post/85567)
+append_entries: 1
+Finish: 2024-03-01 06:23:47.341973
