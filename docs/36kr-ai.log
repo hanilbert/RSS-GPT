@@ -11764,3 +11764,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [定了，Meta计划7月发布Llama 3大模型，看看小扎是怎么放狠话的？](https://www.36kr.com/p/2670416182349319)
 append_entries: 1
 Finish: 2024-03-01 06:24:08.529058
+------------------------------------------------------
+Started: 2024-03-01 08:22:18.176918
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI版西游记震撼百万网友，AI电影平台炸裂发布颠覆好莱坞，手把手打造爆款视频](https://www.36kr.com/p/2670556887136005)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ControlNet作者新作：AI绘画能分图层了，项目未开源就斩获660 Star](https://www.36kr.com/p/2670522429355520)
+Append: [Sora保卫站，国内大厂不焦虑](https://www.36kr.com/p/2670529693863168)
+append_entries: 3
+Finish: 2024-03-01 08:22:19.188780
