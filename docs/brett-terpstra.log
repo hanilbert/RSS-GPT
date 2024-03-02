@@ -19804,3 +19804,12 @@ Existing_entries: 137
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-02 16:21:16.914964
+------------------------------------------------------
+Started: 2024-03-02 18:23:09.130305
+Existing_entries: 137
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dimspirations Merch!](https://brett.trpstra.net/link/535/16598996/dimspirations-merch)
+append_entries: 1
+Finish: 2024-03-02 18:23:10.175432
