@@ -11949,3 +11949,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-03 02:24:33.041754
+------------------------------------------------------
+Started: 2024-03-03 04:22:03.612813
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [深扒Sora：一场投资过亿的视频暴力美学 | Future](https://www.36kr.com/p/2672512593671945)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI硬件难逃智商税](https://www.36kr.com/p/2672601652082434)
+Append: [全球首款AI手机刷爆记录：仅韩国28天就爆卖100万部](https://www.36kr.com/p/2672607705233158)
+Append: [马斯克和 Altman 的斗争，终于搞上了法庭](https://www.36kr.com/p/2672600261670407)
+append_entries: 4
+Finish: 2024-03-03 04:22:04.520189
