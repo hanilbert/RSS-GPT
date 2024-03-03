@@ -11975,3 +11975,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-03 08:23:29.558200
+------------------------------------------------------
+Started: 2024-03-03 10:21:45.785060
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度大戏！马斯克首曝秘密邮件怒斥Altman背叛，OpenAI回应称他就是后悔了](https://www.36kr.com/p/2672573980227073)
+append_entries: 1
+Finish: 2024-03-03 10:21:46.356461
