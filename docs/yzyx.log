@@ -10235,3 +10235,12 @@ Existing_entries: 72
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-04 04:51:44.107526
+------------------------------------------------------
+Started: 2024-03-04 07:12:10.153360
+Existing_entries: 72
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [带你看懂，海外长钱分批投入 3月4日 海外投资 Blog 更新：新功能上线、新持仓基金，好好和你说一说](https://youzhiyouxing.cn/materials/1629)
+append_entries: 1
+Finish: 2024-03-04 07:12:10.777406

@@ -12056,3 +12056,21 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-04 04:51:40.625796
+------------------------------------------------------
+Started: 2024-03-04 07:12:06.048310
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用ChatGPT打工的年轻人，现在过得怎么样](https://www.36kr.com/p/2674659327538697)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [180亿，清华90后博士搞出了超级独角兽](https://www.36kr.com/p/2672581549750018)
+Append: [6款通用大模型在保险行业的能力PK测评报告 ｜ZionAI实验室大模型测评](https://www.36kr.com/p/2670803895537161)
+Append: [OpenAI不open？马斯克：我来砸开](https://www.36kr.com/p/2671849345568264)
+Append: [北大发起复现Sora，框架已搭，袁粒田永鸿领衔，AnimateDiff大神响应](https://www.36kr.com/p/2674591316538885)
+Append: [OpenAI钦点的“机器人界OpenAI”来了：成立不到两年估值破26亿美元](https://www.36kr.com/p/2674619298985477)
+Append: [李志飞AI课会重蹈李一舟覆辙吗？](https://www.36kr.com/p/2673399456429832)
+Append: [为了AGI，全员主动996，OpenAI匿名员工自曝3年工作感受](https://www.36kr.com/p/2673369153189632)
+append_entries: 8
+Finish: 2024-03-04 07:12:07.079354
