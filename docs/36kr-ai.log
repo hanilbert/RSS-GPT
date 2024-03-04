@@ -12035,3 +12035,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [来自业内人士的 AI 指南：这 25 个真实案例可能比付费课程更有用](https://www.36kr.com/p/2674450848413186)
 append_entries: 2
 Finish: 2024-03-04 01:17:31.097105
+------------------------------------------------------
+Started: 2024-03-04 03:03:59.373097
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [淘宝天猫押下重注，AI电商真靠谱吗？](https://www.36kr.com/p/2670976284036614)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果造车的5个真相：Goodbye Titan，Hello AI](https://www.36kr.com/p/2670407986793728)
+Append: [她，最火AI女王](https://www.36kr.com/p/2673578961090053)
+Append: [阿里上线“绘蛙”，大厂开卷AI电商，风口还是噱头？](https://www.36kr.com/p/2674509693187590)
+Append: [一单1万元，“复活”亲人已成产业链](https://www.36kr.com/p/2674497827092224)
+append_entries: 5
+Finish: 2024-03-04 03:04:00.260905
