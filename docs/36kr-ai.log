@@ -12088,3 +12088,21 @@ Append: [DeepMind携Mamba华人作者推Transformer革命之作，性能暴涨�
 Append: [马斯克怒告OpenAI案解密：Ilya看到了什么？125万亿参数Q*细节曝光，53页PDF全网疯转](https://www.36kr.com/p/2674811821700610)
 append_entries: 4
 Finish: 2024-03-04 10:14:17.537044
+------------------------------------------------------
+Started: 2024-03-04 12:36:16.687114
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克怒斥Sam Altman“变心”，发起诉讼，网友：OpenAI AGI计划因此被推迟到了2027年](https://www.36kr.com/p/2675151176644353)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora一出，百模禁声？](https://www.36kr.com/p/2675126251468294)
+Append: [被AI吞噬的“AI三杰”](https://www.36kr.com/p/2675057012143878)
+Append: [53页PDF爆料OpenAI“AGI时间表”，爆料者：马斯克诉讼搅了局](https://www.36kr.com/p/2675072754366211)
+Append: [Mac专属大模型框架来了，两行代码部署，能聊本地数据，还支持中文](https://www.36kr.com/p/2675083244467968)
+Append: [谷歌创始人亲自救场Gemini现身黑客聚会，投资人逼宫CEO劈柴哥下台](https://www.36kr.com/p/2675065510033161)
+Append: [2张图2秒钟3D重建，这款AI工具火爆GitHub，网友：忘掉Sora](https://www.36kr.com/p/2675068241671687)
+Append: [谢尔盖·布林狠批Gemini「搞砸了」，51岁创始人回归，CEO劈柴或将下台？](https://www.36kr.com/p/2675046254261769)
+append_entries: 8
+Finish: 2024-03-04 12:36:17.277888
