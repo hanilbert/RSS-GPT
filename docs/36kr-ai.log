@@ -12023,3 +12023,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-03 22:16:51.756735
+------------------------------------------------------
+Started: 2024-03-04 01:17:30.098775
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克早看微软不顺眼了，这次起诉OpenAI也是一样](https://www.36kr.com/p/2674360643090183)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [来自业内人士的 AI 指南：这 25 个真实案例可能比付费课程更有用](https://www.36kr.com/p/2674450848413186)
+append_entries: 2
+Finish: 2024-03-04 01:17:31.097105
