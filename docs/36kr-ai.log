@@ -12184,3 +12184,12 @@ Append: [停掉造车项目的苹果，酝酿着日后的卷土重来](https://w
 Append: [GPT-4 时代结束，全球最强大模型一夜易主，体验完 Claude 3 我更期待 GPT-5了](https://www.36kr.com/p/2675892220245760)
 append_entries: 9
 Finish: 2024-03-05 04:22:43.277204
+------------------------------------------------------
+Started: 2024-03-05 06:23:27.475557
+Existing_entries: 1009
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [估值22亿美元，AI搜索的下一个独角兽](https://www.36kr.com/p/2676142183560713)
+append_entries: 1
+Finish: 2024-03-05 06:23:28.192900
