@@ -12165,3 +12165,22 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-05 02:23:17.236773
+------------------------------------------------------
+Started: 2024-03-05 04:22:42.449106
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora爆火下的冷思考：生成式人工智能的精彩，还在泡沫后](https://www.36kr.com/p/2676040108848903)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI时代的创业和投资机会在哪里？](https://www.36kr.com/p/2675982762243846)
+Append: [刚刚曝光的 Claude3，直击 OpenAI 最大弱点](https://www.36kr.com/p/2676015626598148)
+Append: [OpenAI劲敌出手！Claude 3正式发布，超越GPT-4，一口气读15万单词](https://www.36kr.com/p/2676012784612867)
+Append: [25位模型开发者，联手反击李一舟 | 36氪专访](https://www.36kr.com/p/2674941995710214)
+Append: [英伟达再战移动掌机，这次要靠AI逆风翻盘？](https://www.36kr.com/p/2675293284355329)
+Append: [只需几十元，用AI“复活”亲人，是慰藉还是自欺欺人？](https://www.36kr.com/p/2675396168873733)
+Append: [停掉造车项目的苹果，酝酿着日后的卷土重来](https://www.36kr.com/p/2675886489941765)
+Append: [GPT-4 时代结束，全球最强大模型一夜易主，体验完 Claude 3 我更期待 GPT-5了](https://www.36kr.com/p/2675892220245760)
+append_entries: 9
+Finish: 2024-03-05 04:22:43.277204
