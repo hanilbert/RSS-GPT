@@ -12227,3 +12227,17 @@ Append: [英伟达黄仁勋影响力到底有多大？或可一言决定AI竞赛
 Append: [商汤用数字人让汤晓鸥“重生”，幽默风趣，和真人无异｜最前线](https://www.36kr.com/p/2676516512921089)
 append_entries: 3
 Finish: 2024-03-05 12:33:31.236612
+------------------------------------------------------
+Started: 2024-03-05 14:18:11.997468
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [传奇兄妹挑战Altman，全球最强AI大模型一夜易主](https://www.36kr.com/p/2676613946160647)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [炸场的Sora和冷静的同行](https://www.36kr.com/p/2676604528785161)
+Append: [AI“复活”亲人已成产业链，最低只需10块钱](https://www.36kr.com/p/2676576124368391)
+Append: [英伟达牵头发布StarCoder2，程序员的好日子没几天了](https://www.36kr.com/p/2676574481725191)
+append_entries: 4
+Finish: 2024-03-05 14:18:13.526556
