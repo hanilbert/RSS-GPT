@@ -12214,3 +12214,16 @@ Append: [Claude 3来了，和AI谈恋爱还远吗？](https://www.36kr.com/p/267
 Append: [AI规模法则：大力何以出奇迹？](https://www.36kr.com/p/2676275650246406)
 append_entries: 5
 Finish: 2024-03-05 10:21:36.863982
+------------------------------------------------------
+Started: 2024-03-05 12:33:30.357264
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一台人形机器人，能撑起450亿吗？](https://www.36kr.com/p/2676546694854407)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达黄仁勋影响力到底有多大？或可一言决定AI竞赛胜负](https://www.36kr.com/p/2676516537841159)
+Append: [商汤用数字人让汤晓鸥“重生”，幽默风趣，和真人无异｜最前线](https://www.36kr.com/p/2676516512921089)
+append_entries: 3
+Finish: 2024-03-05 12:33:31.236612
