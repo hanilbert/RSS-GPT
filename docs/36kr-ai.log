@@ -12142,3 +12142,20 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-04 22:17:07.825110
+------------------------------------------------------
+Started: 2024-03-05 01:16:22.465495
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克正式起诉OpenAI，要求恢复开源，昔日同盟反目成仇](https://www.36kr.com/p/2673321628153607)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型赚钱，李彦宏无新招](https://www.36kr.com/p/2674777233149440)
+Append: [小红书们，抢上搜索「末班车」](https://www.36kr.com/p/2675225698449155)
+Append: [单词处理能力是ChatGPT近50倍，OpenAI“死敌”推出最强聊天机器人](https://www.36kr.com/p/2675825601935111)
+Append: [阿里再投大模型](https://www.36kr.com/p/2675862566532611)
+Append: [现金流耗尽之前，OpenAI能否做出GPT-5？Altman暴露7万亿帝国野心，但投资人犹豫了](https://www.36kr.com/p/2675803840427520)
+Append: [全球最强大模型一夜易主，GPT-4时代终结，Claude 3提前狙击GPT-5，3秒读懂万字论文理解力接近人类](https://www.36kr.com/p/2675503522641668)
+append_entries: 7
+Finish: 2024-03-05 01:16:23.085885
