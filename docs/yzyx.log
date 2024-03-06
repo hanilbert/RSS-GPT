@@ -10391,3 +10391,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [182 你对债券的收益"真香"了吗？ 3月6日 稳钱账户月报送达，保持合理的预期很重要](https://youzhiyouxing.cn/materials/1631)
 append_entries: 1
 Finish: 2024-03-06 08:24:21.335292
+------------------------------------------------------
+Started: 2024-03-06 10:19:34.549595
+Existing_entries: 74
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-03-06 10:19:34.692070
