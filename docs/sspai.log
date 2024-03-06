@@ -16753,3 +16753,12 @@ Existing_entries: 586
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-05 22:18:06.621532
+------------------------------------------------------
+Started: 2024-03-06 01:16:47.826835
+Existing_entries: 586
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945)
+append_entries: 1
+Finish: 2024-03-06 01:16:48.410905
