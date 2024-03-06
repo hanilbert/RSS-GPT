@@ -10285,3 +10285,16 @@ Fetching from https://1q43.blog/feed
 Feed error: <unknown>:3661:24: not well-formed (invalid token)
 append_entries: 0
 Finish: 2024-03-06 04:22:07.790556
+------------------------------------------------------
+Started: 2024-03-06 06:25:07.410194
+Existing_entries: 21
+Fetching from https://1q43.blog/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [幸福的积分](https://1q43.blog/post/5322)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [春节淮南/寿县旅游见闻](https://1q43.blog/post/5249)
+Append: [互联网公司的管理神话破灭](https://1q43.blog/post/5187)
+append_entries: 3
+Finish: 2024-03-06 06:25:09.379241
