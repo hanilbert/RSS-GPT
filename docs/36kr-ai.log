@@ -12466,3 +12466,12 @@ Append: [Nature：警惕，AI让人类“自大”，或使科学缺乏创新](h
 Append: [傅盛对话清华教授沈阳：中美大模型PK和释放AI“超能力”](https://www.36kr.com/p/2679000650124809)
 append_entries: 13
 Finish: 2024-03-07 10:19:44.620171
+------------------------------------------------------
+Started: 2024-03-07 12:33:08.643006
+Existing_entries: 1013
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“AI 复活”已加入购物车，黑镜真实上演](https://www.36kr.com/p/2679414473356802)
+append_entries: 1
+Finish: 2024-03-07 12:33:09.296259
