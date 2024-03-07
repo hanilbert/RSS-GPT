@@ -12419,3 +12419,15 @@ Append: [权力与背叛：马斯克与奥特曼如何从兄弟情走向商业�
 Append: [王慧文病休后的遗憾，阿里腾讯掏23亿美元弥补](https://www.36kr.com/p/2678752219887366)
 append_entries: 7
 Finish: 2024-03-07 02:18:16.327212
+------------------------------------------------------
+Started: 2024-03-07 04:20:27.040922
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [爆炒英伟达的人，已经财富自由了](https://www.36kr.com/p/2678960509810434)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [别跟马斯克扯头花了，“叛徒”Anthropic解决了困扰OpenAI的难题](https://www.36kr.com/p/2678928812062470)
+append_entries: 2
+Finish: 2024-03-07 04:20:27.592832
