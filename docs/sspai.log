@@ -16843,3 +16843,12 @@ Existing_entries: 590
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-07 01:03:29.384503
+------------------------------------------------------
+Started: 2024-03-07 02:18:00.210449
+Existing_entries: 590
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993)
+append_entries: 1
+Finish: 2024-03-07 02:18:00.847995

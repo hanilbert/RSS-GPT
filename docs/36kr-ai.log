@@ -12402,3 +12402,20 @@ Append: [微软首款AI PC来了，警惕AI硬件“滥竽充数”](https://www
 Append: [Claude 3“自我认知”事件引爆，马斯克坐不住了，OpenAI被曝还有后手](https://www.36kr.com/p/2678674908706304)
 append_entries: 4
 Finish: 2024-03-07 01:03:41.505133
+------------------------------------------------------
+Started: 2024-03-07 02:18:15.130917
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Claude 3 挑战 GPT-4 王者地位，教育行业迎来何种变革？](https://www.36kr.com/p/2678218984388354)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [挨了马斯克一记耳光后，OpenAI掏出一手左勾拳｜焦点分析](https://www.36kr.com/p/2678182213694978)
+Append: [AI手机等待iPhone时刻](https://www.36kr.com/p/2678016543624704)
+Append: [英伟达赚疯背后，三家存储芯片公司的一场「All in」丨焦点分析](https://www.36kr.com/p/2678138991081223)
+Append: [沿着朱啸虎的思路，大模型们是否“消停”了？商业化如何了？](https://www.36kr.com/p/2678143382009349)
+Append: [权力与背叛：马斯克与奥特曼如何从兄弟情走向商业对决](https://www.36kr.com/p/2678746050983427)
+Append: [王慧文病休后的遗憾，阿里腾讯掏23亿美元弥补](https://www.36kr.com/p/2678752219887366)
+append_entries: 7
+Finish: 2024-03-07 02:18:16.327212
