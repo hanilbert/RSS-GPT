@@ -20242,3 +20242,12 @@ Existing_entries: 139
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-08 18:22:56.428834
+------------------------------------------------------
+Started: 2024-03-08 20:17:06.444654
+Existing_entries: 139
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Things for Mac and iOS giveaway winners!](https://brett.trpstra.net/link/535/16607367/the-things-for-mac-and-ios-giveaway-winners)
+append_entries: 1
+Finish: 2024-03-08 20:17:07.793801
