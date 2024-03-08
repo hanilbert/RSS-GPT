@@ -12519,3 +12519,10 @@ Fetching from https://rsshub.app/36kr/motif/327686782977
 Feed error: <unknown>:55:967: not well-formed (invalid token)
 append_entries: 0
 Finish: 2024-03-08 02:25:00.002464
+------------------------------------------------------
+Started: 2024-03-08 04:21:34.043859
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: <unknown>:87:967: not well-formed (invalid token)
+append_entries: 0
+Finish: 2024-03-08 04:21:34.232024
