@@ -10547,3 +10547,12 @@ Existing_entries: 74
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-08 12:32:52.209509
+------------------------------------------------------
+Started: 2024-03-08 14:18:07.187598
+Existing_entries: 74
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E130 只是投资失利，又不是世界末日！｜知行读书会 3月8日 🎧 研究失败，不保证成功，但一定有用！今晚一起从「失败」中发现宝藏，把弯路走成坦途](https://youzhiyouxing.cn/materials/1632)
+append_entries: 1
+Finish: 2024-03-08 14:18:07.649599
