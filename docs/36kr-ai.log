@@ -12622,3 +12622,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [奥特曼无罪重返董事会！OpenAI内讧真相大白，调查结果公开](https://www.36kr.com/p/2681623172825217)
 append_entries: 1
 Finish: 2024-03-09 02:20:27.588940
+------------------------------------------------------
+Started: 2024-03-09 04:20:24.962777
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球AI人才报告曝光：清华第三，北大第六！](https://www.36kr.com/p/2681675697963145)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [木头姐向狂热的英伟达投资者泼冷水](https://www.36kr.com/p/2681002704523141)
+append_entries: 2
+Finish: 2024-03-09 04:20:25.897438
