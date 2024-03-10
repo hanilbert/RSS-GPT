@@ -18586,3 +18586,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-10 02:26:52.128384
+------------------------------------------------------
+Started: 2024-03-10 04:22:09.887346
+Existing_entries: 297
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome extension Enhancer for YouTube全网下架了怎么办？](https://meta.appinn.net/t/topic/53697)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-10 04:22:13.398088
