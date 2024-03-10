@@ -12712,3 +12712,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [用童话训练AI模型：微小语言模型进入成熟期](https://www.36kr.com/p/2614404831238278)
 append_entries: 1
 Finish: 2024-03-10 04:22:34.010252
+------------------------------------------------------
+Started: 2024-03-10 06:21:45.609861
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pika放大招：今天起，视频和音效可以“一锅出”了](https://www.36kr.com/p/2683324689333253)
+append_entries: 1
+Finish: 2024-03-10 06:21:46.266097
