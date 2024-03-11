@@ -12812,3 +12812,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [36氪首发｜网络安全AI智能体公司「云起无垠」获数千万元天使+轮融资，致力于大模型与网络安全深度融合的技术研究](https://www.36kr.com/p/2683869499145216)
 append_entries: 1
 Finish: 2024-03-11 06:24:57.663477
+------------------------------------------------------
+Started: 2024-03-11 08:23:14.228663
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [奥特曼老黄齐预测：AGI五年内降临，代替95%工作，但马斯克断言AGI将被电力卡脖子](https://www.36kr.com/p/2684713133588609)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [前端不存在了？盲测64%的人更喜欢GPT-4V的设计，杨笛一等团队新作](https://www.36kr.com/p/2684663004053639)
+append_entries: 2
+Finish: 2024-03-11 08:23:14.802433
