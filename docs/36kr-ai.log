@@ -12824,3 +12824,23 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [前端不存在了？盲测64%的人更喜欢GPT-4V的设计，杨笛一等团队新作](https://www.36kr.com/p/2684663004053639)
 append_entries: 2
 Finish: 2024-03-11 08:23:14.802433
+------------------------------------------------------
+Started: 2024-03-11 10:22:01.647893
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [拿初心说事儿，马斯克给奥特曼和Open AI上压力](https://www.36kr.com/p/2684877349257345)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大摩看涨叠加AI利好，「宁王」股价爆拉超14%｜市场要闻](https://www.36kr.com/p/2684985807322120)
+Append: [目标3-6个月赶超Sora，「爱诗科技」获达晨亿级A1轮融资 | 36氪首发](https://www.36kr.com/p/2684851886521353)
+Append: [特斯拉、英伟达投身其中，人形机器人能借AI风口起飞吗？](https://www.36kr.com/p/2684904501317508)
+Append: [李彦宏“程序员将不再存在”言论被周鸿祎驳斥，网友怒怼：先把百度程序员都开除了](https://www.36kr.com/p/2684929903378563)
+Append: [华人CV宗师黄煦涛高徒离职特斯拉，加入OpenAI，专攻多模态模型研究](https://www.36kr.com/p/2684858493877256)
+Append: [傅盛打入“晋级赛”](https://www.36kr.com/p/2684831855444096)
+Append: [Meta 首席科学家 Yann LeCun：AI 毁灭人类的概率为零](https://www.36kr.com/p/2684874298653697)
+Append: [不依赖token，字节级模型来了，直接处理二进制数据](https://www.36kr.com/p/2684858384956425)
+Append: [对话：理解Sora，复现Sora](https://www.36kr.com/p/2684880189800581)
+append_entries: 10
+Finish: 2024-03-11 10:22:02.292256

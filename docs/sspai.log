@@ -17194,3 +17194,12 @@ Existing_entries: 603
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-11 08:23:01.360455
+------------------------------------------------------
+Started: 2024-03-11 10:21:49.118077
+Existing_entries: 603
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)
+append_entries: 1
+Finish: 2024-03-11 10:21:49.571511
