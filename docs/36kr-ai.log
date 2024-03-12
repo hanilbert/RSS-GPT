@@ -12950,3 +12950,19 @@ Append: [谷歌承认“窃取”OpenAI模型关键信息：成本低至150元�
 Append: [OpenAI官宣开源Transformer Debugger，不用写代码，人人可以破解LLM黑箱](https://www.36kr.com/p/2686229758537347)
 append_entries: 6
 Finish: 2024-03-12 08:22:16.417444
+------------------------------------------------------
+Started: 2024-03-12 10:19:35.355309
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [阿里又在AI上大出血了](https://www.36kr.com/p/2686324789055361)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI首次司法回应马斯克起诉：指控“令人费解”，不排除其借机窃取技术](https://www.36kr.com/p/2686321688325509)
+Append: [「手撕」OpenAI 后 ，马斯克宣布开源自己的 ChatGPT 竞品](https://www.36kr.com/p/2686321617956228)
+Append: [字节掉队AI时代？](https://www.36kr.com/p/2686304340684165)
+Append: [马斯克、黄仁勋争相警告：AI的掣肘不是芯片](https://www.36kr.com/p/2686209438076805)
+Append: [多模态+大模型会带来哪些“化学反应”？](https://www.36kr.com/p/2686152432266633)
+append_entries: 6
+Finish: 2024-03-12 10:19:36.143963
