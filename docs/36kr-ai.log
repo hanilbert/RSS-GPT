@@ -12934,3 +12934,19 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [日企纷纷用生成式AI开发新车](https://www.36kr.com/p/2686023710223747)
 append_entries: 2
 Finish: 2024-03-12 06:23:38.796369
+------------------------------------------------------
+Started: 2024-03-12 08:22:15.593295
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Midjourney能让角色保持一致了，网友连夜实测：改变游戏规则](https://www.36kr.com/p/2686230034984320)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国创业者，不敢追 Sora](https://www.36kr.com/p/2686060405141121)
+Append: [AI“造神运动”终结，杀死，重生](https://www.36kr.com/p/2686060738244231)
+Append: [刚刚，马斯克xAI官宣开源自家大模型Grok，网友：现压力给到了OpenAI](https://www.36kr.com/p/2686229597744773)
+Append: [谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手](https://www.36kr.com/p/2686229924081027)
+Append: [OpenAI官宣开源Transformer Debugger，不用写代码，人人可以破解LLM黑箱](https://www.36kr.com/p/2686229758537347)
+append_entries: 6
+Finish: 2024-03-12 08:22:16.417444
