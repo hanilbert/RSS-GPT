@@ -12966,3 +12966,16 @@ Append: [马斯克、黄仁勋争相警告：AI的掣肘不是芯片](https://ww
 Append: [多模态+大模型会带来哪些“化学反应”？](https://www.36kr.com/p/2686152432266633)
 append_entries: 6
 Finish: 2024-03-12 10:19:36.143963
+------------------------------------------------------
+Started: 2024-03-12 12:33:25.854786
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [机器人ChatGPT来了，80亿参数、前OpenAI人员经数年打造](https://www.36kr.com/p/2686366170344841)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI手机，一场“虚张声势”的创新？](https://www.36kr.com/p/2686380970824320)
+Append: [央视首当其冲，AI影片落地进行时，影视巨头谨慎布局](https://www.36kr.com/p/2686388090245761)
+append_entries: 3
+Finish: 2024-03-12 12:33:26.627341

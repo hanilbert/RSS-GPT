@@ -17293,3 +17293,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
 append_entries: 2
 Finish: 2024-03-12 10:19:20.608750
+------------------------------------------------------
+Started: 2024-03-12 12:33:13.219447
+Existing_entries: 610
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024 年，翻盖机还有什么可玩？](https://sspai.com/post/87098)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
+append_entries: 2
+Finish: 2024-03-12 12:33:13.921377
