@@ -18782,3 +18782,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-12 02:22:12.392229
+------------------------------------------------------
+Started: 2024-03-12 04:23:54.570430
+Existing_entries: 301
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [新标签页助你重新掌控你的收藏夹](https://meta.appinn.net/t/topic/53773)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-12 04:23:57.357755
