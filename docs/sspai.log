@@ -17311,3 +17311,12 @@ Existing_entries: 612
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-12 14:17:00.724375
+------------------------------------------------------
+Started: 2024-03-12 16:23:24.677711
+Existing_entries: 612
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
+append_entries: 1
+Finish: 2024-03-12 16:23:25.190897

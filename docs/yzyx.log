@@ -10844,3 +10844,12 @@ Existing_entries: 75
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-12 14:17:34.570834
+------------------------------------------------------
+Started: 2024-03-12 16:23:40.470154
+Existing_entries: 75
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E34 孟岩对话顾中一：你和 100 岁的你，共享同一个自己 3月12日 ♾️ 孟岩和他的好朋友顾中一，聊了聊健康、长寿以及超越百岁的秘诀——](https://youzhiyouxing.cn/materials/1634)
+append_entries: 1
+Finish: 2024-03-12 16:23:40.790866
