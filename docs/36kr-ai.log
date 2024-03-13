@@ -13027,3 +13027,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [全AI影剧频出，行业被颠覆没？](https://www.36kr.com/p/2686615274057351)
 append_entries: 2
 Finish: 2024-03-13 02:25:04.293186
+------------------------------------------------------
+Started: 2024-03-13 04:20:57.470446
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-4.5 Turbo提前泄露？Altman亲自暗示新模型要来，传言本周四上线](https://www.36kr.com/p/2687397300416128)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [当AI大模型卷向服务机器人，会有哪些新故事？｜硬氪分析](https://www.36kr.com/p/2687335008824962)
+Append: [“AI玩”才会赢？“游戏春晚”来袭，英伟达、Meta等巨头又要炫技了](https://www.36kr.com/p/2687379635990151)
+Append: [中东土豪重仓AI](https://www.36kr.com/p/2687385871003268)
+Append: [OpenAI首发律师函，谴责马斯克捏造事实，纯粹是“酸葡萄”心理](https://www.36kr.com/p/2686741128965767)
+append_entries: 5
+Finish: 2024-03-13 04:20:58.223064

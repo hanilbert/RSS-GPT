@@ -17353,3 +17353,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
 append_entries: 1
 Finish: 2024-03-13 02:24:48.063969
+------------------------------------------------------
+Started: 2024-03-13 04:20:45.460013
+Existing_entries: 614
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
+append_entries: 1
+Finish: 2024-03-13 04:20:45.883051
