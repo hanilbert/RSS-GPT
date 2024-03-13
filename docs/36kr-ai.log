@@ -13078,3 +13078,16 @@ Append: [Sora 团队罕见专访：短期内不会向公众开放，目前还不
 Append: [23年赚疯了的英伟达，接下来关注的是什么](https://www.36kr.com/p/2687563577118595)
 append_entries: 8
 Finish: 2024-03-13 10:19:34.218607
+------------------------------------------------------
+Started: 2024-03-13 12:33:29.428123
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [硅谷“逼死”AI学术圈](https://www.36kr.com/p/2687911763979651)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [有了AI大模型，汽车和手机就会更智能？](https://www.36kr.com/p/2687859018247555)
+Append: [美国CNN曝料：AI潜在的人类“末日威胁” ，政府须启动防灭绝紧急预案？](https://www.36kr.com/p/2687874723811975)
+append_entries: 3
+Finish: 2024-03-13 12:33:30.204146
