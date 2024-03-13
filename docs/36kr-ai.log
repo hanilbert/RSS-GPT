@@ -13091,3 +13091,12 @@ Append: [有了AI大模型，汽车和手机就会更智能？](https://www.36kr
 Append: [美国CNN曝料：AI潜在的人类“末日威胁” ，政府须启动防灭绝紧急预案？](https://www.36kr.com/p/2687874723811975)
 append_entries: 3
 Finish: 2024-03-13 12:33:30.204146
+------------------------------------------------------
+Started: 2024-03-13 14:17:35.502527
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用AI功能要付费，这是手机厂商没告诉你的“秘密”](https://www.36kr.com/p/2687922167819904)
+append_entries: 1
+Finish: 2024-03-13 14:17:35.875400
