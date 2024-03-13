@@ -13060,3 +13060,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [首个AI软件工程师震撼硅谷，手握10块IOI金牌，他们铁了心砸掉程序员饭碗](https://www.36kr.com/p/2687574262852994)
 append_entries: 1
 Finish: 2024-03-13 08:22:19.060530
+------------------------------------------------------
+Started: 2024-03-13 10:19:33.381747
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [八年恩怨情仇，马斯克究竟想向OpenAI要回什么？](https://www.36kr.com/p/2687776596578177)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [国内大厂押注AI这么久，为何还不跟进Sora？](https://www.36kr.com/p/2687740908350850)
+Append: [AI图片橡皮擦来了，清华&阿里合作推出「概念半透膜」模型，还能改头换面](https://www.36kr.com/p/2687696707186051)
+Append: [美报告称需对AI严加控制，否则会给人类带来“灭绝级”威胁](https://www.36kr.com/p/2687720693509508)
+Append: [首个AI软件工程师上线，已通过公司面试抢程序员饭碗，华人创始团队手握10块IOI金牌](https://www.36kr.com/p/2687696395726464)
+Append: [GPT-4.5 Turbo意外曝光，官方网页被扒出，网传明天就上线](https://www.36kr.com/p/2687696357879425)
+Append: [Sora 团队罕见专访：短期内不会向公众开放，目前还不是一个产品](https://www.36kr.com/p/2687679612169605)
+Append: [23年赚疯了的英伟达，接下来关注的是什么](https://www.36kr.com/p/2687563577118595)
+append_entries: 8
+Finish: 2024-03-13 10:19:34.218607
