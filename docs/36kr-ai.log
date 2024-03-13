@@ -13015,3 +13015,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-13 01:20:08.746638
+------------------------------------------------------
+Started: 2024-03-13 02:25:03.418435
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [刚刚，新型AI辅助发音系统登上Nature子刊，没有声带，人也能说话了](https://www.36kr.com/p/2686791888432512)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全AI影剧频出，行业被颠覆没？](https://www.36kr.com/p/2686615274057351)
+append_entries: 2
+Finish: 2024-03-13 02:25:04.293186
