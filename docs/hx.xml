@@ -4,6 +4,115 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+<item>
+<title>将 notion AI 当作 AI API 的一种方法</title>
+<link>https://1q43.blog/post/5604</link>
+<guid>https://1q43.blog/post/5604</guid>
+<content:encoded><![CDATA[
+
+<p>最近一年 AI 的发展太快了，但对于终端用户来说始终有两个问题：分别计费和按量计费。</p>
+
+
+
+<p>一般来说，终端应用是不按量计费的，比如 notion AI，Cubox，Perplexity。但问题是，你需要为你的每一个场景分别付费，并且价格都不算太低。</p>
+
+
+
+<p>另一边就是按量计费，现在开源社区比较活跃，你也可以全部使用开源方案来替代，然后走 OpenAI 的 API 或 Claude 的 API 来在原本的工作流里实现 AI 功能。但这样意味着你需要按量付费，在一些大用量场景（比如管理知识库、筛选信息流）上，个人使用成本太高。</p>
+
+
+
+<p>到我这边的一个具体的场景是，我希望打造一个带 AI 的阅读库，但又不想为 Cubox 额外付费，这应该怎么做呢？</p>
+
+
+
+<p>我去年曾在《<a href="https://1q43.blog/post/1112">基于 RSS 和 notion AI 打造三级信息阅读 Workflow</a>》里介绍过以 notion 为核心打造阅读库，其中也涉及到了 notion AI 的使用。但其实在这个文章中我没有说的是，我一直在用 Cubox Pro 做 Notion 的前端剪藏器——因为 notion 的剪藏插件太烂了，对大部分国内的网站或文章都只能存一个标题。</p>
+
+
+
+<p> 最近无意中看到了一个开源的稍后阅读项目 Omnivore，尝试之后发现它对国内网站的支持效果不错，而且它是服务器端解析。也就是说，不受到端侧浏览器的限制。像剪藏微信文章这种，直接把文章链接丢给它，它在服务器端就能完成正文的抓取和简化排版。</p>
+
+
+
+<p>但作为开源项目，它自然是没有提供 AI 服务的，不过它提供了 API。</p>
+
+
+
+<p>于是，我开启 n8n 大法（一个开源的 IFTTT），缝缝补补完成了一个 Omnivore 到 notion 的集成 Workflow：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5606" height="390" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/03/image-521552-m6SZOynA.png?resize=640%2C390&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>示例 workflow：Omnivore_To_Notion.json（<a href="https://www.alipan.com/s/jrmTtyzPtVa">阿里云盘</a>）</p>
+
+
+
+<p>这里面其中有三个坑：</p>
+
+
+
+<p>其一，Omnivore 默认抓来的文章是 Markdown 格式，而 notion API 的默认写入格式是一个 json 包，因此这里使用了一个 n8n 的第三方 node <a href="https://www.npmjs.com/package/n8n-nodes-notionmd?activeTab=readme">n8n-nodes-notionmd</a> 来做数据转换。</p>
+
+
+
+<p>其二，n8n 的官方 notion node 不支持推送 notion json raw，因此需要用 HTTP Request 自己直接写一个。</p>
+
+
+
+<p>其三，notion API 的正文推送方法（<a href="https://developers.notion.com/reference/patch-block-children">Append block children</a>）一次最多推送 100 个 Blocks 上去。因此需要对文章做切分处理（也就是 workflow 最后结尾处的循环）。</p>
+
+
+
+<p>这个 Workflow 最终实现的，就是我在 Omnivore 上一旦收藏了一篇新的文章，就会把全文推送到 notion 指定的数据库。再根据我之前的<a href="https://1q43.blog/post/1112">设置</a>，notion 会自动用摘要为该文章生成摘要。实现了在任意端快速剪藏文章全文到 notion 阅读库的方法，比 Save to Notion 和 Notion Web Clipper 都要好用。</p>
+
+
+
+<p>但在实现这个 Workflow 的过程中我发现，其实这个 Workflow 可以把 Notion 当作一个简式 AI API 来用，原理是这样的：</p>
+
+
+
+<ol>
+<li>新建一个 notion 页面，或一个 notion 数据库。</li>
+
+
+
+<li>在页面属性（property）中建立一个 AI Autofill 字段，并提前设计好 prompt。</li>
+
+
+
+<li>在需要调用 AI 的场景，利用 API 将上下文推送到该页面。</li>
+
+
+
+<li>该页面内容更新触发 AI Autofill。</li>
+
+
+
+<li>延迟一小段时间后用 API 回调该页面的 AI Autofill 字段。</li>
+</ol>
+
+
+
+<p>比如说，你可以做一个 Perplexity 的平替 Chrome 插件，每次点击后，自动将 Google 搜索第一页的结果页全文整合进一个 Notion Page。然后用 AI Autofill 字段来综合 Page 内所有内容来生成答案。（我在尝试做了）</p>
+
+
+
+<p>这个方法的唯一问题是，AI Autofill 的触发是有延迟的，有时候时间还不短，这在一些需要及时反馈的场景可能并不好用。</p>
+
+
+
+<p>但在现阶段，我觉得已经可以干掉很多只在应用层做了创新的 AI App 了。</p>
+
+
+
+<p>不建议把 notion AI 当大规模 API 来薅，应该会封号。</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 06:19:51 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 06:19:51 +0000</pubDate>
+</item>
 
 <item>
 <title>幸福的积分</title>
