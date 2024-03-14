@@ -13124,3 +13124,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-13 22:17:44.299397
+------------------------------------------------------
+Started: 2024-03-14 01:16:47.677576
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [只用 13 天，OpenAI 做出了能听、能说、能自主决策的机器人大模型](https://www.36kr.com/p/2688540940840577)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI机器人，一出手就是王炸](https://www.36kr.com/p/2688268058406272)
+Append: [欧洲人工智能，尴尬与焦虑笼罩](https://www.36kr.com/p/2688004719570308)
+Append: [全球首个AI程序员来了，超越GPT-4震撼硅谷，但取代码农为之尚早](https://www.36kr.com/p/2687943738453377)
+append_entries: 4
+Finish: 2024-03-14 01:16:48.369032
