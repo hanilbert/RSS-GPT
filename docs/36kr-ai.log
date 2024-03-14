@@ -13167,3 +13167,15 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-14 06:23:36.379096
+------------------------------------------------------
+Started: 2024-03-14 08:22:20.817684
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [专访OpenAI前科学家：没有证据表明Sora和ChatGPT没有意识](https://www.36kr.com/p/2688946069958021)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI CTO：普通人数月后就能用Sora了](https://www.36kr.com/p/2688899605998985)
+append_entries: 2
+Finish: 2024-03-14 08:22:21.679150
