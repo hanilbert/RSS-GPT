@@ -13144,3 +13144,20 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-14 02:22:55.075756
+------------------------------------------------------
+Started: 2024-03-14 04:21:13.305699
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美国务院委托撰写报告：AI可能对人类构成“灭绝级”威胁](https://www.36kr.com/p/2688881162481024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI大模型，越来越像一场重量级拳击赛](https://www.36kr.com/p/2688879601003906)
+Append: [智能电动车时代，有了AI就不需要「工匠精神」？](https://www.36kr.com/p/2688803569898121)
+Append: [AIPC的“名利场”，生产力革命还是市值猛药？](https://www.36kr.com/p/2687422010895747)
+Append: [机器人可以自主做手术吗？](https://www.36kr.com/p/2688799231044997)
+Append: [中国也有Sora同款训练架构公司，清华班底，智谱也投了 | 36氪首发](https://www.36kr.com/p/2686257767296387)
+Append: [AI撬开小县城的万元商机](https://www.36kr.com/p/2688671312981377)
+append_entries: 7
+Finish: 2024-03-14 04:21:13.951371
