@@ -13294,3 +13294,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [上海AI Lab新研究：利用人类操作视频训练高效具身策略](https://www.36kr.com/p/2690327305137798)
 append_entries: 2
 Finish: 2024-03-15 08:22:59.052594
+------------------------------------------------------
+Started: 2024-03-15 10:18:56.591740
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [加速分化：关于大模型走势的十个判断](https://www.36kr.com/p/2690547924151688)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球学术圈险被ChatGPT论文攻陷，知名出版商紧急撤稿，AI插图笑翻网友](https://www.36kr.com/p/2690490440822144)
+append_entries: 2
+Finish: 2024-03-15 10:18:57.235656
