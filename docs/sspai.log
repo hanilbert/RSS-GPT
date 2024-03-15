@@ -17533,3 +17533,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
 append_entries: 1
 Finish: 2024-03-15 04:22:03.307095
+------------------------------------------------------
+Started: 2024-03-15 06:23:12.773976
+Existing_entries: 624
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
+append_entries: 1
+Finish: 2024-03-15 06:23:13.339365

@@ -13273,3 +13273,12 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-15 04:22:14.858229
+------------------------------------------------------
+Started: 2024-03-15 06:23:26.495670
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora年内将向公众推出，OpenAI首席技术官透露这些“干货”](https://www.36kr.com/p/2690285788065154)
+append_entries: 1
+Finish: 2024-03-15 06:23:27.106956
