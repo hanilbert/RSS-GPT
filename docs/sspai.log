@@ -17542,3 +17542,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
 append_entries: 1
 Finish: 2024-03-15 06:23:13.339365
+------------------------------------------------------
+Started: 2024-03-15 08:22:38.807113
+Existing_entries: 625
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
+append_entries: 1
+Finish: 2024-03-15 08:22:39.185409
