@@ -13306,3 +13306,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [全球学术圈险被ChatGPT论文攻陷，知名出版商紧急撤稿，AI插图笑翻网友](https://www.36kr.com/p/2690490440822144)
 append_entries: 2
 Finish: 2024-03-15 10:18:57.235656
+------------------------------------------------------
+Started: 2024-03-15 12:32:36.761210
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开源版“Devin”AI程序员炸场：自己分析股票、做报表、建模型](https://www.36kr.com/p/2690769270320517)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果拿下第33家AI公司，自研300亿参数大模型首次亮相](https://www.36kr.com/p/2690737120554627)
+Append: [Anthropic正在教OpenAI如何开一家AI公司](https://www.36kr.com/p/2690730760990081)
+Append: [Sora竟是用这些数据训练的？OpenAI CTO坦白惹众怒](https://www.36kr.com/p/2690650742894212)
+append_entries: 4
+Finish: 2024-03-15 12:32:37.361065

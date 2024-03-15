@@ -17557,3 +17557,15 @@ Existing_entries: 626
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-15 10:18:40.181901
+------------------------------------------------------
+Started: 2024-03-15 12:32:24.582345
+Existing_entries: 626
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
+append_entries: 2
+Finish: 2024-03-15 12:32:25.209713
