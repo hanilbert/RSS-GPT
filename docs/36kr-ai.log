@@ -13393,3 +13393,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [OpenAI再陷巨大争议？Sora训练数据被质疑非法，CTO采访疯狂翻车](https://www.36kr.com/p/2691805591514753)
 append_entries: 1
 Finish: 2024-03-16 08:20:52.593584
+------------------------------------------------------
+Started: 2024-03-16 10:19:42.273745
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果300亿参数大模型首亮相，还买了家AI公司｜焦点分析](https://www.36kr.com/p/2691937970793865)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [流浪地球里的数字生命计划启动了？DeepMind在电脑里造果蝇，网友：能造人吗？](https://www.36kr.com/p/2691827740667523)
+append_entries: 2
+Finish: 2024-03-16 10:19:43.021337
