@@ -13365,3 +13365,16 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-16 02:22:35.187488
+------------------------------------------------------
+Started: 2024-03-16 04:22:34.309497
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI味儿最浓的一届AWE，家电厂商都有哪些花活儿？](https://www.36kr.com/p/2691539129577090)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [买课的诱惑：“离百万年薪就差一张AIGC证书”](https://www.36kr.com/p/2691495656886918)
+Append: [Meta传统艺能内斗，在大模型上演了](https://www.36kr.com/p/2421529992933636)
+append_entries: 3
+Finish: 2024-03-16 04:22:35.039839
