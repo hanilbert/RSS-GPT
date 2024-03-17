@@ -11076,3 +11076,12 @@ Fetching from https://1q43.blog/feed
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/hx
+------------------------------------------------------
+Started: 2024-03-17 02:24:16.792808
+Existing_entries: 25
+Fetching from https://1q43.blog/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [互联网是人类历史的一段弯路吗？](https://1q43.blog/post/673)
+append_entries: 1
+Finish: 2024-03-17 02:24:18.580432
