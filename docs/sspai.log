@@ -17695,3 +17695,10 @@ Existing_entries: 630
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-17 04:21:08.266415
+------------------------------------------------------
+Started: 2024-03-17 06:21:48.544240
+Existing_entries: 630
+Fetching from https://rsshub.app/sspai/index
+Feed error: <unknown>:23:57013: not well-formed (invalid token)
+append_entries: 0
+Finish: 2024-03-17 06:21:48.811696

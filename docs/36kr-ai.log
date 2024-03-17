@@ -13462,3 +13462,16 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-17 04:21:20.087792
+------------------------------------------------------
+Started: 2024-03-17 06:21:59.905631
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [国内创业者和投资人如何看待 Figure 01 机器人：距离具身智能还有多远？](https://www.36kr.com/p/2693180170956161)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [180亿，阿里又投出一家AI独角兽](https://www.36kr.com/p/2693106793262724)
+Append: [大模型进家电，既缺锤子又缺钉子？](https://www.36kr.com/p/2693066950389128)
+append_entries: 3
+Finish: 2024-03-17 06:22:01.901674
