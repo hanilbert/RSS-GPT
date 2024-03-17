@@ -13481,3 +13481,16 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-17 08:20:32.441271
+------------------------------------------------------
+Started: 2024-03-17 10:18:04.174462
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI程序员Devin卧底工作群修bug！和CTO聊技术，网友：顶级码农水平](https://www.36kr.com/p/2693391381687944)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我在技​​术面试中用 ChatGPT 作弊，没人知道](https://www.36kr.com/p/2693202655702657)
+Append: [我问了 Gemini 1.5 Pro 五个问题，找到了初遇ChatGPT的感觉](https://www.36kr.com/p/2693184990031494)
+append_entries: 3
+Finish: 2024-03-17 10:18:04.853955
