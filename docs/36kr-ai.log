@@ -13599,3 +13599,20 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-18 10:20:22.859905
+------------------------------------------------------
+Started: 2024-03-18 12:33:08.992219
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“复活”著名音乐人女儿后，小冰公司CEO开始担忧](https://www.36kr.com/p/2695022448913800)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [测试30款App四成找不到人工客服，别把AI客服当成“装聋作哑”的挡箭牌](https://www.36kr.com/p/2694971207134852)
+Append: [AI「复活」亲人只需要5块钱，数字永生来了？](https://www.36kr.com/p/2694968150535813)
+Append: [Sora给你带来的真实变化](https://www.36kr.com/p/2694907261087362)
+Append: [大模型落地“诸神之战”，场景玩家先杀出重围了](https://www.36kr.com/p/2694719921008257)
+Append: [马斯克突然开源Grok：3140亿参数巨无霸，免费可商用](https://www.36kr.com/p/2694779110878856)
+Append: [全球首个类Sora开源复现方案来了，全面公开所有训练细节和模型权重](https://www.36kr.com/p/2694779240689028)
+append_entries: 7
+Finish: 2024-03-18 12:33:10.100996
