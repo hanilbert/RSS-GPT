@@ -13530,3 +13530,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-17 22:16:40.209899
+------------------------------------------------------
+Started: 2024-03-18 01:18:03.720059
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软AI程序员登场，10倍AI工程师真来了？996自主生成代码，性能超GPT-4 30%](https://www.36kr.com/p/2694172221582981)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chat GPT 每天要耗费 1.7 万个家庭的用电量，到底值不值？](https://www.36kr.com/p/2694182255210116)
+append_entries: 2
+Finish: 2024-03-18 01:18:04.493619
