@@ -13580,3 +13580,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Stability AI科学家Andreas Blattman：AI视频的挑战性在哪？](https://www.36kr.com/p/2694508680843138)
 append_entries: 1
 Finish: 2024-03-18 06:24:38.723475
+------------------------------------------------------
+Started: 2024-03-18 08:22:35.203831
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我，一个技术公司的普通行政，成了公司的 AI 产品专家](https://www.36kr.com/p/2694592394243461)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [辛顿、姚期智等中外专家签署“北京共识”：禁止AI自行复制](https://www.36kr.com/p/2694749086051969)
+Append: [史上最大开源LLM，参数高达3140亿，马斯克如约开源Grok，10小时狂揽10000颗Star](https://www.36kr.com/p/2694749076237700)
+append_entries: 3
+Finish: 2024-03-18 08:22:37.079824
