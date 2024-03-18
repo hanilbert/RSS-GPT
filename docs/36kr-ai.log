@@ -13559,3 +13559,15 @@ Append: [AI客服害了多少人？胡说八道，不解决问题，还让公司
 Append: [赛博“舔狗”？智能“抄袭”？虚拟人格？AI游戏的未来在哪里？](https://www.36kr.com/p/2694274953293448)
 append_entries: 7
 Finish: 2024-03-18 02:23:43.172182
+------------------------------------------------------
+Started: 2024-03-18 04:21:17.383482
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [最受瞩目GTC将至，黄仁勋已让全天下无人不知英伟达](https://www.36kr.com/p/2694466634329473)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [刚刚，马斯克开源 Grok：参数量近 Llama 四倍，成全球最大开源模型](https://www.36kr.com/p/2694396985519747)
+append_entries: 2
+Finish: 2024-03-18 04:21:18.038125
