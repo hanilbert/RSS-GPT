@@ -9634,3 +9634,12 @@ Existing_entries: 31
 Fetching from https://rsshub.app/paulgraham/articles
 append_entries: 0
 Finish: 2024-03-19 16:23:39.190540
+------------------------------------------------------
+Started: 2024-03-19 18:22:42.413929
+Existing_entries: 31
+Fetching from https://rsshub.app/paulgraham/articles
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Start Google](http://paulgraham.com/google.html)
+append_entries: 1
+Finish: 2024-03-19 18:22:42.869885
