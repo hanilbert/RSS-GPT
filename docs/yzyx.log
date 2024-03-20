@@ -11399,3 +11399,12 @@ Existing_entries: 78
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-20 04:23:13.802581
+------------------------------------------------------
+Started: 2024-03-20 06:24:25.646480
+Existing_entries: 78
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [184 指数投资 2000 只股票，算是分散配置了吗？ 3月20日 非也非也，不以数量论分散。那怎样才属于分散配置？](https://youzhiyouxing.cn/materials/1639)
+append_entries: 1
+Finish: 2024-03-20 06:24:26.044470
