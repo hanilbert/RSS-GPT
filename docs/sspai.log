@@ -17970,3 +17970,12 @@ Existing_entries: 642
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-20 08:22:19.800241
+------------------------------------------------------
+Started: 2024-03-20 10:19:05.645099
+Existing_entries: 642
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
+append_entries: 1
+Finish: 2024-03-20 10:19:06.038578
