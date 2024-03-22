@@ -13983,3 +13983,12 @@ Append: [IBM2024年战略：发力混合云和AI，加码大模型落地B端｜�
 Append: [Hinton痛悔毕生工作，AGI十年内降临或导致「奥本海默」灾难，图灵巨头联手中国专家为AI划红线](https://www.36kr.com/p/2700441066436744)
 append_entries: 8
 Finish: 2024-03-22 10:20:22.016559
+------------------------------------------------------
+Started: 2024-03-22 12:33:02.267266
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [重磅，David Baker团队又一突破：首次利用生成式AI设计出全新抗体](https://www.36kr.com/p/2700644480432258)
+append_entries: 1
+Finish: 2024-03-22 12:33:02.733492
