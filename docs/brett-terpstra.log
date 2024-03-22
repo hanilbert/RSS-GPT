@@ -21274,3 +21274,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Revisiting TagFiler and Vitag](https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag)
 append_entries: 2
 Finish: 2024-03-22 18:21:35.372493
+------------------------------------------------------
+Started: 2024-03-22 22:17:23.040507
+Existing_entries: 147
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-03-22 22:17:23.988684
