@@ -13953,3 +13953,15 @@ Append: [李飞飞对话英伟达首席科学家：Sora可以生成电影，但�
 Append: [“感觉GPT Store被放弃了！”，发布才2个月就被OpenAI搞成了烂尾项目？](https://www.36kr.com/p/2699077107922819)
 append_entries: 20
 Finish: 2024-03-22 06:23:17.179925
+------------------------------------------------------
+Started: 2024-03-22 08:22:34.144619
+Existing_entries: 1020
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora不开源，微软给你开源，全球最接近Sora视频模型诞生，12秒生成效果逼真炸裂](https://www.36kr.com/p/2700441469630600)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果“被偷家”！遭反垄断诉讼，大陆才开新店](https://www.36kr.com/p/2700346821458053)
+append_entries: 2
+Finish: 2024-03-22 08:22:34.794465
