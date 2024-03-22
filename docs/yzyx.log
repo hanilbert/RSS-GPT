@@ -11579,3 +11579,12 @@ Existing_entries: 80
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-22 14:18:11.016687
+------------------------------------------------------
+Started: 2024-03-22 16:23:40.568302
+Existing_entries: 80
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E132 250万攒好了，打工10年后，我们决定当数字难民！ 3月22日 恬恬酱和小陈返场小酒馆！实现攒钱目标的他俩坐在房车里，和我们录下了这期节目——](https://youzhiyouxing.cn/materials/1641)
+append_entries: 1
+Finish: 2024-03-22 16:23:41.036243
