@@ -9973,3 +9973,12 @@ Existing_entries: 32
 Fetching from https://rsshub.app/paulgraham/articles
 append_entries: 0
 Finish: 2024-03-24 10:18:44.278718
+------------------------------------------------------
+Started: 2024-03-24 12:33:28.595963
+Existing_entries: 32
+Fetching from https://rsshub.app/paulgraham/articles
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Reddits](http://paulgraham.com/reddits.html)
+append_entries: 1
+Finish: 2024-03-24 12:33:29.026210
