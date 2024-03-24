@@ -14126,3 +14126,17 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-24 06:23:03.583510
+------------------------------------------------------
+Started: 2024-03-24 08:20:46.866974
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克为什么一定要开源AI？](https://www.36kr.com/p/2702050152544135)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora三巨头首次解密幕后信息，CTO：最快年内开放](https://www.36kr.com/p/2703167530121096)
+Append: [音乐ChatGPT时刻来临！Suno V3秒生爆款歌曲，12人团队创现象级AI](https://www.36kr.com/p/2703104696874882)
+Append: [史上最强 AI 芯片，到底强在哪？](https://www.36kr.com/p/2703180586219398)
+append_entries: 4
+Finish: 2024-03-24 08:20:47.752251
