@@ -4,12 +4,12 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>http://lopespm.github.io/</link>
 
+
 <item>
 <title>Minimalist Onyx BOOX Note Air3 B/W Setup</title>
 <link>http://lopespm.github.io/notes/2024/03/25/minimalist_boox.html</link>
 <guid>http://lopespm.github.io/notes/2024/03/25/minimalist_boox.html</guid>
 <content:encoded><![CDATA[
-
 <p>As part of the plan to banish mobile phones with access to instant rewards from my bedroom (more on this in an upcoming post), I’ve acquired a Onyx BOOX Note Air3 B/W, which is a Android tablet with a black and white e-ink screen that is focused on writing and reading <sup id="fnref:1"><a href="https://lopespm.com/atom.xml#fn:1" rel="footnote">1</a></sup></p>
 
 <h2 id="house-rules">House Rules</h2>
@@ -211,10 +211,8 @@ adb shell pm disable-user --user 0 com.onyx.calculator
   </ol>
 </div>
 ]]></content:encoded>
-
 <pubDate>2024-03-25T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Musk's biography: why it's interesting</title>
 <link>http://lopespm.github.io/notes/2024/02/18/elon_musk_biography.html</link>
