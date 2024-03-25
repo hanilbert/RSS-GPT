@@ -14246,3 +14246,22 @@ Append: [词曲创作只需几秒，「AI作曲家」Suno引爆音乐圈，第�
 Append: [AI社交来了，微信慌了吗？](https://www.36kr.com/p/2704421109659779)
 append_entries: 6
 Finish: 2024-03-25 10:19:36.713078
+------------------------------------------------------
+Started: 2024-03-25 12:33:12.629053
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI手机或许不是未来，但不相信AI的手机厂商可能没有未来](https://www.36kr.com/p/2704895722600325)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [首个AI游戏引擎或颠覆任天堂/暴雪？0代码即可创建，黄仁勋预测5-10年游戏完全由AI生成](https://www.36kr.com/p/2704887487133572)
+Append: [真假“长文本”，国产大模型混战](https://www.36kr.com/p/2704842011431558)
+Append: [苹果AI困局：搭上百度快车，能否破局重生？](https://www.36kr.com/p/2704801393659780)
+Append: [击败阿里？内部人士称百度将为iPhone 16提供AI功能](https://www.36kr.com/p/2704796538140808)
+Append: [GPT-4刚被Claude3碾压，奥特曼剧透GPT-5](https://www.36kr.com/p/2704834019801223)
+Append: [OpenAI公关跳起来捂他嘴：Transformer作者公开承认参与Q*](https://www.36kr.com/p/2704824698583169)
+Append: [互联网大厂，集体「围剿」Kimi](https://www.36kr.com/p/2704818575046792)
+Append: [一年暴涨900%，这个华人成为黄院士门下最大赢家](https://www.36kr.com/p/2704803193583493)
+append_entries: 9
+Finish: 2024-03-25 12:33:13.327438
