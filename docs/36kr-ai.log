@@ -14224,3 +14224,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [ChatGPT负责人最新采访: AI发展应避免美国中心主义，尊重不同价值观](https://www.36kr.com/p/2704397301846660)
 append_entries: 1
 Finish: 2024-03-25 06:25:19.079908
+------------------------------------------------------
+Started: 2024-03-25 08:24:18.581465
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-03-25 08:24:18.801508
