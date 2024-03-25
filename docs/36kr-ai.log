@@ -14265,3 +14265,15 @@ Append: [互联网大厂，集体「围剿」Kimi](https://www.36kr.com/p/270481
 Append: [一年暴涨900%，这个华人成为黄院士门下最大赢家](https://www.36kr.com/p/2704803193583493)
 append_entries: 9
 Finish: 2024-03-25 12:33:13.327438
+------------------------------------------------------
+Started: 2024-03-25 14:17:37.241724
+Existing_entries: 1009
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kimi爆火背后，源自投资人的“AI落后焦虑症”？](https://www.36kr.com/p/2704914988398472)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI入侵，可以“以模治模”](https://www.36kr.com/p/2704910572566660)
+append_entries: 2
+Finish: 2024-03-25 14:17:37.826906
