@@ -21472,3 +21472,12 @@ Existing_entries: 147
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-25 14:17:17.971187
+------------------------------------------------------
+Started: 2024-03-25 16:23:03.255356
+Existing_entries: 147
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [EagleFiler giveaway!](https://brett.trpstra.net/link/535/16630730/eaglefiler-giveaway)
+append_entries: 1
+Finish: 2024-03-25 16:23:04.824495
