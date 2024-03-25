@@ -14201,3 +14201,17 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-25 02:26:24.443659
+------------------------------------------------------
+Started: 2024-03-25 04:23:48.005592
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被黄仁勋请上台的10位机器人](https://www.36kr.com/p/2704314209390469)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-4比人类更有创造力？Nature子刊：发散思维已被超越](https://www.36kr.com/p/2704284284696449)
+Append: [UC伯克利“LLM排位赛”结果出炉，Claude 3追平GPT-4并列第一](https://www.36kr.com/p/2704267769182085)
+Append: [GPT-4“荣升”AI顶会同行评审专家？斯坦福最新研究：ICLR/NeurIPS等竟有16.9%评审是ChatGPT生成](https://www.36kr.com/p/2704254283430024)
+append_entries: 4
+Finish: 2024-03-25 04:23:48.891010
