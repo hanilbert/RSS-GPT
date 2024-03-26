@@ -14328,3 +14328,17 @@ Append: [AI数字人“搅局”直播电商](https://www.36kr.com/p/27055349937
 Append: [这几位前 OpenAI 员工，想打造“机器人界的 ChatGPT”](https://www.36kr.com/p/2705519790471040)
 append_entries: 5
 Finish: 2024-03-26 02:25:26.928819
+------------------------------------------------------
+Started: 2024-03-26 04:22:18.551239
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [智慧零售：汉朔科技的GenAI解决方案](https://www.36kr.com/p/2704836457150592)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kimi爆火，谁制造了大模型的又一次狂欢？](https://www.36kr.com/p/2705848261791616)
+Append: [闹大了，老板跑路，Stability AI白忙活了？](https://www.36kr.com/p/2705803027124101)
+Append: [首位AI助理爱芒的出现，是综艺与AI创新融合的新风向？](https://www.36kr.com/p/2705552398989190)
+append_entries: 4
+Finish: 2024-03-26 04:22:19.445522
