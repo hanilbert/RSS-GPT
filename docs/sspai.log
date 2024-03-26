@@ -18448,3 +18448,12 @@ Existing_entries: 662
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-26 06:25:17.457309
+------------------------------------------------------
+Started: 2024-03-26 08:22:00.604443
+Existing_entries: 662
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)
+append_entries: 1
+Finish: 2024-03-26 08:22:01.062996

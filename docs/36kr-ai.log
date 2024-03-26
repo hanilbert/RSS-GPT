@@ -14348,3 +14348,15 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-26 06:25:29.646689
+------------------------------------------------------
+Started: 2024-03-26 08:22:13.793408
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024胡润全球富豪榜：AI制造富豪](https://www.36kr.com/p/2706082356868995)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [流量增长有限、创作者激励迟迟未出，GPTStore要凉了？](https://www.36kr.com/p/2705871570948741)
+append_entries: 2
+Finish: 2024-03-26 08:22:14.321165
