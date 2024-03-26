@@ -14360,3 +14360,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [流量增长有限、创作者激励迟迟未出，GPTStore要凉了？](https://www.36kr.com/p/2705871570948741)
 append_entries: 2
 Finish: 2024-03-26 08:22:14.321165
+------------------------------------------------------
+Started: 2024-03-26 10:21:59.964404
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [押注Gemini大模型，谷歌想用AI手表激活可穿戴市场](https://www.36kr.com/p/2706184384876423)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Web3 世界的 AI 应用平台，会成功吗？](https://www.36kr.com/p/2706167084840839)
+Append: [OpenAI颠覆导演，首批7个Sora超现实大片震惊好莱坞](https://www.36kr.com/p/2706159530096516)
+Append: [如果不还钱，追债公司现在用AI找你麻烦](https://www.36kr.com/p/2706145097257603)
+Append: [100亿，两位中科大学霸，要去IPO了](https://www.36kr.com/p/2706162217760902)
+append_entries: 5
+Finish: 2024-03-26 10:22:06.759844
