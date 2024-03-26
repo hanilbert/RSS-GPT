@@ -14381,3 +14381,16 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-26 12:33:57.598886
+------------------------------------------------------
+Started: 2024-03-26 14:19:21.454561
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI PC：一场浩荡的革命](https://www.36kr.com/p/2706324541667456)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [行业大模型建设的若干思考](https://www.36kr.com/p/2706314333419653)
+Append: [工信部定调，大模型除了“聊天”更要会“干活”](https://www.36kr.com/p/2706292481538185)
+append_entries: 3
+Finish: 2024-03-26 14:19:22.956053
