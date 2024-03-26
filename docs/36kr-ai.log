@@ -14301,3 +14301,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-25 22:19:06.422791
+------------------------------------------------------
+Started: 2024-03-26 01:17:11.446537
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [清华微软开源全新提示词压缩工具，长度骤降80%，GitHub怒砍3.1K星](https://www.36kr.com/p/2705158955759495)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kimi连续宕机打醒巨头，阿里百度360连夜出手长文本，大模型商业化厮杀开始了](https://www.36kr.com/p/2705158394116227)
+append_entries: 2
+Finish: 2024-03-26 01:17:12.144054
