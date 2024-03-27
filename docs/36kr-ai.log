@@ -14476,3 +14476,21 @@ Append: [OpenAI把微软电网搞崩，GPT-6被曝25年发布，训练刷爆10�
 Append: [第一批用Kimi做内容的网红已经杀疯了](https://www.36kr.com/p/2707366397727364)
 append_entries: 6
 Finish: 2024-03-27 10:20:35.899780
+------------------------------------------------------
+Started: 2024-03-27 12:34:00.278301
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [为机器人提供“通用大脑”，「X Square」连续完成数千万元天使轮与天使+轮融资 | 36氪首发](https://www.36kr.com/p/2706608034134148)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora还没赚到钱，“AI复活”先来割韭菜](https://www.36kr.com/p/2707601683380101)
+Append: [AI重塑中国科技富豪榜：94位身家超10亿美元，游戏、半导体行业财富暴涨](https://www.36kr.com/p/2707588712544391)
+Append: [未来职场的革命者：AI如何重塑我们的工作方式](https://www.36kr.com/p/2707575144118402)
+Append: [Sora超逼真视频引恐慌，Nature刊文警示AI视频模型，或在2024年颠覆科学和社会](https://www.36kr.com/p/2707624220768129)
+Append: [LLM性能最高60%提升，谷歌ICLR 2024力作：让大语言模型学会「图的语言」](https://www.36kr.com/p/2707621736151175)
+Append: [超越GPT-4，Claude 3超大杯成新王](https://www.36kr.com/p/2707619523196806)
+Append: [“Kimi概念”降温，长文本“担不起”大模型的下一步](https://www.36kr.com/p/2707616424917121)
+append_entries: 8
+Finish: 2024-03-27 12:34:01.172992
