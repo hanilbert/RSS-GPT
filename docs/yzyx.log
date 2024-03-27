@@ -11915,3 +11915,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [185 ETF 快速发展，现在规模怎么样啦？ 3月27日 以及，重要货币市场基金名录出炉，你的活钱管理需要关注](https://youzhiyouxing.cn/materials/1643)
 append_entries: 1
 Finish: 2024-03-27 06:23:26.823887
+------------------------------------------------------
+Started: 2024-03-27 08:23:58.773661
+Existing_entries: 82
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-03-27 08:23:58.899236
