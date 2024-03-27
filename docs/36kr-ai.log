@@ -14460,3 +14460,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-27 08:23:56.190495
+------------------------------------------------------
+Started: 2024-03-27 10:20:34.924646
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI 很热，但未到“泡沫”](https://www.36kr.com/p/2707552455725700)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果祭出“钞能力”恶补AI：一边挖牛人，一边请外援](https://www.36kr.com/p/2707464308511369)
+Append: [AI计算音频，高通们的新“芯事”](https://www.36kr.com/p/2707481610080897)
+Append: [难以置信，全AI生成美女视频，46秒逼真神态骗过所有人](https://www.36kr.com/p/2707411553941382)
+Append: [OpenAI把微软电网搞崩，GPT-6被曝25年发布，训练刷爆10万张H100](https://www.36kr.com/p/2707411004373121)
+Append: [第一批用Kimi做内容的网红已经杀疯了](https://www.36kr.com/p/2707366397727364)
+append_entries: 6
+Finish: 2024-03-27 10:20:35.899780
