@@ -18569,3 +18569,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
 append_entries: 1
 Finish: 2024-03-27 14:17:48.130518
+------------------------------------------------------
+Started: 2024-03-27 16:24:54.514150
+Existing_entries: 671
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-03-27 16:24:54.727567
