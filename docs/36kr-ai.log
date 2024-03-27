@@ -14494,3 +14494,18 @@ Append: [超越GPT-4，Claude 3超大杯成新王](https://www.36kr.com/p/270761
 Append: [“Kimi概念”降温，长文本“担不起”大模型的下一步](https://www.36kr.com/p/2707616424917121)
 append_entries: 8
 Finish: 2024-03-27 12:34:01.172992
+------------------------------------------------------
+Started: 2024-03-27 14:17:59.649969
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI颠覆，倒计时](https://www.36kr.com/p/2707732831467652)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软“去OpenAI化”引发高层洗牌：必应CEO被DeepMind联创挤跑，纳德拉会见Stable Diffusion老板](https://www.36kr.com/p/2707738694695044)
+Append: [AI难逃“能源危机”？GPT-6或被电力卡脖子](https://www.36kr.com/p/2707732714666115)
+Append: [AI路由器终于来了，只因AI硬件，离不开AI网络？](https://www.36kr.com/p/2707707375439748)
+Append: [核心团队“跑路”，Stability AI这家AI独角兽要凉](https://www.36kr.com/p/2707710425053064)
+append_entries: 5
+Finish: 2024-03-27 14:18:00.340785

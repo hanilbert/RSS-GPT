@@ -18560,3 +18560,12 @@ Existing_entries: 670
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-27 12:33:48.751585
+------------------------------------------------------
+Started: 2024-03-27 14:17:47.611684
+Existing_entries: 670
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
+append_entries: 1
+Finish: 2024-03-27 14:17:48.130518
