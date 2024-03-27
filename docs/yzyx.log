@@ -11906,3 +11906,12 @@ Existing_entries: 81
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-27 04:23:21.285838
+------------------------------------------------------
+Started: 2024-03-27 06:23:26.405199
+Existing_entries: 81
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [185 ETF 快速发展，现在规模怎么样啦？ 3月27日 以及，重要货币市场基金名录出炉，你的活钱管理需要关注](https://youzhiyouxing.cn/materials/1643)
+append_entries: 1
+Finish: 2024-03-27 06:23:26.823887
