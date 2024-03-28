@@ -14533,3 +14533,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-27 22:19:33.502842
+------------------------------------------------------
+Started: 2024-03-28 01:17:32.425183
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [因违规收集AI训练数据，谷歌在法被罚2.5亿欧元](https://www.36kr.com/p/2707883534595972)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI美女广告让人难辨真假，博主被迫录视频自证：真的是AI](https://www.36kr.com/p/2708007913257095)
+Append: [AI的风终于吹到音乐圈，“宫保鸡丁”唱起来](https://www.36kr.com/p/2707784958556297)
+append_entries: 3
+Finish: 2024-03-28 01:17:33.063703
