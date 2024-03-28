@@ -14607,3 +14607,18 @@ Append: [英伟达GTC 2024: 绝对霸主的权力与遥远的野心](https://www
 Append: [亚马逊追投Anthropic 27.5亿刀，市值暴涨5000亿](https://www.36kr.com/p/2708770797991813)
 append_entries: 9
 Finish: 2024-03-28 12:34:55.145418
+------------------------------------------------------
+Started: 2024-03-28 14:19:28.234658
+Existing_entries: 1009
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [1.8亿，云天励飞买下C端落地门票](https://www.36kr.com/p/2709175733401479)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [黄仁勋都点赞的AI制药公司，英矽智能更新招股书](https://www.36kr.com/p/2709167903569794)
+Append: [关于生成式AI，硅谷VC张璐的9个观点](https://www.36kr.com/p/2709071239169799)
+Append: [我用盗版书训练人工智能](https://www.36kr.com/p/2709042235213576)
+Append: [这家世界五百强公司，盯上了李一舟的生意](https://www.36kr.com/p/2709063208040321)
+append_entries: 5
+Finish: 2024-03-28 14:19:29.078630
