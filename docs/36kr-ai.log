@@ -14561,3 +14561,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI长文本之战：Kimi快跑，大厂围剿 | 焦点分析](https://www.36kr.com/p/2707564507346821)
 append_entries: 1
 Finish: 2024-03-28 04:21:07.512646
+------------------------------------------------------
+Started: 2024-03-28 06:23:38.475882
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球最强开源模型一夜易主，1320亿参数推理飙升2倍](https://www.36kr.com/p/2708770531653763)
+append_entries: 1
+Finish: 2024-03-28 06:23:38.860210
