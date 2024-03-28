@@ -18599,3 +18599,12 @@ Existing_entries: 671
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-28 01:17:21.020796
+------------------------------------------------------
+Started: 2024-03-28 02:27:13.751675
+Existing_entries: 671
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
+append_entries: 1
+Finish: 2024-03-28 02:27:14.251519
