@@ -12011,3 +12011,12 @@ Existing_entries: 82
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-03-28 14:19:35.693746
+------------------------------------------------------
+Started: 2024-03-28 16:22:40.676219
+Existing_entries: 82
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [持有时间越长，A股收益越稳定吗？ 3月28日 年报解读第一期，再谈A股整体的年化收益率。](https://youzhiyouxing.cn/materials/1646)
+append_entries: 1
+Finish: 2024-03-28 16:22:40.971480
