@@ -18623,3 +18623,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [回县城去：青年维特的烦恼](https://sspai.com/post/86722)
 append_entries: 1
 Finish: 2024-03-28 06:23:25.732145
+------------------------------------------------------
+Started: 2024-03-28 08:21:56.099533
+Existing_entries: 673
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
+append_entries: 1
+Finish: 2024-03-28 08:21:56.660052

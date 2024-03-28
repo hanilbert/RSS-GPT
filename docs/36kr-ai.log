@@ -14570,3 +14570,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [全球最强开源模型一夜易主，1320亿参数推理飙升2倍](https://www.36kr.com/p/2708770531653763)
 append_entries: 1
 Finish: 2024-03-28 06:23:38.860210
+------------------------------------------------------
+Started: 2024-03-28 08:22:10.253949
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPTs大翻车后，OpenAI再宣布给开发者送钱，美国码农狂欢](https://www.36kr.com/p/2708772362795136)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全美第二大学区普及AI学习工具：“个性化教育旅程将达到前所未有的水平”](https://www.36kr.com/p/2708762513062024)
+append_entries: 2
+Finish: 2024-03-28 08:22:11.084523
