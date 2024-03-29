@@ -14649,3 +14649,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-28 22:17:33.191410
+------------------------------------------------------
+Started: 2024-03-29 01:17:48.873553
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [8 名谷歌员工发明了现代人工智能，这是那篇论文的内幕故事](https://www.36kr.com/p/2705849179912064)
+append_entries: 1
+Finish: 2024-03-29 01:17:49.372219
