@@ -14688,3 +14688,20 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-29 08:22:33.848877
+------------------------------------------------------
+Started: 2024-03-29 10:20:16.478377
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [你正在看的短视频，文案翻译出镜剪辑全都是AI](https://www.36kr.com/p/2710365349083271)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“双面”AIGC：变脸、界线与博弈](https://www.36kr.com/p/2710327528208263)
+Append: [最强开源大模型再度易主，这家初创公司是如何做到的？](https://www.36kr.com/p/2710286092178050)
+Append: [DeepMind终结大模型幻觉？标注事实比人类靠谱、还便宜20倍，全开源](https://www.36kr.com/p/2710237251696768)
+Append: [马斯克大模型Grok1.5来了：推理能力大升级，支持128k上下文](https://www.36kr.com/p/2710236993435520)
+Append: [AI影响中国集成电路的几点思考](https://www.36kr.com/p/2710197875439497)
+Append: [Mamba超强进化体一举颠覆Transforme，单张A100跑140K上下文](https://www.36kr.com/p/2710168130680706)
+append_entries: 7
+Finish: 2024-03-29 10:20:17.061628
