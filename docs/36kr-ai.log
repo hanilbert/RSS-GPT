@@ -14719,3 +14719,15 @@ Append: [2024福布斯中国消费级AI应用观察](https://www.36kr.com/p/2710
 Append: [AI大模型来了，低代码还有机会吗？](https://www.36kr.com/p/2710456771164039)
 append_entries: 4
 Finish: 2024-03-29 12:35:03.751488
+------------------------------------------------------
+Started: 2024-03-29 14:16:49.137217
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Transformer正在耗尽Transformer](https://www.36kr.com/p/2710587015018633)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一年半过去后，AI的“iPhone时刻”仍然没有到来](https://www.36kr.com/p/2710559357155204)
+append_entries: 2
+Finish: 2024-03-29 14:16:50.052752

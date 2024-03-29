@@ -18728,3 +18728,15 @@ Existing_entries: 678
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-29 12:34:51.391338
+------------------------------------------------------
+Started: 2024-03-29 14:16:23.623606
+Existing_entries: 678
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [探索从短信转发到通知推送的全平台解决方案](https://sspai.com/post/87544)
+append_entries: 2
+Finish: 2024-03-29 14:16:24.380450
