@@ -18683,3 +18683,12 @@ Existing_entries: 675
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-29 01:17:37.168586
+------------------------------------------------------
+Started: 2024-03-29 02:23:04.826992
+Existing_entries: 675
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：小米推出 SU7 系列汽车、理光推出 GR III HDF 及特别版](https://sspai.com/post/87642)
+append_entries: 1
+Finish: 2024-03-29 02:23:05.312098
