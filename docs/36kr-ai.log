@@ -14980,3 +14980,16 @@ Append: [AI行业买英伟达GPU，花的钱比赚的多17倍](https://www.36kr.
 Append: [国产黑马一年肝出万亿参数MoE，霸榜多模态，剑指AGI](https://www.36kr.com/p/2714378547640456)
 append_entries: 6
 Finish: 2024-04-01 08:24:58.674451
+------------------------------------------------------
+Started: 2024-04-01 10:20:51.093547
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI取代周杰伦？人均音乐制作人的时代是否已然来临](https://www.36kr.com/p/2714643986171650)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [各方磨刀霍霍，Kimi会成全他们吗？](https://www.36kr.com/p/2714655908378760)
+Append: [美科技巨头欲降低对中国依赖转向墨西哥生产AI硬件，富士康等响应号召](https://www.36kr.com/p/2714563355736199)
+append_entries: 3
+Finish: 2024-04-01 10:20:51.854212
