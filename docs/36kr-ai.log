@@ -14947,3 +14947,20 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [1150亿美元建AI超算中心，打开大模型“星际之门”，耗电量需核电支持](https://www.36kr.com/p/2713483168659591)
 append_entries: 2
 Finish: 2024-04-01 04:22:21.464116
+------------------------------------------------------
+Started: 2024-04-01 06:24:46.950132
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周AI界发生了什么 | Grok-1.5发布；微软OpenAI斥资千亿打造AI超算；百度或将为国行iPhone16提供AI功能](https://www.36kr.com/p/2713383921039492)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [黄仁勋如何看待未来？来自英伟达风险投资的启示](https://www.36kr.com/p/2714361087539074)
+Append: [月入25万，AI美女，收割中年男人的钱包](https://www.36kr.com/p/2714313717322374)
+Append: [1000亿美元，微软与OpenAI的“AI超级霸权”野心](https://www.36kr.com/p/2714331202533255)
+Append: [HBM，没有对手？](https://www.36kr.com/p/2711515536766848)
+Append: [在全面“本地化”前，所有AI PC都是“伪AI PC”？](https://www.36kr.com/p/2711533526730505)
+Append: [抵制过AI的好莱坞能接受Sora？](https://www.36kr.com/p/2714323800324225)
+append_entries: 7
+Finish: 2024-04-01 06:24:47.581173
