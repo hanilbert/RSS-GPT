@@ -14964,3 +14964,19 @@ Append: [在全面“本地化”前，所有AI PC都是“伪AI PC”？](https
 Append: [抵制过AI的好莱坞能接受Sora？](https://www.36kr.com/p/2714323800324225)
 append_entries: 7
 Finish: 2024-04-01 06:24:47.581173
+------------------------------------------------------
+Started: 2024-04-01 08:24:57.832433
+Existing_entries: 1007
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI程序员Devin独角兽，半年估值20亿美元？业内曝AI泡沫：买卡500亿，收入30亿](https://www.36kr.com/p/2714378977572737)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [XZ恶意代码潜伏三年，差点引发核末日？后门投毒黑客身份成谜](https://www.36kr.com/p/2714378732058754)
+Append: [文生图模型又卷起来了，Stable Diffusion凉凉，Midjourney流量被反超](https://www.36kr.com/p/2714356061619977)
+Append: [罗永浩卖云首秀：阿里云想“多交朋友”，京东云也来应战 | 最前线](https://www.36kr.com/p/2714442271340673)
+Append: [AI行业买英伟达GPU，花的钱比赚的多17倍](https://www.36kr.com/p/2714417567397763)
+Append: [国产黑马一年肝出万亿参数MoE，霸榜多模态，剑指AGI](https://www.36kr.com/p/2714378547640456)
+append_entries: 6
+Finish: 2024-04-01 08:24:58.674451
