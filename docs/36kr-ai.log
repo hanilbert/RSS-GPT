@@ -14935,3 +14935,15 @@ Existing_entries: 1011
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-01 02:31:47.727983
+------------------------------------------------------
+Started: 2024-04-01 04:22:20.829631
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI医疗的困境与破局，鹰瞳科技继续等风来](https://www.36kr.com/p/2712857825065091)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [1150亿美元建AI超算中心，打开大模型“星际之门”，耗电量需核电支持](https://www.36kr.com/p/2713483168659591)
+append_entries: 2
+Finish: 2024-04-01 04:22:21.464116
