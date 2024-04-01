@@ -12301,3 +12301,12 @@ Existing_entries: 28
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-04-01 14:17:39.125495
+------------------------------------------------------
+Started: 2024-04-01 16:23:36.394111
+Existing_entries: 28
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Banishing mobile phones from bedroom](http://lopespm.github.io/notes/2024/04/01/banishing_mobile_phones_from_bedroom.html)
+append_entries: 1
+Finish: 2024-04-01 16:23:36.872245
