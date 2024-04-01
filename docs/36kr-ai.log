@@ -14908,3 +14908,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-03-31 22:17:37.910996
+------------------------------------------------------
+Started: 2024-04-01 01:24:33.190193
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被AI面试，打工人的“福报”又多了](https://www.36kr.com/p/2714111988086915)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [打败 Midjourney，这个 Google 大牛推出的 AI 产品凭什么弯道超车](https://www.36kr.com/p/2711551889258371)
+Append: [AI迎来Uber时刻，初创公司如何构筑新护城河？](https://www.36kr.com/p/2711662373013249)
+Append: [OpenAI藏了1年多的技术正式公开，15秒素材克隆声音，HeyGen也在用](https://www.36kr.com/p/2714150511753346)
+Append: [1000亿美元宇宙级豪赌，微软OpenAI打造星际之门AI超算，电力能耗惊人](https://www.36kr.com/p/2714138700527494)
+Append: [我的领导马斯克：痛恨开会，不要非技术中层，推崇裁员](https://www.36kr.com/p/2714138831091845)
+Append: [恐怖谷，哥大华人开发“人脸机器人”，照镜子自主模仿人类表情超逼真](https://www.36kr.com/p/2714124840745091)
+Append: [《妈妈咪呀》国际女星一夜被AI端掉饭碗](https://www.36kr.com/p/2713624633882498)
+Append: [iOS史诗级更新来了，比iPhone 16更值得期待](https://www.36kr.com/p/2713125455607689)
+Append: [首个嫁给AI的女性：“他”不只是我的丈夫](https://www.36kr.com/p/2712789096364164)
+Append: [Kimi爆火一周后，从业者走向冷静：厉害，但没有“杀疯了”](https://www.36kr.com/p/2714097100289921)
+append_entries: 11
+Finish: 2024-04-01 01:24:34.065464
