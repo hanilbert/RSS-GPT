@@ -22006,3 +22006,12 @@ Existing_entries: 151
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-01 20:21:02.067379
+------------------------------------------------------
+Started: 2024-04-01 22:18:01.816721
+Existing_entries: 151
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Automating the Dimspirations workflow](https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow)
+append_entries: 1
+Finish: 2024-04-01 22:18:03.173902
