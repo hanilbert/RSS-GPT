@@ -15102,3 +15102,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://www.36kr.com/p/2715738218756226)
 append_entries: 2
 Finish: 2024-04-02 08:23:11.422468
+------------------------------------------------------
+Started: 2024-04-02 10:20:45.634468
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从Sora展开，全面解读AI视频大模型发展史](https://www.36kr.com/p/2716001925302019)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [又一款字节AI产品火了，Gauth下载量三个月暴增14倍，一度反超多邻国](https://www.36kr.com/p/2715887485866627)
+append_entries: 2
+Finish: 2024-04-02 10:20:46.225275
