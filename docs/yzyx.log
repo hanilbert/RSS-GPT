@@ -12359,3 +12359,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [标普500等权，有什么不一样？ 4月2日 海外投资 Blog 更新：看海外长钱如何配置大小盘股](https://youzhiyouxing.cn/materials/1651)
 append_entries: 1
 Finish: 2024-04-02 06:24:18.025810
+------------------------------------------------------
+Started: 2024-04-02 08:23:17.861934
+Existing_entries: 86
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-04-02 08:23:17.969506

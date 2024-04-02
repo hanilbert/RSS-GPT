@@ -15090,3 +15090,15 @@ Append: [ChatGPT官宣免注册，全球互联网变天，OpenAI将取代谷歌�
 Append: [ChatGPT免注册让官网挂了？沃顿教授：OpenAI 做了错误的决定](https://www.36kr.com/p/2715777507981441)
 append_entries: 5
 Finish: 2024-04-02 06:24:15.159591
+------------------------------------------------------
+Started: 2024-04-02 08:23:10.801861
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [今天的AI，是2000年互联网泡沫重演？](https://www.36kr.com/p/2715912874145664)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://www.36kr.com/p/2715738218756226)
+append_entries: 2
+Finish: 2024-04-02 08:23:11.422468
