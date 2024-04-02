@@ -22081,3 +22081,12 @@ Existing_entries: 152
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-02 20:18:08.017240
+------------------------------------------------------
+Started: 2024-04-02 22:20:03.409018
+Existing_entries: 152
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [On using a CDN](https://brett.trpstra.net/link/535/16638813/on-using-a-cdn)
+append_entries: 1
+Finish: 2024-04-02 22:20:04.480290
