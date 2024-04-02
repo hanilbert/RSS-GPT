@@ -15132,3 +15132,16 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-02 14:17:20.570354
+------------------------------------------------------
+Started: 2024-04-02 16:23:55.603448
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [让霉霉说地道中文的 AI，又惊艳升级了](https://www.36kr.com/p/2716254091507843)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [腾讯、抖音齐上阵，AI社交方向转为AI伴侣](https://www.36kr.com/p/2716214611769218)
+Append: [6年亏500亿，商汤苦寻解药](https://www.36kr.com/p/2716193777055880)
+append_entries: 3
+Finish: 2024-04-02 16:23:56.422830
