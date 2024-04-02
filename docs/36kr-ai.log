@@ -15059,3 +15059,19 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-02 02:27:25.222554
+------------------------------------------------------
+Started: 2024-04-02 04:21:43.432400
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被困在购物车里的BAT们](https://www.36kr.com/p/2715619366664323)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“AI复生”以爱为名还是伪善?一单50元，无需提供证明](https://www.36kr.com/p/2714837663414408)
+Append: [美国教育科技公司扎堆用GPT做「私人辅导老师」，进度如何了？](https://www.36kr.com/p/2715042561538179)
+Append: [ChatGPT也在评审你的顶会投稿，斯坦福新研究捅了马蜂窝，“这下闭环了”](https://www.36kr.com/p/2715593330751365)
+Append: [“大海捞针”out，“数星星”成测长文本能力更精准方法，来自鹅厂](https://www.36kr.com/p/2715593542842245)
+Append: [今天起，ChatGPT无需注册就能用了](https://www.36kr.com/p/2715592796174208)
+append_entries: 6
+Finish: 2024-04-02 04:21:44.026841
