@@ -15114,3 +15114,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [又一款字节AI产品火了，Gauth下载量三个月暴增14倍，一度反超多邻国](https://www.36kr.com/p/2715887485866627)
 append_entries: 2
 Finish: 2024-04-02 10:20:46.225275
+------------------------------------------------------
+Started: 2024-04-02 12:34:47.484810
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [吴恩达最新演讲：AI Agent工作流的未来](https://www.36kr.com/p/2716201666246790)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“Sora概念股”狂飙，能否打破“过山车”魔咒？](https://www.36kr.com/p/2716107076302985)
+append_entries: 2
+Finish: 2024-04-02 12:34:48.084249
