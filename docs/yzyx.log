@@ -12350,3 +12350,12 @@ Existing_entries: 85
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-02 04:22:49.887205
+------------------------------------------------------
+Started: 2024-04-02 06:24:17.744893
+Existing_entries: 85
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [标普500等权，有什么不一样？ 4月2日 海外投资 Blog 更新：看海外长钱如何配置大小盘股](https://youzhiyouxing.cn/materials/1651)
+append_entries: 1
+Finish: 2024-04-02 06:24:18.025810

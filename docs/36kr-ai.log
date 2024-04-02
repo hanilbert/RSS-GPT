@@ -15075,3 +15075,18 @@ Append: [“大海捞针”out，“数星星”成测长文本能力更精准�
 Append: [今天起，ChatGPT无需注册就能用了](https://www.36kr.com/p/2715592796174208)
 append_entries: 6
 Finish: 2024-04-02 04:21:44.026841
+------------------------------------------------------
+Started: 2024-04-02 06:24:14.600757
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [愚人节整真活！ChatGPT放开限制，不注册也能玩](https://www.36kr.com/p/2715798412720001)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [现在，ChatGPT不注册登录也能免费用了](https://www.36kr.com/p/2715738011924352)
+Append: [谷歌Gemini AI加持的iPhone大猜想：成超级智能助手，自动整合生活快照](https://www.36kr.com/p/2715739695544451)
+Append: [ChatGPT官宣免注册，全球互联网变天，OpenAI将取代谷歌搜索？](https://www.36kr.com/p/2715761831327874)
+Append: [ChatGPT免注册让官网挂了？沃顿教授：OpenAI 做了错误的决定](https://www.36kr.com/p/2715777507981441)
+append_entries: 5
+Finish: 2024-04-02 06:24:15.159591

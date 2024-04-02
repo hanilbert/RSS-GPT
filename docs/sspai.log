@@ -19022,3 +19022,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)
 append_entries: 1
 Finish: 2024-04-02 04:21:31.706501
+------------------------------------------------------
+Started: 2024-04-02 06:24:01.921066
+Existing_entries: 688
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一日一技 ｜ Windows 双网卡使用 WiFi 优先上网](https://sspai.com/post/87558)
+append_entries: 1
+Finish: 2024-04-02 06:24:02.379550
