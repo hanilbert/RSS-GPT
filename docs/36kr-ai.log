@@ -15036,3 +15036,20 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-01 22:18:30.980674
+------------------------------------------------------
+Started: 2024-04-02 01:21:52.473761
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://www.36kr.com/p/2715507316062089)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Deepmind创始人警告“AI币圈化”：巨额资金涌入，带来炒作和欺诈](https://www.36kr.com/p/2715523893753990)
+Append: [吴伯凡：竞争力来自爱，而不是AI](https://www.36kr.com/p/2714936261949569)
+Append: [Suno奇袭音乐圈，AI能制造万能青年旅店吗？](https://www.36kr.com/p/2714943947683968)
+Append: [假如AI圈有世纪大和解](https://www.36kr.com/p/2714885118261379)
+Append: [谷歌狂喜：JAX性能超越Pytorch、TensorFlow，或成GPU推理训练最快选择](https://www.36kr.com/p/2715499170592900)
+Append: [DeepMind首发游戏AI智能体SIMA，只用自然语言就能玩转"山羊模拟器"](https://www.36kr.com/p/2715507640744070)
+append_entries: 7
+Finish: 2024-04-02 01:21:53.062093
