@@ -15163,3 +15163,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-02 22:20:24.244371
+------------------------------------------------------
+Started: 2024-04-03 01:17:46.587652
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [6人7 页PPT融资8个亿，AI在吹起资本泡沫？](https://www.36kr.com/p/2716445555505024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [各地广电“抢滩”布局AIGC的获与惑](https://www.36kr.com/p/2716354692724615)
+Append: [终于，又一AI新品“登顶”美国总榜](https://www.36kr.com/p/2716392921839748)
+Append: [ChatGPT不用登录就能用了，但真没啥卵用。。。](https://www.36kr.com/p/2716506934753416)
+append_entries: 4
+Finish: 2024-04-03 01:17:47.377816
