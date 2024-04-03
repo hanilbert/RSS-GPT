@@ -15177,3 +15177,16 @@ Append: [终于，又一AI新品“登顶”美国总榜](https://www.36kr.com/p
 Append: [ChatGPT不用登录就能用了，但真没啥卵用。。。](https://www.36kr.com/p/2716506934753416)
 append_entries: 4
 Finish: 2024-04-03 01:17:47.377816
+------------------------------------------------------
+Started: 2024-04-03 02:24:54.679132
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达开卷价格，最新Blackwell GPU架构/成本揭秘，彰显老黄的“仁慈”](https://www.36kr.com/p/2717002966087553)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [无问芯穹夏立雪：破解算力焦虑，我做了大模型算力领域的“淘宝”丨36氪专访](https://www.36kr.com/p/2714356653095045)
+Append: [从物理学到AIGC，Suno出现后做音乐还有前途吗？](https://www.36kr.com/p/2716267608127361)
+append_entries: 3
+Finish: 2024-04-03 02:24:55.563196
