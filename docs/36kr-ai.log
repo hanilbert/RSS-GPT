@@ -15211,3 +15211,21 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-03 06:23:36.684183
+------------------------------------------------------
+Started: 2024-04-03 08:23:04.853578
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [通过港交所聆讯，“AIGC第⼀股”来了](https://www.36kr.com/p/2717428846884741)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌挖走OpenAI大将，前开发者关系负责人官宣加盟](https://www.36kr.com/p/2717398418208905)
+Append: [抱歉，70%的音乐人真要被AI替代了](https://www.36kr.com/p/2717264904927110)
+Append: [Sora 发布首支 MV，Suno 火爆全网后，OpenAI 也要惊艳乐坛](https://www.36kr.com/p/2717361263999109)
+Append: [主设计师跑路，苹果Safari输给了AI浏览器？](https://www.36kr.com/p/2717345017631365)
+Append: [普林斯顿首个「开源」AI程序员登场，爆改GPT-4，93秒修bug](https://www.36kr.com/p/2717249107458184)
+Append: [贝佐斯与Open AI合作，搞出全球第一家人形机器人独角兽](https://www.36kr.com/p/2717246304614537)
+Append: [求购智元机器人股份；寻求新能源上下游赛道并购标的｜资情留言板第134期](https://www.36kr.com/p/2717282174056577)
+append_entries: 8
+Finish: 2024-04-03 08:23:05.843904
