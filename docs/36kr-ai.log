@@ -15238,3 +15238,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [让霉霉说中文的AI，顶级VC又投了4个亿](https://www.36kr.com/p/2717442420832391)
 append_entries: 1
 Finish: 2024-04-03 10:21:08.244435
+------------------------------------------------------
+Started: 2024-04-03 12:33:36.446528
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [批量打造“AI主播”：谁在涨粉，谁在赚钱？](https://www.36kr.com/p/2717640747366535)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [清明节“AI复活”逝者成热门生意：以爱为名，售价2万](https://www.36kr.com/p/2717642537793673)
+Append: [围剿Kimi，只是大模型“新赛季”play的一环](https://www.36kr.com/p/2717548504659847)
+Append: [欧洲人工智能的归宿，在美国？](https://www.36kr.com/p/2717583913678983)
+append_entries: 4
+Finish: 2024-04-03 12:33:38.259127
