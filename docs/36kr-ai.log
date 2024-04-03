@@ -15190,3 +15190,18 @@ Append: [无问芯穹夏立雪：破解算力焦虑，我做了大模型算力�
 Append: [从物理学到AIGC，Suno出现后做音乐还有前途吗？](https://www.36kr.com/p/2716267608127361)
 append_entries: 3
 Finish: 2024-04-03 02:24:55.563196
+------------------------------------------------------
+Started: 2024-04-03 04:22:56.122010
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人工智能落地第一站，好莱坞](https://www.36kr.com/p/2717193618176129)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果又发大模型论文，Siri未来也许能“看懂”屏幕了](https://www.36kr.com/p/2717188701354121)
+Append: [Perplexity要搞竞价排名了，大模型的尽头……就还是广告？](https://www.36kr.com/p/2717175357569160)
+Append: [出海新兵：中国AI](https://www.36kr.com/p/2717174427666184)
+Append: [挖来Safari首席设计师，这款“AI浏览器”想搞次革命](https://www.36kr.com/p/2717113895680137)
+append_entries: 5
+Finish: 2024-04-03 04:22:56.752815
