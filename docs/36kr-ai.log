@@ -15312,3 +15312,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [「免登录」挤爆ChatGPT，百度文心一言们会跟进吗？](https://www.36kr.com/p/2718558895985288)
 append_entries: 2
 Finish: 2024-04-04 06:23:22.720078
+------------------------------------------------------
+Started: 2024-04-04 08:23:42.331234
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [明星开始买单AI高定礼服，AI设计平台「CHIMER AI」完成数百万元种子轮融资 | 36氪首发](https://www.36kr.com/p/2714710889183367)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://www.36kr.com/p/2718618433714308)
+append_entries: 2
+Finish: 2024-04-04 08:23:43.018968
