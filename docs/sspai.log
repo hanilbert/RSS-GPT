@@ -19184,3 +19184,12 @@ Existing_entries: 696
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-04 04:23:43.778339
+------------------------------------------------------
+Started: 2024-04-04 06:23:09.483738
+Existing_entries: 696
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
+append_entries: 1
+Finish: 2024-04-04 06:23:09.998091
