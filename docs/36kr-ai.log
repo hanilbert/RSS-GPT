@@ -15288,3 +15288,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-04 02:26:42.413466
+------------------------------------------------------
+Started: 2024-04-04 04:23:55.230387
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [90亿，雷军“看好”的独角兽要IPO了](https://www.36kr.com/p/2718515959117961)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [带货四年后，罗永浩将携新品重回科技圈](https://www.36kr.com/p/2717718603925248)
+append_entries: 2
+Finish: 2024-04-04 04:23:55.961288
