@@ -19271,3 +19271,12 @@ Existing_entries: 697
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-05 08:26:53.268256
+------------------------------------------------------
+Started: 2024-04-05 10:20:47.920709
+Existing_entries: 697
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大斗作品](https://sspai.com/post/87799)
+append_entries: 1
+Finish: 2024-04-05 10:20:48.710110
