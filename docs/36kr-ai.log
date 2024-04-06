@@ -15462,3 +15462,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [20年后，哪些工作收入最高？](https://www.36kr.com/p/2576264515396996)
 append_entries: 2
 Finish: 2024-04-06 02:23:20.273278
+------------------------------------------------------
+Started: 2024-04-06 04:22:24.766351
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT现在能帮你P图了，只需简单说几个字](https://www.36kr.com/p/2718614372874117)
+append_entries: 1
+Finish: 2024-04-06 04:22:25.234826
