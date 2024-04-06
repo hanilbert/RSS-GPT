@@ -15450,3 +15450,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-06 01:16:28.684170
+------------------------------------------------------
+Started: 2024-04-06 02:23:19.413712
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在 ChatGPT 上，许多人开始主动追求被 AI 骂](https://www.36kr.com/p/2720300573276035)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [20年后，哪些工作收入最高？](https://www.36kr.com/p/2576264515396996)
+append_entries: 2
+Finish: 2024-04-06 02:23:20.273278
