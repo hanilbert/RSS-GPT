@@ -22309,3 +22309,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Back in my day... some thoughts on blogging then and now](https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now)
 append_entries: 1
 Finish: 2024-04-05 22:17:43.540257
+------------------------------------------------------
+Started: 2024-04-06 01:16:07.510610
+Existing_entries: 156
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-04-06 01:16:08.509481
