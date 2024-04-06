@@ -19334,3 +19334,12 @@ Existing_entries: 698
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-06 04:22:13.271581
+------------------------------------------------------
+Started: 2024-04-06 06:22:53.283150
+Existing_entries: 698
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享](https://sspai.com/post/87836)
+append_entries: 1
+Finish: 2024-04-06 06:22:53.839151

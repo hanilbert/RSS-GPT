@@ -15471,3 +15471,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [ChatGPT现在能帮你P图了，只需简单说几个字](https://www.36kr.com/p/2718614372874117)
 append_entries: 1
 Finish: 2024-04-06 04:22:25.234826
+------------------------------------------------------
+Started: 2024-04-06 06:23:07.066846
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [iOS 今年最大的更新为什么会是它？](https://www.36kr.com/p/2721506936469381)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“快上车”，印度教育科技企业全面拥抱AIGC](https://www.36kr.com/p/2718480926046337)
+Append: [音乐ChatGPT 2.0来了！AI作曲家被踢馆，亲测周杰伦爆款大翻车](https://www.36kr.com/p/2718737449433217)
+append_entries: 3
+Finish: 2024-04-06 06:23:08.082007
