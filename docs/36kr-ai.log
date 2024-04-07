@@ -15609,3 +15609,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [“30 岁辞职学 Python 后，程序员朋友跟我说：别学了，早晚都被 AI 取代的”](https://www.36kr.com/p/2723160866699399)
 append_entries: 2
 Finish: 2024-04-07 12:31:26.118738
+------------------------------------------------------
+Started: 2024-04-07 14:16:45.966647
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [富豪前夫、街头校霸、病娇竹马......我在AI社交App疯狂“翻牌”](https://www.36kr.com/p/2723309844828805)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [不用唤醒词就能对话，苹果的AI要先为Siri赋能](https://www.36kr.com/p/2723314807338882)
+Append: [突发，超级独角兽杀出：估值1300亿](https://www.36kr.com/p/2723314454870145)
+Append: [抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://www.36kr.com/p/2723289618839689)
+Append: [阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://www.36kr.com/p/2723289306888322)
+append_entries: 5
+Finish: 2024-04-07 14:16:46.904616
