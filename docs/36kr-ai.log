@@ -15579,3 +15579,21 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-07 08:23:51.087875
+------------------------------------------------------
+Started: 2024-04-07 10:18:15.133856
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI投后5个月，自动驾驶公司突然倒闭，成立七年0交付](https://www.36kr.com/p/2723118807906184)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [超越GPT-4，斯坦福团队手机可跑的大模型火了，一夜下载量超2k](https://www.36kr.com/p/2723076469110658)
+Append: [谷歌DeepMind发布Gecko：专攻检索，与大7倍模型相抗衡](https://www.36kr.com/p/2723076384471169)
+Append: [揭秘AI幻觉：GPT-4V存在视觉编码漏洞，清华联合NUS提出LLaVA-UHD](https://www.36kr.com/p/2723076362762369)
+Append: [二次元专用超分AI模型APISR：在线可用，入选CVPR](https://www.36kr.com/p/2723076291786630)
+Append: [邪恶大模型多到离谱，黑客通过后门攻击操纵大模型，BadGPT 时代来了？](https://www.36kr.com/p/2723023103489920)
+Append: [Llama提速500%，谷歌美女程序员手搓矩阵乘法内核](https://www.36kr.com/p/2723023398647687)
+Append: [苹果突然裁员614人，10年造车梦碎，改押机器人搞「下一件大事」](https://www.36kr.com/p/2723023302506629)
+append_entries: 8
+Finish: 2024-04-07 10:18:15.844381
