@@ -15532,3 +15532,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-06 22:17:34.335382
+------------------------------------------------------
+Started: 2024-04-07 01:24:28.454609
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [最懂AI的诺奖经济学得主去世，大模型关键技术受他研究启发](https://www.36kr.com/p/2722623901563013)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI下一个重大飞跃是理解情感，第一个具有情商的对话型AI来了](https://www.36kr.com/p/2722646595975041)
+Append: [OpenAI 核心创始成员Andrej：让大模型像人脑一样低功耗运行](https://www.36kr.com/p/2721327871939204)
+append_entries: 3
+Finish: 2024-04-07 01:24:29.059389
