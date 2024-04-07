@@ -15545,3 +15545,16 @@ Append: [AI下一个重大飞跃是理解情感，第一个具有情商的对话
 Append: [OpenAI 核心创始成员Andrej：让大模型像人脑一样低功耗运行](https://www.36kr.com/p/2721327871939204)
 append_entries: 3
 Finish: 2024-04-07 01:24:29.059389
+------------------------------------------------------
+Started: 2024-04-07 02:27:32.423647
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [游戏行业未来的增长，可能真的要靠AI了](https://www.36kr.com/p/2722706102433670)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克最新预测：AI或在2030年超越人类智力，未来还可能“终结”人类](https://www.36kr.com/p/2722081539537027)
+Append: [“碧梨”拒绝AI滥用，“音乐裁缝”正在给音乐家制造“焦虑”](https://www.36kr.com/p/2722619744810888)
+append_entries: 3
+Finish: 2024-04-07 02:27:33.280908
