@@ -15657,3 +15657,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [本周AI界发生了什么 | ChatGPT免注册；苹果进军家用机器人；Anthropic发现长文本漏洞](https://www.36kr.com/p/2723163889727621)
 append_entries: 1
 Finish: 2024-04-08 01:19:54.538898
+------------------------------------------------------
+Started: 2024-04-08 02:27:04.896480
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-04-08 02:27:05.083444
