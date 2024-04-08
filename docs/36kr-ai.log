@@ -15701,3 +15701,17 @@ Append: [GPT-4推理能力为0？开发者悬赏1万美金被打脸，神秘提�
 Append: [手机还装不下AI的梦想](https://www.36kr.com/p/2724291937112832)
 append_entries: 5
 Finish: 2024-04-08 08:23:26.893196
+------------------------------------------------------
+Started: 2024-04-08 10:23:03.781447
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [你在小红书上关注的美女博主，可能是AI](https://www.36kr.com/p/2724582437561349)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Midjourney+一个提示咒语，广告摄影师可以躺平了](https://www.36kr.com/p/2724453540274949)
+Append: [他们用AI“复活”1000多个逝者，是善意还是欺骗？](https://www.36kr.com/p/2677857886801415)
+Append: [AI的iPhone时代已经开启？阿尔特曼瞄准AI硬件，一张图看懂其百亿投资版图](https://www.36kr.com/p/2724330598159107)
+append_entries: 4
+Finish: 2024-04-08 10:23:04.368591
