@@ -15686,3 +15686,18 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-08 06:25:01.866606
+------------------------------------------------------
+Started: 2024-04-08 08:23:26.228383
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [训出GPT-5短缺20万亿token，OpenAI被曝计划建「数据市场」](https://www.36kr.com/p/2724473428337417)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI颠覆数学研究，菲尔兹奖得主、华裔数学家领衔11篇顶刊论文，陶哲轩转赞](https://www.36kr.com/p/2724370485175041)
+Append: [OpenAI投资的自动驾驶软件公司倒闭了：烧光15亿元交不出一款产品，CEO：成本太高，活不下去了](https://www.36kr.com/p/2724453849473536)
+Append: [GPT-4推理能力为0？开发者悬赏1万美金被打脸，神秘提示正确率直冲100%](https://www.36kr.com/p/2724370170094336)
+Append: [手机还装不下AI的梦想](https://www.36kr.com/p/2724291937112832)
+append_entries: 5
+Finish: 2024-04-08 08:23:26.893196
