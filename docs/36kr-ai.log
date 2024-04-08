@@ -15663,3 +15663,20 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-08 02:27:05.083444
+------------------------------------------------------
+Started: 2024-04-08 04:22:24.027410
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [陶哲轩转发、菲尔兹奖得主领衔：AI正在颠覆数学家的工作方式](https://www.36kr.com/p/2724236350132992)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [​ChatGPT悄悄变懒，OpenAI还能加速跑吗？](https://www.36kr.com/p/2724239707066881)
+Append: [“音乐版Sora”首批演示泄露，网友：比写《宫保鸡丁》的Suno好10倍](https://www.36kr.com/p/2724250799575553)
+Append: [第一个能听懂人类语气的AI火了，网友：感觉在和真人交谈](https://www.36kr.com/p/2724253939585798)
+Append: [用AI软件识别毒蘑菇？AI犯错后，人吃下了毒鹅膏，差点要了命……](https://www.36kr.com/p/2724108200907265)
+Append: [照着剧本一键创作同人漫，AI角色创作平台「捏Ta」完成超千万元融资 | 36氪首发](https://www.36kr.com/p/2704606335809415)
+Append: [第一个具有情商的聊天机器人来了，这可能是未来 Siri 的样子](https://www.36kr.com/p/2724131680277253)
+append_entries: 7
+Finish: 2024-04-08 04:22:24.682994

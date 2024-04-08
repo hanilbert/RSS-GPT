@@ -19484,3 +19484,12 @@ Existing_entries: 702
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-08 02:26:52.741163
+------------------------------------------------------
+Started: 2024-04-08 04:22:12.022323
+Existing_entries: 702
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
+append_entries: 1
+Finish: 2024-04-08 04:22:12.490458
