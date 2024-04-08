@@ -19517,3 +19517,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
 append_entries: 1
 Finish: 2024-04-08 10:22:51.955945
+------------------------------------------------------
+Started: 2024-04-08 12:33:54.204822
+Existing_entries: 705
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/post/87891)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87904)
+append_entries: 2
+Finish: 2024-04-08 12:33:54.837500

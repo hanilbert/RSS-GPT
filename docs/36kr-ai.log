@@ -15715,3 +15715,12 @@ Append: [他们用AI“复活”1000多个逝者，是善意还是欺骗？](htt
 Append: [AI的iPhone时代已经开启？阿尔特曼瞄准AI硬件，一张图看懂其百亿投资版图](https://www.36kr.com/p/2724330598159107)
 append_entries: 4
 Finish: 2024-04-08 10:23:04.368591
+------------------------------------------------------
+Started: 2024-04-08 12:34:06.955297
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [押注AI的第二波大赢家](https://www.36kr.com/p/2724661203723523)
+append_entries: 1
+Finish: 2024-04-08 12:34:07.711085
