@@ -15772,3 +15772,17 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-09 02:25:09.710918
+------------------------------------------------------
+Started: 2024-04-09 04:23:11.497692
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI智习室，教培行业转型新出路？](https://www.36kr.com/p/2725037187998725)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [藏在AI背后的“吃电狂魔”](https://www.36kr.com/p/2725525783520512)
+Append: [即使 iPhone 用国产 AI 也别惊讶，因为 Gemini 能做的也不多](https://www.36kr.com/p/2725542139372550)
+Append: [「特斯联」完成20亿元D轮融资，加速模型+系统在AIoT领域落地｜硬氪独家](https://www.36kr.com/p/2725008644220161)
+append_entries: 4
+Finish: 2024-04-09 04:23:12.177918
