@@ -15766,3 +15766,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [“逃离”OpenAI，36人出走，已拿600亿融资](https://www.36kr.com/p/2724817257236227)
 append_entries: 2
 Finish: 2024-04-09 01:18:51.315776
+------------------------------------------------------
+Started: 2024-04-09 02:25:09.506022
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-04-09 02:25:09.710918
