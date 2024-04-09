@@ -12736,3 +12736,12 @@ Existing_entries: 26
 Fetching from https://1q43.blog/feed
 append_entries: 0
 Finish: 2024-04-09 04:23:14.644562
+------------------------------------------------------
+Started: 2024-04-09 06:24:20.036200
+Existing_entries: 26
+Fetching from https://1q43.blog/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [学习笔记：关于 AI 在心理咨询领域的应用](https://1q43.blog/post/5721)
+append_entries: 1
+Finish: 2024-04-09 06:24:39.635013
