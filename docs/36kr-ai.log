@@ -15824,3 +15824,12 @@ Append: [1000行C语言搓出GPT-2，AI大神Karpathy新项目刚上线就狂揽
 Append: [AI攻克费马大定理？数学家放弃5年职业生涯，将100页证明变代码](https://www.36kr.com/p/2725791769240836)
 append_entries: 16
 Finish: 2024-04-09 10:23:16.523434
+------------------------------------------------------
+Started: 2024-04-09 12:34:31.709033
+Existing_entries: 1016
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [291亿投资拉动5万亿财富增长，大模型的泡沫来了？](https://www.36kr.com/p/2725902869271168)
+append_entries: 1
+Finish: 2024-04-09 12:34:32.105691
