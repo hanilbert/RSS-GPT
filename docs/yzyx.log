@@ -12929,3 +12929,12 @@ Existing_entries: 88
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-10 04:21:46.929132
+------------------------------------------------------
+Started: 2024-04-10 06:25:05.491626
+Existing_entries: 88
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [187 书接上回，A股里哪类 ETF 更受青睐 4月10日 基金年报披露完毕，带你看看 ETF 份额的变化情况](https://youzhiyouxing.cn/materials/1657)
+append_entries: 1
+Finish: 2024-04-10 06:25:05.874909

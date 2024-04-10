@@ -15903,3 +15903,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [英特尔发布Gaudi 3：对标英伟达H100，预计Q2向OEM厂商出货丨最前线](https://www.36kr.com/p/2726469754020865)
 append_entries: 2
 Finish: 2024-04-10 04:21:43.226087
+------------------------------------------------------
+Started: 2024-04-10 06:25:02.380315
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [收手吧Sam Altman，外面全是GPT-4](https://www.36kr.com/p/2727097569256709)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [加速第二代AI芯片研发，墨芯人工智能完成两轮数亿元融资丨36氪首发](https://www.36kr.com/p/2724861966967815)
+append_entries: 2
+Finish: 2024-04-10 06:25:03.101208
