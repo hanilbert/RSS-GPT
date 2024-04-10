@@ -15878,3 +15878,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-10 01:18:04.195544
+------------------------------------------------------
+Started: 2024-04-10 02:25:36.431781
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI正在重塑人类潜力](https://www.36kr.com/p/2726888035116040)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从唱歌到演出，AIGC与音频生成技术会颠覆艺人的生存模式吗？](https://www.36kr.com/p/2726218046317577)
+Append: [光年之外推出AI儿童绘画App：孩子涂鸦秒变艺术创作](https://www.36kr.com/p/2726227386377475)
+append_entries: 3
+Finish: 2024-04-10 02:25:39.345799
