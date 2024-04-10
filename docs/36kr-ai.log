@@ -15946,3 +15946,16 @@ Append: [英伟达竞品来了，训练比H100快70%，英特尔发最新AI加�
 Append: [智能机器的来临意味着人类的终结吗？](https://www.36kr.com/p/2727217708295429)
 append_entries: 8
 Finish: 2024-04-10 10:21:35.733558
+------------------------------------------------------
+Started: 2024-04-10 12:33:55.381686
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI卷到人身上了，OpenAI、谷歌上演抢人大招，最高开出1873万年薪](https://www.36kr.com/p/2727506245977865)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI 发布全新 GPT-4 Turbo with Vision，网友实测：编码不如旧版本](https://www.36kr.com/p/2727497226904581)
+Append: [在音乐APP上，花10元就能成为“周杰伦”](https://www.36kr.com/p/2727397082850304)
+append_entries: 3
+Finish: 2024-04-10 12:33:56.002534
