@@ -12938,3 +12938,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [187 书接上回，A股里哪类 ETF 更受青睐 4月10日 基金年报披露完毕，带你看看 ETF 份额的变化情况](https://youzhiyouxing.cn/materials/1657)
 append_entries: 1
 Finish: 2024-04-10 06:25:05.874909
+------------------------------------------------------
+Started: 2024-04-10 08:26:02.738229
+Existing_entries: 89
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [如何用些许努力，放下对养老的焦虑？ 4月10日 「养老金计算器」上线，从计算现在开始，和你一起估算未来](https://youzhiyouxing.cn/materials/1655)
+append_entries: 1
+Finish: 2024-04-10 08:26:03.021862
