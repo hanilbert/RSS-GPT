@@ -12947,3 +12947,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [如何用些许努力，放下对养老的焦虑？ 4月10日 「养老金计算器」上线，从计算现在开始，和你一起估算未来](https://youzhiyouxing.cn/materials/1655)
 append_entries: 1
 Finish: 2024-04-10 08:26:03.021862
+------------------------------------------------------
+Started: 2024-04-10 10:21:38.380398
+Existing_entries: 90
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-04-10 10:21:38.504769

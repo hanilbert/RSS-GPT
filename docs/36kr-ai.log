@@ -15928,3 +15928,21 @@ Append: [开源模型首胜GPT-4，竞技场最新战报引热议，Karpathy：�
 Append: [谷歌向微软英特尔全面宣战：首款自研Arm CPU，最强大模型公测，AI视频对垒Sora](https://www.36kr.com/p/2727206904062976)
 append_entries: 3
 Finish: 2024-04-10 08:26:00.566807
+------------------------------------------------------
+Started: 2024-04-10 10:21:35.051172
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [通过港交所聆讯，出门问问还在“大炼模型”？](https://www.36kr.com/p/2727223229190791)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [超越GPT-4V，苹果多模态大模型上新](https://www.36kr.com/p/2727375045747721)
+Append: [「视觉版」GPT-4 Turbo重磅升级，ChatGPT 40条消息限制或取消](https://www.36kr.com/p/2727375750423808)
+Append: [刚刚，Mistral AI最新磁力链放出，8x22B MoE模型，281GB解禁](https://www.36kr.com/p/2727375143118086)
+Append: [文旅行业迎来“泼天”富贵，这些岗位机会来了](https://www.36kr.com/p/2727175975134465)
+Append: [“AI手机”先行，操作系统准备好了吗？](https://www.36kr.com/p/2727199181006086)
+Append: [英伟达竞品来了，训练比H100快70%，英特尔发最新AI加速卡](https://www.36kr.com/p/2727313177371912)
+Append: [智能机器的来临意味着人类的终结吗？](https://www.36kr.com/p/2727217708295429)
+append_entries: 8
+Finish: 2024-04-10 10:21:35.733558
