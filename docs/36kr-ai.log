@@ -15891,3 +15891,15 @@ Append: [从唱歌到演出，AIGC与音频生成技术会颠覆艺人的生存�
 Append: [光年之外推出AI儿童绘画App：孩子涂鸦秒变艺术创作](https://www.36kr.com/p/2726227386377475)
 append_entries: 3
 Finish: 2024-04-10 02:25:39.345799
+------------------------------------------------------
+Started: 2024-04-10 04:21:42.464356
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [租脸直播，明星的隔空取金术](https://www.36kr.com/p/2726993598976649)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英特尔发布Gaudi 3：对标英伟达H100，预计Q2向OEM厂商出货丨最前线](https://www.36kr.com/p/2726469754020865)
+append_entries: 2
+Finish: 2024-04-10 04:21:43.226087
