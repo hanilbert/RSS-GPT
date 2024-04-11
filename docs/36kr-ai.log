@@ -16052,3 +16052,17 @@ Append: [面壁智能完成新一轮数亿元融资，春华创投、华为哈�
 Append: [“AI+医疗”概念热度不减，体检龙头美年健康坐上AI加速器](https://www.36kr.com/p/2727368172725253)
 append_entries: 6
 Finish: 2024-04-11 10:20:59.081074
+------------------------------------------------------
+Started: 2024-04-11 12:34:16.262307
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达、谷歌和微软为何在生物技术的人工智能未来押注数十亿美元](https://www.36kr.com/p/2728861602211075)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI CEO奥特曼开始中东之行，打造全球AI联盟迈出第一步？](https://www.36kr.com/p/2728868660077569)
+Append: [快手刘凌志成立新公司：快手持股近20%，或为独立孵化芯片业务](https://www.36kr.com/p/2728842951238657)
+Append: [IPO一周年，“深圳AI第一股”褪色](https://www.36kr.com/p/2728754936550021)
+append_entries: 4
+Finish: 2024-04-11 12:34:16.875438

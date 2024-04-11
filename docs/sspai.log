@@ -19766,3 +19766,15 @@ Existing_entries: 716
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-11 10:20:46.707874
+------------------------------------------------------
+Started: 2024-04-11 12:34:03.375148
+Existing_entries: 716
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
+append_entries: 2
+Finish: 2024-04-11 12:34:04.066269
