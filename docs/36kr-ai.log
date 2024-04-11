@@ -16036,3 +16036,19 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-11 08:25:19.262226
+------------------------------------------------------
+Started: 2024-04-11 10:20:58.548206
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI大战上演：巨头激战、初创逆袭，谁将引领未来AI新潮流？](https://www.36kr.com/p/2728722782594054)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [金三银四，你的面试官可能是个AI](https://www.36kr.com/p/2728722206417921)
+Append: [史上首次，AI超越人类奥赛金牌得主，吴方法加持，30题做出27道破纪录](https://www.36kr.com/p/2728717264708612)
+Append: [OpenAI 重磅发布的GPT-4 Turbo with Vision，是编码的倒退](https://www.36kr.com/p/2728716979446784)
+Append: [面壁智能完成新一轮数亿元融资，春华创投、华为哈勃领投｜36氪首发](https://www.36kr.com/p/2728647825646857)
+Append: [“AI+医疗”概念热度不减，体检龙头美年健康坐上AI加速器](https://www.36kr.com/p/2727368172725253)
+append_entries: 6
+Finish: 2024-04-11 10:20:59.081074
