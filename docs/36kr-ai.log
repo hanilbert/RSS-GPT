@@ -16016,3 +16016,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [宁德时代低调布局的AI研发，是风口还是噱头？| 焦点分析](https://www.36kr.com/p/2725719670170629)
 append_entries: 2
 Finish: 2024-04-11 04:21:33.580839
+------------------------------------------------------
+Started: 2024-04-11 06:24:24.312401
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI界的奇迹之夜：一天内4家巨头迭代大模型，苹果首下场](https://www.36kr.com/p/2728509869134470)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI算力生态裂变，“开放联盟”挑战英伟达](https://www.36kr.com/p/2728474470016263)
+Append: [七种宿命下的大模型创业](https://www.36kr.com/p/2728469935989766)
+Append: [法国版OpenAI杀疯了，1760亿参数MoE登开源榜首，3张A100显卡可跑，杨立昆转发“逆天”评论](https://www.36kr.com/p/2728450705761540)
+append_entries: 4
+Finish: 2024-04-11 06:24:24.930557
