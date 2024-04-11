@@ -16004,3 +16004,15 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-11 02:27:02.952098
+------------------------------------------------------
+Started: 2024-04-11 04:21:32.493809
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [​重磅，DeepMind推出具身智能“足球运动员”，过人、射门、防守样样精通，真实机器人可直接部署](https://www.36kr.com/p/2728314794419202)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [宁德时代低调布局的AI研发，是风口还是噱头？| 焦点分析](https://www.36kr.com/p/2725719670170629)
+append_entries: 2
+Finish: 2024-04-11 04:21:33.580839
