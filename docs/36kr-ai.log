@@ -16158,3 +16158,22 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [谷歌、OpenAI、Mistral 在24小时内打响科技界“三强争霸赛”](https://www.36kr.com/p/2730124855878921)
 append_entries: 1
 Finish: 2024-04-12 08:23:34.427170
+------------------------------------------------------
+Started: 2024-04-12 10:20:52.443485
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Agent，垂直AI重塑B2B价值链的关键](https://www.36kr.com/p/2730114122925827)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [俄罗斯搜索巨头Yandex Ads：AI能协助客户管理70%广告营销](https://www.36kr.com/p/2730030566450182)
+Append: [亚马逊CEO股东信全文：生成式AI将成亚马逊新支柱，承诺削减成本](https://www.36kr.com/p/2730198059852809)
+Append: [深访硅谷一个月后，一位投资人发问：大模型持续烧钱最后由谁买单？](https://www.36kr.com/p/2729991193502983)
+Append: [李彦宏还缺个Sora](https://www.36kr.com/p/2730022737159168)
+Append: [走进 AI 高薪族：小而美团队成主流，博士生招聘需求飙升 430%](https://www.36kr.com/p/2730042289906953)
+Append: [Suno爆火没一个月，文生音乐的头把交椅就要换人了？](https://www.36kr.com/p/2730124841116674)
+Append: [给AI当“奶妈”，是天涯们的生路吗？](https://www.36kr.com/p/2730072294745095)
+Append: [山姆·奥特曼跻身“十亿级”富豪榜：身家超20亿美元，不含OpenAI股份](https://www.36kr.com/p/2729941257462791)
+append_entries: 9
+Finish: 2024-04-12 10:20:53.182771
