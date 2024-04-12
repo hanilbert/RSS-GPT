@@ -13103,3 +13103,12 @@ Existing_entries: 90
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-12 12:33:43.123133
+------------------------------------------------------
+Started: 2024-04-12 14:18:00.492731
+Existing_entries: 90
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E135 异乡人请回答：假如回到 10 年前，你还会来超一线城市漂吗？ 4月12日 🎧 财经博主楚团长做客小酒馆！与天楠、雨白围炉共话：过去十年，什么因素主导了我...](https://youzhiyouxing.cn/materials/1660)
+append_entries: 1
+Finish: 2024-04-12 14:18:01.265294

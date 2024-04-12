@@ -19859,3 +19859,15 @@ Existing_entries: 721
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 12:33:28.316361
+------------------------------------------------------
+Started: 2024-04-12 14:17:44.217011
+Existing_entries: 721
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/post/87993)
+append_entries: 2
+Finish: 2024-04-12 14:17:45.033459
