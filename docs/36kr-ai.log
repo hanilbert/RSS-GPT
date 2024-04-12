@@ -16118,3 +16118,21 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-12 02:29:21.340391
+------------------------------------------------------
+Started: 2024-04-12 04:24:15.768809
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AIGC浪潮“卷”至广告业，支付宝等互联网大厂已出手](https://www.36kr.com/p/2729880458568713)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [没有OpenAI任何股份，奥特曼靠投资也身价数十亿](https://www.36kr.com/p/2729838352131072)
+Append: [奥尔特曼远赴中东寻求盟友，除了生产芯片还要“为AI发电”](https://www.36kr.com/p/2729752983610625)
+Append: [一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发](https://www.36kr.com/p/2726136547976201)
+Append: [从1到10：AI产品和互联网产品的核心差异](https://www.36kr.com/p/2729165196625670)
+Append: [大模型时代，AI人才也是各家争夺的焦点](https://www.36kr.com/p/2729066292856577)
+Append: [AI带来创业「危机」与「良机」，教培行业如何抓住机会?](https://www.36kr.com/p/2729124130694152)
+Append: [我花300块组装的电脑，成功跑通了本地大模型](https://www.36kr.com/p/2729005356451592)
+append_entries: 8
+Finish: 2024-04-12 04:24:16.342089
