@@ -16177,3 +16177,22 @@ Append: [给AI当“奶妈”，是天涯们的生路吗？](https://www.36kr.co
 Append: [山姆·奥特曼跻身“十亿级”富豪榜：身家超20亿美元，不含OpenAI股份](https://www.36kr.com/p/2729941257462791)
 append_entries: 9
 Finish: 2024-04-12 10:20:53.182771
+------------------------------------------------------
+Started: 2024-04-12 12:33:40.019486
+Existing_entries: 1009
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [首批 Ai Pin 用户集体劝退，「AI 时代的 iPhone」把人变得愚蠢](https://www.36kr.com/p/2730353513850117)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [突发：OpenAI开除Ilya盟友，理由：涉嫌信息泄漏](https://www.36kr.com/p/2730340497875969)
+Append: [谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://www.36kr.com/p/2730340547961860)
+Append: [GPT-4升级被曝引入Q*，推理/数学更强废话更少，竞技场重夺王位](https://www.36kr.com/p/2730340737131526)
+Append: [这款AI文献神器，能让“论文党”少掉些头发｜New Things](https://www.36kr.com/p/2729909352916229)
+Append: [用AI帮企业跑通财税服务全流程，「创业爸爸」获1000万元融资｜36氪首发](https://www.36kr.com/p/2729877214045447)
+Append: [谷歌大脑DeepMind「婚后」貌合神离，Hassabis怨气冲天，1+1<1](https://www.36kr.com/p/2730327268729860)
+Append: [OpenAI内斗第二弹，Ilya亲信、超级对齐团队2人惨遭开除，被批泄密](https://www.36kr.com/p/2730273434199299)
+Append: [GPT-4 Turbo重回王座，ChatGPT免费升级，数学暴涨10%/上下文全面碾压](https://www.36kr.com/p/2730273532208390)
+append_entries: 9
+Finish: 2024-04-12 12:33:40.593309
