@@ -16149,3 +16149,12 @@ Append: [李彦宏最新内部讲话：开源大模型不如闭源，后者会�
 Append: [刚刚，ChatGPT 大更新， GPT-4 今天开始又变聪明了](https://www.36kr.com/p/2729892729660679)
 append_entries: 3
 Finish: 2024-04-12 06:24:28.326128
+------------------------------------------------------
+Started: 2024-04-12 08:23:33.811005
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌、OpenAI、Mistral 在24小时内打响科技界“三强争霸赛”](https://www.36kr.com/p/2730124855878921)
+append_entries: 1
+Finish: 2024-04-12 08:23:34.427170
