@@ -16136,3 +16136,16 @@ Append: [AI带来创业「危机」与「良机」，教培行业如何抓住机
 Append: [我花300块组装的电脑，成功跑通了本地大模型](https://www.36kr.com/p/2729005356451592)
 append_entries: 8
 Finish: 2024-04-12 04:24:16.342089
+------------------------------------------------------
+Started: 2024-04-12 06:24:27.808725
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型加持后，数字人“更像人”了吗？](https://www.36kr.com/p/2729919343010817)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李彦宏最新内部讲话：开源大模型不如闭源，后者会持续领先](https://www.36kr.com/p/2729918811677704)
+Append: [刚刚，ChatGPT 大更新， GPT-4 今天开始又变聪明了](https://www.36kr.com/p/2729892729660679)
+append_entries: 3
+Finish: 2024-04-12 06:24:28.326128
