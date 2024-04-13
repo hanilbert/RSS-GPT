@@ -16253,3 +16253,15 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-13 06:19:11.934925
+------------------------------------------------------
+Started: 2024-04-13 08:18:39.084584
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [狂飙500天，国产大模型如何突破商业化之困？](https://www.36kr.com/p/2730607884282377)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [爱说脏话的黑化版 ChatGPT，为什么火爆小红书和 TikTok](https://www.36kr.com/p/2731362984143108)
+append_entries: 2
+Finish: 2024-04-13 08:18:39.664562

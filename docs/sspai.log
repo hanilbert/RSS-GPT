@@ -19919,3 +19919,12 @@ Existing_entries: 723
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-13 06:18:41.458430
+------------------------------------------------------
+Started: 2024-04-13 08:18:26.293922
+Existing_entries: 723
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [触碰虚拟与现实的边界：少数派的 Let's visionOS 2024 大会回顾](https://sspai.com/post/88040)
+append_entries: 1
+Finish: 2024-04-13 08:18:26.700979
