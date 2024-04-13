@@ -16247,3 +16247,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI Pin媒体评测解禁：AI时代的「美丽废物」](https://www.36kr.com/p/2730416250655365)
 append_entries: 1
 Finish: 2024-04-13 04:19:48.130884
+------------------------------------------------------
+Started: 2024-04-13 06:19:11.740863
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-04-13 06:19:11.934925
