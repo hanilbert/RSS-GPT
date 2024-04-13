@@ -16265,3 +16265,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [爱说脏话的黑化版 ChatGPT，为什么火爆小红书和 TikTok](https://www.36kr.com/p/2731362984143108)
 append_entries: 2
 Finish: 2024-04-13 08:18:39.664562
+------------------------------------------------------
+Started: 2024-04-13 10:15:51.817884
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [王慧文，投了个中国版Character.AI](https://www.36kr.com/p/2731602964343305)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [奥特曼爆火AI硬件遭差评，ChatGPT版iPhone上市即翻车](https://www.36kr.com/p/2731450142288388)
+append_entries: 2
+Finish: 2024-04-13 10:15:52.454600
