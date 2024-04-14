@@ -16368,3 +16368,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [本周（4.8-4.14）AI界发生了什么？](https://www.36kr.com/p/2733135572691458)
 append_entries: 1
 Finish: 2024-04-14 14:49:06.602833
+------------------------------------------------------
+Started: 2024-04-14 22:29:38.084622
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-04-14 22:29:38.281605
