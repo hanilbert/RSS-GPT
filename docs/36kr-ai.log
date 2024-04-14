@@ -16350,3 +16350,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [对标英伟达H100，成本降低一半，算力提升50%，英特尔新一代Ai芯片Gaudi 3发布](https://www.36kr.com/p/2731165028542979)
 append_entries: 2
 Finish: 2024-04-14 07:57:48.605335
+------------------------------------------------------
+Started: 2024-04-14 10:45:46.085424
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软将投资29亿美元在日本建数据中心](https://www.36kr.com/p/2727072178267145)
+append_entries: 1
+Finish: 2024-04-14 10:45:46.511112
