@@ -16338,3 +16338,15 @@ Append: [要颠覆 iPhone 的 Ai Pin，还不如小米手环](https://www.36kr.c
 Append: [M4芯片来了！苹果AI PC的超级王炸](https://www.36kr.com/p/2731853472876289)
 append_entries: 3
 Finish: 2024-04-14 04:46:34.693273
+------------------------------------------------------
+Started: 2024-04-14 07:57:48.065382
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI是万灵药？Meta要把大模型塞进AR眼镜里](https://www.36kr.com/p/2731705721170180)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [对标英伟达H100，成本降低一半，算力提升50%，英特尔新一代Ai芯片Gaudi 3发布](https://www.36kr.com/p/2731165028542979)
+append_entries: 2
+Finish: 2024-04-14 07:57:48.605335
