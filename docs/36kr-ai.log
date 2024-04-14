@@ -16325,3 +16325,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-14 03:18:37.174576
+------------------------------------------------------
+Started: 2024-04-14 04:46:34.067703
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [马斯克发布Grok-1.5V！xAI首款多模态大模型，能看图写代码、算热量](https://www.36kr.com/p/2731428660062721)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [要颠覆 iPhone 的 Ai Pin，还不如小米手环](https://www.36kr.com/p/2731468090845444)
+Append: [M4芯片来了！苹果AI PC的超级王炸](https://www.36kr.com/p/2731853472876289)
+append_entries: 3
+Finish: 2024-04-14 04:46:34.693273
