@@ -16437,3 +16437,18 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-15 12:32:50.452185
+------------------------------------------------------
+Started: 2024-04-15 14:16:59.876128
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [当创新缺失，iPhone不再流行，苹果是否迷失在AI时代](https://www.36kr.com/p/2734573664225026)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [加密+AI，究竟是一场交易幻景，真正的价值提升？](https://www.36kr.com/p/2734607034837250)
+Append: [我用 AI 五分钟生成一个广告 ，却花了五个小时「去 AI 味」](https://www.36kr.com/p/2734552058063360)
+Append: [AI“芯”突围：英特尔Gaudi 3硬刚英伟达抢市场，国产芯片细分赛道谋变](https://www.36kr.com/p/2734503691446793)
+Append: [亚马逊“AI零售店”背后藏着1000个印度人，无人零售发展遭遇哪些挑战？](https://www.36kr.com/p/2734491865016576)
+append_entries: 5
+Finish: 2024-04-15 14:17:00.471620
