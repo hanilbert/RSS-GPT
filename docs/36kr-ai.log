@@ -16417,3 +16417,17 @@ Existing_entries: 1006
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-15 08:19:11.985117
+------------------------------------------------------
+Started: 2024-04-15 10:18:17.896731
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [告别小鲜肉，日本AI大叔更走心，一度登顶日本下载榜](https://www.36kr.com/p/2734126281708162)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [这一次，央视用AI播新闻了](https://www.36kr.com/p/2734368951200265)
+Append: [四大“槽点”盘点，宣称要“杀死智能手机”的AI Pin“翻车”，无屏幕设备的未来在哪儿？](https://www.36kr.com/p/2734236165417224)
+Append: [“AI版iPhone”口碑翻车，被嘲美丽废物，售价超5000元，又贵又难用](https://www.36kr.com/p/2734275102222601)
+append_entries: 4
+Finish: 2024-04-15 10:18:18.664052
