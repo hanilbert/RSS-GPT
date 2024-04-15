@@ -16395,3 +16395,19 @@ Existing_entries: 1005
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-15 04:32:59.576346
+------------------------------------------------------
+Started: 2024-04-15 06:23:11.245286
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“美版知乎”融资5.3亿打造AI产品，撒钱只为对抗OpenAI](https://www.36kr.com/p/2734183227140354)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“音乐版Sora”服务器挤爆，功能比Suno丰富还能生成脱口秀，每人每月1200首免费畅玩](https://www.36kr.com/p/2734135870548231)
+Append: [剑指Sora，120秒超长AI视频模型免费开玩](https://www.36kr.com/p/2734135475480833)
+Append: [36氪「AI Partner · 2024 AI应用标杆案例」征集启动](https://www.36kr.com/p/2734144542763269)
+Append: [Science Robotics封面，DeepMind强化学习打造超一流机器人球员](https://www.36kr.com/p/2734135130122501)
+Append: [首个AI程序员造假被抓，Devin再次“震撼”硅谷，扒皮视频文字详解附上](https://www.36kr.com/p/2734113620420865)
+append_entries: 6
+Finish: 2024-04-15 06:23:11.883701
