@@ -16548,3 +16548,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [李飞飞团队年度报告揭底大模型训练成本：Gemini Ultra是GPT-4的2.5倍](https://www.36kr.com/p/2735745008855553)
 append_entries: 2
 Finish: 2024-04-16 10:20:00.468738
+------------------------------------------------------
+Started: 2024-04-16 12:34:48.250684
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [闭源才能赚钱，百度给闭源大模型投了一票](https://www.36kr.com/p/2736032294299907)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [奥特曼与OpenAI COO首次“合体”访谈：未来AI成本将趋近零](https://www.36kr.com/p/2735986385627396)
+append_entries: 2
+Finish: 2024-04-16 12:34:49.043413
