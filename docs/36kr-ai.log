@@ -16476,3 +16476,17 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-15 22:17:17.055277
+------------------------------------------------------
+Started: 2024-04-16 01:18:35.245924
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [清华首款AI光芯片登上Science，全球首创架构迈向AGI](https://www.36kr.com/p/2734817022978306)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPT-4整治学术不端，人大/浙大团队实测7000篇论文，撤稿预测与人类95%一致](https://www.36kr.com/p/2734816400566789)
+Append: [利物浦都在用的AI教练，真能拯救国足吗？](https://www.36kr.com/p/2734812863932679)
+Append: [生成式人工智能应用于教育，还要历经多少关卡？](https://www.36kr.com/p/2734824505813505)
+append_entries: 4
+Finish: 2024-04-16 01:18:35.842690
