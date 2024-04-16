@@ -16514,3 +16514,12 @@ Append: [北大字节开辟图像生成新范式，超越Sora核心组件DiT，�
 Append: [刚刚，李飞飞团队发布《2024年人工智能指数报告》：10大趋势，揭示AI大模型的“喜”与“忧”](https://www.36kr.com/p/2734912248080899)
 append_entries: 8
 Finish: 2024-04-16 04:22:06.128458
+------------------------------------------------------
+Started: 2024-04-16 06:24:10.592211
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [福布斯发布AI 50强榜单：OpenAI、Anthropic霸榜，超三成融资由OpenAI获得](https://www.36kr.com/p/2735581254685312)
+append_entries: 1
+Finish: 2024-04-16 06:24:10.989097
