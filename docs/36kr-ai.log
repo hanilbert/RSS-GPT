@@ -16536,3 +16536,15 @@ Append: [Sora 加入 Adobe 全家桶，一句话 P 视频，真成「美图秀�
 Append: [阿尔特曼盯上财富500强，OpenAI与微软竞争升级，用新品和定制AI抢客](https://www.36kr.com/p/2735587845624449)
 append_entries: 3
 Finish: 2024-04-16 08:23:12.605049
+------------------------------------------------------
+Started: 2024-04-16 10:19:59.616143
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora加入Adobe全家桶，视频改图加戏样样行：PR大更新预告](https://www.36kr.com/p/2735677778454784)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李飞飞团队年度报告揭底大模型训练成本：Gemini Ultra是GPT-4的2.5倍](https://www.36kr.com/p/2735745008855553)
+append_entries: 2
+Finish: 2024-04-16 10:20:00.468738
