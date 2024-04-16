@@ -16523,3 +16523,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [福布斯发布AI 50强榜单：OpenAI、Anthropic霸榜，超三成融资由OpenAI获得](https://www.36kr.com/p/2735581254685312)
 append_entries: 1
 Finish: 2024-04-16 06:24:10.989097
+------------------------------------------------------
+Started: 2024-04-16 08:23:11.996913
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球疯抢AI人才，2023财年一分现金未发的英伟达如何拴住人心？](https://www.36kr.com/p/2735714449091076)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora 加入 Adobe 全家桶，一句话 P 视频，真成「美图秀秀」了](https://www.36kr.com/p/2735794932132358)
+Append: [阿尔特曼盯上财富500强，OpenAI与微软竞争升级，用新品和定制AI抢客](https://www.36kr.com/p/2735587845624449)
+append_entries: 3
+Finish: 2024-04-16 08:23:12.605049
