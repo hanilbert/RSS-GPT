@@ -16657,3 +16657,12 @@ Append: [终于，投资人对 AI 疲倦了](https://www.36kr.com/p/273715525883
 Append: [波士顿动力Atlas，再见！退役视频引数十万观众泪目，液压退出历史舞台](https://www.36kr.com/p/2737091307710976)
 append_entries: 4
 Finish: 2024-04-17 08:22:58.858846
+------------------------------------------------------
+Started: 2024-04-17 10:20:47.792036
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sam Altman最新采访：模型性能不是长期差异化的关键](https://www.36kr.com/p/2737179582681733)
+append_entries: 1
+Finish: 2024-04-17 10:20:48.282717
