@@ -16629,3 +16629,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [创业者要建立破局思维，资本寒冬靠“新质生产力”来解困｜最前线](https://www.36kr.com/p/2736440446134534)
 append_entries: 2
 Finish: 2024-04-17 04:23:21.655714
+------------------------------------------------------
+Started: 2024-04-17 06:26:31.749333
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [革命新架构掀翻Transformer，无限上下文处理，2万亿token碾压Llama 2](https://www.36kr.com/p/2737091887671813)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [游戏“撞上”AI，三七互娱携手高校瞄准AI生力军](https://www.36kr.com/p/2737039019272709)
+Append: [出门问问冲击“AIGC第一股”，光环与隐忧同存](https://www.36kr.com/p/2737017619425541)
+Append: [AI数据荒下的创业众生相：盗用GPT-4生成数据训练模型，引发投资人担忧](https://www.36kr.com/p/2736994334806660)
+append_entries: 4
+Finish: 2024-04-17 06:26:32.672625
