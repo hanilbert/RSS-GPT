@@ -13412,3 +13412,12 @@ Existing_entries: 91
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-17 06:26:35.802790
+------------------------------------------------------
+Started: 2024-04-17 08:23:01.312667
+Existing_entries: 91
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [188 新「国九条」发布，对长钱账户有什么影响？ 4月17日 新规重要信息和你聊聊，有关 IPO 上市、分红、减持和退市](https://youzhiyouxing.cn/materials/1663)
+append_entries: 1
+Finish: 2024-04-17 08:23:01.703720

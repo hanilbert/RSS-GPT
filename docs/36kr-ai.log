@@ -16643,3 +16643,17 @@ Append: [出门问问冲击“AIGC第一股”，光环与隐忧同存](https://
 Append: [AI数据荒下的创业众生相：盗用GPT-4生成数据训练模型，引发投资人担忧](https://www.36kr.com/p/2736994334806660)
 append_entries: 4
 Finish: 2024-04-17 06:26:32.672625
+------------------------------------------------------
+Started: 2024-04-17 08:22:58.188195
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“联想系”大模型公司「诺谛智能」完成近亿元Pre-A轮融资，武岳峰科创领投 | 36氪首发](https://www.36kr.com/p/2734373781252359)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [仿人机器人开始工作了](https://www.36kr.com/p/2598763225627525)
+Append: [终于，投资人对 AI 疲倦了](https://www.36kr.com/p/2737155258837257)
+Append: [波士顿动力Atlas，再见！退役视频引数十万观众泪目，液压退出历史舞台](https://www.36kr.com/p/2737091307710976)
+append_entries: 4
+Finish: 2024-04-17 08:22:58.858846
