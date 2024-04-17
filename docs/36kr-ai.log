@@ -16590,3 +16590,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-16 22:19:24.562634
+------------------------------------------------------
+Started: 2024-04-17 01:19:11.173633
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI的脉络：非共识时刻的认知价值](https://www.36kr.com/p/2736213498251008)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI如何改变专利格局？你的组织准备好应用AI了吗？](https://www.36kr.com/p/2736802953980423)
+Append: [嗅觉数字化，AI还原记忆中的味道](https://www.36kr.com/p/2736779230259715)
+Append: [李彦宏一讲话，王小川就融资](https://www.36kr.com/p/2736132800342528)
+Append: [字节Gauth，海外碾压作业帮？](https://www.36kr.com/p/2736206488152580)
+Append: [李彦宏：开源模型将会越来越落后 | 最前线](https://www.36kr.com/p/2735563500251393)
+Append: [看懵专业音乐人，Udio让AI音乐进入“以假乱真”新境界？](https://www.36kr.com/p/2736177565779721)
+Append: [联想急了，豪赌AI](https://www.36kr.com/p/2736202124773123)
+Append: [百度搜索结果全是AI生成？这可能正是李彦宏想看到的](https://www.36kr.com/p/2736286739016194)
+Append: [3300万剪辑师被革命， Sora、Pika、Gen-2将全面登陆Adobe](https://www.36kr.com/p/2736292521044483)
+Append: [OpenAI日本办事处成立，定制“日语版GPT-4”发布](https://www.36kr.com/p/2736292538329352)
+append_entries: 11
+Finish: 2024-04-17 01:19:12.047216
