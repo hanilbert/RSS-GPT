@@ -16666,3 +16666,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Sam Altman最新采访：模型性能不是长期差异化的关键](https://www.36kr.com/p/2737179582681733)
 append_entries: 1
 Finish: 2024-04-17 10:20:48.282717
+------------------------------------------------------
+Started: 2024-04-17 12:34:36.159197
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [谷歌考虑加入付费订阅、Perplexity卖广告，AI商业化进入加速期？](https://www.36kr.com/p/2737424788891910)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [李彦宏的三个AI猛药，能让百度翻盘吗？](https://www.36kr.com/p/2737402231539459)
+Append: [再见，波士顿动力人形机器人Atlas​](https://www.36kr.com/p/2737356800551170)
+append_entries: 3
+Finish: 2024-04-17 12:34:36.798866

@@ -20225,3 +20225,12 @@ Existing_entries: 737
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-17 10:20:34.915385
+------------------------------------------------------
+Started: 2024-04-17 12:34:23.305210
+Existing_entries: 737
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [重回记忆中起风的草原：一人一部最喜欢的吉卜力电影](https://sspai.com/post/88085)
+append_entries: 1
+Finish: 2024-04-17 12:34:23.773889
