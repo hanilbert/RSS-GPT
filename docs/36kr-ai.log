@@ -16617,3 +16617,15 @@ Existing_entries: 1011
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-17 02:27:26.919680
+------------------------------------------------------
+Started: 2024-04-17 04:23:20.666283
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI、谷歌上演抢人大战，马斯克直呼“史上最疯狂”](https://www.36kr.com/p/2736897583272582)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [创业者要建立破局思维，资本寒冬靠“新质生产力”来解困｜最前线](https://www.36kr.com/p/2736440446134534)
+append_entries: 2
+Finish: 2024-04-17 04:23:21.655714
