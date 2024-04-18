@@ -16724,3 +16724,17 @@ Append: [明星级AI企业也快倒闭了，就算他们也赚不到钱](https:/
 Append: [看懂网飞版“三体”，Reka Core登场：挑战GPT-4、Claude 3](https://www.36kr.com/p/2737741532342534)
 append_entries: 5
 Finish: 2024-04-18 01:18:39.901734
+------------------------------------------------------
+Started: 2024-04-18 02:26:57.799231
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI遥感日渐升温，商汤、珈和坐上加速器](https://www.36kr.com/p/2737574971975940)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [医疗大模型，巨头们的新赛场](https://www.36kr.com/p/2737574845573638)
+Append: [竞逐智能家居大模型：美的“蓄力”，海尔“疾行”](https://www.36kr.com/p/2737573872101632)
+Append: [博弈加速，58同城、同道猎聘、牛客抢滩AI面试](https://www.36kr.com/p/2737572660177408)
+append_entries: 4
+Finish: 2024-04-18 02:26:58.311626
