@@ -16775,3 +16775,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [这是刚发布的人形机器人？不，分明是《午夜凶铃》现实版](https://www.36kr.com/p/2738567946037764)
 append_entries: 2
 Finish: 2024-04-18 10:22:32.159211
+------------------------------------------------------
+Started: 2024-04-18 12:33:48.084521
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Stable Diffusion 3 API发布，号称性能碾压碾压Midjourney DALL·E，普通用户免费用](https://www.36kr.com/p/2738832800786691)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [联想官宣5款AI PC，以及自己AI时代的野望 | 最前线](https://www.36kr.com/p/2738846661061123)
+Append: [原第四范式VP梁军创立「纪元AI」，用Agent帮助企业做复杂智能决策｜早期项目](https://www.36kr.com/p/2738605864069384)
+Append: [增强自动化如何重新定义工作任务及工作角色](https://www.36kr.com/p/2737139357107976)
+append_entries: 4
+Finish: 2024-04-18 12:33:48.909222
