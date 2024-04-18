@@ -16709,3 +16709,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-17 22:17:58.081868
+------------------------------------------------------
+Started: 2024-04-18 01:18:39.099079
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美团抖音下注新战场：内测外卖助手“问小袋”，成立生活服务AI团队](https://www.36kr.com/p/2737580889483526)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pika联创参与新研究：Diffusion能抢GPT的活了，成功挑战自回归文本范式](https://www.36kr.com/p/2738155403733506)
+Append: [AI时代内存芯片竞速，三星、美光新品打响“近身战”](https://www.36kr.com/p/2737681828604418)
+Append: [明星级AI企业也快倒闭了，就算他们也赚不到钱](https://www.36kr.com/p/2737740354218244)
+Append: [看懂网飞版“三体”，Reka Core登场：挑战GPT-4、Claude 3](https://www.36kr.com/p/2737741532342534)
+append_entries: 5
+Finish: 2024-04-18 01:18:39.901734
