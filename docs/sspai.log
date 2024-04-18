@@ -20303,3 +20303,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 append_entries: 1
 Finish: 2024-04-18 08:23:41.563737
+------------------------------------------------------
+Started: 2024-04-18 10:22:18.426799
+Existing_entries: 741
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
+append_entries: 1
+Finish: 2024-04-18 10:22:18.881430
