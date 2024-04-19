@@ -13589,3 +13589,12 @@ Existing_entries: 94
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-19 14:17:43.581701
+------------------------------------------------------
+Started: 2024-04-19 16:25:12.296756
+Existing_entries: 94
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E136 要学多少才能做好投资，要明白多少道理才可以自洽地生活？ 4月19日 🎧 今晚，孟岩和大卫翁，来到了小酒馆，第一次同台漫谈。](https://youzhiyouxing.cn/materials/1665)
+append_entries: 1
+Finish: 2024-04-19 16:25:12.703701
