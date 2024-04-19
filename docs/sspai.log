@@ -20381,3 +20381,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [商店表达：探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
 append_entries: 1
 Finish: 2024-04-19 06:24:57.523449
+------------------------------------------------------
+Started: 2024-04-19 08:23:01.526908
+Existing_entries: 745
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
+append_entries: 2
+Finish: 2024-04-19 08:23:02.243384
