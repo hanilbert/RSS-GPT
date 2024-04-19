@@ -16847,3 +16847,22 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-19 04:21:47.463964
+------------------------------------------------------
+Started: 2024-04-19 06:25:10.524705
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软AI Copilot杀入自动编程领域，“码农”们有福了](https://www.36kr.com/p/2739845903247623)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [专治大模型说胡话，精确率100%，华科等提出首个「故障token」检测/分类方法](https://www.36kr.com/p/2739820722956550)
+Append: [AI时代新风口，吴恩达亲授智能体四大设计模式](https://www.36kr.com/p/2739822615783688)
+Append: [李丰对话连文昭：大模型的想象与泡沫，机器人的「不可能三角」与未来](https://www.36kr.com/p/2739773975865608)
+Append: [全球首个「开源GPT-4」出世，Llama 3震撼发布，Meta AI免登录可用](https://www.36kr.com/p/2739763657517574)
+Append: [美国医生开始接受AI](https://www.36kr.com/p/2739759669832197)
+Append: [“3SB大战”12周年，三个老伙伴要决战大模型之巅？](https://www.36kr.com/p/2739113048467968)
+Append: [李彦宏不寒碜：不赚钱，做大模型干吗？](https://www.36kr.com/p/2739020717189376)
+Append: [3年完成数亿元营收，这家公司的大模型Agent产品已经开始赚钱了｜产品观察](https://www.36kr.com/p/2739105397729800)
+append_entries: 9
+Finish: 2024-04-19 06:25:11.121820

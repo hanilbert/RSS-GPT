@@ -13556,3 +13556,12 @@ Existing_entries: 93
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-19 04:21:50.258889
+------------------------------------------------------
+Started: 2024-04-19 06:25:14.028010
+Existing_entries: 93
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [今年，你的家庭资产进入 next level 了吗？ 4月19日 如何盘点家庭资产？多位同路人的思考供你参考。](https://youzhiyouxing.cn/materials/1664)
+append_entries: 1
+Finish: 2024-04-19 06:25:14.442002
