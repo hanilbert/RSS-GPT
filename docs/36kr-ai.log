@@ -16819,3 +16819,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-18 22:17:31.994149
+------------------------------------------------------
+Started: 2024-04-19 01:19:50.875123
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta震撼发布Llama 3，一夜重回开源大模型铁王座](https://www.36kr.com/p/2739577630091778)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [刘强东带火的数字人直播：能省钱，难赚钱](https://www.36kr.com/p/2738872135985417)
+Append: [从文字模型到世界模型，Meta新研究让AI Agent理解物理世界](https://www.36kr.com/p/2739163817339395)
+Append: [刚刚，全球最强开源大模型 Llama 3 发布：使用 15T 数据预训练，最大模型参数将超 4000 亿](https://www.36kr.com/p/2739256925268485)
+Append: [一个AI Pin翻车，无数个AI Pin还在翻车的路上](https://www.36kr.com/p/2739152695486985)
+Append: [微软炸裂级单图生数字人，Sora同款思路，“比AI刘强东还真”](https://www.36kr.com/p/2739164277074184)
+append_entries: 6
+Finish: 2024-04-19 01:19:52.749619
