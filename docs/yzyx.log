@@ -13598,3 +13598,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [E136 要学多少才能做好投资，要明白多少道理才可以自洽地生活？ 4月19日 🎧 今晚，孟岩和大卫翁，来到了小酒馆，第一次同台漫谈。](https://youzhiyouxing.cn/materials/1665)
 append_entries: 1
 Finish: 2024-04-19 16:25:12.703701
+------------------------------------------------------
+Started: 2024-04-19 18:22:54.930330
+Existing_entries: 95
+Fetching from https://rsshub.app/youzhiyouxing/materials
+append_entries: 0
+Finish: 2024-04-19 18:22:55.053864
