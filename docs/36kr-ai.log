@@ -16872,3 +16872,18 @@ Existing_entries: 1009
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-19 08:23:15.339509
+------------------------------------------------------
+Started: 2024-04-19 10:20:54.997725
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Read AI：一款更适合P人体质的打工人神器](https://www.36kr.com/p/2739844407199488)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [九章云极DataCanvas AIDC OS智算操作系统正式发布，开启AI智算新纪元](https://www.36kr.com/p/2740076988131592)
+Append: [开源大模型Llama 3王者归来，最大底牌4000亿参数，性能直逼GPT-4](https://www.36kr.com/p/2739979933935880)
+Append: [三个清华校友，争抢大模型一哥](https://www.36kr.com/p/2740064826566921)
+Append: [扎克伯格「开源」上分，但Meta还没到庆功时刻](https://www.36kr.com/p/2740032167006848)
+append_entries: 5
+Finish: 2024-04-19 10:20:55.563267
