@@ -16937,3 +16937,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-20 01:18:55.559672
+------------------------------------------------------
+Started: 2024-04-20 02:24:34.131448
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [5亿个token之后，我们得出关于GPT的七条宝贵经验](https://www.36kr.com/p/2741165244147975)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [最强开源大模型Llama 3来了！4000亿参数狙击GPT-4，训练数据达Llama 2七倍](https://www.36kr.com/p/2740503830751748)
+append_entries: 2
+Finish: 2024-04-20 02:24:34.845748
