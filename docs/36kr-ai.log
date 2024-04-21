@@ -17030,3 +17030,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-21 04:24:57.795708
+------------------------------------------------------
+Started: 2024-04-21 06:24:32.153447
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [号称超越 GPT-4 的大模型们，有多少靠的是“抄袭”](https://www.36kr.com/p/2742654101039623)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我用AI开咖啡馆，10平月入6万](https://www.36kr.com/p/2741471677868297)
+Append: [再见，AI意识先驱：Daniel Dennett](https://www.36kr.com/p/2741810806598146)
+append_entries: 3
+Finish: 2024-04-21 06:24:32.869502
