@@ -17154,3 +17154,22 @@ Existing_entries: 1007
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-22 10:22:27.239273
+------------------------------------------------------
+Started: 2024-04-22 12:36:16.981117
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [投资者眼中的“人工智能”](https://www.36kr.com/p/2744460890188033)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ai Pin 差评如潮，首批AI硬件公司面对现实](https://www.36kr.com/p/2744550115584520)
+Append: [马斯克的“现金牛”，累了](https://www.36kr.com/p/2744565467310345)
+Append: [AI Pin使用体验不佳，手机目前仍是AI的最佳载体](https://www.36kr.com/p/2744525178841604)
+Append: [北美商业观察：霸总文学火在海外，有人用AI轻松挣了5000万](https://www.36kr.com/p/2744550023784707)
+Append: [当我们在馋AI功能时，厂商已经开始馋用户的身子了](https://www.36kr.com/p/2744453329916545)
+Append: [新测试基准发布，最强开源Llama 3尴尬了](https://www.36kr.com/p/2744506237266441)
+Append: [Google之忧起于萧墙之内，AI先行者为何掉队？](https://www.36kr.com/p/2744331537221381)
+Append: [Linux之父讽刺AI炒作：很搞笑，大概我也会被大模型取代](https://www.36kr.com/p/2744383573649667)
+append_entries: 9
+Finish: 2024-04-22 12:36:17.673688
