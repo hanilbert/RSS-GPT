@@ -17109,3 +17109,19 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-22 02:28:41.401448
+------------------------------------------------------
+Started: 2024-04-22 04:22:28.373425
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [免费还能干翻GPT-4，Meta打了所有闭源大厂的脸](https://www.36kr.com/p/2744063906130183)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI教母李飞飞：AI学术界没钱没资源，没有拨款将会凋亡](https://www.36kr.com/p/2744046058678791)
+Append: [GPT-4化身黑客搞破坏，成功率87%，OpenAI要求保密提示词，网友复现ing](https://www.36kr.com/p/2744036527417607)
+Append: [世界上最小的​ AI 可穿戴设备，五天销量破 2 万，到底是不是又一个 Ai Pin？](https://www.36kr.com/p/2744016529828104)
+Append: [爆火的Kimi，抢了谁的生意？](https://www.36kr.com/p/2743928427532935)
+Append: [波士顿动力转向纯电机器人，电动为什么是机器人唯一方向？](https://www.36kr.com/p/2742689279306241)
+append_entries: 6
+Finish: 2024-04-22 04:22:28.983188
