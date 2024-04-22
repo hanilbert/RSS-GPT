@@ -17179,3 +17179,12 @@ Existing_entries: 1009
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-22 14:18:47.430632
+------------------------------------------------------
+Started: 2024-04-22 16:23:48.755479
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [重塑城市：AI驱动的城市模型如何改变治理](https://www.36kr.com/p/2744559916067078)
+append_entries: 1
+Finish: 2024-04-22 16:23:49.216523

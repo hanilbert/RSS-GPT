@@ -23491,3 +23491,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Bear giveaway!](https://brett.trpstra.net/link/535/16656898/bear-giveaway)
 append_entries: 1
 Finish: 2024-04-22 14:18:25.906179
+------------------------------------------------------
+Started: 2024-04-22 16:23:26.827355
+Existing_entries: 162
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Web Excursions for April 22, 2024](https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024)
+append_entries: 1
+Finish: 2024-04-22 16:23:27.828809
