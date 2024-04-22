@@ -20618,3 +20618,12 @@ Existing_entries: 750
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-22 08:25:15.059986
+------------------------------------------------------
+Started: 2024-04-22 10:22:13.665968
+Existing_entries: 750
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力](https://sspai.com/post/88236)
+append_entries: 1
+Finish: 2024-04-22 10:22:14.196567
