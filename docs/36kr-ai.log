@@ -17094,3 +17094,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-21 22:18:55.971392
+------------------------------------------------------
+Started: 2024-04-22 01:22:08.558138
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI风口中的香港，想做全球AI的算力、数据、人才枢纽 | 最前线](https://www.36kr.com/p/2743237823342850)
+append_entries: 1
+Finish: 2024-04-22 01:22:09.217398
