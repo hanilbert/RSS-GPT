@@ -17131,3 +17131,20 @@ Existing_entries: 1006
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-22 06:25:15.776180
+------------------------------------------------------
+Started: 2024-04-22 08:25:28.289967
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AIGC掀算力需求革命，边缘计算将不再“边缘”](https://www.36kr.com/p/2744110152952320)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [「空想AGI」闹剧何时休？Science专栏：对AI前景预测过于乐观](https://www.36kr.com/p/2744313856698633)
+Append: [微软秒删堪比GPT-4的开源大模型，研发总部还被爆在北京？官方：我们只是忘了测试](https://www.36kr.com/p/2744313501198598)
+Append: [小扎自曝愿开源100亿美元模型，2025年AGI没戏，能源短缺成最大瓶颈](https://www.36kr.com/p/2744153877326339)
+Append: [黄仁勋最新对话：人形机器人将成为主流，售价会跟廉价汽车差不多](https://www.36kr.com/p/2744282613148163)
+Append: [Llama 3拿下“赛点”？大模型角力场，开源与闭源之争仍在继续](https://www.36kr.com/p/2744153366161928)
+Append: [抖音追不上Sora](https://www.36kr.com/p/2744148708076040)
+append_entries: 7
+Finish: 2024-04-22 08:25:29.050897
