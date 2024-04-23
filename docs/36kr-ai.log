@@ -17230,3 +17230,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI PC，是联想们的销量解药吗？](https://www.36kr.com/p/2744805837192196)
 append_entries: 2
 Finish: 2024-04-23 02:28:37.071239
+------------------------------------------------------
+Started: 2024-04-23 04:23:16.381701
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [开源与闭源争论的背后，是大模型未来商业生态演进的严肃思考](https://www.36kr.com/p/2745444521098244)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [亏损不断、市场率不足，云知声上市不成恐面临内忧外患](https://www.36kr.com/p/2745361024042759)
+Append: [本周（4.15-4.21）AI界发生了什么？](https://www.36kr.com/p/2745412035099651)
+Append: [打破内存墙](https://www.36kr.com/p/2745385937287939)
+append_entries: 4
+Finish: 2024-04-23 04:23:16.955058
