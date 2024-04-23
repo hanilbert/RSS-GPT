@@ -17244,3 +17244,12 @@ Append: [本周（4.15-4.21）AI界发生了什么？](https://www.36kr.com/p/27
 Append: [打破内存墙](https://www.36kr.com/p/2745385937287939)
 append_entries: 4
 Finish: 2024-04-23 04:23:16.955058
+------------------------------------------------------
+Started: 2024-04-23 06:26:26.100761
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://www.36kr.com/p/2745582658992897)
+append_entries: 1
+Finish: 2024-04-23 06:26:26.758849
