@@ -17253,3 +17253,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://www.36kr.com/p/2745582658992897)
 append_entries: 1
 Finish: 2024-04-23 06:26:26.758849
+------------------------------------------------------
+Started: 2024-04-23 08:23:29.670008
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被AI改变的00后娱乐习惯](https://www.36kr.com/p/2745691291401225)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [发布几小时，微软秒删媲美GPT-4开源大模型，竟因忘记投毒测试](https://www.36kr.com/p/2745685508406018)
+Append: [微软「诈骗届」王牌框架，真到可怕，一张照片+音频即可生成数字人](https://www.36kr.com/p/2745683823344645)
+Append: [大模型一对一战斗75万轮，GPT-4夺冠，Llama 3位列第五](https://www.36kr.com/p/2745683719404546)
+Append: [加州理工华人用AI颠覆数学证明，提速5倍震惊陶哲轩，80%数学步骤全自动化](https://www.36kr.com/p/2745592523357184)
+append_entries: 5
+Finish: 2024-04-23 08:23:30.343622
