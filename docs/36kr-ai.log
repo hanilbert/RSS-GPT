@@ -17281,3 +17281,16 @@ Append: [美国科技巨头交锋新战场：AI智能体](https://www.36kr.com/p
 Append: [Meta 疯狂卷，继 Llama 3 后，重磅发布MR界的“安卓”操作系统](https://www.36kr.com/p/2745788334095105)
 append_entries: 3
 Finish: 2024-04-23 10:20:03.651000
+------------------------------------------------------
+Started: 2024-04-23 12:36:01.032805
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [业绩快报 | C端智能硬件GMV大涨84%，科大讯飞2023年净利增超17%](https://www.36kr.com/p/2745848607276036)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [全球最小的​AI可穿戴设备来了，发布两天，订单量超过1万](https://www.36kr.com/p/2745631050912387)
+Append: [科大讯飞：一季度亏损扩大4倍，AI大模型有多烧钱？](https://www.36kr.com/p/2745776779285126)
+append_entries: 3
+Finish: 2024-04-23 12:36:02.202001

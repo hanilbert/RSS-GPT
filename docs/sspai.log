@@ -20714,3 +20714,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [App+1｜看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows](https://sspai.com/post/88207)
 append_entries: 1
 Finish: 2024-04-23 10:19:50.086217
+------------------------------------------------------
+Started: 2024-04-23 12:35:42.050416
+Existing_entries: 756
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
+append_entries: 1
+Finish: 2024-04-23 12:35:44.788634
