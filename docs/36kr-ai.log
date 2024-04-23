@@ -17218,3 +17218,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [霸总文学火在海外，有人用AI轻松挣了5000万](https://www.36kr.com/p/2744599645678089)
 append_entries: 2
 Finish: 2024-04-23 01:20:29.851685
+------------------------------------------------------
+Started: 2024-04-23 02:28:36.401101
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI时代：PC巨头们的未来战争](https://www.36kr.com/p/2745372612164352)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI PC，是联想们的销量解药吗？](https://www.36kr.com/p/2744805837192196)
+append_entries: 2
+Finish: 2024-04-23 02:28:37.071239
