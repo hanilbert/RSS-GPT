@@ -17268,3 +17268,16 @@ Append: [大模型一对一战斗75万轮，GPT-4夺冠，Llama 3位列第五](h
 Append: [加州理工华人用AI颠覆数学证明，提速5倍震惊陶哲轩，80%数学步骤全自动化](https://www.36kr.com/p/2745592523357184)
 append_entries: 5
 Finish: 2024-04-23 08:23:30.343622
+------------------------------------------------------
+Started: 2024-04-23 10:20:03.079468
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta向硬件厂商开放VR/AR操作系统授权，联想、华硕加盟](https://www.36kr.com/p/2745834629676038)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美国科技巨头交锋新战场：AI智能体](https://www.36kr.com/p/2745835521129221)
+Append: [Meta 疯狂卷，继 Llama 3 后，重磅发布MR界的“安卓”操作系统](https://www.36kr.com/p/2745788334095105)
+append_entries: 3
+Finish: 2024-04-23 10:20:03.651000
