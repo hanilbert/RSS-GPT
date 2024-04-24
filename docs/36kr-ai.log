@@ -17424,3 +17424,12 @@ Append: [第一批大模型独角兽，创始人已经开始套现了？](https:
 Append: [港股“AIGC第一股”，上市首日破发 | 最前线](https://www.36kr.com/p/2747308867779585)
 append_entries: 6
 Finish: 2024-04-24 14:20:02.707741
+------------------------------------------------------
+Started: 2024-04-24 16:23:15.150992
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI入「地」，云鲸向海](https://www.36kr.com/p/2746833319754498)
+append_entries: 1
+Finish: 2024-04-24 16:23:15.698974
