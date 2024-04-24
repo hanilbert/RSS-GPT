@@ -13928,3 +13928,12 @@ Existing_entries: 95
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-24 06:27:22.208776
+------------------------------------------------------
+Started: 2024-04-24 08:24:49.162205
+Existing_entries: 95
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [长钱账户里的医药基金，表现怎样？ 4月24日 底部之下还有底部，医药主动基金更需要持续追踪](https://youzhiyouxing.cn/materials/1667)
+append_entries: 1
+Finish: 2024-04-24 08:24:49.514434
