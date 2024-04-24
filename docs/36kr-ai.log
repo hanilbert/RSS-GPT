@@ -17408,3 +17408,19 @@ Append: [深度拆解“AIGC第一股”出门问问](https://www.36kr.com/p/274
 Append: [「商汤」大模型一体机可节约80%推理成本，完成云端边全栈布局｜最前线](https://www.36kr.com/p/2747223026825984)
 append_entries: 8
 Finish: 2024-04-24 12:41:08.184809
+------------------------------------------------------
+Started: 2024-04-24 14:20:02.002280
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [商汤发布“日日新5.0”全面超越GPT-4，小米SU7团队都来登门道谢，股价暴涨30%](https://www.36kr.com/p/2747427141696256)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [距离成为有情感的数字人主播，AI刘强东还要迈过这些坎](https://www.36kr.com/p/2747382976674560)
+Append: [Kimi创始人套现4000万美元疑云](https://www.36kr.com/p/2747375224109830)
+Append: [人工智能在教育中的43种用途](https://www.36kr.com/p/2747371529193218)
+Append: [第一批大模型独角兽，创始人已经开始套现了？](https://www.36kr.com/p/2747322983807751)
+Append: [港股“AIGC第一股”，上市首日破发 | 最前线](https://www.36kr.com/p/2747308867779585)
+append_entries: 6
+Finish: 2024-04-24 14:20:02.707741
