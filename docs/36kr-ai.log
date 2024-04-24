@@ -17355,3 +17355,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [对话面壁智能李大海：AGI是一场马拉松，我们不急于当破风者](https://www.36kr.com/p/2745879288855296)
 append_entries: 2
 Finish: 2024-04-24 04:22:02.573836
+------------------------------------------------------
+Started: 2024-04-24 06:27:18.765560
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [训练新大模型成本高达5亿，亏损下的金山云还有资本吗？](https://www.36kr.com/p/2746909669066502)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [富士康，AI总龙头？丨氪金 · 硬科技](https://www.36kr.com/p/2746810435451905)
+Append: [计算实时性和功耗效率突出，SiMa.ai打造边缘AI软硬件平台](https://www.36kr.com/p/2745894332349185)
+Append: [开箱黑盒LLM，谷歌大一统框架Patchscopes实战教程来了](https://www.36kr.com/p/2746854210747394)
+append_entries: 4
+Finish: 2024-04-24 06:27:19.446466
