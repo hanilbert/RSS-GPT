@@ -17375,3 +17375,18 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-24 08:24:45.979395
+------------------------------------------------------
+Started: 2024-04-24 10:21:42.543308
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国AI活化石，熬成AIGC第一股](https://www.36kr.com/p/2747120959735556)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT一天“吃”50万度电，AI热潮下美国上演电力“抢夺战”，核能、地热和燃料电池成新希望](https://www.36kr.com/p/2746978573630466)
+Append: [Meta智能眼镜用上多模态Llama 3，国内AR眼镜机会来了](https://www.36kr.com/p/2747113582754566)
+Append: [AI成功改写人类DNA，全球首个基因编辑器震撼开源，近5倍蛋白质宇宙LLM全生成](https://www.36kr.com/p/2747007751846917)
+Append: [ChatGPT 之父投资，这个禁止打字的社交 app 让硅谷爱上聊「微信」](https://www.36kr.com/p/2747113562700807)
+append_entries: 5
+Finish: 2024-04-24 10:21:43.072538

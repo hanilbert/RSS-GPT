@@ -20789,3 +20789,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
 append_entries: 1
 Finish: 2024-04-24 08:24:31.943066
+------------------------------------------------------
+Started: 2024-04-24 10:21:11.421357
+Existing_entries: 759
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
+append_entries: 1
+Finish: 2024-04-24 10:21:11.823701
