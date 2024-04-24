@@ -17390,3 +17390,21 @@ Append: [AI成功改写人类DNA，全球首个基因编辑器震撼开源，近
 Append: [ChatGPT 之父投资，这个禁止打字的社交 app 让硅谷爱上聊「微信」](https://www.36kr.com/p/2747113562700807)
 append_entries: 5
 Finish: 2024-04-24 10:21:43.072538
+------------------------------------------------------
+Started: 2024-04-24 12:41:07.611380
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [估值60亿美元跻身独角兽队列，保时捷最爱用的AI自动驾驶平台是什么来头？](https://www.36kr.com/p/2747329535179529)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果卷开源大模型，公开代码、权重、数据集、训练全过程，OpenELM亮相](https://www.36kr.com/p/2747330104654600)
+Append: [微软首席科学官Nature发文：大模型等人工智能，是帮助还是损害全球气候？](https://www.36kr.com/p/2747247563144192)
+Append: [今天，一位湖南博士IPO敲钟](https://www.36kr.com/p/2747268241832711)
+Append: [中国汽车业人工智能行业应用发展图谱2024](https://www.36kr.com/p/2747264351599365)
+Append: [生成式AI：三块短板、两道难题、一个悖论](https://www.36kr.com/p/2747200845839105)
+Append: [深度拆解“AIGC第一股”出门问问](https://www.36kr.com/p/2747219595770884)
+Append: [「商汤」大模型一体机可节约80%推理成本，完成云端边全栈布局｜最前线](https://www.36kr.com/p/2747223026825984)
+append_entries: 8
+Finish: 2024-04-24 12:41:08.184809
