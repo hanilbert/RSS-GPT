@@ -17457,3 +17457,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-25 01:21:54.258801
+------------------------------------------------------
+Started: 2024-04-25 02:28:36.943808
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [第四范式戴文渊：深耕行业大模型十年，这是中国AI市场的风口 | 涌现36人](https://www.36kr.com/p/2747333843188738)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI理财起风了，垂直领域成AIGC落地“黄金场景”？](https://www.36kr.com/p/2747612012365569)
+append_entries: 2
+Finish: 2024-04-25 02:28:37.984003
