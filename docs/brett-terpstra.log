@@ -23725,3 +23725,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [The Bear giveaway winners!](https://brett.trpstra.net/link/535/16664750/the-bear-giveaway-winners)
 append_entries: 1
 Finish: 2024-04-25 18:23:48.016367
+------------------------------------------------------
+Started: 2024-04-25 20:18:36.333567
+Existing_entries: 164
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Introducing the Marked Conductor](https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor)
+append_entries: 1
+Finish: 2024-04-25 20:18:37.678503
