@@ -17469,3 +17469,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI理财起风了，垂直领域成AIGC落地“黄金场景”？](https://www.36kr.com/p/2747612012365569)
 append_entries: 2
 Finish: 2024-04-25 02:28:37.984003
+------------------------------------------------------
+Started: 2024-04-25 04:22:34.285952
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [半个AI圈，向李彦宏「开炮」](https://www.36kr.com/p/2748326056491783)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达收购两家AI创企，要让AI芯片变得更便宜](https://www.36kr.com/p/2748231620541192)
+append_entries: 2
+Finish: 2024-04-25 04:22:34.801234
