@@ -17511,3 +17511,17 @@ Existing_entries: 1008
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-25 10:20:48.518930
+------------------------------------------------------
+Started: 2024-04-25 12:29:15.133030
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [姚前：行业大模型语料库建设与治理](https://www.36kr.com/p/2748752496851715)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果连放4个开源“小模型”，跑分却不到微软Phi-3一半，不卷性能卷效率？](https://www.36kr.com/p/2748648930130948)
+Append: [初创团队不到10人，Augment获2.52亿美元融资，将成GitHub Copilot竞争对手](https://www.36kr.com/p/2748717843741703)
+Append: [年轻人不想恋爱，AI会是良药吗？](https://www.36kr.com/p/2748655685630976)
+append_entries: 4
+Finish: 2024-04-25 12:29:16.187498
