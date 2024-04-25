@@ -17487,3 +17487,21 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-25 06:25:00.070881
+------------------------------------------------------
+Started: 2024-04-25 08:25:12.430779
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [苹果开源可以在手机上跑的大模型，代码、权重、数据全公开，AI应用开发的下一个风口？](https://www.36kr.com/p/2748554682104833)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [颜水成挂帅，奠定「通用视觉多模态大模型」终极形态，一统理解/生成/分割/编辑](https://www.36kr.com/p/2748554664639240)
+Append: [深度对话：中国大模型算力到底够不够？Scaling Law不是唯一增长曲线](https://www.36kr.com/p/2748554552753154)
+Append: [全球最大开源模型再刷爆纪录，4800亿参数MoE击败Llama 3、Mixtral](https://www.36kr.com/p/2748462734408448)
+Append: [黄仁勋亲自给OpenAI送货，全球首台DGX H200开箱了](https://www.36kr.com/p/2748530051414789)
+Append: [过去一年，中国车企“上车”大模型进展如何？](https://www.36kr.com/p/2748529906482177)
+Append: [AI如潮水，逐浪，还是裸泳？](https://www.36kr.com/p/2748379195292677)
+Append: [图灵奖得主杨立昆：大语言模型是通往AGI的一条歧路](https://www.36kr.com/p/2748334151389824)
+append_entries: 8
+Finish: 2024-04-25 08:25:13.018507
