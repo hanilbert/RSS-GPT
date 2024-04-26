@@ -17593,3 +17593,17 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [国产多模态大模型狂飙，颜水成挂帅开源Vitron，破解图像/视频模型割裂问题](https://www.36kr.com/p/2749648076739205)
 append_entries: 1
 Finish: 2024-04-26 06:27:03.068170
+------------------------------------------------------
+Started: 2024-04-26 08:23:21.026545
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“平时写作很好，考试就露馅”：“AI枪手”横行中小学生作业本，这下妈妈更担心我的学习了](https://www.36kr.com/p/2749844503624712)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CEO锦囊： AI爆发，跨境电商有哪些新玩法？](https://www.36kr.com/p/2746141719051270)
+Append: [OPPO XR探索暂停，转向AI Device、机器人丨36氪独家](https://www.36kr.com/p/2749702991346433)
+Append: [谷歌Meta离职团队4个月训出比肩GPT-4大模型，清华北航校友参与](https://www.36kr.com/p/2749781776939782)
+append_entries: 4
+Finish: 2024-04-26 08:23:21.918113
