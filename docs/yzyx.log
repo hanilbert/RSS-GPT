@@ -14093,3 +14093,12 @@ Existing_entries: 96
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-04-26 12:34:48.719180
+------------------------------------------------------
+Started: 2024-04-26 14:17:45.873038
+Existing_entries: 96
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E137 打工人的尽头是做自媒体？如果你听完这期还想做，那就去吧 4月26日 这个时代，做自媒体还有机会吗？该怎么做？14年资深自媒体从业者沈帅波的看法是——](https://youzhiyouxing.cn/materials/1668)
+append_entries: 1
+Finish: 2024-04-26 14:17:46.224544

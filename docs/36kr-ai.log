@@ -17637,3 +17637,16 @@ Append: [国内大模型五虎融资仅是巨头零花钱？谷歌、微软、Me
 Append: [谷歌Q1业绩会实录：AI会为云业务带来拐点](https://www.36kr.com/p/2750109213915910)
 append_entries: 8
 Finish: 2024-04-26 12:34:46.037508
+------------------------------------------------------
+Started: 2024-04-26 14:17:42.148076
+Existing_entries: 1008
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中美云厂商，生成式AI战略拼图对比](https://www.36kr.com/p/2750206483495943)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [奥特曼斯坦福演讲全场爆满，GPT-5强到发指，Scaling Law依然有效](https://www.36kr.com/p/2750206207720201)
+Append: [Transformer解码真实场景，Meta推出70M参数SceneScript模型](https://www.36kr.com/p/2750206207310852)
+append_entries: 3
+Finish: 2024-04-26 14:17:43.005527
