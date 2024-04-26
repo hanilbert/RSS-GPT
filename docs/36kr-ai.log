@@ -17584,3 +17584,12 @@ Append: [AI投入超预期引发Meta暴跌？这锅GPU不背](https://www.36kr.c
 Append: [对话王田苗：万亿市场之下，大模型+机器人还有四大问题未解决 | 硬氪专访](https://www.36kr.com/p/2749588642577408)
 append_entries: 4
 Finish: 2024-04-26 04:21:56.388448
+------------------------------------------------------
+Started: 2024-04-26 06:27:02.631314
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [国产多模态大模型狂飙，颜水成挂帅开源Vitron，破解图像/视频模型割裂问题](https://www.36kr.com/p/2749648076739205)
+append_entries: 1
+Finish: 2024-04-26 06:27:03.068170
