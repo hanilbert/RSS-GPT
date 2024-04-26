@@ -17619,3 +17619,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [五天销量破 2 万，号称最小的​ AI 穿戴设备，会是下一个 Ai Pin 吗？](https://www.36kr.com/p/2750012552329986)
 append_entries: 2
 Finish: 2024-04-26 10:22:07.609152
+------------------------------------------------------
+Started: 2024-04-26 12:34:45.388447
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [月之暗面刚融资创始人就套现，改善生活还是忧心未来](https://www.36kr.com/p/2750157383482374)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Limitless展示AI设备新方向，但依旧只是手机配件](https://www.36kr.com/p/2750158324923394)
+Append: [OpenAI掌门人最新演讲内容要点：下一代AI模型更强大，不需担心超级智能](https://www.36kr.com/p/2750131965672450)
+Append: [硅谷研究院院长：现在的人工智能有四大缺陷，但是也有五大潜力应用方向](https://www.36kr.com/p/2750127153658882)
+Append: [马斯克的xAI以180亿美元估值融资60亿美元 红杉资本参投](https://www.36kr.com/p/2750127077735176)
+Append: [大模型2024：追求变现，加速洗牌](https://www.36kr.com/p/2750122970168325)
+Append: [国内大模型五虎融资仅是巨头零花钱？谷歌、微软、Meta：每季度拿不出100亿美元别玩AI](https://www.36kr.com/p/2750063693331464)
+Append: [谷歌Q1业绩会实录：AI会为云业务带来拐点](https://www.36kr.com/p/2750109213915910)
+append_entries: 8
+Finish: 2024-04-26 12:34:46.037508
