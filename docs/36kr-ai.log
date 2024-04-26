@@ -17570,3 +17570,17 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-26 02:27:19.619171
+------------------------------------------------------
+Started: 2024-04-26 04:21:55.393693
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Vision Pro无人问津，AI眼镜的机会来了？](https://www.36kr.com/p/2749642083007493)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“每天只睡5小时”，大模型在火热落地中](https://www.36kr.com/p/2749677738982405)
+Append: [AI投入超预期引发Meta暴跌？这锅GPU不背](https://www.36kr.com/p/2749647105358848)
+Append: [对话王田苗：万亿市场之下，大模型+机器人还有四大问题未解决 | 硬氪专访](https://www.36kr.com/p/2749588642577408)
+append_entries: 4
+Finish: 2024-04-26 04:21:56.388448
