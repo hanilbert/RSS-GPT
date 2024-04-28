@@ -17773,3 +17773,12 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-28 04:21:21.946186
+------------------------------------------------------
+Started: 2024-04-28 06:24:49.150130
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [高通汽车芯片，遇上硬茬了](https://www.36kr.com/p/2751802109852425)
+append_entries: 1
+Finish: 2024-04-28 06:24:49.530920
