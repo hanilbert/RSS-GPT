@@ -17755,3 +17755,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-28 01:25:52.903669
+------------------------------------------------------
+Started: 2024-04-28 02:31:40.095354
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新模型Vidu直逼Sora，生数科技：还说“中国sora”就太没想象力了](https://www.36kr.com/p/2752433220254720)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [国产 Sora 的秘密，藏在这个清华系大模型团队中](https://www.36kr.com/p/2751537774541568)
+append_entries: 2
+Finish: 2024-04-28 02:31:43.232065
