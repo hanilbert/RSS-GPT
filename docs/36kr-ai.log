@@ -17767,3 +17767,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [国产 Sora 的秘密，藏在这个清华系大模型团队中](https://www.36kr.com/p/2751537774541568)
 append_entries: 2
 Finish: 2024-04-28 02:31:43.232065
+------------------------------------------------------
+Started: 2024-04-28 04:21:21.753192
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-04-28 04:21:21.946186
