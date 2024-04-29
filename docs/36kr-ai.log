@@ -17906,3 +17906,15 @@ Append: [被OpenAI压制一年后，谷歌终于翻盘了](https://www.36kr.com/
 Append: [疯狂骚扰你的AI评论，背后竟是平台的小心思？](https://www.36kr.com/p/2754343897338496)
 append_entries: 3
 Finish: 2024-04-29 10:21:11.760563
+------------------------------------------------------
+Started: 2024-04-29 12:36:10.543173
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT 的对话框过时了？这款 AI 产品提供了一种很新的聊天方式](https://www.36kr.com/p/2754365523196677)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [小红书内测自研大模型“小地瓜”，社交和搜索是落地方向 | Long China 50独家](https://www.36kr.com/p/2754311490730760)
+append_entries: 2
+Finish: 2024-04-29 12:36:11.478981
