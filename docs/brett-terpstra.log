@@ -23956,3 +23956,12 @@ Existing_entries: 165
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-28 22:17:26.526470
+------------------------------------------------------
+Started: 2024-04-29 01:21:24.129091
+Existing_entries: 165
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Life after iThoughts](https://brett.trpstra.net/link/535/16666804/life-after-ithoughts)
+append_entries: 1
+Finish: 2024-04-29 01:21:25.183227
