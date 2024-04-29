@@ -17851,3 +17851,27 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-29 02:28:56.473591
+------------------------------------------------------
+Started: 2024-04-29 04:22:49.104959
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [上山下海的数据中心，背得动AI能耗的锅吗？](https://www.36kr.com/p/2753932003133185)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [对标妙鸭相机，抖音上线“星绘”APP](https://www.36kr.com/p/2753956928830214)
+Append: [Sora拍片真实体验：大力难出奇迹，全靠人工逐帧后期](https://www.36kr.com/p/2753957458918153)
+Append: [砸下650亿美元后，台积电美国工厂仍是“一场梦”](https://www.36kr.com/p/2753953844034309)
+Append: [谷歌突破2万亿美元里程碑，却被曝裁掉整个Python团队？PyTorch之父怒批离谱](https://www.36kr.com/p/2753950869420809)
+Append: [从19万个应用中，看懂AI应用的潮流涌向](https://www.36kr.com/p/2753919856999425)
+Append: [中国AI，全球掘金丨36氪新风向](https://www.36kr.com/p/2753911686052866)
+Append: [远离预制菜，「燧氏科技」炒菜机器人专注解决中餐标准化难题｜早期项目](https://www.36kr.com/p/2753854002559750)
+Append: [英特尔：被边缘化的 AI 旁观者](https://www.36kr.com/p/2750950622706697)
+Append: [过会16个月，估值200亿独角兽IPO无进展](https://www.36kr.com/p/2752843296311042)
+Append: [大模型开闭源争吵不休：开源落后闭源一年，决定模型能力的不是技术？](https://www.36kr.com/p/2751270449085449)
+Append: [折叠屏「超大杯」定档，三星再次用AI打出组合拳](https://www.36kr.com/p/2753027824797441)
+Append: [处理器AI性能平白“翻倍”？错误报道背后的故事](https://www.36kr.com/p/2753015609047812)
+Append: [这个科技财报季，人工智能无处不在](https://www.36kr.com/p/2753132659374854)
+append_entries: 14
+Finish: 2024-04-29 04:22:49.801834
