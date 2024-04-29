@@ -17893,3 +17893,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [老黄最新采访出炉，自述61年坚持成就了英伟达，AI革命点燃全世界](https://www.36kr.com/p/2754156135250949)
 append_entries: 2
 Finish: 2024-04-29 08:25:25.227593
+------------------------------------------------------
+Started: 2024-04-29 10:21:10.926969
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [笑着看完AI换脸综艺后，AI诈骗让我脊背发凉](https://www.36kr.com/p/2754346497135236)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [被OpenAI压制一年后，谷歌终于翻盘了](https://www.36kr.com/p/2754334904695810)
+Append: [疯狂骚扰你的AI评论，背后竟是平台的小心思？](https://www.36kr.com/p/2754343897338496)
+append_entries: 3
+Finish: 2024-04-29 10:21:11.760563
