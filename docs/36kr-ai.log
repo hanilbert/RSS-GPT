@@ -17881,3 +17881,15 @@ Existing_entries: 1014
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-29 06:25:59.716552
+------------------------------------------------------
+Started: 2024-04-29 08:25:24.558929
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sora大片真相：人工特效参与，被指误导大众](https://www.36kr.com/p/2754162626591751)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [老黄最新采访出炉，自述61年坚持成就了英伟达，AI革命点燃全世界](https://www.36kr.com/p/2754156135250949)
+append_entries: 2
+Finish: 2024-04-29 08:25:25.227593
