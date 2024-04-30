@@ -17998,3 +17998,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [字节跳动发起AI战争，寻找下一个TikTok](https://www.36kr.com/p/2754390729312000)
 append_entries: 2
 Finish: 2024-04-30 06:25:44.742736
+------------------------------------------------------
+Started: 2024-04-30 08:24:09.561405
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [资本高手周亚辉，能否守住500亿？](https://www.36kr.com/p/2755568584522752)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避而不答打哑谜](https://www.36kr.com/p/2755534416116736)
+Append: [拒绝机械感！30秒生成商用级歌曲，「歌歌AI」完成新一轮融资 | 36氪首发](https://www.36kr.com/p/2744495425694211)
+append_entries: 3
+Finish: 2024-04-30 08:24:10.278908
