@@ -17986,3 +17986,15 @@ Append: [大模型落地征程：兴奋、现实和难题｜36氪新风向](http
 Append: [对话多邻国：用好AI大模型后，我们的付费用户暴增超50%｜36氪专访](https://www.36kr.com/p/2754642533333760)
 append_entries: 3
 Finish: 2024-04-30 04:23:28.930737
+------------------------------------------------------
+Started: 2024-04-30 06:25:44.109652
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [今天起，这个重磅功能向 ChatGPT Plus 用户全面开放，GPT-4.5 疑似泄露， Altman 在线「吃瓜」](https://www.36kr.com/p/2755391653952260)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [字节跳动发起AI战争，寻找下一个TikTok](https://www.36kr.com/p/2754390729312000)
+append_entries: 2
+Finish: 2024-04-30 06:25:44.742736
