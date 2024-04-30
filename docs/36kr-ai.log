@@ -17973,3 +17973,16 @@ Existing_entries: 1009
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-30 02:27:10.525383
+------------------------------------------------------
+Started: 2024-04-30 04:23:28.377635
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [「AI选美大赛」能卷出多元审美吗？](https://www.36kr.com/p/2755339706153731)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [大模型落地征程：兴奋、现实和难题｜36氪新风向](https://www.36kr.com/p/2754388264647681)
+Append: [对话多邻国：用好AI大模型后，我们的付费用户暴增超50%｜36氪专访](https://www.36kr.com/p/2754642533333760)
+append_entries: 3
+Finish: 2024-04-30 04:23:28.930737
