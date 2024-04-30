@@ -17948,3 +17948,22 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-04-29 22:18:21.915676
+------------------------------------------------------
+Started: 2024-04-30 01:20:14.553007
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一两万的AIPC，只是噱头？](https://www.36kr.com/p/2755222032497416)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [“专业智能体指导”让小模型学会数学推理，微调Mistral-7B实现86.81%准确率](https://www.36kr.com/p/2755191348525824)
+Append: [原点上的失败：十倍执行力提升可以换来一个成功的AI产品么](https://www.36kr.com/p/2754783920310021)
+Append: [感觉我现在强得可怕](https://www.36kr.com/p/2755165026876167)
+Append: [2024，AI手机“元年”？](https://www.36kr.com/p/2754629993708289)
+Append: [苹果首个AI平板曝光：新iPad Pro直接上M4芯片](https://www.36kr.com/p/2754638953593858)
+Append: [苹果紧急下架，这种一键除衣的AI，太逆天了](https://www.36kr.com/p/2754700360943364)
+Append: [又翻车了？大热AI硬件rabbit r1没用上AI？](https://www.36kr.com/p/2754614245980929)
+Append: [LLM上下文窗口突破200万，无需架构变化+复杂微调，轻松扩展8倍](https://www.36kr.com/p/2754638680652802)
+append_entries: 9
+Finish: 2024-04-30 01:20:15.519755
