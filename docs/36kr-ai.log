@@ -18011,3 +18011,16 @@ Append: [神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避�
 Append: [拒绝机械感！30秒生成商用级歌曲，「歌歌AI」完成新一轮融资 | 36氪首发](https://www.36kr.com/p/2744495425694211)
 append_entries: 3
 Finish: 2024-04-30 08:24:10.278908
+------------------------------------------------------
+Started: 2024-04-30 10:20:48.183079
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Suno引爆音乐圈，与音乐人聊聊AI生成音乐与艺术的随机数](https://www.36kr.com/p/2755661211832960)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [英伟达之后，谁是下一个 AI 早期受益者？](https://www.36kr.com/p/2755622599490561)
+Append: [大厂沉默，创业公司乱斗，10余款文生视频产品，国产Sora谁最有希望？](https://www.36kr.com/p/2755497981596289)
+append_entries: 3
+Finish: 2024-04-30 10:20:52.267152
