@@ -18141,3 +18141,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-05-02 01:20:18.921101
+------------------------------------------------------
+Started: 2024-05-02 02:27:58.372127
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [3300亿美元不够用！多家AI独角兽钱包告急，裁员、CEO离职不断，大模型创业要降温？](https://www.36kr.com/p/2757006831077127)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [爆火Rabbit R1大翻车：被曝套壳安卓！质疑者IP已遭屏蔽](https://www.36kr.com/p/2756898273721351)
+append_entries: 2
+Finish: 2024-05-02 02:27:59.044566
