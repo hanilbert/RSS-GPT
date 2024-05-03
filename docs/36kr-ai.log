@@ -18231,3 +18231,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-05-03 02:30:30.454262
+------------------------------------------------------
+Started: 2024-05-03 04:24:00.363679
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美国酝酿AI「登月计划」，陶哲轩领衔62页报告重磅发布！](https://www.36kr.com/p/2756925535828737)
+append_entries: 1
+Finish: 2024-05-03 04:24:00.975279
