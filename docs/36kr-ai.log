@@ -18345,3 +18345,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-05-04 12:32:55.256349
+------------------------------------------------------
+Started: 2024-05-04 14:18:15.616859
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [山姆·奥特曼最新哈佛访谈：技术进步难以预测，未来工作形式将发生大变革](https://www.36kr.com/p/2761487863069698)
+append_entries: 1
+Finish: 2024-05-04 14:18:16.117889
