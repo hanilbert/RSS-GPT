@@ -18414,3 +18414,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [AI人才争夺战，华尔街入局：豪掷百万美元年薪抢人](https://www.36kr.com/p/2762513569135618)
 append_entries: 1
 Finish: 2024-05-05 06:25:23.801311
+------------------------------------------------------
+Started: 2024-05-05 08:22:11.263610
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+Finish: 2024-05-05 08:22:11.459312
