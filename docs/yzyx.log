@@ -14786,3 +14786,12 @@ Existing_entries: 97
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-05-06 02:32:13.259109
+------------------------------------------------------
+Started: 2024-05-06 04:23:55.644101
+Existing_entries: 97
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [E13 黄金：当我们买黄金时，我们在信仰什么？ 5月6日 早上好 ☀️ 陈鹏博士带着新一期的《投资ABC》回归啦！](https://youzhiyouxing.cn/materials/1669)
+append_entries: 1
+Finish: 2024-05-06 04:23:56.244530
