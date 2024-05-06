@@ -18495,3 +18495,15 @@ Append: [中东土豪们开始用钞能力实现“马里奥赛车”了？](htt
 Append: [Meta训AI，成本已超阿波罗登月，谷歌豪言投资超千亿美元，赛过OpenAI星际之门](https://www.36kr.com/p/2761243031550728)
 append_entries: 4
 Finish: 2024-05-06 04:23:53.069401
+------------------------------------------------------
+Started: 2024-05-06 06:26:20.535779
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [火爆的AI Agent，到底是什么？](https://www.36kr.com/p/2762721770650374)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [特斯拉Optimus人形机器人进厂打工，娴熟分装电池、自我矫正，还能走更远了](https://www.36kr.com/p/2763913262693129)
+append_entries: 2
+Finish: 2024-05-06 06:26:21.160061
