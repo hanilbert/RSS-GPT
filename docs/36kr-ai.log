@@ -18507,3 +18507,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [特斯拉Optimus人形机器人进厂打工，娴熟分装电池、自我矫正，还能走更远了](https://www.36kr.com/p/2763913262693129)
 append_entries: 2
 Finish: 2024-05-06 06:26:21.160061
+------------------------------------------------------
+Started: 2024-05-06 08:24:32.436023
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI围剿创意产业，1/3翻译和1/4插画师或将失业](https://www.36kr.com/p/2764116344404995)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [58行代码把Llama 3扩展到100万上下文，任何微调版都适用](https://www.36kr.com/p/2763971535190793)
+Append: [惨，Rabbit R1被持续扒皮：AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的](https://www.36kr.com/p/2763971405184008)
+append_entries: 3
+Finish: 2024-05-06 08:24:33.081095
