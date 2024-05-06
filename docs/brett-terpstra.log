@@ -24517,3 +24517,12 @@ Existing_entries: 170
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-06 12:35:56.878413
+------------------------------------------------------
+Started: 2024-05-06 14:20:01.124338
+Existing_entries: 170
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [BBEdit giveaway!](https://brett.trpstra.net/link/535/16674315/bbedit-giveaway)
+append_entries: 1
+Finish: 2024-05-06 14:20:02.386032

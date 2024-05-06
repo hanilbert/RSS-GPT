@@ -18549,3 +18549,15 @@ Append: [AI教母李飞飞初创AI公司，开启最前沿AI算法研究](https:
 Append: [Al加码，引爆“躺平式”旅游](https://www.36kr.com/p/2764189586668297)
 append_entries: 5
 Finish: 2024-05-06 12:36:22.922178
+------------------------------------------------------
+Started: 2024-05-06 14:20:25.984064
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI掌门人最新访谈：“末日概率”不恰当，面对AI技术革命既乐观又悲观](https://www.36kr.com/p/2764381820173316)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [两款最火的AI硬件全球首拆来了：Rabbit R1被曝套壳后又翻车 ，Ai Pin扒开后就像块智能手表？](https://www.36kr.com/p/2764333129579522)
+append_entries: 2
+Finish: 2024-05-06 14:20:26.665728
