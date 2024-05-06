@@ -21730,3 +21730,12 @@ Existing_entries: 796
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-05 22:19:18.011678
+------------------------------------------------------
+Started: 2024-05-06 01:22:17.522245
+Existing_entries: 796
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
+append_entries: 1
+Finish: 2024-05-06 01:22:18.002179
