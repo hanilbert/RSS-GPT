@@ -24100,3 +24100,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-06 08:24:13.739868
+------------------------------------------------------
+Started: 2024-05-06 10:21:28.819545
+Existing_entries: 379
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chromium 内核浏览器通过链接定位页面文本且高亮的小技巧](https://meta.appinn.net/t/topic/56058)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-06 10:21:31.166685
