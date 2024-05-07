@@ -18591,3 +18591,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-05-06 22:19:42.123975
+------------------------------------------------------
+Started: 2024-05-07 01:22:13.668672
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [美国行观察：AI行业泡沫正在形成](https://www.36kr.com/p/2764464631348227)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [中国的AIGC，都去哪“捞金”了？](https://www.36kr.com/p/2764341017121414)
+append_entries: 2
+Finish: 2024-05-07 01:22:14.674569
