@@ -18634,3 +18634,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [ChatGPT搜索引擎要来了，但它面临的麻烦还不少](https://www.36kr.com/p/2765283840883464)
 append_entries: 2
 Finish: 2024-05-07 06:26:15.203496
+------------------------------------------------------
+Started: 2024-05-07 08:23:32.864471
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI泄密者，投奔马斯克](https://www.36kr.com/p/2765417832201224)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [告别AI焦虑，普通人快速上手AI大模型的3个关键能力](https://www.36kr.com/p/2765237545355008)
+append_entries: 2
+Finish: 2024-05-07 08:23:33.831167
