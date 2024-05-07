@@ -21832,3 +21832,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
 append_entries: 1
 Finish: 2024-05-07 02:34:19.946010
+------------------------------------------------------
+Started: 2024-05-07 04:23:44.576784
+Existing_entries: 802
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
+append_entries: 1
+Finish: 2024-05-07 04:23:45.134929
