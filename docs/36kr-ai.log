@@ -18646,3 +18646,19 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [告别AI焦虑，普通人快速上手AI大模型的3个关键能力](https://www.36kr.com/p/2765237545355008)
 append_entries: 2
 Finish: 2024-05-07 08:23:33.831167
+------------------------------------------------------
+Started: 2024-05-07 10:21:11.431001
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [月之暗面撞上算力墙？](https://www.36kr.com/p/2765423594060807)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [让机器准确「看懂」手物交互动作，清华大学等提出GeneOH Diffusion方法](https://www.36kr.com/p/2765505539947523)
+Append: [斯坦福20亿参数端测多模态AI Agent模型大升级，手机汽车机器人都能用](https://www.36kr.com/p/2765505557527305)
+Append: [微调和量化竟会增加越狱风险，Mistral、Llama等无一幸免](https://www.36kr.com/p/2765505802501125)
+Append: [LeCun转发，AI让失语者重新说话，纽约大学发布全新「神经-语音」解码器｜Nature子刊](https://www.36kr.com/p/2765505810643720)
+Append: [美国空军高调展示首个AI战斗机，部长亲自试驾全程未干预，10万行代码试飞21次](https://www.36kr.com/p/2765427188562695)
+append_entries: 6
+Finish: 2024-05-07 10:21:12.565321
