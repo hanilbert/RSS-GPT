@@ -18603,3 +18603,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [中国的AIGC，都去哪“捞金”了？](https://www.36kr.com/p/2764341017121414)
 append_entries: 2
 Finish: 2024-05-07 01:22:14.674569
+------------------------------------------------------
+Started: 2024-05-07 02:34:33.861187
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人形机器人迎来新奇点：特斯拉“画大饼”，波士顿“赚眼泪”](https://www.36kr.com/p/2764582349831175)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [人形机器人公司“加速进化”完成新一轮数千万融资，源码资本领投 | 36氪首发](https://www.36kr.com/p/2763857275108098)
+Append: [大模型不需要眼前的共识](https://www.36kr.com/p/2765172162722567)
+append_entries: 3
+Finish: 2024-05-07 02:34:34.589441
