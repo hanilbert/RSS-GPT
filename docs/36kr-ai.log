@@ -18622,3 +18622,15 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/36kr/motif/327686782977
 append_entries: 0
 Finish: 2024-05-07 04:23:58.775241
+------------------------------------------------------
+Started: 2024-05-07 06:26:14.551305
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [​拆解AI四小龙：只闻新人笑，不见旧人愁](https://www.36kr.com/p/2765289688434434)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatGPT搜索引擎要来了，但它面临的麻烦还不少](https://www.36kr.com/p/2765283840883464)
+append_entries: 2
+Finish: 2024-05-07 06:26:15.203496

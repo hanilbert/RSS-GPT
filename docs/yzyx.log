@@ -14867,3 +14867,12 @@ Existing_entries: 98
 Fetching from https://rsshub.app/youzhiyouxing/materials
 append_entries: 0
 Finish: 2024-05-07 04:24:01.546123
+------------------------------------------------------
+Started: 2024-05-07 06:26:18.266448
+Existing_entries: 98
+Fetching from https://rsshub.app/youzhiyouxing/materials
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [四月市场不平静，海外长钱不偏航 5月7日 以日股、美股为例，说说我们该如何看待汇率和股市波动](https://youzhiyouxing.cn/materials/1671)
+append_entries: 1
+Finish: 2024-05-07 06:26:18.660905
