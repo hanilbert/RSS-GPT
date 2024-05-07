@@ -18662,3 +18662,10 @@ Append: [LeCun转发，AI让失语者重新说话，纽约大学发布全新「�
 Append: [美国空军高调展示首个AI战斗机，部长亲自试驾全程未干预，10万行代码试飞21次](https://www.36kr.com/p/2765427188562695)
 append_entries: 6
 Finish: 2024-05-07 10:21:12.565321
+------------------------------------------------------
+Started: 2024-05-07 12:35:17.701871
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/36kr-ai
