@@ -25339,3 +25339,12 @@ Existing_entries: 174
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-17 18:25:54.805846
+------------------------------------------------------
+Started: 2024-05-17 20:20:37.344887
+Existing_entries: 174
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The MacUpdater giveaway winners!](https://brett.trpstra.net/link/535/16685793/the-macupdater-giveaway-winners)
+append_entries: 1
+Finish: 2024-05-17 20:20:38.330678
