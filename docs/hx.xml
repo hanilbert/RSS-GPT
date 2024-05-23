@@ -4,12 +4,12 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+
 <item>
 <title>在群晖部署 n8n 的一些坑和经验</title>
 <link>https://1q43.blog/post/5821</link>
 <guid>https://1q43.blog/post/5821</guid>
 <content:encoded><![CDATA[
-
 <p>n8n 是一个开源的低代码平台，能够让你在不写一行代码的情况下，完成自动化程序。我之前在<a href="https://1q43.blog/post/1202">做明日故乡</a>和<a href="https://1q43.blog/post/1112">利用AI打造阅读系统</a>的时候都有尝试过。</p>
 
 
@@ -257,9 +257,7 @@
 <p>如果你有其他 n8n 使用上的问题，也可以在这篇下面留言，我知道的尽量回复。</p>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 03:40:56 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 03:40:56 +0000</pubDate>
 </item>
-
 <item>
 <title>学习笔记：关于 AI 在心理咨询领域的应用</title>
 <link>https://1q43.blog/post/5721</link>
