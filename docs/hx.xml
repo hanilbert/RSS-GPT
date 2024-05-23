@@ -4,6 +4,261 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+<item>
+<title>在群晖部署 n8n 的一些坑和经验</title>
+<link>https://1q43.blog/post/5821</link>
+<guid>https://1q43.blog/post/5821</guid>
+<content:encoded><![CDATA[
+
+<p>n8n 是一个开源的低代码平台，能够让你在不写一行代码的情况下，完成自动化程序。我之前在<a href="https://1q43.blog/post/1202">做明日故乡</a>和<a href="https://1q43.blog/post/1112">利用AI打造阅读系统</a>的时候都有尝试过。</p>
+
+
+
+<p>最近一年，随着大模型的流行，n8n 也越来越火，毕竟这是最方便、最低成本让普通人可以打造自己 AI 工具（而不是使用别人的工具）的方法。</p>
+
+
+
+<p>我的 n8n 此前一直是在群晖上部署的，这样意味着一年可以少一份订阅式的费用，还不用担心存储的问题。当然最主要的，还是觉得群晖的 CPU 日常限制着，有些浪费。</p>
+
+
+
+<p>但在实际使用过程中，在群晖上使用 n8n 还是存在问题的。</p>
+
+
+
+<p>先说结论：建议别搞，不如用<a href="https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/?ref=11379">我的链接</a>去 CloudCone 上买个服务器，才 400 一年。</p>
+
+
+
+<p>但你一定要搞，本文是一些我踩过的坑。本文不是一个部署教程，因为某种程度上 n8n 的适应性很高，在群晖上属于一键部署。你只要会用群晖上的 Docker，直接搜 n8n 建容器就行。</p>
+
+
+
+<h2 class="wp-block-heading">第一坑：Editor 无响应</h2>
+
+
+
+<p>这是一个很奇怪的 bug，它的状况是这样的，你在 n8n 的 Editor 里运行了一个 Workflow，但它没有实时显示出运行到了哪个 node。并且此时，你点击 Stop，它也不会停止。但当你再次停止的时候，会发现它提示无法停止一个已经停止的 Workflow。</p>
+
+
+
+<p>然而，当你进入 Executions 查看运行记录的时候，你会发现 Workflow 一开始其实是正常运行了，当你点了 Stop，其实也会正常停止。这意味着，这个 BUG 实际不会影响 Workflow 的运作，最大的影响是你在编制 Workflow 的过程中，调试会变得非常麻烦。尤其是因为没有办法看到执行结果，你也就没法以拖拽的形式从上一个 Node 输出的变量拖到下一个 Node。这简直是让 n8n 作为可视化 lowcode 的作用减半。</p>
+
+
+
+<p>我在网上搜索了很久，在 n8n 的 Github 里有一个相关 <a href="https://github.com/n8n-io/n8n/issues/4162">Issue</a>，但因为环境与我不同，因此并没有给我太大的帮助。</p>
+
+
+
+<p>真正的解决方法：<strong>不要使用群晖 Web Station 作为网页门户让 n8n 进行外部访问。</strong></p>
+
+
+
+<p>使用 <strong>控制面板&gt;登录门户&gt;高级&gt;反向代理服务器</strong> 这里的反向代理来配置 n8n 的外部访问。配置十分简单：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5824" height="591" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/05/image-288446-PjbPTw78.png?resize=640%2C591&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>但到此为止，问题仍然没有解决，因为实际上这个问题是 n8n 前端无法通过 WebSocket 与后端沟通导致的。因此，需要继续点击上面的“自定义标题”。然后选择 <strong>新增 &gt; WebSocket</strong>：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5825" height="606" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/05/image-576076-W4soLsx4.png?resize=640%2C606&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>它会默认增加两个方法的代理，一个是 Upgrade 一个是 Conncection，直接保存就行。如果以后的 DSM 版本没有自动填入，那么你手动填入以下就可以：</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>标题名称</td><td>值</td></tr><tr><td>Upgrade</td><td>$http_upgrade</td></tr><tr><td>Connection</td><td>$connection_upgrade</td></tr></tbody></table></figure>
+
+
+
+<p>至此为止，大功告成。你的 n8n Editor 应该已经可以正常响应运行状态了。</p>
+
+
+
+<p>这个方法其实并不是我原创的，而是根据<a href="https://mariushosting.com/how-to-install-n8n-on-your-synology-nas/">这篇英文的教程</a>推导出来的。</p>
+
+
+
+<p>这篇英文的教程原本写的是如何在群晖上安装 n8n，但其实你不用 follow 那个教程，因为它单独在群晖上安装了一个第三方 Docker 管理器 Portainer，这个是没必要的。如果你在群晖上还没部署，其实直接在 DSM 7.0 以上的自带 Container Manager 里直接搜 n8n 安装就能用了。</p>
+
+
+
+<p>环境变量设置上，可以参考我的：</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td></td><td></td><td>备注</td></tr><tr><td>N8N_Prot</td><td> 5678</td><td> Docker端口</td></tr><tr><td>N8N_PROTOCOL</td><td>https</td><td>开启 https 访问</td></tr><tr><td>N8N_HOST</td><td>你的名字.familyds.net</td><td>你用于外网访问的DDNS，不带端口，如不想从外网访问可以不设。</td></tr><tr><td>N8N_WEBHOOK</td><td>https://你的名字.familyds.net:5680/</td><td>n8n 用于接 Web hook 的地址，和你从外网访问 n8n 的地址是一个，要带协议头。</td></tr><tr><td>GENERIC_TIMEZONE</td><td>Asia/Shanghai</td><td>设置 n8n 的默认时区</td></tr></tbody></table></figure>
+
+
+
+<p>另外，就是要设置一下永久化存储：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5845" height="143" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/05/image-633125-NHy69MmJ.png?resize=640%2C143&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>在群晖中找一个目录，把它映射到 n8n Docker 的 /home/node/.n8n/ 里。否则的话，你的 n8n 虽然可以正常运行，但你下次用 Docker 升级 n8n 版本的时候，你的数据和 workflow 就全都被清空了。</p>
+
+
+
+<h2 class="wp-block-heading">第二坑：外网访问</h2>
+
+
+
+<p>这个其实不算坑啦，就是有些人可能比较困惑，到底怎么设置端口才能让外网访问到群晖上的 n8n。</p>
+
+
+
+<p>这里就简单讲一下。</p>
+
+
+
+<p>首先，你的群晖本身要能被外网访问，这里有几个先决条件：</p>
+
+
+
+<ol>
+<li>如果是家庭宽带，你首先要有公网 IP，这个需要打电信或联通的客服来获得，网上有教程自己搜。</li>
+
+
+
+<li>在 <strong>控制面板&gt;外部访问&gt;DDNS</strong> 中新增一个 DDNS，为了方便，你可以直接用群晖的。</li>
+
+
+
+<li>让群晖出现在公网上，这里有两种选择：
+<ul>
+<li>UPnP（推荐）：<strong>控制面板 &gt; 外部访问 &gt; 路由器配置</strong> 里开启 UPnP。</li>
+
+
+
+<li>DMZ：在路由器中直接设置 DMZ 为群晖的内网 IP。</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p>我不推荐 DMZ 的原因是我不放心群晖的安全性，使用 UPnP 能更好的控制群晖的哪些端口可以被外网访问。</p>
+
+
+
+<p>那在选择 UPnP 的情况下，IP 设置就会有些拧巴。</p>
+
+
+
+<p>首先，我们上面的环境变量里设置了 N8N 为 5678，这是 <strong>Docker 端口</strong>（容器端口）。但 Docker 一般与主机之间采用桥接网络，这意味着你还有一个<strong>本地端口</strong>。最后，为了让外部访问，你还需要有一个<strong>外部端口</strong>。</p>
+
+
+
+<p>网络链路实际上是这样的：</p>
+
+
+
+<p>N8N ➡️ 群晖本地 ➡️ 路由器（外网）</p>
+
+
+
+<p>在使用群晖的 Docker 安装 n8n 的过程中，如果你不小心勾选了用 Web Station 代理 n8n 那么你会在 n8n 的项目设置里发现 5678 这个端口已经被永久占用了：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5835" height="178" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/05/image-728906-p6A1hfuS.png?resize=640%2C178&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>不过没关系，你只要新增一个端口转发，在容器端口处填写 5679，然后在本地端口填入 5679 就行了。如果你用了非默认的容器端口，那么就需要参照我上面的环境变量设置将其修改为你实际的容器端口。</p>
+
+
+
+<p>本地端口可以和容器端口不一致。</p>
+
+
+
+<p>这样设置完成之后，进入 <strong>控制面板&gt;登录门户&gt;高级&gt;反向代理服务器</strong>，按照我在坑 1 的截图里那样设置。来源是你的 DDNS 地址，端口是你未来想实际访问 n8n 时的端口，也就是外部端口。目的地是 localhost，端口是<strong>本地端口</strong>。</p>
+
+
+
+<p>最后，<strong>控制面板 &gt; 外部访问 &gt; 路由器配置</strong> 里设置 UPnP。在这里，你应该可以选择新增 内置应用程序，然后直接选择已经建立好的 n8n 反向代理。</p>
+
+
+
+<h2 class="wp-block-heading">第三坑：连接大模型</h2>
+
+
+
+<p>这个是最坑的，如果你的群晖放在大陆，并且希望 n8n 连接大模型，我劝你从这里开始打消念头。因为首先，群晖本身上真网就比较困难。</p>
+
+
+
+<p>但当你废了九牛二虎之力给群晖搞上真网之后，却发现 n8n 里不起作用。哪怕你设置了 HTTP_PROXY 和 HTTPS_PROXY，n8n 的某些节点依然不能访问那些不该访问的网站。</p>
+
+
+
+<p>简单来说，n8n 的部分节点，使用了一个名为 Axios 的库发起网络请求。而这个库有一个长达 4 年的问题，就是它<a href="https://github.com/axios/axios/issues/3384">无法通过 HTTP 协议代理 HTTPS 链接</a>。它要求，你填写在 HTTPS_PROXY 的那个地址，必须是一个带有证书的 https 地址，而不是小猫咪的本地 IP 地址。这意味着中国人熟悉的那些透明代理，全都不能用。</p>
+
+
+
+<p>Axios 库本身有一些打补丁的方法来解决这个问题，但被打包在 n8n 里的 Axios 不能解决这个问题。</p>
+
+
+
+<p>有三个临时解决方案：</p>
+
+
+
+<ol>
+<li>使用一个旁路由，实现群晖物理上游的全屋真网。</li>
+
+
+
+<li>在 Workflow 的设置中，将 Execution Order 改为 v0(legacy)。</li>
+
+
+
+<li>使用 HTTP Request 节点来代替 LLM 节点，直接向大模型发起请求。</li>
+</ol>
+
+
+
+<p>这三种方法只有第一种是完美的，但大部分人可能没法实现这个方案。</p>
+
+
+
+<p>第二个方法的问题是，有些节点即便是在 <strong>v0(legacy)</strong> 下也会无视环境变量中的代理设置，比如 RSS Read 和 RSS Feed Triger。而且，这个是 n8n 在 1.0 版本之前的执行库，指不定哪天就下了。</p>
+
+
+
+<p>第三个方法的问题是，n8n 的 AI Agent node 不能连接 HTTP Request，这意味着你不能用它来做包含 Chatbot 或 LangChain 的 Workflow。</p>
+
+
+
+<p>所以，其实在群晖上部署 n8n 坑还是蛮多的。你真的想要用 n8n 连接大模型嵌入自己日常的工作流，那你还是可以考虑在国外买个服务器来完成这件事，一年也就 400 块钱左右。</p>
+
+
+
+<p>CloudCone 目前刚刚开启了 2024 年的促销 4CPU\4GB\220GB 的机器一年只要 55.9 刀，如果你感兴趣，可以通过<a href="https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/?ref=11379">这个链接</a>去看看，会给我返利。除了这个机型之外，还有更便宜的可以选择，跑 n8n 绰绰有余：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-5848" height="311" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/05/image-625041-yWqxjy1a.png?resize=640%2C311&#038;ssl=1" width="640" /></figure>
+
+
+
+<p>如果你有其他 n8n 使用上的问题，也可以在这篇下面留言，我知道的尽量回复。</p>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 03:40:56 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 03:40:56 +0000</pubDate>
+</item>
 
 <item>
 <title>学习笔记：关于 AI 在心理咨询领域的应用</title>
