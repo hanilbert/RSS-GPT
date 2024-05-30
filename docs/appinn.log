@@ -26443,3 +26443,11 @@ Append: [SubtitleMaster - 字幕翻译工具，为你的视频添加国际化视
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-05-30 10:21:37.387034
+------------------------------------------------------
+Started: 2024-05-30 12:37:23.801818
+Existing_entries: 410
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-30 12:37:26.614914
