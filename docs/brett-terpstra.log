@@ -26362,3 +26362,12 @@ Existing_entries: 181
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-31 16:25:25.950138
+------------------------------------------------------
+Started: 2024-05-31 18:25:30.531868
+Existing_entries: 181
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The DEVONthink giveaway winners!](https://brett.trpstra.net/link/535/16700012/the-devonthink-giveaway-winners)
+append_entries: 1
+Finish: 2024-05-31 18:25:31.864700
