@@ -26500,3 +26500,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-31 01:25:03.931010
+------------------------------------------------------
+Started: 2024-05-31 02:33:48.885108
+Existing_entries: 411
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [全平台通用换源工具 chsrc](https://meta.appinn.net/t/topic/57121)
+append_entries: 1
+Finish: 2024-05-31 02:33:51.194729
