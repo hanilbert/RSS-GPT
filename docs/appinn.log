@@ -27151,3 +27151,11 @@ Append: [曝光这家无良公司！制作假冒App还上架到了应用商店](
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-06-06 16:25:02.110810
+------------------------------------------------------
+Started: 2024-06-06 18:26:03.151472
+Existing_entries: 422
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-06-06 18:26:06.661490
