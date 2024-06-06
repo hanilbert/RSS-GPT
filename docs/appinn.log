@@ -27109,3 +27109,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-06 06:27:17.532217
+------------------------------------------------------
+Started: 2024-06-06 08:25:26.227958
+Existing_entries: 420
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [请问有调用本地LLM的网页翻译类浏览器扩展吗？](https://meta.appinn.net/t/topic/57373)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-06 08:25:28.922940
