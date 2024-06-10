@@ -27085,3 +27085,12 @@ Existing_entries: 186
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-06-10 12:38:52.496591
+------------------------------------------------------
+Started: 2024-06-10 14:21:11.908679
+Existing_entries: 186
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Audio Hijack giveaway!](https://brett.trpstra.net/link/535/16709654/audio-hijack-giveaway)
+append_entries: 1
+Finish: 2024-06-10 14:21:13.094921
