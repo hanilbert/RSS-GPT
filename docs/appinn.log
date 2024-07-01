@@ -29542,3 +29542,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【自荐-效率工具】Vimo Rebinder - 让键盘操作丝滑流畅](https://meta.appinn.net/t/topic/58249)
 append_entries: 1
 Finish: 2024-07-01 10:25:31.234852
+------------------------------------------------------
+Started: 2024-07-01 12:40:28.019313
+Existing_entries: 445
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-07-01 12:40:31.954506
