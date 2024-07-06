@@ -28987,3 +28987,12 @@ Existing_entries: 198
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-06 12:35:44.544102
+------------------------------------------------------
+Started: 2024-07-06 14:16:51.344756
+Existing_entries: 198
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Marked giveaway winners!](https://brett.trpstra.net/link/535/16735776/the-marked-giveaway-winners)
+append_entries: 1
+Finish: 2024-07-06 14:16:52.279782
