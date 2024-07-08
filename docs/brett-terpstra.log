@@ -29105,3 +29105,10 @@ Existing_entries: 199
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-08 04:25:22.665976
+------------------------------------------------------
+Started: 2024-07-08 06:29:22.442545
+Existing_entries: 199
+Fetching from https://brett.trpstra.net/brettterpstra
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/brett-terpstra
