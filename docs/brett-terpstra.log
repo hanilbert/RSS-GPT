@@ -29493,3 +29493,12 @@ Existing_entries: 200
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-13 14:17:02.511994
+------------------------------------------------------
+Started: 2024-07-13 16:22:54.052062
+Existing_entries: 200
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Dropzone giveaway winners!](https://brett.trpstra.net/link/535/16742551/the-dropzone-giveaway-winners)
+append_entries: 1
+Finish: 2024-07-13 16:22:55.258666
