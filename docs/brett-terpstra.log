@@ -29865,3 +29865,12 @@ Existing_entries: 202
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-18 16:25:26.431460
+------------------------------------------------------
+Started: 2024-07-18 18:28:23.264999
+Existing_entries: 202
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Marked 2.6.39 with Streaming Preview fixes](https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes)
+append_entries: 1
+Finish: 2024-07-18 18:28:24.461167
