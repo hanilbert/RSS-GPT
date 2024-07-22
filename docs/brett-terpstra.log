@@ -30148,3 +30148,12 @@ Fetching from https://brett.trpstra.net/brettterpstra
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/brett-terpstra
+------------------------------------------------------
+Started: 2024-07-22 16:26:16.818720
+Existing_entries: 204
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Backblaze giveaway!](https://brett.trpstra.net/link/535/16750019/backblaze-giveaway)
+append_entries: 1
+Finish: 2024-07-22 16:26:18.061934
