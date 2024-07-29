@@ -20677,3 +20677,12 @@ Existing_entries: 31
 Fetching from https://1q43.blog/feed
 append_entries: 0
 Finish: 2024-07-29 02:40:29.842291
+------------------------------------------------------
+Started: 2024-07-29 04:24:54.653560
+Existing_entries: 31
+Fetching from https://1q43.blog/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Coze收费后，普通人最应该学的AI低代码产品是这个](https://1q43.blog/post/6060)
+append_entries: 1
+Finish: 2024-07-29 04:24:56.775568

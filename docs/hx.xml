@@ -4,6 +4,135 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+<item>
+<title>Coze收费后，普通人最应该学的AI低代码产品是这个</title>
+<link>https://1q43.blog/post/6060</link>
+<guid>https://1q43.blog/post/6060</guid>
+<content:encoded><![CDATA[
+
+<p>从 ChatGPT 上线以来，有一句流行语说“AI 不会淘汰人，只会淘汰那些不会用 AI 的人”。</p>
+
+
+
+<p>然后很多非技术出身的人，对 AI 的认知始终处于朦胧的状态——有时，他们觉得 AI 无所不能，但有时又觉得 AI 什么都做不到。</p>
+
+
+
+<p>出现这种状态的原因很简单，对于非技术人员来说，无法分清 AI 作为一种产品和 AI 作为一种技术分别的能力与局限性。</p>
+
+
+
+<p>比如，我的同事会问我：为什么他的 ChatGPT 不能批量处理表格中的数据。</p>
+
+
+
+<p>这是由于 ChatGPT 是一个产品，在工程设计上，它不被允许在对话过程中自我调用。这意味着，你无法让 ChatGPT 根据 Excel 中的某一列单元格里的内容，去输出另一列单元格里的内容。</p>
+
+
+
+<p>还有同事会问我：我为什么用你给我的 OpenAI API，无法实时搜索互联网上的信息。</p>
+
+
+
+<p>这是因为 API 不是一个产品，它不具备任何大模型之外的工程型能力，如果希望既能搜索资料，又使用 API 的某些能力，那么就需要额外搭建一个工具，帮助 API 来读取互联网上搜索到的信息。</p>
+
+
+
+<p>如果我们把 AI 比做人，那么我们可以这样理解：</p>
+
+
+
+<p><strong>AI 产品（如 ChatGPT、豆包） &#8211;</strong> 是一个被厂商在手里塞满了固定工具的人，它除了对话和思考，还可以使用厂商规定的功能帮你完成一些任务。但由于成本和安全的限制，一般厂商会在它的思考能力、输出能力和能使用什么工具上有所限制。</p>
+
+
+
+<p><strong>AI API &#8211;</strong> 是一个手中没有任何工具的人，你除了和它对话和思考（使用它脑内的知识），它无法帮你做任何其它的事情。但是，你可以将一些自己需要的工具（比如 Excel、Notion）放到它的手上，这个时候它就能按照你的要求行动。</p>
+
+
+
+<p>这落在实际使用上的结果，就是 ChatGPT 可以直接阅读阅读 PDF 文档，但你的 PDF 文档可能不能超过 10 万字（受限于 OpenAI 的成本）。而 GPT-4o 的 API 无法直接读取 PDF，但当你搭建好一个工作流让它能够读取 PDF 的时候，它就能阅读 100 万字的 PDF，但成本是由你来承担的。</p>
+
+
+
+<p>这个时候我们就会发现，为了让 AI 能够发挥它最大的作用，我们最好是使用 API 的方式来使用 AI。但同时，为了让这个“双手自由”的 AI 手里能用上趁手的工具，我们需要自己为它打造一些工具，也就是设计一些工程，让 AI 能够与这个世界互动。</p>
+
+
+
+<p>但问题来了：我原本就不是技术人员，我如何打造工具给 AI 来用呢？</p>
+
+
+
+<p>那就是 n8n。</p>
+
+
+
+<p>以上这段，是我和<a href="https://web.okjike.com/u/bb9f32a4-a2ee-40a7-af01-a9b4949cd365" rel="noreferrer noopener" target="_blank">@汐笺 </a>写的 n8n 中文教程的序言种摘录的片段，这个教程刚刚正式上线，你可以在这里取用：<a href="http://n8n.akashio.com/">http://n8n.akashio.com/</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-6061" height="390" src="https://1q43.blog/wp-content/uploads/2024/07/image-327944-6oQt7GcR.png" width="690" /></figure>
+
+
+
+<p>n8n 是一个 Coze 的开源免费上位替代，一个可视化低代码自动化 Workflow 平台，能够方便的让不会写代码的朋友体验 AI 开发的乐趣和效果。</p>
+
+
+
+<p>用它可以轻易的创建很多扣子完成不了的复杂自动化 Workflow。比如 Webhook 触发，比如 1000 多种第三方接入，比如发起自定义的 HTTP Request。</p>
+
+
+
+<p>并且因为 n8n 不是从这一轮 AI 浪潮才开始做的，所以它的生态也比这一轮 AI 后才涌现出的 Workflow 工具（比如 Dify）更完善，官方接入的集成服务更多，社区更活跃。基本上来说，如果你是那种办公室的文职人员，之前曾经想过要更高效的处理文案和数据工作去学 Python，那有了 n8n 之后，那就可以不用去学 Python 了。因为 n8n 编排一个自动化流程是这样的，你根本不需要写代码：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-6062" height="1024" src="https://1q43.blog/wp-content/uploads/2024/07/image-280146-TmMHl0to-955x1024.png" width="955" /></figure>
+
+
+
+<p>在这一轮 AI 崛起以后，其实有很多所谓 AI 原生的 Workflow 工具在社交平台都非常的火，比如 Coze 和 Dify。但经过我们的对比发现，其实还是 n8n 这个相对老牌（2019年上线）的自动化工具在个人使用上的<strong>性价比</strong>更好：</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-6063" height="626" src="https://1q43.blog/wp-content/uploads/2024/07/cleanshot-2024-07-29-at-0957082x-261820-li9EXPB4-1024x626.png" width="1024" /></figure>
+
+
+
+<p>而对于 AI 的部分，n8n 的接入方式也更加自由，采用的是 BYOK 的方式，你可以按需用你自己的 API Key，直接给你享用的模型付费，而不是受到 Workflow 平台的限制买昂贵的调用包。</p>
+
+
+
+<p>比如我基本就只用 Google Gemini，因为在现阶段几乎就是免费的，而效果却和 OpenAI 的差不多。</p>
+
+
+
+<p>我在去年做明日故乡的时候就已经开始用 n8n 了，这一年 n8n 的进步可以说是飞速，已经变得越来越好用了。</p>
+
+
+
+<p>这个教程其实我们在 7 月初就大概写好了，但中间因为调试上线耽误了一些时间。正好赶上这段时间 Coze 开始收费了，很多人在找替代品。</p>
+
+
+
+<p>感觉是时候让 n8n 在中文圈子里火一下了。</p>
+
+
+
+<p>这个教程还非常基础，肯定没法解决 n8n 使用中的所有问题，所以也同时在教程里放一个群出来。有玩 n8n 的同学，欢迎扫码入群。</p>
+
+
+
+<p>群和教程都是免费的，欢迎随意加入/取用。</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-luminous-vivid-orange-background-color has-background has-text-align-center wp-element-button" href="http://n8n.akashio.com/" style="border-radius: 10px;">n8n教程</a></div>
+</div>
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 02:20:22 +0000</pubDate>
+<pubDate>Mon, 29 Jul 2024 02:20:22 +0000</pubDate>
+</item>
 
 <item>
 <title>下沉地区的基建，5 年后还有人修吗？</title>
