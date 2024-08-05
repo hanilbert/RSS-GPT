@@ -31189,3 +31189,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [TextBuddy giveaway!](https://brett.trpstra.net/link/535/16762411/textbuddy-giveaway)
 append_entries: 1
 Finish: 2024-08-05 18:28:58.860057
+------------------------------------------------------
+Started: 2024-08-05 20:21:28.100309
+Existing_entries: 211
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Speed up development with Howzit templates](https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates)
+append_entries: 1
+Finish: 2024-08-05 20:21:29.166469
