@@ -31687,3 +31687,12 @@ Existing_entries: 215
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-08-12 12:42:29.738839
+------------------------------------------------------
+Started: 2024-08-12 14:23:12.091566
+Existing_entries: 215
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SoundSource giveaway!](https://brett.trpstra.net/link/535/16768875/soundsource-giveaway)
+append_entries: 1
+Finish: 2024-08-12 14:23:13.533860
