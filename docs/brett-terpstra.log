@@ -32728,3 +32728,12 @@ Existing_entries: 220
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-08-26 18:28:24.665176
+------------------------------------------------------
+Started: 2024-08-26 20:23:28.745814
+Existing_entries: 220
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Obsidian Sync giveaway!](https://brett.trpstra.net/link/535/16782672/obsidian-sync-giveaway)
+append_entries: 1
+Finish: 2024-08-26 20:23:29.655321
