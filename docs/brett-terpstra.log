@@ -33267,3 +33267,15 @@ Existing_entries: 263
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-02 12:43:44.515651
+------------------------------------------------------
+Started: 2024-09-02 14:20:37.551768
+Existing_entries: 263
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Planter 3.0](https://brett.trpstra.net/link/535/16790895/planter-3-dot-0)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Morpho Converter Pro giveaway!](https://brett.trpstra.net/link/535/16790879/morpho-converter-pro-giveaway)
+append_entries: 2
+Finish: 2024-09-02 14:20:38.876821
