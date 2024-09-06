@@ -33573,3 +33573,12 @@ Existing_entries: 265
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-06 16:28:25.367602
+------------------------------------------------------
+Started: 2024-09-06 18:29:41.763803
+Existing_entries: 265
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Morpho Converter Pro giveaway winners!](https://brett.trpstra.net/link/535/16795843/the-morpho-converter-pro-giveaway-winners)
+append_entries: 1
+Finish: 2024-09-06 18:29:42.617559
