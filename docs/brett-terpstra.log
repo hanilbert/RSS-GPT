@@ -34244,3 +34244,12 @@ Existing_entries: 280
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-15 14:18:59.790697
+------------------------------------------------------
+Started: 2024-09-15 16:26:47.664901
+Existing_entries: 280
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Marky is back](https://brett.trpstra.net/link/535/16809038/marky-is-back)
+append_entries: 1
+Finish: 2024-09-15 16:26:49.217322
