@@ -34313,3 +34313,12 @@ Existing_entries: 281
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-16 12:45:56.005546
+------------------------------------------------------
+Started: 2024-09-16 14:22:31.925610
+Existing_entries: 281
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Keep It giveaway!](https://brett.trpstra.net/link/535/16810187/keep-it-giveaway)
+append_entries: 1
+Finish: 2024-09-16 14:22:32.982008
