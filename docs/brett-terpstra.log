@@ -35195,3 +35195,12 @@ Existing_entries: 285
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-28 14:19:05.339492
+------------------------------------------------------
+Started: 2024-09-28 16:26:38.953276
+Existing_entries: 285
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Screen Studio giveaway winner!](https://brett.trpstra.net/link/535/16824785/the-screen-studio-giveaway-winner)
+append_entries: 1
+Finish: 2024-09-28 16:26:40.168162
