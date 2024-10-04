@@ -35636,3 +35636,12 @@ Existing_entries: 288
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-04 14:22:12.507050
+------------------------------------------------------
+Started: 2024-10-04 16:29:23.423457
+Existing_entries: 288
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Web Excursions for October 04, 2024](https://brett.trpstra.net/link/535/16834045/web-excursions-for-october-04-2024)
+append_entries: 1
+Finish: 2024-10-04 16:29:24.727342
