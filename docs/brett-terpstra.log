@@ -36665,3 +36665,12 @@ Existing_entries: 293
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-18 16:28:38.552355
+------------------------------------------------------
+Started: 2024-10-18 18:31:09.938633
+Existing_entries: 293
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The OmniPlan giveaway winners!](https://brett.trpstra.net/link/535/16858577/the-omniplan-giveaway-winners)
+append_entries: 1
+Finish: 2024-10-18 18:31:11.031619
