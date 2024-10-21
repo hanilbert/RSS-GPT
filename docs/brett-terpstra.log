@@ -36875,3 +36875,12 @@ Existing_entries: 295
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-21 12:46:40.068289
+------------------------------------------------------
+Started: 2024-10-21 14:22:30.517448
+Existing_entries: 295
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Typora giveaway!](https://brett.trpstra.net/link/535/16861059/typora-giveaway)
+append_entries: 1
+Finish: 2024-10-21 14:22:31.471488
