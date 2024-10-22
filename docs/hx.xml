@@ -4,6 +4,451 @@
 <title>虹线</title>
 <link>https://1q43.blog</link>
 
+<item>
+<title>Apple Watch 健康、运动类 App 个人横评</title>
+<link>https://1q43.blog/post/7728</link>
+<guid>https://1q43.blog/post/7728</guid>
+<content:encoded><![CDATA[
+
+<p>去年 10 月份，我的随身附件<a href="https://1q43.blog/post/1513">从 Galaxy Watch 切换到了 Apple Watch</a>，这让我在健康 App 上的选择多了好多。</p>
+
+
+
+<p>毕竟，众所周知，Android 手表的第三方生态几近于无。Apple Watch 这边虽然最早被认为是美丽废物，但这些年有用的 App 也多了起来。</p>
+
+
+
+<p>但戴了 Apple Watch 多年的用户，可能由于用户习惯的原因，一直没有购买任何 App，所以总觉得 Apple Watch 在运动健康的功能上似乎还赶不上国产 Android 手表。</p>
+
+
+
+<p>在这一年期间，我也算是买了一些主流的 Apple Watch 联动的运动、健康类 App，在这里也算做个大横评。</p>
+
+
+
+<p>我将我正在使用的 App 分为运动类和健康类两大项。</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-7808" height="536" src="https://1q43.blog/wp-content/uploads/2024/10/image-371954-gohz0NIw-1024x536.png" width="1024" /><figcaption class="wp-element-caption">本文，可以配合我录制的<a href="https://www.xiaoyuzhoufm.com/episodes/67174f5aedb5ad730b4693f8">这期播客</a>一起食用</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">我在用：</h2>
+
+
+
+<h3 class="wp-block-heading">健康类</h3>
+
+
+
+<p>我对健康类的诉求其实是这样的：这个 App 必须提供 iPhone 上内置的健康之外的分析功能，如果只是将健康里的数据拿出来以更好看的图表呈现，那么我大概率会弃用，这就是为什么我弃用了 Grow 和 Otter Life。</p>
+
+
+
+<p>更具体来说，<strong>我希望理想中的健康 App，是能够将我日常生活方式的行为，与我一天、一周、一个月和更长时间区间中的趋势结合，给出更具指导意义的发现和洞见。</strong>从这个角度来说，目前我只发现 Welltory 一个 App 实现了。</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://welltory.com/">Welltory</a></h4>
+
+
+
+<p>这是一个我从 Galaxy Watch 时代就买断了的 App。</p>
+
+
+
+<p>Welltory 的愿景是成为一个 All in One 的健康监测和管理工具，它主要通过分析你的日常活动与 HRV 之间的关系来给出健康建议。我曾在<a href="https://1q43.blog/post/1513">这篇文章</a>里简要介绍过它。</p>
+
+
+
+<p>HRV 是 heart rate variability，心率变异性，是一个可以用于衡量我们身体状况的重要指标。如果你是 Apple Watch 用户，这几年一定也在小红书上查到过很多依据 HRV 测量心情或运动状态的 App。</p>
+
+
+
+<p>但不得不说，几乎所有的国产 HRV 检测 App 都不太准，因为 HRV 是一个非常复杂的复合指标，它可以被拆解为 SDNN、HR、Mean HR、rMSSDD、pNN50、MxDMn、Moda、CV、AMo50、SNS、PSNS 等数十个完全不同的指标。</p>
+
+
+
+<p>而国产的 HRV 类 App 之所以一般不显示这些指标，或仅提供一个情绪、压力等级，是因为这些指标与你身体状况的联系并非直接线性，而是复杂的相关关系。如果一个 HRV App 背后没有海量的样本数据支撑，那么它就很难通过这些数据真正的反应出 HRV 所代表的含义。</p>
+
+
+
+<p>Welltory 是一个在全球拥有 1000 万用户的老牌健康监测 App，他们通过与大学和科研机构共享用户 HRV 数据改善自身算法。能够通过 HRV 分析出更多有价值的信息。</p>
+
+
+
+<p>好的，如广告一般的贯口结束了，接下来讲讲人话体验。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/d62ee2be-9de1-4915-8c4c-d539313725ad-4-5005-c-827260-KkyslZ4N.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/29140f67-3cd8-4587-903c-9033d3151720-1-102-o-619487-8IYAShHO-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/df5a3342-57c5-4a40-8502-9fd8eb7fa865-1-102-o-301018-dGXLGdkG-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/c1f5459d-75d6-4a34-b4f0-63dc5922d26f-1-102-o-579082-NniHV8yF-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>Welltory 的 iOS 版本目前提供三个大的全天指标，分别是 Wellness（健康）、Battery（能量） 和 Pressure（压力）。在这个部分，它的作用和国产的 HRV 检测 App 差不多，也就是起到一个仪表板的作用。</p>
+
+
+
+<p>但 Welltory 对每次 HRV 的检测会提供更细致的报告，告诉你在那次检测时，身体正处于什么状况。</p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow">点击查看 Welltory 的一次详细测量报告（大图）
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/image-368440-CpZktxHs-scaled.jpg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+</details>
+
+
+
+<p>Welltory 还有一个我蛮看重的东西，就是它试图全面“监控”你的生活，并寻找你生活方式与身体状况之间的关系，并且这个过程是自动的。</p>
+
+
+
+<p>比如说，我在 Welltory 里连接了 RescueTime。这是一个记录你电脑和手机使用状态的 App，它的主要作用是用来检测你每天花在屏幕上的时间都是用来做什么的（娱乐、工作还是社会交或购物等）。当我把 RescueTime 与 Welltory 连接后，Welltory 就会开始分析工作状态与我健康状态之间的关系，并给出了分析：</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/image-842895-G38UOQlF-478x1024.jpg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/image-613339-3XMwYusx-478x1024.jpg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/image-407800-MNuBbwxs-478x1024.jpg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>Welltory 集成了数百种可以观察你生活方式的第三方 App，甚至包括 Twitter、Facebook、Reddit、Google Docs 和 Github 等非常离谱的第三方应用，如果你日常使用西方互联网应用，那么可以说 Welltory 能监视你的一举一动，并将其与你的健康状况联系起来。但值得注意的是，Welltory 对大部分应用使用 ifttt 来中转连接，这意味着你除了拥有 Welltory 会员之外，还需要有 ifttt 会员。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/df0a6496-35d1-4e28-925b-b7e64bebb7a6-1-102-o-825458-uN1Crt9k-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/69dce4f3-98b9-447d-9587-c8e54ae3446a-1-102-o-008055-hgVEmxaZ-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/3b85d313-99c5-40a7-8ff1-c9b838b0bc1d-1-102-o-155651-TAG8vfbO-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>Welltory 也支持标签自定义系统，你可以定义个性标签，钉在你自己的 Feed 上，这些标签后续也会被分析进你的健康程度。比如，如果你想研究某种药物对你身体的影响，你就创建一个该药物的标签，然后在每次吃药的时候点一下。如果 Welltory 发现这个药物对你的身体有影响，那么后续就会产生出分析报告。</p>
+
+
+
+<p>但是，别急着买 Welltory 的缺点也很明显。</p>
+
+
+
+<p>Welltory 最大的缺点是，为了准确的分析上文提到的所有指标，它比较依赖更为准确的检测。这意味着，你 Apple Watch 在静态时随机测量的结果，可能不被计入它的检测范围。在我打开了  Apple Watch 的 AFib（房颤历史）功能下，它一天也只能完成 3～4 次检测。这在很大程度上使其“All in One”健康检测的承诺成了空头支票。</p>
+
+
+
+<p>对比之下，在打开 AFib 之后，我的 StressWatch 能显示 70～80 次测量结果。究其原因，Welltory 要求每次 HRV 检测至少包含 100 次以上的心率数据，这意味着在 Apple Watch 的静默测量中保持手部 3 分钟左右的完全静止，在我们日常生活中是很难达到的。</p>
+
+
+
+<p>另外，就是 Welltory 使用了 Google 的云服务，这意味着你必须全程<img alt="🪜" class="wp-smiley" src="https://s.w.org/images/core/emoji/15.0.3/72x72/1fa9c.png" style="height: 1em;" />，且数据加载缓慢。</p>
+
+
+
+<p>因此，如果不是之前在是用 Galaxy Watch 的时候买了终身制会员，我应该是不会给 Welltory 继续续费的。</p>
+
+
+
+<p>Welltory 分订阅制和买断制，99 刀一年或 399 刀终身，各种西方节日的时候有打折，同时支持 Android（需搭配 wearOS 系统智能手表） 和 iOS 有需要的可以入。</p>
+
+
+
+<p>这也是少数支持 Android 系统的第三方健康监控 App。</p>
+
+
+
+<p>如果你不想折腾，可以看下面的 StressWatch。</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://apps.apple.com/us/app/stresswatch-ai-stress-monitor/id6444737095">StressWatch</a></h4>
+
+
+
+<p>StressWatch 是一个在小红书上非常流行的 HRV 监测应用，你可以将其理解为超超超简化版的 Welltory。</p>
+
+
+
+<p>这两年有许多独立开发者开发了一系列基于 Apple Watch 的健康仪表盘类应用，但我选择 StressWatch 的原因是，它似乎是唯一一个考虑到 HRV 是复合指标的国产 App。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4069-074554-24UWM2CT-472x1024.png?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4070-820364-wPfVL9wY-472x1024.png?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4071-472361-AuX1Zeph-472x1024.png?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>也就是说，你在 StressWatch 里看到的 HRV 读数并不总是和苹果健康 App 里的读数一致，它会更贴近你的实际情况，这一点在 App 的说明和作者参与的播客里都有提到。而其他的此类 App，入 Grow、OtterLife 等，基本就是把健康 App 的数据拿出来做了个皮肤和表盘就交差了。</p>
+
+
+
+<p>在更新了 iOS 18 之后，StressWatch 大幅强化了“行动”功能，这个功能类似于 Journal 功能，它会记录你的每日行为。但到目前为止，StressWatch 还没有自动计算这些行为与你的 HRV 之间的关系，你只能通过它的图表自行发现规律。希望在后续的版本中，能够增加上自动分析吧。</p>
+
+
+
+<p>StressWatch 的国区有买断价格是 168 元，按年付费是 118 元。</p>
+
+
+
+<h3 class="wp-block-heading">运动类</h3>
+
+
+
+<p>我对健康类的诉求与健康类相似，就是 App 本身需要给出超出苹果健康之外的建议。但与健康类 App 不同，我要它能够给出对运动本身更直接的建议，比如我今天该不该练，练多久，练多重。</p>
+
+
+
+<p>在这方面，我认为海外的 Ayhlytic 和国内的 PeakWatch 是比较出色的。</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://www.athlyticapp.com/">Athlytic</a>（即将弃用）</h4>
+
+
+
+<p>Athlytic 是 Apple Watch 上非常火的一个运动类 App，它与 Welltory 不同，主要作用不是健康监测，而是用非常直观的界面告诉你今天应该进行多大强度的训练。</p>
+
+
+
+<p>因为之前在欧美运动员圈有一个非常流行的智能硬件叫 <a href="https://www.whoop.com/">WHOOP</a>，这款运动手环开创了订阅制硬件的先河，你卖了它的手环之后，还要每月交会员费才能获得运动分析——既然如此，那能不能用 Apple Watch 追踪到的数据来提供相同的分析呢？这就是 Athlytic 的主要功能。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4043-130345-YdaYoZm2-472x1024.png?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4044-879250-f3GHGGbZ-472x1024.png?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>简单来说，Athlytic 会根据你每天早上起床时，一整晚的生命体征结合算法和你的过往情况，计算一个你当日理想的训练载量范围。然后，你当天无论是去撸铁、跑步、骑车还是日常走路，都会增加这个训练载量。</p>
+
+
+
+<p>当到达预期训练载量和突破训练载量上线的时候，它会通过通知来提醒你。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/img-4045-211010-U8GBAO52-472x1024.png?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/image-017734-ZzL1Fxay-472x1024.png?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>除此之外，它还有一个 Journal 的功能，允许你每天早上标记前一天的生活行为，比如 Junk Food，Sex Activity 等。在收集一段数据之后，它会告诉你你的这些行为会对你的训练载量有什么样的影响。 </p>
+
+
+
+<p>Athlytic 的 Journal 功能与 Welltory 的区别是它是确切可预期的，就是只要你坚持每日进去选择你的行为模式，Athlytic 就一定会以单一的图表展示出你的这些行为与恢复状态之间的关系。但 Welltory 那个是随机的，出不出结果完全取决于他们服务器端的 AI 开不开心。</p>
+
+
+
+<p>不足的是 Athlytic 的 Journal 功能没有自定义标签的功能，这意味着你不能添加你自己认为会影响训练但它没有预置的行为模式，这也是我决定在今年的订阅到期之后换到 Eclipse 的原因。</p>
+
+
+
+<p>除此之外，Athlytic 在单次运动分析上也比较详细，它会提供更为丰富的数据。</p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow">点击查看 Athlytic 的一次运动详细报告（大图）
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/picsew-20240919153007.jpeg-196514-k2lO1bX4-113x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+</details>
+
+
+
+<p>对于撸铁来说，Welltory 没办法取代 Athlytic 类产品。尽管他们都使用同样的身体数据，但 Athlytic 直接给出针对运动的建议，而 Welltory 的建议往往更散漫，你没法一眼就知道你今天是否该训练，训练多久。</p>
+
+
+
+<p>Athlytic 的价格按年订阅是 193，按月订阅是 26 元，对于国内用户来说还是很贵的。</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://eclipse.tantsissa.com/">Eclipse Yourself</a></h4>
+
+
+
+<p>Eclipse 是另外两款知名健康类 App <a href="https://autosleepapp.tantsissa.com/">AutoSleep</a> 和 <a href="https://heartwatch.tantsissa.com/">HeartWatch</a> 的开发商 Tantsissa 在 2024 年新发布的 App。它与 Athlytic 一致，旨在通过多种数据提供一个运动和生活指导。</p>
+
+
+
+<p>Eclipse 通过“日食”这一概念，来激励你达成活动、恢复与就绪三者之间的平衡。这三者分别代表着你的每日运动量是否合理，你昨天睡眠为今天一整天的充能水平，以及你今天早上起来那一刻的状态：</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/0c05f946-a640-4de9-804e-05c40c1e91ae-1-102-o-808101-PIKvvMz8-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/4464493d-6bba-4662-951b-80993e77b3dc-1-102-o-848560-fB8yAQly-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/31972e8d-1639-4a75-bbf3-f077b4f37771-1-102-o-828826-TIUGfWO9-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/db56b871-886d-4837-bf97-c190a732db7f-1-102-o-474720-l4wKTEGh-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>这个概念是蛮不错的，但用过 Autosleep 和 HeartWatch 的朋友可能会有预期，Tantsissa 这个厂商在前端界面设计上似乎没有正常的审美。Eclipse 延续了这种不正常的审美，界面花的一塌糊涂（且不协调）。</p>
+
+
+
+<p>但我之所以想用它取代 Athlytic 的原因，是它比 Athlytic 提供了更强大（有效）的图表，并且支持自定义标签。</p>
+
+
+
+<p>怎么算是比 Athlytic 更有效的图标呢？我们以它对“恢复”维度上的洞见为例：</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/a5ec47fa-d18f-43fa-a992-a9ebcaf00846-1-102-o-254437-Pbbi6Epe-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/cabcf41e-06ad-42fd-8532-b99fbc2c311e-1-102-o-189956-ck11th4F-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/f6a0af3c-93f3-4f90-858f-fb00dc23597f-1-102-o-681041-GlX8HFiM-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>由于 Tantsissa 奇怪美学的干扰，初看这三个表格可能觉得乱糟糟的。但我解释一下，你可能就能明白它的实用之处。</p>
+
+
+
+<p>每个线段条代表一个维度，在第一张图中，分别是周一到周日的恢复水平，蓝色的条代表曾经的历史记录，因此蓝色越重代表在那个水平的情况越多，而蓝色的点则代表历史所有情况的平均值。也就是说，在第一张图中我们可以看到，根据历史水平，周四到周五的晚上，我的恢复往往是一周中最差的。</p>
+
+
+
+<p>红色的线段，代表今天的水平，还是在第一张图中我们可以看到，虽然刚刚过去的是周三，但我这次的恢复低于历史平均水平，出现在了线段的片左侧。</p>
+
+
+
+<p>理解了如何读图之后，我们来到图二和图三，就会发现它提供了非常有用的信息</p>
+
+
+
+<p>——按就寝时间计算，我在 23:05-23:35 这个时间段睡觉，会有更大的几率获得更好的恢复值。</p>
+
+
+
+<p>——按运动量计算，当我当日的运动量在 447-521 大卡时，会有更大的几率获得更好的恢复值。</p>
+
+
+
+<p>正是这个洞见功能吸引我将 Athlytic 换成 Eclipse 的，因为它提供了更好的指导，而不只是简单的将数据呈现汇总。</p>
+
+
+
+<p>当然，缺点也很明显，Eclipse 在界面设计上远不如 Athlytic 漂亮、直观。如果你是外貌党，还是建议 Athlytic 或 PeakWatch。</p>
+
+
+
+<p>Eclipse 的国区价格很友好，68 元一年，几乎是 Athlytic 的 1/3，还有中文（但翻译的不好）。</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://peakwatch.co/">PeakWatch</a></h4>
+
+
+
+<p>PeakWatch 是 StressWatch 的作者山寨 Athlytic 的作品。原谅我用山寨，是因为它们的功能实在很像。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/9fcf5485-4d1a-4808-b1e6-8907d1cd28d5-1-102-o-924445-1RnqSav9-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/d3417c2c-6ea0-4d99-8fef-d752bcbdc273-1-102-o-218550-Mu4zgjqB-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/5c6e5d10-5018-4e44-91a7-d4567ce09ddb-1-102-o-476517-OMQ6baAx-472x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>但对应的，如果你嫌 Athlytic 的价格太贵、界面没有中文、 不符合中国人的用户习惯，就可以买 PeakWatch。它的主要功能和 Athlytic 一样，是通过最直观的图表告诉你当日的训练量和恢复状况。</p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow">点击查看 Athlytic 的一次运动详细报告（大图）
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i1.wp.com/1q43.blog/wp-content/uploads/2024/09/337d649a-6963-401d-a420-a792564e6bcd-1-102-o-459846-dvaYswLr-110x1024.jpeg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+</details>
+
+
+
+<p>相比 Athlytic，PeakWatch 缺少了行为与恢复状态之间相关分析的 Journal 功能。但在图表上比 Athlytic 更丰富，比如它可以提示你每日电量（类似 Welltory），还可以看到你当天的运动量与平均水平之间的差距。在前端设计上，也比 Athlytic 更贵了。</p>
+
+
+
+<p>在算法准确性方面，我还是蛮相信这个开发者的，他似乎是唯一个在国内的健康仪表盘 App 里认真做算法的。PeakWatch 的电量计算与 Welltory 的相似，在运动载量的计算上，我甚至觉得比 Athlytic 更准确一些。</p>
+
+
+
+<p>PeakWatch 的终身会员我也卖了，198 元。按年付费是 128 元。</p>
+
+
+
+<h4 class="wp-block-heading">训记</h4>
+
+
+
+<p>与上面三个不同，这个 App 其实不是运动监测，而是训练类 App，它是专门用来撸铁的 App。</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i0.wp.com/1q43.blog/wp-content/uploads/2024/09/image-651679-WJX5ibyW-478x1024.jpg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/image-997554-BBLZ1ln2-478x1024.jpg?ssl=1" tabindex="0" /></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" src="https://i2.wp.com/1q43.blog/wp-content/uploads/2024/09/image-630198-CGTNinwf-478x1024.jpg?ssl=1" tabindex="0" /></figure></div></div></div></div></div>
+
+
+
+<p>你可以理解它是 Keep App 里自定义训练计划的超级超级加强版，你可以通过它来创建完全自定义的健身房训练计划，内置了国内常见的几乎所有训练器械和所有流行的训练动作，并且每个动作都配备了文字和视频的说明。</p>
+
+
+
+<p>超级组、热身组、单边训练、递减组、组间有氧、替补动作……你能想到的任何在健身房里可能的情况，它都能放进计划里并记录下来。</p>
+
+
+
+<p>简单来说，如果你到了健身房不想请私教，又对着器械不知道如何下手，用它就行了。</p>
+
+
+
+<p>通过训记制定训练计划还有一个好处，就是你再也不用在健身房想今天要练什么了，因为你只需要定下你一周的计划，比如周一练胸、周二练腿、周三练肩。接下来，你只要把之前的训练日往后复制到当天就可以了。</p>
+
+
+
+<p>在训练的过程中，它有自动计时的功能，在完成每组之后，你只要点一下，到时间了就会通过一个通知来提醒你该练下一组了。在这个过程中，你还可以方便的调整每组的实际次数和重量，所有的数据都会被记录下来——到下次训练同样内容的时候，你就可以在这次的数据上加量。</p>
+
+
+
+<p>你可能经常在健身房里听到哪些独自训练的大神，手机会发出“叮”的一声刺耳通知，别怀疑，那个就是训记。</p>
+
+
+
+<p>这个 App 几乎是去健身房撸铁必备，大幅降低你每次去健身房的心理门槛和智力负担，再也不会忘记自己练到哪了。</p>
+
+
+
+<p>训记是国内的一个独立开发者的私人作品，88 元买断制，超良心。 而且支持 iPhone 和 Android 端，数据还能同步。</p>
+
+
+
+<h2 class="wp-block-heading">我弃用：</h2>
+
+
+
+<h3 class="wp-block-heading"><a href="https://www.yazio.com/">Yazio</a></h3>
+
+
+
+<p>这是一款视频热量计算器，能够帮助你计算每天摄入的热量，并写入苹果健康的数据供其他应用读取。</p>
+
+
+
+<p>如果你尝试过计算你的饮食热量，那么 Yazio 是你的最佳选择。但我可以明确地告诉你，除非你放弃中餐，否则你就没办法计算饮食热量。</p>
+
+
+
+<p>和国产的薄荷健康热量比，Yazio 更纯粹，界面更好看，没有广告，自带轻断食功能，食品库中包含了更多的包装食品，扫一扫就能直接录入了。</p>
+
+
+
+<p>和另一个国外更流行的 <a href="https://www.myfitnesspal.com/">MyFitnessPal</a> 相比，它视频库中的中餐更多，订阅费更便宜（国区 188 元/年）。</p>
+
+
+
+<p>但总得来说，还是那句话：只要你吃外卖、外食、中餐，这种热量计算就毫无意义。</p>
+
+
+
+<p>比如，同样一份炒饭，油可以差 3～5 倍，如果不是你自己做的知道放了多少油，那你怎么写呢？</p>
+
+
+
+<h3 class="wp-block-heading">Grow\Otter Life</h3>
+
+
+
+<p>这两年在小红书上很火的健康仪表盘类的应用，这两个我都是试用之后就放弃了。</p>
+
+
+
+<p>主要是因为它们并不提供任何分析，只是将数据从苹果健康 App 中读出来以一个更漂亮的前端显示在手机或手表上。</p>
+
+
+
+<p>我不需要这种类型的应用，所以就没有继续下去。</p>
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 07:36:02 +0000</pubDate>
+<pubDate>Tue, 22 Oct 2024 07:36:02 +0000</pubDate>
+</item>
 
 <item>
 <title>记录一次濒死体验</title>
