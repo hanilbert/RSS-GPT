@@ -41706,3 +41706,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【新闻】LocalSend更新了1.16.0版本](https://meta.appinn.net/t/topic/62699)
 append_entries: 2
 Finish: 2024-11-03 06:32:22.335161
+------------------------------------------------------
+Started: 2024-11-03 08:26:06.075896
+Existing_entries: 604
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-11-03 08:26:08.272607
