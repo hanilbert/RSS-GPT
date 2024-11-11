@@ -38423,3 +38423,15 @@ Existing_entries: 305
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-11-11 14:22:20.562564
+------------------------------------------------------
+Started: 2024-11-11 16:28:56.531914
+Existing_entries: 305
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Monodraw giveaway!](https://brett.trpstra.net/link/535/16882624/monodraw-giveaway)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Name Mangler giveaway winners!](https://brett.trpstra.net/link/535/16882625/the-name-mangler-giveaway-winners)
+append_entries: 2
+Finish: 2024-11-11 16:28:57.721652
