@@ -38933,3 +38933,12 @@ Existing_entries: 309
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-11-18 12:49:48.341112
+------------------------------------------------------
+Started: 2024-11-18 14:23:39.423229
+Existing_entries: 309
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tally giveaway!](https://brett.trpstra.net/link/535/16889777/tally-giveaway)
+append_entries: 1
+Finish: 2024-11-18 14:23:40.422541
