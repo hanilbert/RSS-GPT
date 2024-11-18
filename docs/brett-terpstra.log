@@ -38948,3 +38948,12 @@ Existing_entries: 310
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-11-18 16:31:20.849790
+------------------------------------------------------
+Started: 2024-11-18 18:32:52.065073
+Existing_entries: 310
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A card-based layout for linkding](https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding)
+append_entries: 1
+Finish: 2024-11-18 18:32:53.014794
