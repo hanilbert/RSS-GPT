@@ -39464,3 +39464,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Alfred 5 giveaway!](https://brett.trpstra.net/link/535/16897951/alfred-5-giveaway)
 append_entries: 1
 Finish: 2024-11-25 16:30:32.404755
+------------------------------------------------------
+Started: 2024-11-25 18:32:40.284942
+Existing_entries: 314
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-lvoEf***************************************LYDk. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Web Excursions for November 25th, 2024](https://brett.trpstra.net/link/535/16898151/web-excursions-for-november-25th-2024)
+append_entries: 1
+Finish: 2024-11-25 18:32:41.454256
