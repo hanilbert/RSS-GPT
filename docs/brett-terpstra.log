@@ -39680,3 +39680,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-l
 Append: [Web Excursions for November 28th, 2024](https://brett.trpstra.net/link/535/16901093/web-excursions-for-november-28th-2024)
 append_entries: 1
 Finish: 2024-11-28 14:23:07.725716
+------------------------------------------------------
+Started: 2024-11-28 16:30:02.015715
+Existing_entries: 316
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A health update](https://brett.trpstra.net/link/535/16901133/a-health-update)
+append_entries: 1
+Finish: 2024-11-28 16:30:02.659345
