@@ -40207,3 +40207,12 @@ Existing_entries: 395
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-04 16:32:24.540235
+------------------------------------------------------
+Started: 2024-12-04 18:34:41.948897
+Existing_entries: 395
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Suspicious Package keeps on tickin'](https://brett.trpstra.net/link/535/16910822/suspicious-package-keeps-on-tickin)
+append_entries: 1
+Finish: 2024-12-04 18:34:42.824924
