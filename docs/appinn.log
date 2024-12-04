@@ -44721,3 +44721,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [MarkEdit - 只有 2.36 MB 的开源 Markdown 编辑器，为 macOS 预览增加预览 .md 格式](https://meta.appinn.net/t/topic/63821)
 append_entries: 1
 Finish: 2024-12-04 10:27:31.894057
+------------------------------------------------------
+Started: 2024-12-04 12:50:42.052976
+Existing_entries: 635
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-12-04 12:50:44.707069
