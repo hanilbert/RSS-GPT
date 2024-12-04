@@ -30214,3 +30214,10 @@ Fetching from https://1q43.blog/feed
 Feed error: 301
 append_entries: 0
 Finish: 2024-12-04 03:07:37.390909
+------------------------------------------------------
+Started: 2024-12-04 04:29:32.289294
+Existing_entries: 34
+Fetching from https://1q43.blog/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/hx
