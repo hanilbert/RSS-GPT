@@ -40333,3 +40333,12 @@ Existing_entries: 397
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-06 18:33:39.926561
+------------------------------------------------------
+Started: 2024-12-06 20:26:41.404477
+Existing_entries: 397
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Take Control Books giveaway winners!](https://brett.trpstra.net/link/535/16913133/the-take-control-books-giveaway-winners)
+append_entries: 1
+Finish: 2024-12-06 20:26:42.634564
