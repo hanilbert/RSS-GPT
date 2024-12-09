@@ -40528,3 +40528,12 @@ Existing_entries: 398
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-09 14:24:46.919422
+------------------------------------------------------
+Started: 2024-12-09 16:32:13.757094
+Existing_entries: 398
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tower giveaway!](https://brett.trpstra.net/link/535/16914573/tower-giveaway)
+append_entries: 1
+Finish: 2024-12-09 16:32:14.556120
