@@ -40603,3 +40603,12 @@ Existing_entries: 399
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-10 14:25:03.462601
+------------------------------------------------------
+Started: 2024-12-10 16:32:12.331999
+Existing_entries: 399
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The MacPaw 2024 Developer Survey](https://brett.trpstra.net/link/535/16915677/the-macpaw-2024-developer-survey)
+append_entries: 1
+Finish: 2024-12-10 16:32:12.947931
