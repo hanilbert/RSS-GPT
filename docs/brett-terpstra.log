@@ -41047,3 +41047,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shell Tricks: Check what's listening on a port](https://brett.trpstra.net/link/535/16922449/shell-tricks-check-whats-listening-on-a-port)
 append_entries: 1
 Finish: 2024-12-16 18:34:04.114425
+------------------------------------------------------
+Started: 2024-12-16 20:26:58.538529
+Existing_entries: 403
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-16 20:26:59.172278
