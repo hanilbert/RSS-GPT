@@ -41191,3 +41191,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Auto-generate Setapp Affiliate Links](https://brett.trpstra.net/link/535/16923814/auto-generate-setapp-affiliate-links)
 append_entries: 1
 Finish: 2024-12-18 16:30:22.025224
+------------------------------------------------------
+Started: 2024-12-18 18:33:26.008534
+Existing_entries: 405
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-18 18:33:26.955567
