@@ -41356,3 +41356,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Drafts giveaway winner!](https://brett.trpstra.net/link/535/16925462/the-drafts-giveaway-winner)
 append_entries: 1
 Finish: 2024-12-20 22:21:32.821226
+------------------------------------------------------
+Started: 2024-12-21 01:46:55.921286
+Existing_entries: 406
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Web Excursions for December 20th, 2024](https://brett.trpstra.net/link/535/16925555/web-excursions-for-december-20th-2024)
+append_entries: 1
+Finish: 2024-12-21 01:46:56.726520
