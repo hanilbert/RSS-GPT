@@ -31231,3 +31231,12 @@ Existing_entries: 58
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-21 12:41:01.464929
+------------------------------------------------------
+Started: 2024-12-21 14:19:02.661332
+Existing_entries: 58
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Feeling seen](https://lopespm.com/notes/2024/12/21/feeling-seen.html)
+append_entries: 1
+Finish: 2024-12-21 14:19:02.881375
