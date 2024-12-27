@@ -41854,3 +41854,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Brett's Favorites 2024: iOS](https://brett.trpstra.net/link/535/16928623/bretts-favorites-2024-ios)
 append_entries: 1
 Finish: 2024-12-27 14:20:57.581280
+------------------------------------------------------
+Started: 2024-12-27 16:27:02.238732
+Existing_entries: 412
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-27 16:27:03.061483
