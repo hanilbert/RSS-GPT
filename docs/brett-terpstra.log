@@ -41845,3 +41845,12 @@ Existing_entries: 411
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-27 12:43:45.184700
+------------------------------------------------------
+Started: 2024-12-27 14:20:56.467179
+Existing_entries: 411
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brett's Favorites 2024: iOS](https://brett.trpstra.net/link/535/16928623/bretts-favorites-2024-ios)
+append_entries: 1
+Finish: 2024-12-27 14:20:57.581280
