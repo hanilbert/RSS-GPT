@@ -42073,3 +42073,12 @@ Existing_entries: 413
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-30 14:21:13.723503
+------------------------------------------------------
+Started: 2024-12-30 16:28:08.581471
+Existing_entries: 413
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Simple Scan giveaway!](https://brett.trpstra.net/link/535/16930099/simple-scan-giveaway)
+append_entries: 1
+Finish: 2024-12-30 16:28:09.923994
