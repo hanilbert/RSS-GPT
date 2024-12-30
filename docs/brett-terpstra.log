@@ -42082,3 +42082,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Simple Scan giveaway!](https://brett.trpstra.net/link/535/16930099/simple-scan-giveaway)
 append_entries: 1
 Finish: 2024-12-30 16:28:09.923994
+------------------------------------------------------
+Started: 2024-12-30 18:30:47.592578
+Existing_entries: 414
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brett's Favorites 2024: Hardware](https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware)
+append_entries: 1
+Finish: 2024-12-30 18:30:48.678796
