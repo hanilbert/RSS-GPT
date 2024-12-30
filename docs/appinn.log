@@ -47157,3 +47157,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD](https://meta.appinn.net/t/topic/63159)
 append_entries: 2
 Finish: 2024-12-30 06:32:59.435217
+------------------------------------------------------
+Started: 2024-12-30 08:29:28.931180
+Existing_entries: 663
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-12-30 08:29:32.402373
