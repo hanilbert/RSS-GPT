@@ -42151,3 +42151,12 @@ Existing_entries: 415
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-31 14:20:19.152550
+------------------------------------------------------
+Started: 2024-12-31 16:27:00.467515
+Existing_entries: 415
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brett's Favorites 2024: Personal Projects](https://brett.trpstra.net/link/535/16930966/bretts-favorites-2024-personal-projects)
+append_entries: 1
+Finish: 2024-12-31 16:27:01.612268
