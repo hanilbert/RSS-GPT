@@ -42235,3 +42235,12 @@ Existing_entries: 417
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-01 16:27:13.188246
+------------------------------------------------------
+Started: 2025-01-01 18:30:05.983940
+Existing_entries: 417
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Use iTerm to handle x-man-page URLs](https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls)
+append_entries: 1
+Finish: 2025-01-01 18:30:06.954394
