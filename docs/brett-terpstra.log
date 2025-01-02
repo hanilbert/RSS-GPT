@@ -42313,3 +42313,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Brett's Favorites 2024: Behind The Scenes](https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes)
 append_entries: 1
 Finish: 2025-01-02 16:28:18.683390
+------------------------------------------------------
+Started: 2025-01-02 18:31:11.292088
+Existing_entries: 419
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Web Excursions for January 2nd, 2025](https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025)
+append_entries: 1
+Finish: 2025-01-02 18:31:12.512705
