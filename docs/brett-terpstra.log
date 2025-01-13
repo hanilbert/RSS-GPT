@@ -43126,3 +43126,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Setapp giveaway!](https://brett.trpstra.net/link/535/16939222/setapp-giveaway)
 append_entries: 1
 Finish: 2025-01-13 16:30:32.549578
+------------------------------------------------------
+Started: 2025-01-13 18:32:59.290296
+Existing_entries: 428
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strikethrough and emojis for mdless](https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless)
+append_entries: 1
+Finish: 2025-01-13 18:33:00.173084
