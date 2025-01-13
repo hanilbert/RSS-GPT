@@ -43117,3 +43117,12 @@ Existing_entries: 427
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-13 14:23:11.769273
+------------------------------------------------------
+Started: 2025-01-13 16:30:31.611040
+Existing_entries: 427
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Setapp giveaway!](https://brett.trpstra.net/link/535/16939222/setapp-giveaway)
+append_entries: 1
+Finish: 2025-01-13 16:30:32.549578
