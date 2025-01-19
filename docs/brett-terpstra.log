@@ -43567,3 +43567,12 @@ Existing_entries: 431
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-19 16:24:57.298964
+------------------------------------------------------
+Started: 2025-01-19 18:27:37.470507
+Existing_entries: 431
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Health Update: Diagnoses](https://brett.trpstra.net/link/535/16942914/health-update-diagnoses)
+append_entries: 1
+Finish: 2025-01-19 18:27:38.403736
