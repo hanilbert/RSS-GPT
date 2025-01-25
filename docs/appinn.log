@@ -49740,3 +49740,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [LibreHusky](https://meta.appinn.net/t/topic/65787)
 append_entries: 1
 Finish: 2025-01-25 18:27:24.968352
+------------------------------------------------------
+Started: 2025-01-25 20:21:19.997753
+Existing_entries: 710
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-01-25 20:21:24.000904
