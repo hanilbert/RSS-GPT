@@ -44152,3 +44152,12 @@ Existing_entries: 434
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-27 16:27:26.874017
+------------------------------------------------------
+Started: 2025-01-27 18:30:34.219377
+Existing_entries: 434
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amadine giveaway!](https://brett.trpstra.net/link/535/16949009/amadine-giveaway)
+append_entries: 1
+Finish: 2025-01-27 18:30:35.260875
