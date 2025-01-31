@@ -44434,3 +44434,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Archive linkding bookmarks to DEVONthink](https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink)
 append_entries: 1
 Finish: 2025-01-31 12:43:28.382234
+------------------------------------------------------
+Started: 2025-01-31 14:20:23.397089
+Existing_entries: 436
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2025-01-31 14:20:24.643939
