@@ -44425,3 +44425,12 @@ Existing_entries: 435
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-31 10:23:44.441705
+------------------------------------------------------
+Started: 2025-01-31 12:43:27.093264
+Existing_entries: 435
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Archive linkding bookmarks to DEVONthink](https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink)
+append_entries: 1
+Finish: 2025-01-31 12:43:28.382234
