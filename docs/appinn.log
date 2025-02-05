@@ -50753,3 +50753,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-05 06:31:27.813811
+------------------------------------------------------
+Started: 2025-02-05 08:27:13.841644
+Existing_entries: 715
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [本地运行的 web 工具提名](https://meta.appinn.net/t/topic/66149)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-02-05 08:27:16.647844
