@@ -46066,3 +46066,12 @@ Existing_entries: 446
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-02-22 18:28:57.506003
+------------------------------------------------------
+Started: 2025-02-22 20:22:23.252390
+Existing_entries: 446
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Things for Mac and iOS giveaway winners!](https://brett.trpstra.net/link/535/16968767/the-things-for-mac-and-ios-giveaway-winners)
+append_entries: 1
+Finish: 2025-02-22 20:22:24.262927
