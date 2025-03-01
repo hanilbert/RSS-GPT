@@ -46573,3 +46573,12 @@ Existing_entries: 451
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-01 14:21:03.795408
+------------------------------------------------------
+Started: 2025-03-01 16:26:17.596540
+Existing_entries: 451
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Mouse Pro giveaway winners!](https://brett.trpstra.net/link/535/16973616/the-mouse-pro-giveaway-winners)
+append_entries: 1
+Finish: 2025-03-01 16:26:18.573795
