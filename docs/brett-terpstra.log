@@ -46714,3 +46714,12 @@ Existing_entries: 452
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-03 12:48:12.831442
+------------------------------------------------------
+Started: 2025-03-03 14:23:45.916701
+Existing_entries: 452
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [App Tamer giveaway!](https://brett.trpstra.net/link/535/16974483/app-tamer-giveaway)
+append_entries: 1
+Finish: 2025-03-03 14:23:47.153341
