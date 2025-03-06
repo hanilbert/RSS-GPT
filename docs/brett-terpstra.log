@@ -46927,3 +46927,12 @@ Existing_entries: 453
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-06 16:30:04.318871
+------------------------------------------------------
+Started: 2025-03-06 18:32:25.253771
+Existing_entries: 453
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Web Excursions for March 6th, 2025](https://brett.trpstra.net/link/535/16978350/web-excursions-for-march-6th-2025)
+append_entries: 1
+Finish: 2025-03-06 18:32:26.302157
