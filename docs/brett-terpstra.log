@@ -47209,3 +47209,12 @@ Existing_entries: 455
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-10 12:49:32.465213
+------------------------------------------------------
+Started: 2025-03-10 14:24:15.597590
+Existing_entries: 455
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SpamSieve giveaway!](https://brett.trpstra.net/link/535/16980374/spamsieve-giveaway)
+append_entries: 1
+Finish: 2025-03-10 14:24:16.800700
