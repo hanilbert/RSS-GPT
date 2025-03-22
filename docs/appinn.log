@@ -55149,3 +55149,11 @@ Append: [求助，ios端可以听有声书的软件。](https://meta.appinn.net/
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-03-22 20:23:59.362558
+------------------------------------------------------
+Started: 2025-03-22 22:21:53.027833
+Existing_entries: 764
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-03-22 22:21:56.669408
