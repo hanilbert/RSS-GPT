@@ -48163,3 +48163,12 @@ Existing_entries: 461
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-23 16:27:12.272248
+------------------------------------------------------
+Started: 2025-03-23 18:30:51.001523
+Existing_entries: 461
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KeyBindings: convenient tab switching](https://brett.trpstra.net/link/535/16989972/keybindings-convenient-tab-switching)
+append_entries: 1
+Finish: 2025-03-23 18:30:51.892370
