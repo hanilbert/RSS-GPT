@@ -48235,3 +48235,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bear giveaway!](https://brett.trpstra.net/link/535/16990468/bear-giveaway)
 append_entries: 1
 Finish: 2025-03-24 14:24:55.637428
+------------------------------------------------------
+Started: 2025-03-24 16:32:20.745754
+Existing_entries: 463
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KeyBindings: home row arrow cluster](https://brett.trpstra.net/link/535/16990575/keybindings-home-row-arrow-cluster)
+append_entries: 1
+Finish: 2025-03-24 16:32:21.735434
