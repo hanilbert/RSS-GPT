@@ -48652,3 +48652,12 @@ Existing_entries: 466
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-30 10:23:40.291727
+------------------------------------------------------
+Started: 2025-03-30 12:45:17.163549
+Existing_entries: 466
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KeyBindings - home row arrow cluster revisited](https://brett.trpstra.net/link/535/16995067/keybindings-home-row-redux)
+append_entries: 1
+Finish: 2025-03-30 12:45:18.170741
