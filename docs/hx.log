@@ -40070,3 +40070,10 @@ Fetching from https://1q43.blog/feed
 Feed error: 301
 append_entries: 0
 Finish: 2025-04-02 01:58:46.081605
+------------------------------------------------------
+Started: 2025-04-02 03:06:05.964722
+Existing_entries: 34
+Fetching from https://1q43.blog/feed
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/hx
