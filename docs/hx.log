@@ -40252,3 +40252,10 @@ Fetching from https://1q43.blog/feed
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/hx
+------------------------------------------------------
+Started: 2025-04-04 06:34:51.073518
+Existing_entries: 34
+Fetching from https://1q43.blog/feed
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/hx
