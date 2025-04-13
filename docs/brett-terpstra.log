@@ -49594,3 +49594,12 @@ Existing_entries: 472
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-04-12 22:22:22.490472
+------------------------------------------------------
+Started: 2025-04-13 03:24:49.561020
+Existing_entries: 472
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The TaskPaper giveaway winners!](https://brett.trpstra.net/link/535/17004937/the-taskpaper-giveaway-winners)
+append_entries: 1
+Finish: 2025-04-13 03:24:50.787987
