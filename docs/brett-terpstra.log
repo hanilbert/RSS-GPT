@@ -49699,3 +49699,12 @@ Existing_entries: 473
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-04-14 12:51:39.632736
+------------------------------------------------------
+Started: 2025-04-14 14:26:25.660389
+Existing_entries: 473
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Default Folder X giveaway!](https://brett.trpstra.net/link/535/17005728/default-folder-x-giveaway)
+append_entries: 1
+Finish: 2025-04-14 14:26:26.680114
